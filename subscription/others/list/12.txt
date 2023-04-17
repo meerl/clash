@@ -5,4 +5,4 @@ trojan://ed5a1734-aa35-4c79-bda2-6bf319c66cf7@kr.stablize.top:443?allowInsecure=
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@85.208.108.94:3306#%5B%F0%9F%87%AF%F0%9F%87%B5%5D85.208.108.94%3A3306%28Y6R9pAtvxxzmGC%29
 trojan://ed19b239-8e49-4b82-979a-24b84fa7b173@fscsg.fscloud123456789.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dfscsg.fscloud123456789.com%3A443%28ed19b239-8e49-4b82-979a-24b84fa7b173%29
 trojan://ed19b239-8e49-4b82-979a-24b84fa7b173@fscuk.fscloud123456789.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dfscuk.fscloud123456789.com%3A443%28ed19b239-8e49-4b82-979a-24b84fa7b173%29
-trojan://7b821dfb-3280-4fed-a776-06d6d583f034@usajs.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dusajs.stablize.top%3A443%287b821dfb-3280-4fed-a776-06d6d583f034%29
+trojan://7b821dfb-3280-4fed-a776-06d6d583f034@usajs.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dusajs.stablize.top%3A443%287b821dfb-3280-4fed-a776-06d6d583f034%29
