@@ -322,15 +322,16 @@ class sub_convert():
         node_list_base64_file.close()
 
     def write_to_clash(node_list_array, path):
-        # 使用远程订阅转换服务
-        # server_host = 'https://api.v1.mk'
-        for i in range(0, len(node_list_array), 3000):
-            node_list_array_part = node_list_array[i:i + 3000]
-            node_list_part = sub_convert.yaml_encode(node_list_array_part)
-            node_list_part_file = open(
-                f'{path}{(i+1)//3000}.yaml', 'w', encoding='utf-8')
-            node_list_part_file.write(node_list_part)
-            node_list_part_file.close()
+        # for i in range(0, len(node_list_array), 3000):
+        #     node_list_array_part = node_list_array[i:i + 3000]
+        #     node_list_part = sub_convert.yaml_encode(node_list_array_part)
+        #     node_list_part_file = open(f'{path}{(i+1)//3000}.yaml', 'w', encoding='utf-8')
+        #     node_list_part_file.write(node_list_part)
+        #     node_list_part_file.close()
+        node_list_converted = sub_convert.yaml_encode(node_list_array)
+        node_list_file = open(f'{path}proxies.yaml', 'w', encoding='utf-8')
+        node_list_file.write(node_list_converted)
+        node_list_file.close()
 
     def base64_encode(url_content):  # 将 URL 内容转换为 Base64
         base64_content = base64.b64encode(
