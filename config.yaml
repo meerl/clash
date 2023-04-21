@@ -57,120 +57,52 @@ proxy-groups:
   - name: PROXY
     type: select
     use:
-      - proxies
-      # - 1.c
-      # - 2.c
-      # - 3.c
-      # - 4.c
-      # - 5.c
-      # - 6.c
-      # - 7.c
-      # - 8.c
-      # - 9.c
+      - proxies_0
+      - proxies_1
+      - proxies_2
+      - proxies_3
 
 ####################################################################################################
 proxy-providers:
-  proxies:
+  proxies_0:
     type: file
-    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/proxies.yaml"
+    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/0.yaml"
     interval: 2000
-    path: subscription/proxies.yaml
+    path: subscription/0.yaml
     health-check:
       enable: true
       interval: 2000
       url: "http://www.gstatic.com/generate_204"
 
-  # 1.c:
-  #   type: file
-  #   url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/1.yaml"
-  #   interval: 2000
-  #   path: subscription/1.yaml
-  #   health-check:
-  #     enable: true
-  #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
+  proxies_1:
+    type: file
+    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/1.yaml"
+    interval: 2000
+    path: subscription/1.yaml
+    health-check:
+      enable: true
+      interval: 2000
+      url: "http://www.gstatic.com/generate_204"
 
-  # 2.c:
-  #   type: file
-  #   url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/2.yaml"
-  #   interval: 2000
-  #   path: subscription/2.yaml
-  #   health-check:
-  #     enable: true
-  #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
+  proxies_2:
+    type: file
+    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/2.yaml"
+    interval: 2000
+    path: subscription/2.yaml
+    health-check:
+      enable: true
+      interval: 2000
+      url: "http://www.gstatic.com/generate_204"
 
-  # 3.c:
-  #   type: file
-  #   url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/3.yaml"
-  #   interval: 2000
-  #   path: subscription/3.yaml
-  #   health-check:
-  #     enable: true
-  #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
-
-  # 4.c:
-  #   type: file
-  #   url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/4.yaml"
-  #   interval: 2000
-  #   path: subscription/4.yaml
-  #   health-check:
-  #     enable: true
-  #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
-
-  # 5.c:
-  #   type: file
-  #   url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/5.yaml"
-  #   interval: 2000
-  #   path: subscription/5.yaml
-  #   health-check:
-  #     enable: true
-  #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
-
-  # 6.c:
-  #   type: file
-  #   url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/6.yaml"
-  #   interval: 2000
-  #   path: subscription/6.yaml
-  #   health-check:
-  #     enable: true
-  #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
-
-  # 7.c:
-  #   type: file
-  #   url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/7.yaml"
-  #   interval: 2000
-  #   path: subscription/7.yaml
-  #   health-check:
-  #     enable: true
-  #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
-
-  # 8.c:
-  #   type: file
-  #   url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/8.yaml"
-  #   interval: 2000
-  #   path: subscription/8.yaml
-  #   health-check:
-  #     enable: true
-  #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
-
-  # 9.c:
-  #   type: file
-  #   url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/9.yaml"
-  #   interval: 2000
-  #   path: subscription/9.yaml
-  #   health-check:
-  #     enable: true
-  #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
-
-
+  proxies_3:
+    type: file
+    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/3.yaml"
+    interval: 2000
+    path: subscription/3.yaml
+    health-check:
+      enable: true
+      interval: 2000
+      url: "http://www.gstatic.com/generate_204"
 
 ####################################################################################################
 rules:
