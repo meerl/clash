@@ -1,4 +1,3 @@
-trojan://91a3db80-baf5-3f35-8c0e-b6483aefa1fd@us.dogintnode.com:443?allowInsecure=0&sni=us.dogintnode.com#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dus.dogintnode.com%3A443%2891a3db80-baf5-3f35-8c0e-b6483aefa1fd%29
 ss://YWVzLTI1Ni1nY206NDRiODEzM2MtMjgxZC00ZTg1LWFmZDktMmRlNTJmZjRjYjJj@gzyd.jcnode.top:24003#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzyd.jcnode.top%3A24003%2844b8133c-281d-4e85-afd9-2de52ff4cb2c%29
 ss://YWVzLTI1Ni1nY206NDRiODEzM2MtMjgxZC00ZTg1LWFmZDktMmRlNTJmZjRjYjJj@gzyd.jcnode.top:24003#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzyd.jcnode.top%3A24003%2844b8133c-281d-4e85-afd9-2de52ff4cb2c%29
 ss://YWVzLTI1Ni1nY206NDRiODEzM2MtMjgxZC00ZTg1LWFmZDktMmRlNTJmZjRjYjJj@gzdy.jcnode.top:22000#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzdy.jcnode.top%3A22000%2844b8133c-281d-4e85-afd9-2de52ff4cb2c%29
