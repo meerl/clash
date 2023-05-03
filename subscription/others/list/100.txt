@@ -1,14 +1,14 @@
-trojan://9014ea56-3fec-43d8-bed6-af7bcb5e2cb3@uk.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Duk.stablize.top%3A443%289014ea56-3fec-43d8-bed6-af7bcb5e2cb3%29
+trojan://9014ea56-3fec-43d8-bed6-af7bcb5e2cb3@uk.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%AF%F0%9F%87%B5%5Duk.stablize.top%3A443%289014ea56-3fec-43d8-bed6-af7bcb5e2cb3%29
 trojan://10f94506-9bf9-4dbb-9542-3ff13893b190@jp.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Djp.stablize.top%3A443%2810f94506-9bf9-4dbb-9542-3ff13893b190%29
 trojan://10f94506-9bf9-4dbb-9542-3ff13893b190@ca.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dca.stablize.top%3A443%2810f94506-9bf9-4dbb-9542-3ff13893b190%29
 trojan://10f94506-9bf9-4dbb-9542-3ff13893b190@usa.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dusa.stablize.top%3A443%2810f94506-9bf9-4dbb-9542-3ff13893b190%29
-trojan://9014ea56-3fec-43d8-bed6-af7bcb5e2cb3@uk.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%AF%F0%9F%87%B5%5Duk.stablize.top%3A443%289014ea56-3fec-43d8-bed6-af7bcb5e2cb3%29
+trojan://9014ea56-3fec-43d8-bed6-af7bcb5e2cb3@uk.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Duk.stablize.top%3A443%289014ea56-3fec-43d8-bed6-af7bcb5e2cb3%29
 trojan://d5be26d4-8d71-4d8e-a74c-ce8afdd09395@148.59.74.239:443?security=tls&sni=20-212-60-88.nhost.00cdn.com&type=tcp&headerType=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5D148.59.74.239%3A443%28d5be26d4-8d71-4d8e-a74c-ce8afdd09395%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDUxNTQ1MTE1@192.53.173.163:37393#%5B%F0%9F%87%B8%F0%9F%87%AC%5D192.53.173.163%3A37393%283051545115%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM5YThkZS0wMjRlLTQyZWEtYjFmMy1iOWVhN2E4NWY5ZWQ=@a.gfw.services:21566#%5B%F0%9F%87%A8%F0%9F%87%B3%5Da.gfw.services%3A21566%28abc9a8de-024e-42ea-b1f3-b9ea7a85f9ed%29
 trojan://d5be26d4-8d71-4d8e-a74c-ce8afdd09395@148.59.74.239:443?security=tls&sni=20-212-60-88.nhost.00cdn.com&type=tcp&headerType=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5D148.59.74.239%3A443%28d5be26d4-8d71-4d8e-a74c-ce8afdd09395%29
 trojan://10f94506-9bf9-4dbb-9542-3ff13893b190@ca.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dca.stablize.top%3A443%2810f94506-9bf9-4dbb-9542-3ff13893b190%29
-trojan://9014ea56-3fec-43d8-bed6-af7bcb5e2cb3@uk.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%AF%F0%9F%87%B5%5Duk.stablize.top%3A443%289014ea56-3fec-43d8-bed6-af7bcb5e2cb3%29
+trojan://9014ea56-3fec-43d8-bed6-af7bcb5e2cb3@uk.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Duk.stablize.top%3A443%289014ea56-3fec-43d8-bed6-af7bcb5e2cb3%29
 trojan://S1k6yPgFhc@wangqifei.tk:59973?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%A6%F0%9F%87%BA%5Dwangqifei.tk%3A59973%28S1k6yPgFhc%29
 trojan://3e1170f8-0dc1-4aa8-b5cc-8d19324ffa60@16.163.194.6:443?security=tls&sni=data.amazon-azure.com&type=tcp&headerType=none#%5B%F0%9F%87%AD%F0%9F%87%B0%5D16.163.194.6%3A443%283e1170f8-0dc1-4aa8-b5cc-8d19324ffa60%29
 trojan://10f94506-9bf9-4dbb-9542-3ff13893b190@ap.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dap.stablize.top%3A443%2810f94506-9bf9-4dbb-9542-3ff13893b190%29

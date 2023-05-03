@@ -720,7 +720,7 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.63.79:8118#%5B%F0%9F%87%BA%F0%9
 trojan://28d98f761aca9d636f44db62544628eb@184.168.127.50:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5D184.168.127.50%3A443%2828d98f761aca9d636f44db62544628eb%29
 trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?allowInsecure=1#%5B%F0%9F%87%AE%F0%9F%87%B3%5D152.70.74.66%3A443%28d906afe5-7c3c-4ddc-aaa4-61c154a82e5e%29
 trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:3052?allowInsecure=1#%5B%F0%9F%87%B0%F0%9F%87%B7%5Dkr05.wangxd.life%3A3052%283a2c0c6c-9ee5-c05f-c951-fcd73831983e%29
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Duk.liangyuandian.top%3A443%28ceaea123-1b4b-469b-8358-bcd5f5529305%29
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Duk.liangyuandian.top%3A443%28ceaea123-1b4b-469b-8358-bcd5f5529305%29
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@my01.awcloud.top:443?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dmy01.awcloud.top%3A443%287f9ef59e-20fb-4343-bafc-3a84fa22fe70%29
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@in01.awcloud.top:443?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0%5Din01.awcloud.top%3A443%287f9ef59e-20fb-4343-bafc-3a84fa22fe70%29
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@uk01.awcloud.top:443?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0%5Duk01.awcloud.top%3A443%287f9ef59e-20fb-4343-bafc-3a84fa22fe70%29
@@ -943,7 +943,7 @@ trojan://7b6991cf-2d91-4e2d-a59a-148b52edec75@2d1t5w01.mcfront.xyz:31301?allowIn
 trojan://ef4e8429-0552-49bc-ac68-05569940de93@2d1t5w01.mcfront.xyz:31301?allowInsecure=1#%5B%F0%9F%87%A8%F0%9F%87%B3%5D2d1t5w01.mcfront.xyz%3A31301%28ef4e8429-0552-49bc-ac68-05569940de93%29
 trojan://1e85da50-c97a-4431-986e-6296b889c28b@4t1r5u01.mcfront.xyz:31851?allowInsecure=1#%5B%F0%9F%87%A8%F0%9F%87%B3%5D4t1r5u01.mcfront.xyz%3A31851%281e85da50-c97a-4431-986e-6296b889c28b%29
 trojan://TvBypqQJ9b@bdvasxmahl.injafarvpnwebelieve.gq:443?allowInsecure=1#%5B%F0%9F%87%A9%F0%9F%87%AA%5Dbdvasxmahl.injafarvpnwebelieve.gq%3A443%28TvBypqQJ9b%29
-trojan://5a035db3-34ea-48ca-9aa2-72c8229e1532@ru.mjt001.com:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dru.mjt001.com%3A443%285a035db3-34ea-48ca-9aa2-72c8229e1532%29
+trojan://5a035db3-34ea-48ca-9aa2-72c8229e1532@ru.mjt001.com:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dru.mjt001.com%3A443%285a035db3-34ea-48ca-9aa2-72c8229e1532%29
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@my01.trojanyyds.xyz:443?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dmy01.trojanyyds.xyz%3A443%28cd41b9d7-df15-46ad-a778-257b0851525a%29
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@my01.trojanyyds.xyz:443?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dmy01.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@sg01.awcloud.top:443?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dsg01.awcloud.top%3A443%287f9ef59e-20fb-4343-bafc-3a84fa22fe70%29
