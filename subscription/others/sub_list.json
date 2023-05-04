@@ -767,7 +767,7 @@
     "remarks": "123.60.147.120",
     "site": "https://123.60.147.120",
     "url": "https://123.60.147.120/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 110,
