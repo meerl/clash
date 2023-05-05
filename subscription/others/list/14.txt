@@ -809,7 +809,7 @@ trojan://80151fd0-950a-4dda-a98a-6d24c6936dbc@dejs.stablize.top:443?allowInsecur
 trojan://9014ea56-3fec-43d8-bed6-af7bcb5e2cb3@sg.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.stablize.top%3A443%289014ea56-3fec-43d8-bed6-af7bcb5e2cb3%29
 trojan://2b2b1b4f-3372-47f7-9f90-26097c7683f9@sg.liangyuandian.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.liangyuandian.top%3A443%282b2b1b4f-3372-47f7-9f90-26097c7683f9%29
 trojan://53f20cd4-b381-4a80-8059-7bcd484bbb52@sg.liangyuandian.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.liangyuandian.top%3A443%2853f20cd4-b381-4a80-8059-7bcd484bbb52%29
-trojan://514b8c92-12da-4219-b06c-56ecc67dfa23@fscus.fscloud123456789.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dfscus.fscloud123456789.com%3A443%28514b8c92-12da-4219-b06c-56ecc67dfa23%29
+trojan://514b8c92-12da-4219-b06c-56ecc67dfa23@fscus.fscloud123456789.com:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dfscus.fscloud123456789.com%3A443%28514b8c92-12da-4219-b06c-56ecc67dfa23%29
 trojan://d6ed263c-3f14-44db-bfee-cfcc26b234d1@san.ydnode.us:443?allowInsecure=0#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dsan.ydnode.us%3A443%28d6ed263c-3f14-44db-bfee-cfcc26b234d1%29
 trojan://a1e12464-9208-4583-bd21-ab6889fdd242@170.187.182.212:443?allowInsecure=0#%5B%F0%9F%87%A8%F0%9F%87%A6%5D170.187.182.212%3A443%28a1e12464-9208-4583-bd21-ab6889fdd242%29
 trojan://c0cf56d4-08a7-4436-9e6a-3feebe142706@aujs.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Daujs.stablize.top%3A443%28c0cf56d4-08a7-4436-9e6a-3feebe142706%29
