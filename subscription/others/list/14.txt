@@ -83,7 +83,7 @@ trojan://8d3fbaf4-029c-4d38-add0-e7f5d613ac5e@usa.stablize.top:443?allowInsecure
 trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@32.72img.xyz:443?allowInsecure=0#%5B%F0%9F%87%BA%F0%9F%87%B8%5D32.72img.xyz%3A443%2881d93f62-15a2-4994-adb9-0b5d906aac7e%29
 trojan://RRy34GGwsPt47SuC@sky998dmit3.xyz:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dsky998dmit3.xyz%3A443%28RRy34GGwsPt47SuC%29
 trojan://sharecentre@awssg3.sharecentre.xyz:443?allowInsecure=0#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dawssg3.sharecentre.xyz%3A443%28sharecentre%29
-trojan://514b8c92-12da-4219-b06c-56ecc67dfa23@fscus.fscloud123456789.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dfscus.fscloud123456789.com%3A443%28514b8c92-12da-4219-b06c-56ecc67dfa23%29
+trojan://514b8c92-12da-4219-b06c-56ecc67dfa23@fscus.fscloud123456789.com:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dfscus.fscloud123456789.com%3A443%28514b8c92-12da-4219-b06c-56ecc67dfa23%29
 trojan://8fb84310-7f34-4e8e-baa8-83001844cc27@jp.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Djp.stablize.top%3A443%288fb84310-7f34-4e8e-baa8-83001844cc27%29
 trojan://share.mjj-home.com@tw.softbank.mjj-home.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dtw.softbank.mjj-home.com%3A443%28share.mjj-home.com%29
 trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:443?allowInsecure=0#%5B%F0%9F%87%B0%F0%9F%87%B7%5Dkr05.wangxd.life%3A443%283a2c0c6c-9ee5-c05f-c951-fcd73831983e%29
