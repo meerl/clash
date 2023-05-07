@@ -322,10 +322,10 @@ class sub_convert():
         node_list_base64_file.close()
 
     def write_to_clash(node_list_array, path):
-        for i in range(0, len(node_list_array), 4000):
-            node_list_array_part = node_list_array[i:i + 4000]
+        for i in range(0, len(node_list_array), 3000):
+            node_list_array_part = node_list_array[i:i + 3000]
             node_list_part = sub_convert.yaml_encode(node_list_array_part)
-            node_list_part_file = open(f'{path}{(i+1)//4000}.yaml', 'w', encoding='utf-8')
+            node_list_part_file = open(f'{path}{(i+1)//3000}.yaml', 'w', encoding='utf-8')
             node_list_part_file.write(node_list_part)
             node_list_part_file.close()
         # node_list_converted = sub_convert.yaml_encode(node_list_array)
