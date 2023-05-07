@@ -241,7 +241,7 @@ trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@ap.liangyuandian.top:443?allowInse
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@de01.awcloud.top:443?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dde01.awcloud.top%3A443%287f9ef59e-20fb-4343-bafc-3a84fa22fe70%29
 trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dtrojan2.udpgw.com%3A443%28973ef350-f6a5-11ec-9274-1239d0255272%29
 trojan://a79da040-2e7c-11ed-91c2-1239d0255272@trojan2.udpgw.com:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dtrojan2.udpgw.com%3A443%28a79da040-2e7c-11ed-91c2-1239d0255272%29
-trojan://5a035db3-34ea-48ca-9aa2-72c8229e1532@ru.mjt001.com:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dru.mjt001.com%3A443%285a035db3-34ea-48ca-9aa2-72c8229e1532%29
+trojan://5a035db3-34ea-48ca-9aa2-72c8229e1532@ru.mjt001.com:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dru.mjt001.com%3A443%285a035db3-34ea-48ca-9aa2-72c8229e1532%29
 trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@ca.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dca.stablize.top%3A443%281bf16b43-0ad5-4512-a0e8-34bb8966278e%29
 trojan://share.mjj-home.com@share.softbank.mjj-home.com:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dshare.softbank.mjj-home.com%3A443%28share.mjj-home.com%29
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?allowInsecure=1#%5B%F0%9F%87%A8%F0%9F%87%B3%5Djp08a.roc-taiwan.org.ua%3A65018%2896983eb4-c8f1-316e-ab00-500014ed3d8b%29
