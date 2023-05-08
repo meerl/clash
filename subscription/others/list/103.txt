@@ -1,3 +1,3 @@
+trojan://2fc7f686415d6fcb@104.21.235.172:443?allowInsecure=1&sni=runcloud-ijo.apasih.id&ws=1&wspath=%2Fbuy-trojan-ws-pm-telegram-at-synricha#%5B%F0%9F%87%A6%F0%9F%87%B6%5D104.21.235.172%3A443%282fc7f686415d6fcb%29
 trojan://fiznextz@104.21.235.172:443?allowInsecure=1&sni=idc1.hijinetwork.cloud&ws=1&wspath=%2Ftunneltrojan#%5B%F0%9F%87%A6%F0%9F%87%B6%5D104.21.235.172%3A443%28fiznextz%29
 trojan://vextz@104.21.235.172:443?allowInsecure=1&sni=sg1.hijinetwork.cloud&ws=1&wspath=%2Ftunneltrojan#%5B%F0%9F%87%A6%F0%9F%87%B6%5D104.21.235.172%3A443%28vextz%29
-vmess://eyJ2IjogIjIiLCAicHMiOiAiW1x1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmNl0xMDQuMjEuMjM1LjE3Mjo4MChkMzI1MDY4Ni00N2VhLTQxODYtOTE0Yi01YzUyYWVlMDNjMzApIiwgImFkZCI6ICIxMDQuMjEuMjM1LjE3MiIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMzI1MDY4Ni00N2VhLTQxODYtOTE0Yi01YzUyYWVlMDNjMzAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3R1bm5lbHZtZXNzIiwgImhvc3QiOiAiaWtkMi5oaWppbmV0d29yay5jbG91ZCIsICJ0bHMiOiAiIn0=
