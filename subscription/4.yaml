@@ -1,0 +1,5 @@
+proxies:
+  - {name: "[🇰🇷]kr-3.vuex.eu.org:8890(d17c2e46-6c96-4d0b-90ec-7435cac3075f)", server: kr-3.vuex.eu.org, port: 8890, type: vmess, uuid: d17c2e46-6c96-4d0b-90ec-7435cac3075f, alterId: 0, cipher: auto, network: ws, tls: false, ws-opts: {path: /, headers: {host: kr-3.vuex.eu.org}}}
+  - {name: "[🇺🇸]v2ray3.webgfw.top:2083(ea9de06d-2436-42e9-8187-9e6d5fc40407)", server: v2ray3.webgfw.top, port: 2083, type: vmess, uuid: ea9de06d-2436-42e9-8187-9e6d5fc40407, alterId: 0, cipher: auto, network: ws, tls: true, ws-opts: {path: /X9piqfat/, headers: {host: v2ray3.webgfw.top}}}
+  - {name: "[🇺🇸]v2ray2.ibgfw.top:2083(ea01fefd-5c94-4735-94b5-32dbfd45dfb9)", server: v2ray2.ibgfw.top, port: 2083, type: vmess, uuid: ea01fefd-5c94-4735-94b5-32dbfd45dfb9, alterId: 0, cipher: auto, network: ws, tls: true, ws-opts: {path: /378wmUMF/, headers: {host: v2ray2.ibgfw.top}}}
+  - {name: "[🇯🇵]azjp.untilmu.com:16627(8b88fe8a-cc43-47c1-9537-d017e50fa42b)", server: azjp.untilmu.com, port: 16627, type: vmess, uuid: 8b88fe8a-cc43-47c1-9537-d017e50fa42b, alterId: 0, cipher: auto, network: ws, tls: true, ws-opts: {path: /azjp, headers: {host: azjp.untilmu.com}}}
