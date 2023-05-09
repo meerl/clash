@@ -52,11 +52,11 @@ trojan://789d73af-b985-4778-9872-211047c28015@103.103.245.125:50206?allowInsecur
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@us01.trojanyyds.xyz:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dus01.trojanyyds.xyz%3A443%28cd41b9d7-df15-46ad-a778-257b0851525a%29
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@hk05.trojanyyds.xyz:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dhk05.trojanyyds.xyz%3A443%28cd41b9d7-df15-46ad-a778-257b0851525a%29
 trojan://ed6546d9-4aea-4aa9-a335-24e3e7427c01@sg01.awcloud.top:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dsg01.awcloud.top%3A443%28ed6546d9-4aea-4aa9-a335-24e3e7427c01%29
-trojan://ed6546d9-4aea-4aa9-a335-24e3e7427c01@jp01.awcloud.top:443?allowInsecure=0#%5B%F0%9F%87%AE%F0%9F%87%B9%5Djp01.awcloud.top%3A443%28ed6546d9-4aea-4aa9-a335-24e3e7427c01%29
+trojan://ed6546d9-4aea-4aa9-a335-24e3e7427c01@jp01.awcloud.top:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Djp01.awcloud.top%3A443%28ed6546d9-4aea-4aa9-a335-24e3e7427c01%29
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@de01.awcloud.top:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dde01.awcloud.top%3A443%287f9ef59e-20fb-4343-bafc-3a84fa22fe70%29
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@my01.trojanyyds.xyz:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dmy01.trojanyyds.xyz%3A443%28cd41b9d7-df15-46ad-a778-257b0851525a%29
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@in01.trojanyyds.xyz:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Din01.trojanyyds.xyz%3A443%28cd41b9d7-df15-46ad-a778-257b0851525a%29
-trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@jp01.awcloud.top:443?allowInsecure=0#%5B%F0%9F%87%AE%F0%9F%87%B9%5Djp01.awcloud.top%3A443%287f9ef59e-20fb-4343-bafc-3a84fa22fe70%29
+trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@jp01.awcloud.top:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Djp01.awcloud.top%3A443%287f9ef59e-20fb-4343-bafc-3a84fa22fe70%29
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@de01.trojanyyds.xyz:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dde01.trojanyyds.xyz%3A443%28cd41b9d7-df15-46ad-a778-257b0851525a%29
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dsg02.trojanyyds.xyz%3A443%28cd41b9d7-df15-46ad-a778-257b0851525a%29
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@sg02.awcloud.top:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dsg02.awcloud.top%3A443%287f9ef59e-20fb-4343-bafc-3a84fa22fe70%29
