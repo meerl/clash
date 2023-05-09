@@ -2,7 +2,7 @@ trojan://c6be3827-5e18-4194-a85d-b56280b058dc@jptr11.bewater.top:31666?security=
 trojan://a85ddae0-3f7d-4f55-bd1d-436062e3a966@jp.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Djp.stablize.top%3A443%28a85ddae0-3f7d-4f55-bd1d-436062e3a966%29
 trojan://c6be3827-5e18-4194-a85d-b56280b058dc@nltr00.bewater.top:8811?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B3%F0%9F%87%B1%5Dnltr00.bewater.top%3A8811%28c6be3827-5e18-4194-a85d-b56280b058dc%29
 trojan://1c991ee6-6b47-475a-9a94-c2073bb7c43d@bozbozghandi.foriran.nl:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dbozbozghandi.foriran.nl%3A443%281c991ee6-6b47-475a-9a94-c2073bb7c43d%29
-trojan://ad3f9bf7-d8d1-47df-a6bd-77ff50037339@ua.mjt001.com:443?security=tls&sni=ua.mjt001.com&type=tcp&headerType=none#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dua.mjt001.com%3A443%28ad3f9bf7-d8d1-47df-a6bd-77ff50037339%29
+trojan://ad3f9bf7-d8d1-47df-a6bd-77ff50037339@ua.mjt001.com:443?security=tls&sni=ua.mjt001.com&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dua.mjt001.com%3A443%28ad3f9bf7-d8d1-47df-a6bd-77ff50037339%29
 trojan://1c991ee6-6b47-475a-9a94-c2073bb7c43d@irancpi1.duckdns.org:443?security=tls&sni=irancpi1.duckdns.org&type=tcp&headerType=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dirancpi1.duckdns.org%3A443%281c991ee6-6b47-475a-9a94-c2073bb7c43d%29
 trojan://a85ddae0-3f7d-4f55-bd1d-436062e3a966@sg.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.stablize.top%3A443%28a85ddae0-3f7d-4f55-bd1d-436062e3a966%29
 trojan://c6be3827-5e18-4194-a85d-b56280b058dc@trau00.bewater.top:32100?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%A6%F0%9F%87%BA%5Dtrau00.bewater.top%3A32100%28c6be3827-5e18-4194-a85d-b56280b058dc%29
@@ -16,8 +16,8 @@ trojan://c6be3827-5e18-4194-a85d-b56280b058dc@frtr01.bewater.top:10001?security=
 trojan://a85ddae0-3f7d-4f55-bd1d-436062e3a966@sg.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.stablize.top%3A443%28a85ddae0-3f7d-4f55-bd1d-436062e3a966%29
 trojan://c6be3827-5e18-4194-a85d-b56280b058dc@sktr00.bewater.top:31557?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B0%F0%9F%87%B7%5Dsktr00.bewater.top%3A31557%28c6be3827-5e18-4194-a85d-b56280b058dc%29
 trojan://a85ddae0-3f7d-4f55-bd1d-436062e3a966@sg.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.stablize.top%3A443%28a85ddae0-3f7d-4f55-bd1d-436062e3a966%29
-trojan://a85ddae0-3f7d-4f55-bd1d-436062e3a966@jp.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Djp.stablize.top%3A443%28a85ddae0-3f7d-4f55-bd1d-436062e3a966%29
-trojan://a85ddae0-3f7d-4f55-bd1d-436062e3a966@sg.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.stablize.top%3A443%28a85ddae0-3f7d-4f55-bd1d-436062e3a966%29
+trojan://a85ddae0-3f7d-4f55-bd1d-436062e3a966@jp.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%AF%F0%9F%87%B5%5Djp.stablize.top%3A443%28a85ddae0-3f7d-4f55-bd1d-436062e3a966%29
+trojan://a85ddae0-3f7d-4f55-bd1d-436062e3a966@sg.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dsg.stablize.top%3A443%28a85ddae0-3f7d-4f55-bd1d-436062e3a966%29
 trojan://a85ddae0-3f7d-4f55-bd1d-436062e3a966@sg.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.stablize.top%3A443%28a85ddae0-3f7d-4f55-bd1d-436062e3a966%29
 trojan://ad3f9bf7-d8d1-47df-a6bd-77ff50037339@kr.mjt001.com:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dkr.mjt001.com%3A443%28ad3f9bf7-d8d1-47df-a6bd-77ff50037339%29
 trojan://c6be3827-5e18-4194-a85d-b56280b058dc@pltr01.teehee.top:3378?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dpltr01.teehee.top%3A3378%28c6be3827-5e18-4194-a85d-b56280b058dc%29
