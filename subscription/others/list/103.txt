@@ -1,2 +1,3 @@
+vmess://eyJ2IjogIjIiLCAicHMiOiAiW1x1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmNl0xMDQuMjEuMjM1LjE3Mjo4MChlZTcxNGQzZC0zZmJjLTQ5MmItODIzYi01OGJiY2I4NDAyMjUpIiwgImFkZCI6ICIxMDQuMjEuMjM1LjE3MiIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJlZTcxNGQzZC0zZmJjLTQ5MmItODIzYi01OGJiY2I4NDAyMjUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3YycmF5IiwgImhvc3QiOiAiOGZocTZhLmFpb3NzaC5teS5pZCIsICJ0bHMiOiAiIn0=
 trojan://fiznextz@104.21.235.172:443?allowInsecure=1&sni=idc1.hijinetwork.cloud&ws=1&wspath=%2Ftunneltrojan#%5B%F0%9F%87%A6%F0%9F%87%B6%5D104.21.235.172%3A443%28fiznextz%29
 trojan://vextz@104.21.235.172:443?allowInsecure=1&sni=sg1.hijinetwork.cloud&ws=1&wspath=%2Ftunneltrojan#%5B%F0%9F%87%A6%F0%9F%87%B6%5D104.21.235.172%3A443%28vextz%29
