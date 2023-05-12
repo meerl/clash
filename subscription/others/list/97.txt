@@ -85,5 +85,5 @@ trojan://23fd9f2e-7ff8-4d98-8099-8acce9499433@147.78.240.92:443?allowInsecure=0&
 trojan://222f3adc-3373-4884-8889-b04f3a725167@nsaghhfhintt100tw.559xp5.cn:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dnsaghhfhintt100tw.559xp5.cn%3A443%28222f3adc-3373-4884-8889-b04f3a725167%29
 trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@192.9.130.66:443?allowInsecure=0&sni=us.disnet.gq#%5B%F0%9F%87%BA%F0%9F%87%B8%5D192.9.130.66%3A443%287c7e0edb-c45a-4c07-b66a-69b191179349%29
 trojan://6d6b76a0-7be8-4935-a284-77d000401d3a@awsjp6-data.amazon-azure.com:443?allowInsecure=0&sni=data.amazon-azure.com#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dawsjp6-data.amazon-azure.com%3A443%286d6b76a0-7be8-4935-a284-77d000401d3a%29
-trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@ap.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dap.stablize.top%3A443%289478e27c-6bdd-4f0e-ba46-90d9739e1e34%29
+trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@ap.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dap.stablize.top%3A443%289478e27c-6bdd-4f0e-ba46-90d9739e1e34%29
 trojan://1d8b868b-c87b-4d9b-b45f-91348f53b503@nsaghhfhitw.559xp5.cn:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dnsaghhfhitw.559xp5.cn%3A443%281d8b868b-c87b-4d9b-b45f-91348f53b503%29
