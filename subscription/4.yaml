@@ -1,3 +1,0 @@
-proxies:
-  - {name: "[🇦🇶]104.21.79.20:443(e883ff76-3bb4-4008-c068-6b5b1d960ea7)", server: 104.21.79.20, port: 443, type: vmess, uuid: e883ff76-3bb4-4008-c068-6b5b1d960ea7, alterId: 0, cipher: auto, network: ws, tls: true, ws-opts: {path: /qwer08}}
-  - {name: "[🇦🇶]104.24.231.167:443(e883ff76-3bb4-4008-c068-6b5b1d960ea7)", server: 104.24.231.167, port: 443, type: vmess, uuid: e883ff76-3bb4-4008-c068-6b5b1d960ea7, alterId: 0, cipher: auto, network: ws, tls: true, ws-opts: {path: /qwer08}}
