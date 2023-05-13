@@ -46,4 +46,4 @@ trojan://514b8c92-12da-4219-b06c-56ecc67dfa23@fschk.fscloud123456789.com:443?all
 trojan://514b8c92-12da-4219-b06c-56ecc67dfa23@fscsg.fscloud123456789.com:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dfscsg.fscloud123456789.com%3A443%28514b8c92-12da-4219-b06c-56ecc67dfa23%29
 trojan://4cb60c22-8d5d-469e-b5c1-c1cb78448a6d@sg.stablize.top:443?allowInsecure=1&sni=sg.stablize.top#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.stablize.top%3A443%284cb60c22-8d5d-469e-b5c1-c1cb78448a6d%29
 trojan://aee18ba5-652d-4f9b-86ad-b534475bd268@as.steamdownload.top:36643?allowInsecure=1&sni=as.steamdownload.top#%5B%F0%9F%87%A8%F0%9F%87%B3%5Das.steamdownload.top%3A36643%28aee18ba5-652d-4f9b-86ad-b534475bd268%29
-trojan://4cb60c22-8d5d-469e-b5c1-c1cb78448a6d@jp.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Djp.stablize.top%3A443%284cb60c22-8d5d-469e-b5c1-c1cb78448a6d%29
+trojan://4cb60c22-8d5d-469e-b5c1-c1cb78448a6d@jp.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Djp.stablize.top%3A443%284cb60c22-8d5d-469e-b5c1-c1cb78448a6d%29
