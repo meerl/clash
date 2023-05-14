@@ -11,7 +11,7 @@
     "remarks": "VpnNetwork01/vpn-net",
     "site": "https://github.com/VpnNetwork01/vpn-net",
     "url": "https://raw.githubusercontent.com/VpnNetwork01/vpn-net/main/README.md",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 2,
@@ -129,7 +129,7 @@
     "id": 18,
     "remarks": "ermaozi/get_subscribe",
     "site": "https://github.com/ermaozi/get_subscribe",
-    "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
+    "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt",
     "enabled": true
   },
   {
@@ -592,7 +592,7 @@
     "remarks": "SANYIMOE/VPN-free",
     "site": "https://github.com/SANYIMOE/VPN-free",
     "url": "https://raw.githubusercontent.com/SANYIMOE/VPN-free/master/conf/data.txt",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 85,
@@ -676,7 +676,7 @@
     "remarks": "CrazyFireFighter/Crazy_V2RayN",
     "site": "https://github.com/CrazyFireFighter/Crazy_V2RayN",
     "url": "https://raw.githubusercontent.com/CrazyFireFighter/Crazy_V2RayN/main/For_my_family_%26_friends",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 97,
@@ -739,7 +739,7 @@
     "remarks": "168.138.45.251",
     "site": "http://168.138.45.251",
     "url": "http://168.138.45.251/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 106,
