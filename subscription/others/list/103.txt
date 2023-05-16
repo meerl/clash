@@ -1,2 +1,3 @@
+vmess://eyJ2IjogIjIiLCAicHMiOiAiW1x1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmNl1jZG4ubm9pY2UuaWQ6ODAoNWYxMzNlZDktNDYwZi00ZjM2LWFjNmItNWJkNDM4MmRlMGMwKSIsICJhZGQiOiAiY2RuLm5vaWNlLmlkIiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjVmMTMzZWQ5LTQ2MGYtNGYzNi1hYzZiLTViZDQzODJkZTBjMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAiaG9zdCI6ICJpZC5kdW5pYXZwbi5vcmciLCAidGxzIjogIiJ9
 trojan://fiznextz@cdn.noice.id:443?allowInsecure=1&sni=idc1.hijinetwork.cloud&ws=1&wspath=%2Ftunneltrojan#%5B%F0%9F%87%A6%F0%9F%87%B6%5Dcdn.noice.id%3A443%28fiznextz%29
 trojan://vextz@cdn.noice.id:443?allowInsecure=1&sni=sg1.hijinetwork.cloud&ws=1&wspath=%2Ftunneltrojan#%5B%F0%9F%87%A6%F0%9F%87%B6%5Dcdn.noice.id%3A443%28vextz%29
