@@ -68,7 +68,7 @@ trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@my01.awcloud.top:443?allowInsecure
 trojan://ed6546d9-4aea-4aa9-a335-24e3e7427c01@sg01.awcloud.top:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dsg01.awcloud.top%3A443%28ed6546d9-4aea-4aa9-a335-24e3e7427c01%29
 trojan://ed6546d9-4aea-4aa9-a335-24e3e7427c01@jp01.awcloud.top:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Djp01.awcloud.top%3A443%28ed6546d9-4aea-4aa9-a335-24e3e7427c01%29
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@uk01.awcloud.top:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Duk01.awcloud.top%3A443%287f9ef59e-20fb-4343-bafc-3a84fa22fe70%29
-trojan://b00ac480-3e34-4ca9-8b3b-0b4515e4b75d@jp.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Djp.mjt001.com%3A443%28b00ac480-3e34-4ca9-8b3b-0b4515e4b75d%29
+trojan://b00ac480-3e34-4ca9-8b3b-0b4515e4b75d@jp.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Djp.mjt001.com%3A443%28b00ac480-3e34-4ca9-8b3b-0b4515e4b75d%29
 trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@usa.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dusa.stablize.top%3A443%287d0f1f83-0f2f-4b90-930e-de44ac233fef%29
 trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@sg.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.stablize.top%3A443%287d0f1f83-0f2f-4b90-930e-de44ac233fef%29
 trojan://a85ddae0-3f7d-4f55-bd1d-436062e3a966@sg.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.stablize.top%3A443%28a85ddae0-3f7d-4f55-bd1d-436062e3a966%29
