@@ -1,4 +1,49 @@
 proxies:
+  - {name: "[🇷🇺]185.174.136.27:39822(2F094845-E2BD-EBF7-DEB7-995992436FAF)", server: 185.174.136.27, port: 39822, type: trojan, password: "2F094845-E2BD-EBF7-DEB7-995992436FAF", sni: node.ctcucm.xyz}
+  - {name: "[🇦🇹]78.153.130.11:39822(2F094845-E2BD-EBF7-DEB7-995992436FAF)", server: 78.153.130.11, port: 39822, type: trojan, password: "2F094845-E2BD-EBF7-DEB7-995992436FAF", sni: node.ctcucm.xyz}
+  - {name: "[🇺🇸]88.210.37.46:39822(2F094845-E2BD-EBF7-DEB7-995992436FAF)", server: 88.210.37.46, port: 39822, type: trojan, password: "2F094845-E2BD-EBF7-DEB7-995992436FAF", sni: node.ctcucm.xyz}
+  - {name: "[🇺🇸]tr2.tgcunzhang.xyz:54858(2a9ba60d-10ce-4f79-97e7-817334456195)", server: tr2.tgcunzhang.xyz, port: 54858, type: trojan, password: "2a9ba60d-10ce-4f79-97e7-817334456195", network: tcp, udp: true}
+  - {name: "[🇺🇸]tr3.tgcunzhang.xyz:54228(2a9ba60d-10ce-4f79-97e7-817334456195)", server: tr3.tgcunzhang.xyz, port: 54228, type: trojan, password: "2a9ba60d-10ce-4f79-97e7-817334456195", network: tcp, udp: true}
+  - {name: "[🇺🇸]tr7.tgcunzhang.xyz:54748(2a9ba60d-10ce-4f79-97e7-817334456195)", server: tr7.tgcunzhang.xyz, port: 54748, type: trojan, password: "2a9ba60d-10ce-4f79-97e7-817334456195", network: tcp, udp: true}
+  - {name: "[🇺🇸]tr8.tgcunzhang.xyz:54485(2a9ba60d-10ce-4f79-97e7-817334456195)", server: tr8.tgcunzhang.xyz, port: 54485, type: trojan, password: "2a9ba60d-10ce-4f79-97e7-817334456195", network: tcp, udp: true}
+  - {name: "[🇺🇸]tr9.tgcunzhang.xyz:54043(2a9ba60d-10ce-4f79-97e7-817334456195)", server: tr9.tgcunzhang.xyz, port: 54043, type: trojan, password: "2a9ba60d-10ce-4f79-97e7-817334456195", network: tcp, udp: true}
+  - {name: "[🇺🇸]tr9.tgcunzhang.xyz:54416(2a9ba60d-10ce-4f79-97e7-817334456195)", server: tr9.tgcunzhang.xyz, port: 54416, type: trojan, password: "2a9ba60d-10ce-4f79-97e7-817334456195", network: tcp, udp: true}
+  - {name: "[🇸🇬]hgc.iamnotagoodman.com:443(2ac7fc8a-68b5-4809-8bd2-73a593bae292)", server: hgc.iamnotagoodman.com, port: 443, type: trojan, password: "2ac7fc8a-68b5-4809-8bd2-73a593bae292", network: tcp, udp: true}
+  - {name: "[🇺🇸]ust3.sshocean.net:443(2b7a055e-5b0a-44bd-901b-5577e61aa832)", server: ust3.sshocean.net, port: 443, type: trojan, password: "2b7a055e-5b0a-44bd-901b-5577e61aa832", network: tcp, udp: true}
+  - {name: "[🇭🇰]1002hk1326.tfzhc.top:443(2be3639a-f4cd-4161-ba78-49842b2269f6)", server: 1002hk1326.tfzhc.top, port: 443, type: trojan, password: "2be3639a-f4cd-4161-ba78-49842b2269f6"}
+  - {name: "[🇦🇪]1002jp.tfzhc.top:443(2be3639a-f4cd-4161-ba78-49842b2269f6)", server: 1002jp.tfzhc.top, port: 443, type: trojan, password: "2be3639a-f4cd-4161-ba78-49842b2269f6", sni: 1002jp.tfzhc.top}
+  - {name: "[🇸🇬]1002sg.tfzhc.top:443(2be3639a-f4cd-4161-ba78-49842b2269f6)", server: 1002sg.tfzhc.top, port: 443, type: trojan, password: "2be3639a-f4cd-4161-ba78-49842b2269f6"}
+  - {name: "[🇸🇬]1002tw.tfzhc.top:443(2be3639a-f4cd-4161-ba78-49842b2269f6)", server: 1002tw.tfzhc.top, port: 443, type: trojan, password: "2be3639a-f4cd-4161-ba78-49842b2269f6"}
+  - {name: "[🇹🇼]1002tw01.tfzhc.top:443(2be3639a-f4cd-4161-ba78-49842b2269f6)", server: 1002tw01.tfzhc.top, port: 443, type: trojan, password: "2be3639a-f4cd-4161-ba78-49842b2269f6", sni: 1002tw01.tfzhc.top}
+  - {name: "[🇸🇬]102hk.tfzhc.top:443(2be3639a-f4cd-4161-ba78-49842b2269f6)", server: 102hk.tfzhc.top, port: 443, type: trojan, password: "2be3639a-f4cd-4161-ba78-49842b2269f6", sni: 102hk.tfzhc.top}
+  - {name: "[🇸🇬]924hk02.tfzhc.top:44388(2be3639a-f4cd-4161-ba78-49842b2269f6)", server: 924hk02.tfzhc.top, port: 44388, type: trojan, password: "2be3639a-f4cd-4161-ba78-49842b2269f6"}
+  - {name: "[🇨🇳]1j8p03.abzoones.xyz:36111(2c39443b-2343-4151-acd6-9e1c5743d271)", server: 1j8p03.abzoones.xyz, port: 36111, type: trojan, password: "2c39443b-2343-4151-acd6-9e1c5743d271", network: tcp, udp: true}
+  - {name: "[🇨🇳]2u3k01.abzoones.xyz:36811(2c39443b-2343-4151-acd6-9e1c5743d271)", server: 2u3k01.abzoones.xyz, port: 36811, type: trojan, password: "2c39443b-2343-4151-acd6-9e1c5743d271", network: tcp, udp: true}
+  - {name: "[🇨🇳]3d6e01.abzoones.xyz:36841(2c39443b-2343-4151-acd6-9e1c5743d271)", server: 3d6e01.abzoones.xyz, port: 36841, type: trojan, password: "2c39443b-2343-4151-acd6-9e1c5743d271", network: tcp, udp: true}
+  - {name: "[🇨🇳]5a4u01.abzoones.xyz:36821(2c39443b-2343-4151-acd6-9e1c5743d271)", server: 5a4u01.abzoones.xyz, port: 36821, type: trojan, password: "2c39443b-2343-4151-acd6-9e1c5743d271", network: tcp, udp: true}
+  - {name: "[🇨🇳]5c1a01.abzoones.xyz:36701(2c39443b-2343-4151-acd6-9e1c5743d271)", server: 5c1a01.abzoones.xyz, port: 36701, type: trojan, password: "2c39443b-2343-4151-acd6-9e1c5743d271", network: tcp, udp: true}
+  - {name: "[🇨🇳]7i4n01.abzoones.xyz:36831(2c39443b-2343-4151-acd6-9e1c5743d271)", server: 7i4n01.abzoones.xyz, port: 36831, type: trojan, password: "2c39443b-2343-4151-acd6-9e1c5743d271", network: tcp, udp: true}
+  - {name: "[🇨🇳]7p3h01.abzoones.xyz:36801(2c39443b-2343-4151-acd6-9e1c5743d271)", server: 7p3h01.abzoones.xyz, port: 36801, type: trojan, password: "2c39443b-2343-4151-acd6-9e1c5743d271", network: tcp, udp: true}
+  - {name: "[🇨🇳]8h2k03.abzoones.xyz:36611(2c39443b-2343-4151-acd6-9e1c5743d271)", server: 8h2k03.abzoones.xyz, port: 36611, type: trojan, password: "2c39443b-2343-4151-acd6-9e1c5743d271", network: tcp, udp: true}
+  - {name: "[🇨🇳]8t6w03.abzoones.xyz:36311(2c39443b-2343-4151-acd6-9e1c5743d271)", server: 8t6w03.abzoones.xyz, port: 36311, type: trojan, password: "2c39443b-2343-4151-acd6-9e1c5743d271", network: tcp, udp: true}
+  - {name: "[🇨🇳]9s5g03.abzoones.xyz:36211(2c39443b-2343-4151-acd6-9e1c5743d271)", server: 9s5g03.abzoones.xyz, port: 36211, type: trojan, password: "2c39443b-2343-4151-acd6-9e1c5743d271", network: tcp, udp: true}
+  - {name: "[🇻🇳]103.173.255.21:28000(2cee2f05-9351-4a6d-9f80-ff859a54a0b3)", server: 103.173.255.21, port: 28000, type: trojan, password: "2cee2f05-9351-4a6d-9f80-ff859a54a0b3"}
+  - {name: "[🇻🇳]103.173.255.228:28000(2cee2f05-9351-4a6d-9f80-ff859a54a0b3)", server: 103.173.255.228, port: 28000, type: trojan, password: "2cee2f05-9351-4a6d-9f80-ff859a54a0b3"}
+  - {name: "[🇯🇵]141.147.191.85:28000(2cee2f05-9351-4a6d-9f80-ff859a54a0b3)", server: 141.147.191.85, port: 28000, type: trojan, password: "2cee2f05-9351-4a6d-9f80-ff859a54a0b3"}
+  - {name: "[🇯🇵]155.248.172.87:28000(2cee2f05-9351-4a6d-9f80-ff859a54a0b3)", server: 155.248.172.87, port: 28000, type: trojan, password: "2cee2f05-9351-4a6d-9f80-ff859a54a0b3"}
+  - {name: "[🇩🇪]172.104.244.36:28000(2cee2f05-9351-4a6d-9f80-ff859a54a0b3)", server: 172.104.244.36, port: 28000, type: trojan, password: "2cee2f05-9351-4a6d-9f80-ff859a54a0b3"}
+  - {name: "[🇩🇪]172.104.251.52:28000(2cee2f05-9351-4a6d-9f80-ff859a54a0b3)", server: 172.104.251.52, port: 28000, type: trojan, password: "2cee2f05-9351-4a6d-9f80-ff859a54a0b3"}
+  - {name: "[🇺🇸]23.224.33.72:28000(2cee2f05-9351-4a6d-9f80-ff859a54a0b3)", server: 23.224.33.72, port: 28000, type: trojan, password: "2cee2f05-9351-4a6d-9f80-ff859a54a0b3"}
+  - {name: "[🇦🇶]cmhk1.linhun11.xyz:28000(2cee2f05-9351-4a6d-9f80-ff859a54a0b3)", server: cmhk1.linhun11.xyz, port: 28000, type: trojan, password: "2cee2f05-9351-4a6d-9f80-ff859a54a0b3"}
+  - {name: "[🇺🇸]51.81.211.171:443(2dab5d78-5c56-4252-850d-c037753a40db)", server: 51.81.211.171, port: 443, type: trojan, password: "2dab5d78-5c56-4252-850d-c037753a40db", network: tcp, udp: true}
+  - {name: "[🇨🇳]a001.zhuan99.men:10001(2dbe179f-47b2-46e9-bf58-bd7f68c491a3)", server: a001.zhuan99.men, port: 10001, type: trojan, password: "2dbe179f-47b2-46e9-bf58-bd7f68c491a3", sni: zhu.99ton.men, network: tcp, udp: true}
+  - {name: "[🇨🇳]a002.zhuan99.men:10002(2dbe179f-47b2-46e9-bf58-bd7f68c491a3)", server: a002.zhuan99.men, port: 10002, type: trojan, password: "2dbe179f-47b2-46e9-bf58-bd7f68c491a3", sni: zhu.99ton.men, network: tcp, udp: true}
+  - {name: "[🇨🇳]a003.zhuan99.men:10003(2dbe179f-47b2-46e9-bf58-bd7f68c491a3)", server: a003.zhuan99.men, port: 10003, type: trojan, password: "2dbe179f-47b2-46e9-bf58-bd7f68c491a3", sni: zhu.99ton.men, network: tcp, udp: true}
+  - {name: "[🇨🇳]a004.zhuan99.men:10004(2dbe179f-47b2-46e9-bf58-bd7f68c491a3)", server: a004.zhuan99.men, port: 10004, type: trojan, password: "2dbe179f-47b2-46e9-bf58-bd7f68c491a3", sni: zhu.99ton.men, network: tcp, udp: true}
+  - {name: "[🇨🇳]a005.zhuan99.men:10005(2dbe179f-47b2-46e9-bf58-bd7f68c491a3)", server: a005.zhuan99.men, port: 10005, type: trojan, password: "2dbe179f-47b2-46e9-bf58-bd7f68c491a3", sni: zhu.99ton.men, network: tcp, udp: true}
+  - {name: "[🇨🇳]a006.zhuan99.men:10006(2dbe179f-47b2-46e9-bf58-bd7f68c491a3)", server: a006.zhuan99.men, port: 10006, type: trojan, password: "2dbe179f-47b2-46e9-bf58-bd7f68c491a3", sni: zhu.99ton.men, network: tcp, udp: true}
+  - {name: "[🇨🇳]a015.zhuan99.men:10015(2dbe179f-47b2-46e9-bf58-bd7f68c491a3)", server: a015.zhuan99.men, port: 10015, type: trojan, password: "2dbe179f-47b2-46e9-bf58-bd7f68c491a3", sni: zhu.99ton.men, network: tcp, udp: true}
+  - {name: "[🇨🇳]a017.zhuan99.men:10017(2dbe179f-47b2-46e9-bf58-bd7f68c491a3)", server: a017.zhuan99.men, port: 10017, type: trojan, password: "2dbe179f-47b2-46e9-bf58-bd7f68c491a3", sni: zhu.99ton.men, network: tcp, udp: true}
   - {name: "[🇨🇳]a021.zhuan99.men:10021(2dbe179f-47b2-46e9-bf58-bd7f68c491a3)", server: a021.zhuan99.men, port: 10021, type: trojan, password: "2dbe179f-47b2-46e9-bf58-bd7f68c491a3", sni: zhu.99ton.men, network: tcp, udp: true}
   - {name: "[🇰🇷]kr1.api-aws.com:443(2e4c54a0-a780-4994-97c0-44eb92857d76)", server: kr1.api-aws.com, port: 443, type: trojan, password: "2e4c54a0-a780-4994-97c0-44eb92857d76", network: tcp, udp: true}
   - {name: "[🇺🇸]us2.tcpbbr.net:443(2e5f2a78-14d8-11eb-ad8c-f23c9164ca5d)", server: us2.tcpbbr.net, port: 443, type: trojan, password: "2e5f2a78-14d8-11eb-ad8c-f23c9164ca5d"}
@@ -75,7 +120,7 @@ proxies:
   - {name: "[🇰🇷]kr1.api-aws.com:443(36443c4f-4487-48a6-8438-57bd7700b916)", server: kr1.api-aws.com, port: 443, type: trojan, password: "36443c4f-4487-48a6-8438-57bd7700b916", network: tcp, udp: true}
   - {name: "[🇸🇬]1024hk02.tfzhc.top:8011(3690f453-66bf-43a8-ae29-6fe9a7ec0f64)", server: 1024hk02.tfzhc.top, port: 8011, type: trojan, password: "3690f453-66bf-43a8-ae29-6fe9a7ec0f64", sni: 1024hk02.tfzhc.top}
   - {name: "[🇦🇶]1030tw08.fans8.xyz:28212(3690f453-66bf-43a8-ae29-6fe9a7ec0f64)", server: 1030tw08.fans8.xyz, port: 28212, type: trojan, password: "3690f453-66bf-43a8-ae29-6fe9a7ec0f64"}
-  - {name: "[🇸🇬]hkt.iamnotagoodman.com:443(36d9d131-6319-4758-b4ce-3011f0afc72a)", server: hkt.iamnotagoodman.com, port: 443, type: trojan, password: "36d9d131-6319-4758-b4ce-3011f0afc72a", network: tcp, udp: true}
+  - {name: "[🇯🇵]hkt.iamnotagoodman.com:443(36d9d131-6319-4758-b4ce-3011f0afc72a)", server: hkt.iamnotagoodman.com, port: 443, type: trojan, password: "36d9d131-6319-4758-b4ce-3011f0afc72a", network: tcp, udp: true}
   - {name: "[🇭🇰]jp.iamnotagoodman.com:443(36d9d131-6319-4758-b4ce-3011f0afc72a)", server: jp.iamnotagoodman.com, port: 443, type: trojan, password: "36d9d131-6319-4758-b4ce-3011f0afc72a", network: tcp, udp: true}
   - {name: "[🇨🇭]185.126.116.235:443(36ebef7d1b1d6205fd0c55f28800e674)", server: 185.126.116.235, port: 443, type: trojan, password: "36ebef7d1b1d6205fd0c55f28800e674"}
   - {name: "[🇯🇵]45.66.134.219:443(36ebef7d1b1d6205fd0c55f28800e674)", server: 45.66.134.219, port: 443, type: trojan, password: "36ebef7d1b1d6205fd0c55f28800e674"}
@@ -90,7 +135,7 @@ proxies:
   - {name: "[🇹🇼]60.249.3.226:3389(36fe28a331638747)", server: 60.249.3.226, port: 3389, type: trojan, password: "36fe28a331638747"}
   - {name: "[🇰🇷]kr1.api-aws.com:443(374e524b-834f-4764-93d2-64f9f734f596)", server: kr1.api-aws.com, port: 443, type: trojan, password: "374e524b-834f-4764-93d2-64f9f734f596", network: tcp, udp: true}
   - {name: "[🇰🇷]kr1.api-aws.com:443(3753719b-eb37-4f34-ab60-ae3a70486b27)", server: kr1.api-aws.com, port: 443, type: trojan, password: "3753719b-eb37-4f34-ab60-ae3a70486b27", network: tcp, udp: true}
-  - {name: "[🇰🇷]hinet.mjt001.com:443(38a5fd20-ce5c-4342-9c86-c331602ccb39)", server: hinet.mjt001.com, port: 443, type: trojan, password: "38a5fd20-ce5c-4342-9c86-c331602ccb39", network: tcp, udp: true}
+  - {name: "[🇸🇬]hinet.mjt001.com:443(38a5fd20-ce5c-4342-9c86-c331602ccb39)", server: hinet.mjt001.com, port: 443, type: trojan, password: "38a5fd20-ce5c-4342-9c86-c331602ccb39", network: tcp, udp: true}
   - {name: "[🇫🇷]smtp.lemail.cloud:443(392f8755-75e7-481e-927e-0f3aae34234e)", server: smtp.lemail.cloud, port: 443, type: trojan, password: "392f8755-75e7-481e-927e-0f3aae34234e"}
   - {name: "[🇦🇶]events.starspace.link:443(3RWFPCmWd4lYIMof)", server: events.starspace.link, port: 443, type: trojan, password: "3RWFPCmWd4lYIMof"}
   - {name: "[🇰🇷]kr04.wangxd.life:3052(3a2c0c6c-9ee5-c05f-c951-fcd73831983e)", server: kr04.wangxd.life, port: 3052, type: trojan, password: "3a2c0c6c-9ee5-c05f-c951-fcd73831983e"}
@@ -225,7 +270,7 @@ proxies:
   - {name: "[🇯🇵]trs03.bolab.net:443(40c89b10235c40321e7a3cef82b53a03)", server: trs03.bolab.net, port: 443, type: trojan, password: "40c89b10235c40321e7a3cef82b53a03", network: tcp, udp: true}
   - {name: "[🇯🇵]trs12.bolab.net:22(40c89b10235c40321e7a3cef82b53a03)", server: trs12.bolab.net, port: 22, type: trojan, password: "40c89b10235c40321e7a3cef82b53a03", network: tcp, udp: true}
   - {name: "[🇯🇵]trs16.bolab.net:22(40c89b10235c40321e7a3cef82b53a03)", server: trs16.bolab.net, port: 22, type: trojan, password: "40c89b10235c40321e7a3cef82b53a03", network: tcp, udp: true}
-  - {name: "[🇺🇸]aead.tls.hongkongazace.dnsfree.top:12348(40ed2e01-e371-4ff0-8026-08676c40e37e)", server: aead.tls.hongkongazace.dnsfree.top, port: 12348, type: trojan, password: "40ed2e01-e371-4ff0-8026-08676c40e37e"}
+  - {name: "[🇳🇱]aead.tls.hongkongazace.dnsfree.top:12348(40ed2e01-e371-4ff0-8026-08676c40e37e)", server: aead.tls.hongkongazace.dnsfree.top, port: 12348, type: trojan, password: "40ed2e01-e371-4ff0-8026-08676c40e37e"}
   - {name: "[🇷🇺]45.130.146.97:443(40fd551a-0bbe-460d-b0d9-4bf4ad413b0f)", server: 45.130.146.97, port: 443, type: trojan, password: "40fd551a-0bbe-460d-b0d9-4bf4ad413b0f", sni: insaneguo2333.top}
   - {name: "[🇺🇸]a2.okz2.com:50001(413f2e36-0038-48e4-963a-a38c0007ef24)", server: a2.okz2.com, port: 50001, type: trojan, password: "413f2e36-0038-48e4-963a-a38c0007ef24"}
   - {name: "[🇦🇶]azhk-pf.okzdns.com:50002(413f2e36-0038-48e4-963a-a38c0007ef24)", server: azhk-pf.okzdns.com, port: 50002, type: trojan, password: "413f2e36-0038-48e4-963a-a38c0007ef24", sni: azhk-pf.okzdns.com}
@@ -248,11 +293,12 @@ proxies:
   - {name: "[🇨🇳]6q3i1n01.mcfront.xyz:31831(41f0a7ce-f6c2-4f2c-b3a9-13bd68538eb6)", server: 6q3i1n01.mcfront.xyz, port: 31831, type: trojan, password: "41f0a7ce-f6c2-4f2c-b3a9-13bd68538eb6", network: tcp, udp: true}
   - {name: "[🇨🇳]6w7j3p03.mcfront.xyz:31111(41f0a7ce-f6c2-4f2c-b3a9-13bd68538eb6)", server: 6w7j3p03.mcfront.xyz, port: 31111, type: trojan, password: "41f0a7ce-f6c2-4f2c-b3a9-13bd68538eb6", network: tcp, udp: true}
   - {name: "[🇭🇰]in01.awcloud.top:443(42f54d42-b1c8-4244-805e-8c4c02f86b5b)", server: in01.awcloud.top, port: 443, type: trojan, password: "42f54d42-b1c8-4244-805e-8c4c02f86b5b", network: tcp, udp: true}
+  - {name: "[🇭🇰]my01.awcloud.top:443(42f54d42-b1c8-4244-805e-8c4c02f86b5b)", server: my01.awcloud.top, port: 443, type: trojan, password: "42f54d42-b1c8-4244-805e-8c4c02f86b5b", network: tcp, udp: true}
   - {name: "[🇦🇶]microsoft-si03.syjd.xyz:30003(442c1171-5937-47ef-b892-48f99f36648a)", server: microsoft-si03.syjd.xyz, port: 30003, type: trojan, password: "442c1171-5937-47ef-b892-48f99f36648a", sni: microsoft-si03.syjd.xyz}
   - {name: "[🇦🇶]jp1.sanfen001.pics:443(4456b502-fe61-4be7-a969-aa37d924dbd2)", server: jp1.sanfen001.pics, port: 443, type: trojan, password: "4456b502-fe61-4be7-a969-aa37d924dbd2", sni: jp1.sanfen001.pics}
   - {name: "[🇺🇸]s244.s2022.xyz:30300(44742458-ae53-3490-aeb6-a1a23d54c2be)", server: s244.s2022.xyz, port: 30300, type: trojan, password: "44742458-ae53-3490-aeb6-a1a23d54c2be"}
-  - {name: "[🇺🇸]aead.tls.sksupersususu.dnsfree.top:12345(44d62787-1cbf-42aa-99d7-21e9bcdb1c24)", server: aead.tls.sksupersususu.dnsfree.top, port: 12345, type: trojan, password: "44d62787-1cbf-42aa-99d7-21e9bcdb1c24", sni: aead.tls.sksupersususu.dnsfree.top}
-  - {name: "[🇺🇸]baidu.hongkong.dnsfree.top:12345(44d62787-1cbf-42aa-99d7-21e9bcdb1c24)", server: baidu.hongkong.dnsfree.top, port: 12345, type: trojan, password: "44d62787-1cbf-42aa-99d7-21e9bcdb1c24", sni: baidu.hongkong.dnsfree.top}
+  - {name: "[🇳🇱]aead.tls.sksupersususu.dnsfree.top:12345(44d62787-1cbf-42aa-99d7-21e9bcdb1c24)", server: aead.tls.sksupersususu.dnsfree.top, port: 12345, type: trojan, password: "44d62787-1cbf-42aa-99d7-21e9bcdb1c24", sni: aead.tls.sksupersususu.dnsfree.top}
+  - {name: "[🇳🇱]baidu.hongkong.dnsfree.top:12345(44d62787-1cbf-42aa-99d7-21e9bcdb1c24)", server: baidu.hongkong.dnsfree.top, port: 12345, type: trojan, password: "44d62787-1cbf-42aa-99d7-21e9bcdb1c24", sni: baidu.hongkong.dnsfree.top}
   - {name: "[🇺🇸]pro.tls.hongkongaz.dnsfree.top:55091(44d62787-1cbf-42aa-99d7-21e9bcdb1c24)", server: pro.tls.hongkongaz.dnsfree.top, port: 55091, type: trojan, password: "44d62787-1cbf-42aa-99d7-21e9bcdb1c24", sni: pro.tls.hongkongaz.dnsfree.top}
   - {name: "[🇳🇱]superjapan1111.dnsfree.top:12387(44d62787-1cbf-42aa-99d7-21e9bcdb1c24)", server: superjapan1111.dnsfree.top, port: 12387, type: trojan, password: "44d62787-1cbf-42aa-99d7-21e9bcdb1c24", sni: superjapan1111.dnsfree.top}
   - {name: "[🇸🇬]kt.p.mkitty.top:443(45c40b80-3d85-47aa-b6e4-3e0e2a066842)", server: kt.p.mkitty.top, port: 443, type: trojan, password: "45c40b80-3d85-47aa-b6e4-3e0e2a066842"}
@@ -377,32 +423,32 @@ proxies:
   - {name: "[🇺🇸]129.146.175.86:44302(4d111af8-5078-37e0-a583-34155f60b32c)", server: 129.146.175.86, port: 44302, type: trojan, password: "4d111af8-5078-37e0-a583-34155f60b32c", sni: phxv001.jd0001.top}
   - {name: "[🇦🇶]phxv001.jd0001.top:44302(4d111af8-5078-37e0-a583-34155f60b32c)", server: phxv001.jd0001.top, port: 44302, type: trojan, password: "4d111af8-5078-37e0-a583-34155f60b32c", network: tcp, udp: true}
   - {name: "[🇭🇰]43.155.111.203:48443(4d3d395b)", server: 43.155.111.203, port: 48443, type: trojan, password: "4d3d395b"}
-  - {name: "[🇺🇸]core1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: core1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-ru.efpan.one}
-  - {name: "[🇺🇸]core2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: core2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-ru.efpan.one}
-  - {name: "[🇺🇸]dl-am1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-am1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-ar.efpan.one}
+  - {name: "[🇮🇹]core1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: core1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-ru.efpan.one}
+  - {name: "[🇮🇹]core2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: core2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-ru.efpan.one}
+  - {name: "[🇮🇹]dl-am1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-am1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-ar.efpan.one}
   - {name: "[🇺🇸]dl-am2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-am2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-ar.efpan.one}
   - {name: "[🇺🇸]dl-eu1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-eu1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-ae.efpan.one}
-  - {name: "[🇰🇷]dl-hk1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-hk1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-hk.efpan.one}
-  - {name: "[🇰🇷]dl-hk2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-hk2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-hk.efpan.one}
-  - {name: "[🇩🇪]dl-hk3.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-hk3.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-hk.efpan.one}
+  - {name: "[🇺🇸]dl-hk1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-hk1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-hk.efpan.one}
+  - {name: "[🇺🇸]dl-hk2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-hk2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-hk.efpan.one}
+  - {name: "[🇺🇸]dl-hk3.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-hk3.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-hk.efpan.one}
   - {name: "[🇰🇷]dl-hk4.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-hk4.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-hk.efpan.one}
-  - {name: "[🇩🇪]dl-hkcmi2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-hkcmi2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-hk.efpan.one}
-  - {name: "[🇺🇸]dl-jp1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-jp1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-jp.efpan.one}
-  - {name: "[🇺🇸]dl-jp2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-jp2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-jp.efpan.one}
+  - {name: "[🇰🇷]dl-hkcmi2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-hkcmi2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-hk.efpan.one}
+  - {name: "[🇰🇷]dl-jp1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-jp1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-jp.efpan.one}
+  - {name: "[🇰🇷]dl-jp2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-jp2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-jp.efpan.one}
   - {name: "[🇰🇷]dl-jp3.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-jp3.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-jp.efpan.one}
-  - {name: "[🇩🇪]dl-jp4.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-jp4.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-jp.efpan.one}
-  - {name: "[🇩🇪]dl-kr1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-kr1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-ockrsl.efpan.one}
-  - {name: "[🇩🇪]dl-kr2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-kr2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-ockrcc.efpan.one}
-  - {name: "[🇩🇪]dl-sg1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-sg1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-sg.efpan.one}
-  - {name: "[🇩🇪]dl-sg2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-sg2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-sg.efpan.one}
+  - {name: "[🇰🇷]dl-jp4.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-jp4.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-jp.efpan.one}
+  - {name: "[🇰🇷]dl-kr1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-kr1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-ockrsl.efpan.one}
+  - {name: "[🇰🇷]dl-kr2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-kr2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-ockrcc.efpan.one}
+  - {name: "[🇰🇷]dl-sg1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-sg1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-sg.efpan.one}
+  - {name: "[🇰🇷]dl-sg2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-sg2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-sg.efpan.one}
   - {name: "[🇮🇹]dl-tw1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-tw1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-tw.efpan.one}
-  - {name: "[🇰🇷]dl-tw2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-tw2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-tw.efpan.one}
+  - {name: "[🇮🇹]dl-tw2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-tw2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-tw.efpan.one}
   - {name: "[🇮🇹]dl-tw3.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-tw3.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-tw.efpan.one}
-  - {name: "[🇰🇷]dl-tw4.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-tw4.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-tw.efpan.one}
-  - {name: "[🇩🇪]dl-us1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-us1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-us.efpan.one}
-  - {name: "[🇰🇷]dl-us2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-us2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-us.efpan.one}
-  - {name: "[🇰🇷]dl-us3.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-us3.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-us.efpan.one}
-  - {name: "[🇰🇷]dl-us4.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-us4.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-us.efpan.one}
+  - {name: "[🇮🇹]dl-tw4.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-tw4.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-tw.efpan.one}
+  - {name: "[🇮🇹]dl-us1.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-us1.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-us.efpan.one}
+  - {name: "[🇮🇹]dl-us2.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-us2.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-us.efpan.one}
+  - {name: "[🇮🇹]dl-us3.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-us3.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-us.efpan.one}
+  - {name: "[🇮🇹]dl-us4.efpan.one:443(4e1d9fd2-bfe0-4add-9313-eefb5a883cf1)", server: dl-us4.efpan.one, port: 443, type: trojan, password: "4e1d9fd2-bfe0-4add-9313-eefb5a883cf1", sni: data-us.efpan.one}
   - {name: "[🇨🇳]1c7s2g02.mcfront.xyz:31206(4effe03b-f2d6-4f1f-b371-eba1054bb249)", server: 1c7s2g02.mcfront.xyz, port: 31206, type: trojan, password: "4effe03b-f2d6-4f1f-b371-eba1054bb249", network: tcp, udp: true}
   - {name: "[🇨🇳]1c7s2g03.mcfront.xyz:31211(4effe03b-f2d6-4f1f-b371-eba1054bb249)", server: 1c7s2g03.mcfront.xyz, port: 31211, type: trojan, password: "4effe03b-f2d6-4f1f-b371-eba1054bb249", network: tcp, udp: true}
   - {name: "[🇨🇳]2d1t5w02.mcfront.xyz:31306(4effe03b-f2d6-4f1f-b371-eba1054bb249)", server: 2d1t5w02.mcfront.xyz, port: 31306, type: trojan, password: "4effe03b-f2d6-4f1f-b371-eba1054bb249", network: tcp, udp: true}
@@ -423,10 +469,10 @@ proxies:
   - {name: "[🇭🇰]91.199.84.239:446(4f2c305b-9a03-4493-b3e4-2dff2f1af8c9)", server: 91.199.84.239, port: 446, type: trojan, password: "4f2c305b-9a03-4493-b3e4-2dff2f1af8c9", sni: wx.qq.com}
   - {name: "[🇦🇶]www.tokyo2023.ga:443(4f7dc540-d244-4e64-af21-4b5bb300add3)", server: www.tokyo2023.ga, port: 443, type: trojan, password: "4f7dc540-d244-4e64-af21-4b5bb300add3"}
   - {name: "[🇮🇩]103.180.125.251:443(4f7f8560-5873-11ed-b732-225401db9d57)", server: 103.180.125.251, port: 443, type: trojan, password: "4f7f8560-5873-11ed-b732-225401db9d57", sni: Iran.GOV}
-  - {name: "[🇯🇵]de.iamnotagoodman.com:443(4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52)", server: de.iamnotagoodman.com, port: 443, type: trojan, password: "4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52", network: tcp, udp: true}
-  - {name: "[🇸🇬]kh.iamnotagoodman.com:443(4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52)", server: kh.iamnotagoodman.com, port: 443, type: trojan, password: "4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52", network: tcp, udp: true}
-  - {name: "[🇸🇬]sg.iamnotagoodman.com:443(4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52)", server: sg.iamnotagoodman.com, port: 443, type: trojan, password: "4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52", network: tcp, udp: true}
-  - {name: "[🇯🇵]usla.iamnotagoodman.com:443(4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52)", server: usla.iamnotagoodman.com, port: 443, type: trojan, password: "4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52", network: tcp, udp: true}
+  - {name: "[🇭🇰]de.iamnotagoodman.com:443(4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52)", server: de.iamnotagoodman.com, port: 443, type: trojan, password: "4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52", network: tcp, udp: true}
+  - {name: "[🇭🇰]kh.iamnotagoodman.com:443(4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52)", server: kh.iamnotagoodman.com, port: 443, type: trojan, password: "4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52", network: tcp, udp: true}
+  - {name: "[🇯🇵]sg.iamnotagoodman.com:443(4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52)", server: sg.iamnotagoodman.com, port: 443, type: trojan, password: "4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52", network: tcp, udp: true}
+  - {name: "[🇭🇰]usla.iamnotagoodman.com:443(4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52)", server: usla.iamnotagoodman.com, port: 443, type: trojan, password: "4f8c0e41-dbdb-40f1-99cb-2c2a0b909b52", network: tcp, udp: true}
   - {name: "[🇸🇬]821hk03.tfzhc.top:443(501c5492-d6c7-4119-b470-67189394d9a7)", server: 821hk03.tfzhc.top, port: 443, type: trojan, password: "501c5492-d6c7-4119-b470-67189394d9a7", sni: 821hk03.tfzhc.top}
   - {name: "[🇸🇬]821sg.tfzhc.top:443(501c5492-d6c7-4119-b470-67189394d9a7)", server: 821sg.tfzhc.top, port: 443, type: trojan, password: "501c5492-d6c7-4119-b470-67189394d9a7", sni: 821sg.tfzhc.top}
   - {name: "[🇯🇵]823jp.tfzhc.top:443(501c5492-d6c7-4119-b470-67189394d9a7)", server: 823jp.tfzhc.top, port: 443, type: trojan, password: "501c5492-d6c7-4119-b470-67189394d9a7", sni: 823jp.tfzhc.top}
@@ -568,14 +614,14 @@ proxies:
   - {name: "[🇭🇰]qt50.shenseven.xyz:2053(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt50.shenseven.xyz, port: 2053, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt50.shenseven.xyz}
   - {name: "[🇭🇰]qt52.shenseven.xyz:2053(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt52.shenseven.xyz, port: 2053, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt52.shenseven.xyz}
   - {name: "[🇰🇷]qt53.shenseven.xyz:443(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt53.shenseven.xyz, port: 443, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt53.shenseven.xyz}
-  - {name: "[🇺🇸]qt54.shenseven.xyz:2087(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt54.shenseven.xyz, port: 2087, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt54.shenseven.xyz}
-  - {name: "[🇸🇬]qt55.shenseven.xyz:2096(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt55.shenseven.xyz, port: 2096, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt55.shenseven.xyz}
+  - {name: "[🇦🇶]qt54.shenseven.xyz:2087(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt54.shenseven.xyz, port: 2087, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt54.shenseven.xyz}
+  - {name: "[🇯🇵]qt55.shenseven.xyz:2096(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt55.shenseven.xyz, port: 2096, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt55.shenseven.xyz}
   - {name: "[🇭🇰]qt56.shenseven.xyz:2053(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt56.shenseven.xyz, port: 2053, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt56.shenseven.xyz}
   - {name: "[🇳🇱]qt57.shenseven.xyz:443(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt57.shenseven.xyz, port: 443, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt57.shenseven.xyz}
   - {name: "[🇸🇬]qt58.shenseven.xyz:2083(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt58.shenseven.xyz, port: 2083, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt58.shenseven.xyz}
   - {name: "[🇭🇰]qt59.shenseven.xyz:443(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt59.shenseven.xyz, port: 443, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt59.shenseven.xyz}
   - {name: "[🇮🇱]qt6.shenseven.xyz:8443(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt6.shenseven.xyz, port: 8443, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt6.shenseven.xyz}
-  - {name: "[🇦🇶]qt7.shenseven.xyz:443(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt7.shenseven.xyz, port: 443, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt7.shenseven.xyz}
+  - {name: "[🇺🇸]qt7.shenseven.xyz:443(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt7.shenseven.xyz, port: 443, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt7.shenseven.xyz}
   - {name: "[🇸🇬]qt8.shenseven.xyz:2096(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt8.shenseven.xyz, port: 2096, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt8.shenseven.xyz}
   - {name: "[🇨🇦]qt9.shenseven.xyz:8443(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: qt9.shenseven.xyz, port: 8443, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt9.shenseven.xyz}
   - {name: "[🇦🇶]sk.shenseven.xyz:12087(5701fb16-1c35-40b2-84f9-9b953404cbcd)", server: sk.shenseven.xyz, port: 12087, type: trojan, password: "5701fb16-1c35-40b2-84f9-9b953404cbcd", sni: qt20.shenseven.xyz}
@@ -637,7 +683,7 @@ proxies:
   - {name: "[🇦🇶]yin1.qingyun123.xyz:10000(599d9e75-08dc-4e9c-b93a-5e455fb5ec42)", server: yin1.qingyun123.xyz, port: 10000, type: trojan, password: "599d9e75-08dc-4e9c-b93a-5e455fb5ec42"}
   - {name: "[🇦🇶]rooms.starspace.link:443(5HfENR8nt2PR8reH)", server: rooms.starspace.link, port: 443, type: trojan, password: "5HfENR8nt2PR8reH"}
   - {name: "[🇦🇶]wireless.starspace.link:443(5LN8SGTqxk336nFg)", server: wireless.starspace.link, port: 443, type: trojan, password: "5LN8SGTqxk336nFg"}
-  - {name: "[🇸🇬]ru.mjt001.com:443(5a035db3-34ea-48ca-9aa2-72c8229e1532)", server: ru.mjt001.com, port: 443, type: trojan, password: "5a035db3-34ea-48ca-9aa2-72c8229e1532", sni: ru.mjt001.com}
+  - {name: "[🇭🇰]ru.mjt001.com:443(5a035db3-34ea-48ca-9aa2-72c8229e1532)", server: ru.mjt001.com, port: 443, type: trojan, password: "5a035db3-34ea-48ca-9aa2-72c8229e1532", sni: ru.mjt001.com}
   - {name: "[🇭🇰]ssl.tcpbbr.net:443(5a3d9b78-cb5b-11ea-82ef-f23c9164ca5d)", server: ssl.tcpbbr.net, port: 443, type: trojan, password: "5a3d9b78-cb5b-11ea-82ef-f23c9164ca5d"}
   - {name: "[🇺🇸]us2.tcpbbr.net:443(5a3d9b78-cb5b-11ea-82ef-f23c9164ca5d)", server: us2.tcpbbr.net, port: 443, type: trojan, password: "5a3d9b78-cb5b-11ea-82ef-f23c9164ca5d"}
   - {name: "[🇦🇶]t1.ssrsub.com:8443(5b092e88-82d8-47eb-a7a2-98bcf02754e9)", server: t1.ssrsub.com, port: 8443, type: trojan, password: "5b092e88-82d8-47eb-a7a2-98bcf02754e9"}
@@ -929,11 +975,11 @@ proxies:
   - {name: "[🇳🇱]80.78.132.177:28443(72e9af0c-83b4-4069-8406-7fd8ee3e474a)", server: 80.78.132.177, port: 28443, type: trojan, password: "72e9af0c-83b4-4069-8406-7fd8ee3e474a"}
   - {name: "[🇦🇶]jp1.sanfen001.pics:443(731ab7a2-184e-4a75-85cf-52f32815a94a)", server: jp1.sanfen001.pics, port: 443, type: trojan, password: "731ab7a2-184e-4a75-85cf-52f32815a94a"}
   - {name: "[🇨🇳]120.241.255.196:41687(74341a38-c634-492e-9385-50eb01dd59e4)", server: 120.241.255.196, port: 41687, type: trojan, password: "74341a38-c634-492e-9385-50eb01dd59e4"}
-  - {name: "[🇭🇰]hinet.mjt001.com:443(74400921-f59f-4009-b52a-c2789b49fab6)", server: hinet.mjt001.com, port: 443, type: trojan, password: "74400921-f59f-4009-b52a-c2789b49fab6", sni: hinet.mjt001.com}
+  - {name: "[🇸🇬]hinet.mjt001.com:443(74400921-f59f-4009-b52a-c2789b49fab6)", server: hinet.mjt001.com, port: 443, type: trojan, password: "74400921-f59f-4009-b52a-c2789b49fab6"}
   - {name: "[🇭🇰]gy.moonfree.top:10000(749247ba-f14d-4cca-a0a1-096629ccad5e)", server: gy.moonfree.top, port: 10000, type: trojan, password: "749247ba-f14d-4cca-a0a1-096629ccad5e", sni: trrbv3.moonfree.top}
   - {name: "[🇭🇰]gy.moonfree.top:10001(749247ba-f14d-4cca-a0a1-096629ccad5e)", server: gy.moonfree.top, port: 10001, type: trojan, password: "749247ba-f14d-4cca-a0a1-096629ccad5e", sni: trsgv3.moonfree.top}
   - {name: "[🇭🇰]gy.moonfree.top:10002(749247ba-f14d-4cca-a0a1-096629ccad5e)", server: gy.moonfree.top, port: 10002, type: trojan, password: "749247ba-f14d-4cca-a0a1-096629ccad5e", sni: trydv3.moonfree.top}
-  - {name: "[🇦🇶]rk59.moonfree.top:443(749247ba-f14d-4cca-a0a1-096629ccad5e)", server: rk59.moonfree.top, port: 443, type: trojan, password: "749247ba-f14d-4cca-a0a1-096629ccad5e", sni: rk59.moonfree.top}
+  - {name: "[🇺🇸]rk59.moonfree.top:443(749247ba-f14d-4cca-a0a1-096629ccad5e)", server: rk59.moonfree.top, port: 443, type: trojan, password: "749247ba-f14d-4cca-a0a1-096629ccad5e", sni: rk59.moonfree.top}
   - {name: "[🇺🇸]rn1107.moonfree.top:443(749247ba-f14d-4cca-a0a1-096629ccad5e)", server: rn1107.moonfree.top, port: 443, type: trojan, password: "749247ba-f14d-4cca-a0a1-096629ccad5e", sni: rn1107.moonfree.top}
   - {name: "[🇯🇵]sh.moonfree.top:10000(749247ba-f14d-4cca-a0a1-096629ccad5e)", server: sh.moonfree.top, port: 10000, type: trojan, password: "749247ba-f14d-4cca-a0a1-096629ccad5e", sni: trrbv3.moonfree.top}
   - {name: "[🇯🇵]sh.moonfree.top:10001(749247ba-f14d-4cca-a0a1-096629ccad5e)", server: sh.moonfree.top, port: 10001, type: trojan, password: "749247ba-f14d-4cca-a0a1-096629ccad5e", sni: trsgv3.moonfree.top}
@@ -1165,6 +1211,7 @@ proxies:
   - {name: "[🇦🇶]hnyd.52147.top:30170(7f77298a-cc14-45dd-a145-28f522443379)", server: hnyd.52147.top, port: 30170, type: trojan, password: "7f77298a-cc14-45dd-a145-28f522443379", sni: huayun.xyz}
   - {name: "[🇰🇷]kr1.api-aws.com:443(7f9e51b9-928e-4076-b075-ba7577c36443)", server: kr1.api-aws.com, port: 443, type: trojan, password: "7f9e51b9-928e-4076-b075-ba7577c36443", network: tcp, udp: true}
   - {name: "[🇭🇰]in01.awcloud.top:443(7f9ef59e-20fb-4343-bafc-3a84fa22fe70)", server: in01.awcloud.top, port: 443, type: trojan, password: "7f9ef59e-20fb-4343-bafc-3a84fa22fe70", network: tcp, udp: true}
+  - {name: "[🇭🇰]my01.awcloud.top:443(7f9ef59e-20fb-4343-bafc-3a84fa22fe70)", server: my01.awcloud.top, port: 443, type: trojan, password: "7f9ef59e-20fb-4343-bafc-3a84fa22fe70", network: tcp, udp: true}
   - {name: "[🇯🇵]106.180.225.69:1443(7x42LetRa0)", server: 106.180.225.69, port: 1443, type: trojan, password: "7x42LetRa0"}
   - {name: "[🇰🇷]kr1.api-aws.com:443(80b07539-c253-4526-8a80-424708ff2ced)", server: kr1.api-aws.com, port: 443, type: trojan, password: "80b07539-c253-4526-8a80-424708ff2ced", network: tcp, udp: true}
   - {name: "[🇦🇶]krnf1.qingyun123.xyz:10050(80cbe86c-99cc-416a-87ce-74006d863e3a)", server: krnf1.qingyun123.xyz, port: 10050, type: trojan, password: "80cbe86c-99cc-416a-87ce-74006d863e3a"}
@@ -1292,7 +1339,7 @@ proxies:
   - {name: "[🇦🇺]syd14.yukiss.eu.org:18818(8a03bc28-2a33-42c4-be59-30464dbb9954)", server: syd14.yukiss.eu.org, port: 18818, type: trojan, password: "8a03bc28-2a33-42c4-be59-30464dbb9954", network: tcp, udp: true}
   - {name: "[🇭🇰]20.247.111.40:42310(8a4b7ed7-3e24-48d5-93d2-2c58a2e8305d)", server: 20.247.111.40, port: 42310, type: trojan, password: "8a4b7ed7-3e24-48d5-93d2-2c58a2e8305d", network: tcp, udp: true}
   - {name: "[🇦🇶]nfjp1.qingyun123.xyz:10000(8a9dbb59-fa5a-4004-9673-28f037631b3c)", server: nfjp1.qingyun123.xyz, port: 10000, type: trojan, password: "8a9dbb59-fa5a-4004-9673-28f037631b3c"}
-  - {name: "[🇸🇬]jp.iamnotagoodman.com:443(8aab51da-6b67-4bd2-b6e6-5ab3008cf53e)", server: jp.iamnotagoodman.com, port: 443, type: trojan, password: "8aab51da-6b67-4bd2-b6e6-5ab3008cf53e", network: tcp, udp: true}
+  - {name: "[🇭🇰]jp.iamnotagoodman.com:443(8aab51da-6b67-4bd2-b6e6-5ab3008cf53e)", server: jp.iamnotagoodman.com, port: 443, type: trojan, password: "8aab51da-6b67-4bd2-b6e6-5ab3008cf53e", network: tcp, udp: true}
   - {name: "[🇨🇳]106.75.48.225:3389(8b475d9e868e43e0)", server: 106.75.48.225, port: 3389, type: trojan, password: "8b475d9e868e43e0", network: tcp, udp: true}
   - {name: "[🇨🇳]120.132.21.219:3389(8b475d9e868e43e0)", server: 120.132.21.219, port: 3389, type: trojan, password: "8b475d9e868e43e0", network: tcp, udp: true}
   - {name: "[🇨🇳]123.59.69.54:3389(8b475d9e868e43e0)", server: 123.59.69.54, port: 3389, type: trojan, password: "8b475d9e868e43e0", network: tcp, udp: true}
@@ -1340,9 +1387,9 @@ proxies:
   - {name: "[🇺🇸]sg27.holiganfan.com:10088(8ce38f17-b2be-453a-8d25-deec1a0aabba)", server: sg27.holiganfan.com, port: 10088, type: trojan, password: "8ce38f17-b2be-453a-8d25-deec1a0aabba"}
   - {name: "[🇺🇸]198.200.51.219:26969(8d0db1d1-62a2-4d8b-b272-e4f364e064c6)", server: 198.200.51.219, port: 26969, type: trojan, password: "8d0db1d1-62a2-4d8b-b272-e4f364e064c6", sni: us-05.bbbb.pw, network: tcp, udp: true}
   - {name: "[🇨🇳]shcm.pdjc.cc:42000(8d0db1d1-62a2-4d8b-b272-e4f364e064c6)", server: shcm.pdjc.cc, port: 42000, type: trojan, password: "8d0db1d1-62a2-4d8b-b272-e4f364e064c6", network: tcp, udp: true}
-  - {name: "[🇺🇸]aead.tls.sksupersususu.dnsfree.top:12345(8d23f8a8-64b8-42c4-9c31-304f7c86669c)", server: aead.tls.sksupersususu.dnsfree.top, port: 12345, type: trojan, password: "8d23f8a8-64b8-42c4-9c31-304f7c86669c"}
-  - {name: "[🇺🇸]aead.tls.sksupersususu.dnsfree.top:12348(8d23f8a8-64b8-42c4-9c31-304f7c86669c)", server: aead.tls.sksupersususu.dnsfree.top, port: 12348, type: trojan, password: "8d23f8a8-64b8-42c4-9c31-304f7c86669c"}
-  - {name: "[🇺🇸]baidu.hongkong.dnsfree.top:55094(8d23f8a8-64b8-42c4-9c31-304f7c86669c)", server: baidu.hongkong.dnsfree.top, port: 55094, type: trojan, password: "8d23f8a8-64b8-42c4-9c31-304f7c86669c"}
+  - {name: "[🇳🇱]aead.tls.sksupersususu.dnsfree.top:12345(8d23f8a8-64b8-42c4-9c31-304f7c86669c)", server: aead.tls.sksupersususu.dnsfree.top, port: 12345, type: trojan, password: "8d23f8a8-64b8-42c4-9c31-304f7c86669c"}
+  - {name: "[🇳🇱]aead.tls.sksupersususu.dnsfree.top:12348(8d23f8a8-64b8-42c4-9c31-304f7c86669c)", server: aead.tls.sksupersususu.dnsfree.top, port: 12348, type: trojan, password: "8d23f8a8-64b8-42c4-9c31-304f7c86669c"}
+  - {name: "[🇳🇱]baidu.hongkong.dnsfree.top:55094(8d23f8a8-64b8-42c4-9c31-304f7c86669c)", server: baidu.hongkong.dnsfree.top, port: 55094, type: trojan, password: "8d23f8a8-64b8-42c4-9c31-304f7c86669c"}
   - {name: "[🇺🇸]pro.tls.hongkongaz.dnsfree.top:55093(8d23f8a8-64b8-42c4-9c31-304f7c86669c)", server: pro.tls.hongkongaz.dnsfree.top, port: 55093, type: trojan, password: "8d23f8a8-64b8-42c4-9c31-304f7c86669c"}
   - {name: "[🇳🇱]superjapan1111.dnsfree.top:12387(8d23f8a8-64b8-42c4-9c31-304f7c86669c)", server: superjapan1111.dnsfree.top, port: 12387, type: trojan, password: "8d23f8a8-64b8-42c4-9c31-304f7c86669c"}
   - {name: "[🇺🇸]tls.us01.dnsfree.top:12345(8d23f8a8-64b8-42c4-9c31-304f7c86669c)", server: tls.us01.dnsfree.top, port: 12345, type: trojan, password: "8d23f8a8-64b8-42c4-9c31-304f7c86669c"}
@@ -1486,7 +1533,7 @@ proxies:
   - {name: "[🇨🇳]9s5g01.abzoones.xyz:36201(9a9ee810-4c23-4be6-8811-34fd1e128b0a)", server: 9s5g01.abzoones.xyz, port: 36201, type: trojan, password: "9a9ee810-4c23-4be6-8811-34fd1e128b0a", network: tcp, udp: true}
   - {name: "[🇨🇳]9s5g02.abzoones.xyz:36206(9a9ee810-4c23-4be6-8811-34fd1e128b0a)", server: 9s5g02.abzoones.xyz, port: 36206, type: trojan, password: "9a9ee810-4c23-4be6-8811-34fd1e128b0a", network: tcp, udp: true}
   - {name: "[🇨🇳]9s5g03.abzoones.xyz:36211(9a9ee810-4c23-4be6-8811-34fd1e128b0a)", server: 9s5g03.abzoones.xyz, port: 36211, type: trojan, password: "9a9ee810-4c23-4be6-8811-34fd1e128b0a", network: tcp, udp: true}
-  - {name: "[🇺🇸]aead.tls.sksupersususu.dnsfree.top:12345(9b2caa58-6182-47b6-815f-035a87e014a9)", server: aead.tls.sksupersususu.dnsfree.top, port: 12345, type: trojan, password: "9b2caa58-6182-47b6-815f-035a87e014a9", sni: aead.tls.sksupersususu.dnsfree.top}
+  - {name: "[🇳🇱]aead.tls.sksupersususu.dnsfree.top:12345(9b2caa58-6182-47b6-815f-035a87e014a9)", server: aead.tls.sksupersususu.dnsfree.top, port: 12345, type: trojan, password: "9b2caa58-6182-47b6-815f-035a87e014a9", sni: aead.tls.sksupersususu.dnsfree.top}
   - {name: "[🇦🇶]xioix.gq:443(9b7195ba-f029-4d7d-a728-ece6e0fdc363)", server: xioix.gq, port: 443, type: trojan, password: "9b7195ba-f029-4d7d-a728-ece6e0fdc363"}
   - {name: "[🇨🇳]v02.gutingting.com:30049(9b9bf7b0-d9c2-4a3f-aa2a-e1ab9b44775a)", server: v02.gutingting.com, port: 30049, type: trojan, password: "9b9bf7b0-d9c2-4a3f-aa2a-e1ab9b44775a"}
   - {name: "[🇦🇶]527hk5.fans8.xyz:443(9c289eb1-59b1-49ff-9c80-9a3c879c654e)", server: 527hk5.fans8.xyz, port: 443, type: trojan, password: "9c289eb1-59b1-49ff-9c80-9a3c879c654e", sni: 527hk5.fans8.xyz, network: tcp, udp: true}
@@ -1630,7 +1677,6 @@ proxies:
   - {name: "[🇭🇰]219.76.13.181:443(SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ)", server: 219.76.13.181, port: 443, type: trojan, password: "SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ", sni: arbettp.freetrade.link}
   - {name: "[🇲🇴]45.64.22.55:443(TaSXwOxORaZ7pD8DlzCE3yNFS5C38eeCuDng03FcA4BSpjK96YaZRIAlx2yqY3)", server: 45.64.22.55, port: 443, type: trojan, password: "TaSXwOxORaZ7pD8DlzCE3yNFS5C38eeCuDng03FcA4BSpjK96YaZRIAlx2yqY3", sni: mhkla.freetrade.link}
   - {name: "[🇦🇶]xray.tawanaclub.tk:17968(Tawana0Proxy)", server: xray.tawanaclub.tk, port: 17968, type: trojan, password: "Tawana0Proxy", network: tcp, udp: true}
-  - {name: "[🇩🇪]bdvasxmahl.injafarvpnwebelieve.gq:443(TvBypqQJ9b)", server: bdvasxmahl.injafarvpnwebelieve.gq, port: 443, type: trojan, password: "TvBypqQJ9b", network: tcp, udp: true}
   - {name: "[🇨🇳]jp-tyo-04-tr.cdn.savoy.click:889(UiLPqefVfielqkDjEwBV)", server: jp-tyo-04-tr.cdn.savoy.click, port: 889, type: trojan, password: "UiLPqefVfielqkDjEwBV"}
   - {name: "[🇺🇸]祢豆子.com:10086(UnsZJB)", server: 祢豆子.com, port: 10086, type: trojan, password: "UnsZJB", sni: }
   - {name: "[🇦🇶]shop-three.defun.us:443(UvhTLyCf27fjxqPQ)", server: shop-three.defun.us, port: 443, type: trojan, password: "UvhTLyCf27fjxqPQ"}
@@ -1640,7 +1686,7 @@ proxies:
   - {name: "[🇦🇶]storage.starspace.link:443(W8gVbKNAZlFzgGPn)", server: storage.starspace.link, port: 443, type: trojan, password: "W8gVbKNAZlFzgGPn"}
   - {name: "[🇺🇸]greenfishpowered.cn:10086(WDNMDC)", server: greenfishpowered.cn, port: 10086, type: trojan, password: "WDNMDC", sni: payday2.eu.org, network: tcp, udp: true}
   - {name: "[🇺🇸]greenfishpowered.cn:10086(WDNMDM)", server: greenfishpowered.cn, port: 10086, type: trojan, password: "WDNMDM", sni: payday2.eu.org, network: tcp, udp: true}
-  - {name: "[🇦🇶]payday2.eu.org:10086(WDNMDM)", server: payday2.eu.org, port: 10086, type: trojan, password: "WDNMDM", sni: payday2.eu.org}
+  - {name: "[🇺🇸]payday2.eu.org:10086(WDNMDM)", server: payday2.eu.org, port: 10086, type: trojan, password: "WDNMDM", sni: payday2.eu.org}
   - {name: "[🇺🇸]greenfishpowered.cn:10086(WDNMDN)", server: greenfishpowered.cn, port: 10086, type: trojan, password: "WDNMDN", sni: payday2.eu.org, network: tcp, udp: true}
   - {name: "[🇺🇸]107.173.146.188:37863(WFSVEtgLnb)", server: 107.173.146.188, port: 37863, type: trojan, password: "WFSVEtgLnb"}
   - {name: "[🇦🇶]xddipa.cn:443(XAjZGT9wpG)", server: xddipa.cn, port: 443, type: trojan, password: "XAjZGT9wpG"}
@@ -1830,7 +1876,7 @@ proxies:
   - {name: "[🇦🇶]sh.cu.01.211129.xyz:54356(a7f7db62-1863-4f80-9d4d-656151994926)", server: sh.cu.01.211129.xyz, port: 54356, type: trojan, password: "a7f7db62-1863-4f80-9d4d-656151994926", sni: awskr2.698436.xyz}
   - {name: "[🇦🇶]oracle.blowm1k.club:443(a98f320a-f8c5-5bc0-be60-1bf4b7be9498)", server: oracle.blowm1k.club, port: 443, type: trojan, password: "a98f320a-f8c5-5bc0-be60-1bf4b7be9498", sni: oracle.blowm1k.club}
   - {name: "[🇯🇵]20.89.140.237:80(aa06007a-d14d-33d3-91a3-4480ee5f4295)", server: 20.89.140.237, port: 80, type: trojan, password: "aa06007a-d14d-33d3-91a3-4480ee5f4295"}
-  - {name: "[🇺🇸]aead.tls.hongkongazace.dnsfree.top:12345(aa282547-bc28-46d1-afa6-b7bbe72b297d)", server: aead.tls.hongkongazace.dnsfree.top, port: 12345, type: trojan, password: "aa282547-bc28-46d1-afa6-b7bbe72b297d"}
+  - {name: "[🇳🇱]aead.tls.hongkongazace.dnsfree.top:12345(aa282547-bc28-46d1-afa6-b7bbe72b297d)", server: aead.tls.hongkongazace.dnsfree.top, port: 12345, type: trojan, password: "aa282547-bc28-46d1-afa6-b7bbe72b297d"}
   - {name: "[🇨🇳]1j8p02.abzoones.xyz:36106(aa75ea8b-063d-4ac0-ada5-6fceaef2db8c)", server: 1j8p02.abzoones.xyz, port: 36106, type: trojan, password: "aa75ea8b-063d-4ac0-ada5-6fceaef2db8c", network: tcp, udp: true}
   - {name: "[🇨🇳]1j8p03.abzoones.xyz:36111(aa75ea8b-063d-4ac0-ada5-6fceaef2db8c)", server: 1j8p03.abzoones.xyz, port: 36111, type: trojan, password: "aa75ea8b-063d-4ac0-ada5-6fceaef2db8c", network: tcp, udp: true}
   - {name: "[🇨🇳]2u3k01.abzoones.xyz:36811(aa75ea8b-063d-4ac0-ada5-6fceaef2db8c)", server: 2u3k01.abzoones.xyz, port: 36811, type: trojan, password: "aa75ea8b-063d-4ac0-ada5-6fceaef2db8c", network: tcp, udp: true}
@@ -2296,7 +2342,6 @@ proxies:
   - {name: "[🇨🇳]v02.gutingting.com:30057(b66e1c22-0d54-4ad6-86f5-fa7be837676f)", server: v02.gutingting.com, port: 30057, type: trojan, password: "b66e1c22-0d54-4ad6-86f5-fa7be837676f", sni: v1kr02.fuqiangren.com}
   - {name: "[🇦🇶]sg.coco233.xyz:35421(b687b90f-54e3-4123-8771-3425fde5aff0)", server: sg.coco233.xyz, port: 35421, type: trojan, password: "b687b90f-54e3-4123-8771-3425fde5aff0"}
   - {name: "[🇰🇷]kr1.api-aws.com:443(b70b2ed8-6d35-4fe0-8ae7-4e8fa45ff326)", server: kr1.api-aws.com, port: 443, type: trojan, password: "b70b2ed8-6d35-4fe0-8ae7-4e8fa45ff326", network: tcp, udp: true}
-  - {name: "[🇸🇬]ca.liangyuandian.top:443(b7bc6b1c-610d-4d39-ad29-18a0d6902348)", server: ca.liangyuandian.top, port: 443, type: trojan, password: "b7bc6b1c-610d-4d39-ad29-18a0d6902348", network: tcp, udp: true}
   - {name: "[🇸🇬]sg.liangyuandian.top:443(b7bc6b1c-610d-4d39-ad29-18a0d6902348)", server: sg.liangyuandian.top, port: 443, type: trojan, password: "b7bc6b1c-610d-4d39-ad29-18a0d6902348", network: tcp, udp: true}
   - {name: "[🇸🇬]usa.liangyuandian.top:443(b7bc6b1c-610d-4d39-ad29-18a0d6902348)", server: usa.liangyuandian.top, port: 443, type: trojan, password: "b7bc6b1c-610d-4d39-ad29-18a0d6902348", network: tcp, udp: true}
   - {name: "[🇦🇶]jgw4.gaox.ml:443(b7e0e71f-070c-437a-9826-6e23caeb0307)", server: jgw4.gaox.ml, port: 443, type: trojan, password: "b7e0e71f-070c-437a-9826-6e23caeb0307"}
@@ -2934,48 +2979,3 @@ proxies:
   - {name: "[🇯🇵]0a39e00.gb.gladns.com:3381(d66013c645b93c5c)", server: 0a39e00.gb.gladns.com, port: 3381, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
   - {name: "[🇯🇵]0a39e00.gb.gladns.com:3382(d66013c645b93c5c)", server: 0a39e00.gb.gladns.com, port: 3382, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
   - {name: "[🇯🇵]0a39e00.gb.gladns.com:3383(d66013c645b93c5c)", server: 0a39e00.gb.gladns.com, port: 3383, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.gb.gladns.com:3384(d66013c645b93c5c)", server: 0a39e00.gb.gladns.com, port: 3384, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.gb.gladns.com:3385(d66013c645b93c5c)", server: 0a39e00.gb.gladns.com, port: 3385, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.gb.gladns.com:3386(d66013c645b93c5c)", server: 0a39e00.gb.gladns.com, port: 3386, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.gc.gladns.com:3381(d66013c645b93c5c)", server: 0a39e00.gc.gladns.com, port: 3381, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.gc.gladns.com:3382(d66013c645b93c5c)", server: 0a39e00.gc.gladns.com, port: 3382, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.gc.gladns.com:3383(d66013c645b93c5c)", server: 0a39e00.gc.gladns.com, port: 3383, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.gc.gladns.com:3384(d66013c645b93c5c)", server: 0a39e00.gc.gladns.com, port: 3384, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.gc.gladns.com:3385(d66013c645b93c5c)", server: 0a39e00.gc.gladns.com, port: 3385, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.gc.gladns.com:3386(d66013c645b93c5c)", server: 0a39e00.gc.gladns.com, port: 3386, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.pa.gladns.com:3389(d66013c645b93c5c)", server: 0a39e00.pa.gladns.com, port: 3389, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.pb.gladns.com:3389(d66013c645b93c5c)", server: 0a39e00.pb.gladns.com, port: 3389, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.pc.gladns.com:3389(d66013c645b93c5c)", server: 0a39e00.pc.gladns.com, port: 3389, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.pd.gladns.com:3389(d66013c645b93c5c)", server: 0a39e00.pd.gladns.com, port: 3389, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.pe.gladns.com:3389(d66013c645b93c5c)", server: 0a39e00.pe.gladns.com, port: 3389, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.pf.gladns.com:3389(d66013c645b93c5c)", server: 0a39e00.pf.gladns.com, port: 3389, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.pg.gladns.com:3389(d66013c645b93c5c)", server: 0a39e00.pg.gladns.com, port: 3389, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.ph.gladns.com:3389(d66013c645b93c5c)", server: 0a39e00.ph.gladns.com, port: 3389, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇯🇵]0a39e00.pi.gladns.com:3389(d66013c645b93c5c)", server: 0a39e00.pi.gladns.com, port: 3389, type: trojan, password: "d66013c645b93c5c", sni: n2.gladns.com, network: tcp, udp: true}
-  - {name: "[🇨🇳]103.56.60.235:3385(d66013c645b93c5c)", server: 103.56.60.235, port: 3385, type: trojan, password: "d66013c645b93c5c"}
-  - {name: "[🇨🇳]103.56.62.145:3385(d66013c645b93c5c)", server: 103.56.62.145, port: 3385, type: trojan, password: "d66013c645b93c5c"}
-  - {name: "[🇨🇳]106.75.233.91:3389(d66013c645b93c5c)", server: 106.75.233.91, port: 3389, type: trojan, password: "d66013c645b93c5c"}
-  - {name: "[🇨🇳]116.129.253.130:3389(d66013c645b93c5c)", server: 116.129.253.130, port: 3389, type: trojan, password: "d66013c645b93c5c"}
-  - {name: "[🇨🇳]116.129.253.134:3384(d66013c645b93c5c)", server: 116.129.253.134, port: 3384, type: trojan, password: "d66013c645b93c5c"}
-  - {name: "[🇨🇳]116.129.253.134:3385(d66013c645b93c5c)", server: 116.129.253.134, port: 3385, type: trojan, password: "d66013c645b93c5c"}
-  - {name: "[🇨🇳]116.129.254.29:3389(d66013c645b93c5c)", server: 116.129.254.29, port: 3389, type: trojan, password: "d66013c645b93c5c"}
-  - {name: "[🇨🇳]116.129.254.47:3389(d66013c645b93c5c)", server: 116.129.254.47, port: 3389, type: trojan, password: "d66013c645b93c5c"}
-  - {name: "[🇨🇳]120.233.186.250:3384(d66013c645b93c5c)", server: 120.233.186.250, port: 3384, type: trojan, password: "d66013c645b93c5c"}
-  - {name: "[🇨🇳]120.233.186.250:3385(d66013c645b93c5c)", server: 120.233.186.250, port: 3385, type: trojan, password: "d66013c645b93c5c"}
-  - {name: "[🇨🇳]120.233.186.71:3384(d66013c645b93c5c)", server: 120.233.186.71, port: 3384, type: trojan, password: "d66013c645b93c5c"}
-  - {name: "[🇨🇳]120.233.186.71:3389(d66013c645b93c5c)", server: 120.233.186.71, port: 3389, type: trojan, password: "d66013c645b93c5c"}
-  - {name: "[🇺🇸]134.195.101.32:3389(d66013c645b93c5c)", server: 134.195.101.32, port: 3389, type: trojan, password: "d66013c645b93c5c"}
-  - {name: "[🇦🇶]hkbgp.pindan.ml:10000(d66d121f-131a-40ef-aded-255e99a42583)", server: hkbgp.pindan.ml, port: 10000, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
-  - {name: "[🇦🇶]hkbgp.pindan.ml:10001(d66d121f-131a-40ef-aded-255e99a42583)", server: hkbgp.pindan.ml, port: 10001, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
-  - {name: "[🇦🇶]hkbgp.pindan.ml:10002(d66d121f-131a-40ef-aded-255e99a42583)", server: hkbgp.pindan.ml, port: 10002, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
-  - {name: "[🇦🇶]hkbgp.pindan.ml:10003(d66d121f-131a-40ef-aded-255e99a42583)", server: hkbgp.pindan.ml, port: 10003, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
-  - {name: "[🇦🇶]hkbgp.pindan.ml:10004(d66d121f-131a-40ef-aded-255e99a42583)", server: hkbgp.pindan.ml, port: 10004, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
-  - {name: "[🇦🇶]hkbgp.pindan.ml:10005(d66d121f-131a-40ef-aded-255e99a42583)", server: hkbgp.pindan.ml, port: 10005, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
-  - {name: "[🇦🇶]hkbgp.pindan.ml:10006(d66d121f-131a-40ef-aded-255e99a42583)", server: hkbgp.pindan.ml, port: 10006, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
-  - {name: "[🇦🇶]hkbgp.pindan.ml:30000(d66d121f-131a-40ef-aded-255e99a42583)", server: hkbgp.pindan.ml, port: 30000, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
-  - {name: "[🇦🇶]relay.01.pindan.ml:10001(d66d121f-131a-40ef-aded-255e99a42583)", server: relay.01.pindan.ml, port: 10001, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
-  - {name: "[🇦🇶]relay.01.pindan.ml:10002(d66d121f-131a-40ef-aded-255e99a42583)", server: relay.01.pindan.ml, port: 10002, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
-  - {name: "[🇦🇶]relay.01.pindan.ml:10003(d66d121f-131a-40ef-aded-255e99a42583)", server: relay.01.pindan.ml, port: 10003, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
-  - {name: "[🇦🇶]relay.01.pindan.ml:10004(d66d121f-131a-40ef-aded-255e99a42583)", server: relay.01.pindan.ml, port: 10004, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
-  - {name: "[🇦🇶]relay.01.pindan.ml:10006(d66d121f-131a-40ef-aded-255e99a42583)", server: relay.01.pindan.ml, port: 10006, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
-  - {name: "[🇦🇶]relay.01.pindan.ml:10007(d66d121f-131a-40ef-aded-255e99a42583)", server: relay.01.pindan.ml, port: 10007, type: trojan, password: "d66d121f-131a-40ef-aded-255e99a42583", sni: pindan.ml}
