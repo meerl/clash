@@ -26,8 +26,8 @@ trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw7-tg-data.amazonwebservicess.co
 trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw3-tg-data.amazonwebservicess.com:443?allowInsecure=1#%5B%F0%9F%87%B9%F0%9F%87%BC%5Dstw3-tg-data.amazonwebservicess.com%3A443%28ca7febc2-bb45-4e6d-810e-ab0af6009c4e%29
 trojan://275ec150-da51-11ed-893a-1239d0255272@sg-3.test3.net:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg-3.test3.net%3A443%28275ec150-da51-11ed-893a-1239d0255272%29
 trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@scloudtw2-tg-data.amazonwebservicess.com:443?allowInsecure=1#%5B%F0%9F%87%B9%F0%9F%87%BC%5Dscloudtw2-tg-data.amazonwebservicess.com%3A443%284aeda200-44c9-4168-8f2a-a00a72176d35%29
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw5-tg-data.amazonwebservicess.com:443?allowInsecure=1#%5B%F0%9F%87%AE%F0%9F%87%B3%5Dstw5-tg-data.amazonwebservicess.com%3A443%28ca7febc2-bb45-4e6d-810e-ab0af6009c4e%29
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw6-tg-data.amazonwebservicess.com:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dstw6-tg-data.amazonwebservicess.com%3A443%28ca7febc2-bb45-4e6d-810e-ab0af6009c4e%29
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw5-tg-data.amazonwebservicess.com:443?allowInsecure=1#%5B%F0%9F%87%B9%F0%9F%87%BC%5Dstw5-tg-data.amazonwebservicess.com%3A443%28ca7febc2-bb45-4e6d-810e-ab0af6009c4e%29
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw6-tg-data.amazonwebservicess.com:443?allowInsecure=1#%5B%F0%9F%87%B9%F0%9F%87%BC%5Dstw6-tg-data.amazonwebservicess.com%3A443%28ca7febc2-bb45-4e6d-810e-ab0af6009c4e%29
 trojan://a7d5f659-6ad2-4288-b63a-3d42bdf5b122@bgptw3.cnamazon.sbs:443?allowInsecure=1#%5B%F0%9F%87%B9%F0%9F%87%BC%5Dbgptw3.cnamazon.sbs%3A443%28a7d5f659-6ad2-4288-b63a-3d42bdf5b122%29
 trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw10-tg-data.amazonwebservicess.com:443?allowInsecure=1#%5B%F0%9F%87%B9%F0%9F%87%BC%5Dstw10-tg-data.amazonwebservicess.com%3A443%28ca7febc2-bb45-4e6d-810e-ab0af6009c4e%29
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1x1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM10xMjAuMjQwLjE2My4xMTk6NDg0NjUoNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0KSIsICJhZGQiOiAiMTIwLjI0MC4xNjMuMTE5IiwgInBvcnQiOiAiNDg0NjUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
@@ -476,7 +476,7 @@ trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awshk7-tg-data.amazonwebservicess.
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@my01.trojanyyds.xyz:443?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dmy01.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@sk01.trojanyyds.xyz:443?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dsk01.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@hk02.trojanyyds.xyz:443?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dhk02.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@hinet.mjt001.com:443?allowInsecure=1#%5B%F0%9F%87%B0%F0%9F%87%B7%5Dhinet.mjt001.com%3A443%28af4dc66a-ec88-4057-9e46-777b584577f7%29
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@hinet.mjt001.com:443?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dhinet.mjt001.com%3A443%28af4dc66a-ec88-4057-9e46-777b584577f7%29
 trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@13.215.194.103:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5D13.215.194.103%3A443%284aeda200-44c9-4168-8f2a-a00a72176d35%29
 trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@awssg16-data.amazon-azure.com:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dawssg16-data.amazon-azure.com%3A443%28ca7febc2-bb45-4e6d-810e-ab0af6009c4e%29
 trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@awssg19-data.amazon-azure.com:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dawssg19-data.amazon-azure.com%3A443%28ca7febc2-bb45-4e6d-810e-ab0af6009c4e%29
