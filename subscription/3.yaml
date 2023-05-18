@@ -1,4 +1,9 @@
 proxies:
+  - {name: "[🇸🇬]157.245.144.188:20008(61e2d024-31ac-4c8a-8ca8-6ea85ae7941b)", server: 157.245.144.188, port: 20008, type: ss, cipher: aes-128-gcm, password: "61e2d024-31ac-4c8a-8ca8-6ea85ae7941b"}
+  - {name: "[🇸🇬]165.232.161.22:20006(61e2d024-31ac-4c8a-8ca8-6ea85ae7941b)", server: 165.232.161.22, port: 20006, type: ss, cipher: aes-128-gcm, password: "61e2d024-31ac-4c8a-8ca8-6ea85ae7941b"}
+  - {name: "[🇸🇬]167.172.77.23:20007(61e2d024-31ac-4c8a-8ca8-6ea85ae7941b)", server: 167.172.77.23, port: 20007, type: ss, cipher: aes-128-gcm, password: "61e2d024-31ac-4c8a-8ca8-6ea85ae7941b"}
+  - {name: "[🇸🇬]194.9.62.20:443(61e2d024-31ac-4c8a-8ca8-6ea85ae7941b)", server: 194.9.62.20, port: 443, type: ss, cipher: aes-128-gcm, password: "61e2d024-31ac-4c8a-8ca8-6ea85ae7941b"}
+  - {name: "[🇨🇳]52.81.179.243:10001(61e2d024-31ac-4c8a-8ca8-6ea85ae7941b)", server: 52.81.179.243, port: 10001, type: ss, cipher: aes-128-gcm, password: "61e2d024-31ac-4c8a-8ca8-6ea85ae7941b"}
   - {name: "[🇨🇳]52.81.179.243:10002(61e2d024-31ac-4c8a-8ca8-6ea85ae7941b)", server: 52.81.179.243, port: 10002, type: ss, cipher: aes-128-gcm, password: "61e2d024-31ac-4c8a-8ca8-6ea85ae7941b"}
   - {name: "[🇨🇳]52.81.179.243:10003(61e2d024-31ac-4c8a-8ca8-6ea85ae7941b)", server: 52.81.179.243, port: 10003, type: ss, cipher: aes-128-gcm, password: "61e2d024-31ac-4c8a-8ca8-6ea85ae7941b"}
   - {name: "[🇨🇳]52.81.179.243:10004(61e2d024-31ac-4c8a-8ca8-6ea85ae7941b)", server: 52.81.179.243, port: 10004, type: ss, cipher: aes-128-gcm, password: "61e2d024-31ac-4c8a-8ca8-6ea85ae7941b"}
@@ -83,7 +88,7 @@ proxies:
   - {name: "[🇺🇸]w5.v2mmy.xyz:44821(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w5.v2mmy.xyz, port: 44821, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
   - {name: "[🇺🇸]w5.v2mmy.xyz:44822(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w5.v2mmy.xyz, port: 44822, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
   - {name: "[🇺🇸]w5.v2mmy.xyz:44823(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w5.v2mmy.xyz, port: 44823, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
-  - {name: "[🇺🇸]w6.v2mmy.xyz:25600(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w6.v2mmy.xyz, port: 25600, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
+  - {name: "[🇳🇱]w6.v2mmy.xyz:25600(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w6.v2mmy.xyz, port: 25600, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
   - {name: "[🇺🇸]w7.v2mmy.xyz:44827(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w7.v2mmy.xyz, port: 44827, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
   - {name: "[🇺🇸]w7.v2mmy.xyz:44828(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w7.v2mmy.xyz, port: 44828, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
   - {name: "[🇨🇳]163.177.158.215:16000(bzUdYJ4JzjGfIwhG)", server: 163.177.158.215, port: 16000, type: ss, cipher: aes-128-gcm, password: "bzUdYJ4JzjGfIwhG"}
@@ -2994,8 +2999,3 @@ proxies:
   - {name: "[🇦🇶]mplsjs1.ggbbba.xyz:56714(gDQ8kr1HdHEK5DGU)", server: mplsjs1.ggbbba.xyz, port: 56714, type: ss, cipher: aes-256-gcm, password: "gDQ8kr1HdHEK5DGU"}
   - {name: "[🇦🇶]mplsjs1.ggbbba.xyz:56715(gDQ8kr1HdHEK5DGU)", server: mplsjs1.ggbbba.xyz, port: 56715, type: ss, cipher: aes-256-gcm, password: "gDQ8kr1HdHEK5DGU"}
   - {name: "[🇺🇸]198.147.22.87:32558(gJYzm3TLbdL495ryQptaJXQk)", server: 198.147.22.87, port: 32558, type: ss, cipher: aes-256-gcm, password: "gJYzm3TLbdL495ryQptaJXQk"}
-  - {name: "[🇨🇳]r001.baipiaoxd.com:19198(gKXJa5qK6l)", server: r001.baipiaoxd.com, port: 19198, type: ss, cipher: aes-256-gcm, password: "gKXJa5qK6l"}
-  - {name: "[🇧🇦]185.99.3.108:46642(gYL83DQWXuDbxmZAVVtUTXaK)", server: 185.99.3.108, port: 46642, type: ss, cipher: aes-256-gcm, password: "gYL83DQWXuDbxmZAVVtUTXaK"}
-  - {name: "[🇮🇹]82.102.26.93:46642(gYL83DQWXuDbxmZAVVtUTXaK)", server: 82.102.26.93, port: 46642, type: ss, cipher: aes-256-gcm, password: "gYL83DQWXuDbxmZAVVtUTXaK"}
-  - {name: "[🇺🇸]79.110.54.133:46642(gYL83DQWXuDbxmZAVVtUTXaK)", server: 79.110.54.133, port: 46642, type: ss, cipher: aes-256-gcm, password: "gYL83DQWXuDbxmZAVVtUTXaK"}
-  - {name: "[🇨🇳]gy.teacat2.xyz:50069(d1c6c893-64c8-42a6-834f-94955f4afccd)", server: gy.teacat2.xyz, port: 50069, type: ss, cipher: aes-256-gcm, password: "d1c6c893-64c8-42a6-834f-94955f4afccd"}
