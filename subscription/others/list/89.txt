@@ -1,5 +1,5 @@
 trojan://6cc96992-cfab-48ca-9e16-963c4a0aa585@hk1.cnamazon.sbs:443?allowInsecure=1#%5B%F0%9F%87%AD%F0%9F%87%B0%5Dhk1.cnamazon.sbs%3A443%286cc96992-cfab-48ca-9e16-963c4a0aa585%29
-trojan://bc2a1eb1-a706-4ee5-95a6-732a6c324142@bgptw1.cnamazon.sbs:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dbgptw1.cnamazon.sbs%3A443%28bc2a1eb1-a706-4ee5-95a6-732a6c324142%29
+trojan://bc2a1eb1-a706-4ee5-95a6-732a6c324142@bgptw1.cnamazon.sbs:443?allowInsecure=1#%5B%F0%9F%87%B9%F0%9F%87%BC%5Dbgptw1.cnamazon.sbs%3A443%28bc2a1eb1-a706-4ee5-95a6-732a6c324142%29
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ua.mjt001.com:443?allowInsecure=1&sni=ua.mjt001.com#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dua.mjt001.com%3A443%28af4dc66a-ec88-4057-9e46-777b584577f7%29
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@sa.mjt001.com:443?allowInsecure=1&sni=sa.mjt001.com#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsa.mjt001.com%3A443%28af4dc66a-ec88-4057-9e46-777b584577f7%29
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@uk.mjt001.com:443?allowInsecure=1&sni=uk.mjt001.com#%5B%F0%9F%87%B8%F0%9F%87%AC%5Duk.mjt001.com%3A443%28af4dc66a-ec88-4057-9e46-777b584577f7%29
