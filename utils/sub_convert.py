@@ -22,9 +22,9 @@ class sub_convert():
         for url in urls:
             # 对url编码
             url_quote = urllib.parse.quote(url, safe='')
-            try:
-                # 转换并获取订阅链接数据
-                for server_host in server_host_list:
+            # 转换并获取订阅链接数据
+            for server_host in server_host_list:
+                try:
                     converted_url = server_host+'/sub?target=mixed&url='+url_quote+'&list=true'
                     s = requests.Session()
                     s.mount('http://', HTTPAdapter(max_retries=3))
@@ -36,14 +36,15 @@ class sub_convert():
                         if server_host is server_host_list[-1]:
                             print(f"Can not transform: {url}, downloading...\n")
                             resp = s.get(url, verify=None, timeout=10)
-                node_list = resp.text
-            except Exception:
-                # 链接有问题，直接返回原始错误
-                print(f'网络错误，检查订阅转换服务器是否失效: {url}\n')
-                continue
-            # 改名
-            node_list_formated = sub_convert.format(node_list)
-            sub_content.append(node_list_formated)
+                        else:
+                            continue
+                    node_list_formated = sub_convert.format(resp.text)
+                    sub_content.append(node_list_formated)
+                    break
+                except Exception:
+                    # 链接有问题，直接返回原始错误
+                    print(f'网络错误，检查订阅转换服务器是否失效: {url}\n')
+                    continue
         sub_content_all = ''.join(sub_content)
         return sub_content_all
 
@@ -51,6 +52,11 @@ class sub_convert():
         # 重命名
         node_list_formated_array = []
         # 替换://://字符串，以修复后期toclash转换错误
+        if '://' not in node_list:
+            try:
+                node_list = sub_convert.base64_decode(node_list)
+            except Exception:
+                print(f'无法格式化：{node_list}')
         node_list = node_list.replace('://://', '://')
         node_list_array = node_list.split('\n')
         for node in node_list_array:
@@ -680,6 +686,6 @@ class sub_convert():
 
         return yaml_content
 if __name__ == '__main__':
-    # sub_convert.get_node_from_sub("https://58.35.228.202:8084/clash/proxies")
+    sub_convert.get_node_from_sub("https://raw.githubusercontent.com/mheidari98/.proxy/main/all")
     # sub_convert.format("ss://YWVzLTEyOC1nY206M2U3NjBmZmQtZGY0Ny00Y2YyLWI3NTMtMjQ4MjYyOTcwYjhlQHVzMi5saW5naHVuMy54eXo6NDAwMDc=?country=8J-HuvCfh7ggVVM=#%5B%E4%B8%AD%E5%9B%BDSS%5DUS2.LINGHUN3.XYZ%3A40007")
-    sub_convert.yaml_encode(["trojan://d1478689-439c-4590-b7ce-36e786a02dc3@youtube-bai-piao-wang-zhe-usa.98848.xyz:443?security=tls&sni=youtube-bai-piao-wang-zhe-usa.98848.xyz&alpn=http%2F1.1&type=tcp&headerType=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dyoutube-bai-piao-wang-zhe-usa.98848.xyz%3A443%28d1478689-439c-4590-b7ce-36e786a02dc3%29"])
+    # sub_convert.yaml_encode(["trojan://d1478689-439c-4590-b7ce-36e786a02dc3@youtube-bai-piao-wang-zhe-usa.98848.xyz:443?security=tls&sni=youtube-bai-piao-wang-zhe-usa.98848.xyz&alpn=http%2F1.1&type=tcp&headerType=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dyoutube-bai-piao-wang-zhe-usa.98848.xyz%3A443%28d1478689-439c-4590-b7ce-36e786a02dc3%29"])
