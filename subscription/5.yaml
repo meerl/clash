@@ -1,13 +1,4 @@
 proxies:
-  - {name: "[🇰🇷]158.247.205.87:7306(FoOiGlkAA9yPEGP)", server: 158.247.205.87, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
-  - {name: "[🇰🇷]158.247.206.19:7307(FoOiGlkAA9yPEGP)", server: 158.247.206.19, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
-  - {name: "[🇺🇸]167.88.61.109:7307(FoOiGlkAA9yPEGP)", server: 167.88.61.109, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
-  - {name: "[🇺🇸]167.88.61.130:7306(FoOiGlkAA9yPEGP)", server: 167.88.61.130, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
-  - {name: "[🇺🇸]167.88.61.130:7307(FoOiGlkAA9yPEGP)", server: 167.88.61.130, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
-  - {name: "[🇺🇸]167.88.61.204:7307(FoOiGlkAA9yPEGP)", server: 167.88.61.204, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
-  - {name: "[🇺🇸]167.88.61.5:7306(FoOiGlkAA9yPEGP)", server: 167.88.61.5, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
-  - {name: "[🇺🇸]167.88.61.5:7307(FoOiGlkAA9yPEGP)", server: 167.88.61.5, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
-  - {name: "[🇺🇸]167.88.61.70:7307(FoOiGlkAA9yPEGP)", server: 167.88.61.70, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
   - {name: "[🇺🇸]167.88.62.34:7306(FoOiGlkAA9yPEGP)", server: 167.88.62.34, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
   - {name: "[🇺🇸]167.88.62.34:7307(FoOiGlkAA9yPEGP)", server: 167.88.62.34, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
   - {name: "[🇺🇸]167.88.63.107:7307(FoOiGlkAA9yPEGP)", server: 167.88.63.107, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
@@ -2537,3 +2528,12 @@ proxies:
   - {name: "[🇦🇶]kctr.made1nheaven.xyz:39384(GhQrDS)", server: kctr.made1nheaven.xyz, port: 39384, type: ssr, cipher: chacha20-ietf, password: "GhQrDS", protocol: auth_aes128_sha1, obfs: plain, obfs-param: "bilivideo.com", protocol-param: 87385:fj8cz3}
   - {name: "[🇦🇶]kctr.made1nheaven.xyz:39405(GhQrDS)", server: kctr.made1nheaven.xyz, port: 39405, type: ssr, cipher: chacha20-ietf, password: "GhQrDS", protocol: auth_aes128_sha1, obfs: plain, obfs-param: "bilivideo.com", protocol-param: 87385:fj8cz3}
   - {name: "[🇦🇶]kctr.made1nheaven.xyz:39409(GhQrDS)", server: kctr.made1nheaven.xyz, port: 39409, type: ssr, cipher: chacha20-ietf, password: "GhQrDS", protocol: auth_aes128_sha1, obfs: plain, obfs-param: "bilivideo.com", protocol-param: 87385:fj8cz3}
+  - {name: "[🇦🇶]kctr.made1nheaven.xyz:39419(GhQrDS)", server: kctr.made1nheaven.xyz, port: 39419, type: ssr, cipher: chacha20-ietf, password: "GhQrDS", protocol: auth_aes128_sha1, obfs: plain, obfs-param: "bilivideo.com", protocol-param: 87385:fj8cz3}
+  - {name: "[🇦🇶]kctr.made1nheaven.xyz:39424(GhQrDS)", server: kctr.made1nheaven.xyz, port: 39424, type: ssr, cipher: chacha20-ietf, password: "GhQrDS", protocol: auth_aes128_sha1, obfs: plain, obfs-param: "bilivideo.com", protocol-param: 87385:fj8cz3}
+  - {name: "[🇦🇶]kctr.made1nheaven.xyz:39426(GhQrDS)", server: kctr.made1nheaven.xyz, port: 39426, type: ssr, cipher: chacha20-ietf, password: "GhQrDS", protocol: auth_aes128_sha1, obfs: plain, obfs-param: "bilivideo.com", protocol-param: 87385:fj8cz3}
+  - {name: "[🇦🇶]kctr.made1nheaven.xyz:39420(GhQrDS)", server: kctr.made1nheaven.xyz, port: 39420, type: ssr, cipher: chacha20-ietf, password: "GhQrDS", protocol: auth_aes128_sha1, obfs: plain, obfs-param: "bilivideo.com", protocol-param: 87385:fj8cz3}
+  - {name: "[🇦🇶]kctr.made1nheaven.xyz:39439(GhQrDS)", server: kctr.made1nheaven.xyz, port: 39439, type: ssr, cipher: chacha20-ietf, password: "GhQrDS", protocol: auth_aes128_sha1, obfs: plain, obfs-param: "bilivideo.com", protocol-param: 87385:fj8cz3}
+  - {name: "[🇦🇶]kctr.made1nheaven.xyz:39432(GhQrDS)", server: kctr.made1nheaven.xyz, port: 39432, type: ssr, cipher: chacha20-ietf, password: "GhQrDS", protocol: auth_aes128_sha1, obfs: plain, obfs-param: "bilivideo.com", protocol-param: 87385:fj8cz3}
+  - {name: "[🇦🇶]kctr.made1nheaven.xyz:39433(GhQrDS)", server: kctr.made1nheaven.xyz, port: 39433, type: ssr, cipher: chacha20-ietf, password: "GhQrDS", protocol: auth_aes128_sha1, obfs: plain, obfs-param: "bilivideo.com", protocol-param: 87385:fj8cz3}
+  - {name: "[🇦🇶]kctr.made1nheaven.xyz:39480(GhQrDS)", server: kctr.made1nheaven.xyz, port: 39480, type: ssr, cipher: chacha20-ietf, password: "GhQrDS", protocol: auth_aes128_sha1, obfs: plain, obfs-param: "bilivideo.com", protocol-param: 87385:fj8cz3}
+  - {name: "[🇦🇶]kcws.made1nheaven.xyz:39228(GhQrDS)", server: kcws.made1nheaven.xyz, port: 39228, type: ssr, cipher: chacha20-ietf, password: "GhQrDS", protocol: auth_aes128_sha1, obfs: plain, obfs-param: "bilivideo.com", protocol-param: 87385:fj8cz3}
