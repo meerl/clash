@@ -645,7 +645,11 @@ class sub_convert():
                     if len(part_list) == 4:
                         for config in part_list[2].split('&'):
                             if 'sni=' in config:
-                                yaml_url.setdefault('sni', urllib.parse.unquote(config[4:]))
+                                config = config[4:]
+                                if '@' in config:
+                                    yaml_url.setdefault('sni', '"' + urllib.parse.unquote(config) + '"')
+                                else:    
+                                    yaml_url.setdefault('sni', urllib.parse.unquote(config))
                             elif 'type=' in config:
                                 yaml_url.setdefault('network', config[5:])
                                 yaml_url.setdefault('udp', 'true')
