@@ -67,12 +67,14 @@ proxy-groups:
       - GROUP_7
       - GROUP_8
       - GROUP_9
+      - GROUP_10
+      - GROUP_11
 
 ####################################################################################################
 proxy-providers:
   GROUP_0:
     type: file
-    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/0.yaml"
+    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/0.yaml"
     interval: 2000
     path: subscription/0.yaml
     health-check:
@@ -82,7 +84,7 @@ proxy-providers:
 
   GROUP_1:
     type: file
-    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/1.yaml"
+    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/1.yaml"
     interval: 2000
     path: subscription/1.yaml
     health-check:
@@ -92,7 +94,7 @@ proxy-providers:
 
   GROUP_2:
     type: file
-    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/2.yaml"
+    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/2.yaml"
     interval: 2000
     path: subscription/2.yaml
     health-check:
@@ -102,7 +104,7 @@ proxy-providers:
 
   GROUP_3:
     type: file
-    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/3.yaml"
+    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/3.yaml"
     interval: 2000
     path: subscription/3.yaml
     health-check:
@@ -112,7 +114,7 @@ proxy-providers:
 
   GROUP_4:
     type: file
-    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/4.yaml"
+    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/4.yaml"
     interval: 2000
     path: subscription/4.yaml
     health-check:
@@ -122,7 +124,7 @@ proxy-providers:
   
   GROUP_5:
     type: file
-    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/5.yaml"
+    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/5.yaml"
     interval: 2000
     path: subscription/5.yaml
     health-check:
@@ -132,7 +134,7 @@ proxy-providers:
 
   GROUP_6:
     type: file
-    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/6.yaml"
+    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/6.yaml"
     interval: 2000
     path: subscription/6.yaml
     health-check:
@@ -142,7 +144,7 @@ proxy-providers:
 
   GROUP_7:
     type: file
-    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/7.yaml"
+    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/7.yaml"
     interval: 2000
     path: subscription/7.yaml
     health-check:
@@ -152,7 +154,7 @@ proxy-providers:
 
   GROUP_8:
     type: file
-    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/8.yaml"
+    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/8.yaml"
     interval: 2000
     path: subscription/8.yaml
     health-check:
@@ -162,7 +164,7 @@ proxy-providers:
 
   GROUP_9:
     type: file
-    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/9.yaml"
+    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/9.yaml"
     interval: 2000
     path: subscription/9.yaml
     health-check:
@@ -170,6 +172,25 @@ proxy-providers:
       interval: 2000
       url: "http://www.gstatic.com/generate_204"
 
+  GROUP_10:
+    type: file
+    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/10.yaml"
+    interval: 2000
+    path: subscription/10.yaml
+    health-check:
+      enable: true
+      interval: 2000
+      url: "http://www.gstatic.com/generate_204"
+  
+  GROUP_11:
+    type: file
+    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/11.yaml"
+    interval: 2000
+    path: subscription/11.yaml
+    health-check:
+      enable: true
+      interval: 2000
+      url: "http://www.gstatic.com/generate_204"
 ####################################################################################################
 rules:
   - GEOIP,LAN,DIRECT
