@@ -1,4 +1,6 @@
 proxies:
+  - {name: "[🇨🇦]134.195.198.252:7306(FoOiGlkAA9yPEGP)", server: 134.195.198.252, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
+  - {name: "[🇨🇦]134.195.198.252:7307(FoOiGlkAA9yPEGP)", server: 134.195.198.252, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
   - {name: "[🇩🇪]139.162.139.42:7307(FoOiGlkAA9yPEGP)", server: 139.162.139.42, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
   - {name: "[🇺🇸]142.202.48.103:7306(FoOiGlkAA9yPEGP)", server: 142.202.48.103, port: 7306, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
   - {name: "[🇺🇸]142.202.48.103:7307(FoOiGlkAA9yPEGP)", server: 142.202.48.103, port: 7307, type: ss, cipher: aes-256-gcm, password: "FoOiGlkAA9yPEGP"}
@@ -2535,5 +2537,3 @@ proxies:
   - {name: "[🇨🇳]dajbxjp.naikonode.top:15203(NaikoCloud)", server: dajbxjp.naikonode.top, port: 15203, type: ssr, cipher: chacha20-ietf, password: "NaikoCloud", protocol: auth_aes128_md5, obfs: http_simple, obfs-param: "8780f4391.microsoft.com", protocol-param: 4391:XsTIqjrr38WaEM5G}
   - {name: "[🇨🇳]dajbxsg.naikonode.top:15404(NaikoCloud)", server: dajbxsg.naikonode.top, port: 15404, type: ssr, cipher: chacha20-ietf, password: "NaikoCloud", protocol: auth_aes128_md5, obfs: http_simple, obfs-param: "8780f4391.microsoft.com", protocol-param: 4391:XsTIqjrr38WaEM5G}
   - {name: "[🇨🇳]dajbxsg.naikonode.top:15405(NaikoCloud)", server: dajbxsg.naikonode.top, port: 15405, type: ssr, cipher: chacha20-ietf, password: "NaikoCloud", protocol: auth_aes128_md5, obfs: http_simple, obfs-param: "8780f4391.microsoft.com", protocol-param: 4391:XsTIqjrr38WaEM5G}
-  - {name: "[🇨🇳]dajbxsg.naikonode.top:15406(NaikoCloud)", server: dajbxsg.naikonode.top, port: 15406, type: ssr, cipher: chacha20-ietf, password: "NaikoCloud", protocol: auth_aes128_md5, obfs: http_simple, obfs-param: "8780f4391.microsoft.com", protocol-param: 4391:XsTIqjrr38WaEM5G}
-  - {name: "[🇨🇳]dajbxsg.naikonode.top:15407(NaikoCloud)", server: dajbxsg.naikonode.top, port: 15407, type: ssr, cipher: chacha20-ietf, password: "NaikoCloud", protocol: auth_aes128_md5, obfs: http_simple, obfs-param: "8780f4391.microsoft.com", protocol-param: 4391:XsTIqjrr38WaEM5G}
