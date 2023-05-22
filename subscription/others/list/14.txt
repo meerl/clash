@@ -1,5 +1,5 @@
 ssr://c2ctYW0zLmVxc3Vuc2hpbmUuY29tOjMyMDAxOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6TTJjd1pFaHNTMDFGLz9ncm91cD1VMU5TVUhKdmRtbGtaWEkmcmVtYXJrcz1XL0NmaDdqd240ZXNYWE5uTFdGdE15NWxjWE4xYm5Ob2FXNWxMbU52YlRvek1qQXdNU2d6WnpCa1NHeExUVVVwJm9iZnNwYXJhbT0mcHJvdG9wYXJhbT0=
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@my.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dmy.mjt001.com%3A443%28af4dc66a-ec88-4057-9e46-777b584577f7%29
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@my.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%B0%F0%9F%87%B7%5Dmy.mjt001.com%3A443%28af4dc66a-ec88-4057-9e46-777b584577f7%29
 trojan://2c7cccd3-8de4-4f47-8fd6-b787e42ca4a2@fscjp.fscloud123456789.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dfscjp.fscloud123456789.com%3A443%282c7cccd3-8de4-4f47-8fd6-b787e42ca4a2%29
 trojan://02d79af1-e121-401a-a294-fc72a50eb8b8@fscus.fscloud123456789.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dfscus.fscloud123456789.com%3A443%2802d79af1-e121-401a-a294-fc72a50eb8b8%29
 trojan://a3fa5lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?allowInsecure=0#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dca-trojan.bonds.id%3A443%28a3fa5lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272%29
@@ -60,7 +60,7 @@ trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@usa.stablize.top:443?allowInsecure
 trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@sg.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.stablize.top%3A443%287d0f1f83-0f2f-4b90-930e-de44ac233fef%29
 trojan://a3740de6-74fc-4ab6-bc85-92d19402257c@sg.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.stablize.top%3A443%28a3740de6-74fc-4ab6-bc85-92d19402257c%29
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ua.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dua.mjt001.com%3A443%28af4dc66a-ec88-4057-9e46-777b584577f7%29
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@sg.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dsg.mjt001.com%3A443%28af4dc66a-ec88-4057-9e46-777b584577f7%29
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@sg.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%B0%F0%9F%87%B7%5Dsg.mjt001.com%3A443%28af4dc66a-ec88-4057-9e46-777b584577f7%29
 trojan://eb80128b-aa4d-4741-a87f-62ab98f01157@fscuk.fscloud123456789.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dfscuk.fscloud123456789.com%3A443%28eb80128b-aa4d-4741-a87f-62ab98f01157%29
 trojan://ef8f2f11-2050-403a-b1e6-fae07c974524@usa.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dusa.stablize.top%3A443%28ef8f2f11-2050-403a-b1e6-fae07c974524%29
 trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@upay.com:443?allowInsecure=0#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dupay.com%3A443%28-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26%29
@@ -96,7 +96,7 @@ trojan://0d234e81-52f2-44a7-8bcc-b9e737c3830f@tempest-us.aikun.online:443?allowI
 trojan://29aa9820-78aa-43de-a477-587747ce21a3@usajs.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dusajs.stablize.top%3A443%2829aa9820-78aa-43de-a477-587747ce21a3%29
 trojan://8d3fbaf4-029c-4d38-add0-e7f5d613ac5e@lu.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dlu.stablize.top%3A443%288d3fbaf4-029c-4d38-add0-e7f5d613ac5e%29
 trojan://8d3fbaf4-029c-4d38-add0-e7f5d613ac5e@usa.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dusa.stablize.top%3A443%288d3fbaf4-029c-4d38-add0-e7f5d613ac5e%29
-trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@jp.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%B0%F0%9F%87%B7%5Djp.mjt001.com%3A443%289d3b1e0e-252a-4c67-9628-8b62e77197e7%29
+trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@jp.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Djp.mjt001.com%3A443%289d3b1e0e-252a-4c67-9628-8b62e77197e7%29
 trojan://36ebef7d1b1d6205fd0c55f28800e674@72.167.45.6:443?allowInsecure=0#%5B%F0%9F%87%BA%F0%9F%87%B8%5D72.167.45.6%3A443%2836ebef7d1b1d6205fd0c55f28800e674%29
 trojan://ccf1ee40-b4ab-11eb-b421-1239d0255272@us-trojan.bonds.id:443?allowInsecure=0#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dus-trojan.bonds.id%3A443%28ccf1ee40-b4ab-11eb-b421-1239d0255272%29
 trojan://share.mjj-home.com@tw.softbank.mjj-home.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dtw.softbank.mjj-home.com%3A443%28share.mjj-home.com%29
@@ -111,7 +111,7 @@ trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@jp.stablize.top:443?allowInsecure=
 trojan://a3fa58b581353bb375d2ddad0f327938@72.167.45.6:443?allowInsecure=0#%5B%F0%9F%87%BA%F0%9F%87%B8%5D72.167.45.6%3A443%28a3fa58b581353bb375d2ddad0f327938%29
 trojan://28d98f761aca9d636f44db62544628eb@72.167.45.6:443?allowInsecure=0#%5B%F0%9F%87%BA%F0%9F%87%B8%5D72.167.45.6%3A443%2828d98f761aca9d636f44db62544628eb%29
 trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@usla.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dusla.mjt001.com%3A443%289d3b1e0e-252a-4c67-9628-8b62e77197e7%29
-trojan://2f31805a-b9e0-4b7b-808f-c7971332d068@kh.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%B0%F0%9F%87%B7%5Dkh.mjt001.com%3A443%282f31805a-b9e0-4b7b-808f-c7971332d068%29
+trojan://2f31805a-b9e0-4b7b-808f-c7971332d068@kh.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dkh.mjt001.com%3A443%282f31805a-b9e0-4b7b-808f-c7971332d068%29
 trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@hinet.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dhinet.mjt001.com%3A443%289d3b1e0e-252a-4c67-9628-8b62e77197e7%29
 trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@ua.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dua.mjt001.com%3A443%289d3b1e0e-252a-4c67-9628-8b62e77197e7%29
 trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@tr.mjt001.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dtr.mjt001.com%3A443%289d3b1e0e-252a-4c67-9628-8b62e77197e7%29
