@@ -1,14 +1,4 @@
 proxies:
-  - {name: "[🇧🇬]213.183.63.221:9094(rpgbNnU9rDDU4aWZ)", server: 213.183.63.221, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
-  - {name: "[🇵🇱]217.30.10.63:9094(rpgbNnU9rDDU4aWZ)", server: 217.30.10.63, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
-  - {name: "[🇵🇱]217.30.10.64:9094(rpgbNnU9rDDU4aWZ)", server: 217.30.10.64, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
-  - {name: "[🇵🇱]217.30.10.66:9094(rpgbNnU9rDDU4aWZ)", server: 217.30.10.66, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
-  - {name: "[🇵🇱]217.30.10.67:9094(rpgbNnU9rDDU4aWZ)", server: 217.30.10.67, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
-  - {name: "[🇩🇪]5.183.179.166:9094(rpgbNnU9rDDU4aWZ)", server: 5.183.179.166, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
-  - {name: "[🇷🇺]213.183.53.200:9094(rpgbNnU9rDDU4aWZ)", server: 213.183.53.200, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
-  - {name: "[🇷🇺]45.144.176.135:3003(werty33588761qwfdees)", server: 45.144.176.135, port: 3003, type: ss, cipher: aes-256-cfb, password: "werty33588761qwfdees"}
-  - {name: "[🇸🇬]103.172.116.7:9093(wfLC2y7rzZyCmuyt)", server: 103.172.116.7, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
-  - {name: "[🇦🇺]185.167.116.24:9093(wfLC2y7rzZyCmuyt)", server: 185.167.116.24, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
   - {name: "[🇷🇺]213.183.53.200:9093(wfLC2y7rzZyCmuyt)", server: 213.183.53.200, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
   - {name: "[🇵🇱]217.30.10.65:9093(wfLC2y7rzZyCmuyt)", server: 217.30.10.65, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
   - {name: "[🇵🇱]217.30.10.66:9093(wfLC2y7rzZyCmuyt)", server: 217.30.10.66, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
