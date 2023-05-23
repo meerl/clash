@@ -1,17 +1,4 @@
 proxies:
-  - {name: "[🇵🇱]217.30.10.63:9057(wjTugX3ZtHMB9c3Z)", server: 217.30.10.63, port: 9057, type: ss, cipher: aes-256-cfb, password: "wjTugX3ZtHMB9c3Z"}
-  - {name: "[🇵🇱]217.30.10.64:9057(wjTugX3ZtHMB9c3Z)", server: 217.30.10.64, port: 9057, type: ss, cipher: aes-256-cfb, password: "wjTugX3ZtHMB9c3Z"}
-  - {name: "[🇵🇱]217.30.10.66:9057(wjTugX3ZtHMB9c3Z)", server: 217.30.10.66, port: 9057, type: ss, cipher: aes-256-cfb, password: "wjTugX3ZtHMB9c3Z"}
-  - {name: "[🇵🇱]217.30.10.67:9057(wjTugX3ZtHMB9c3Z)", server: 217.30.10.67, port: 9057, type: ss, cipher: aes-256-cfb, password: "wjTugX3ZtHMB9c3Z"}
-  - {name: "[🇩🇪]5.183.179.148:9057(wjTugX3ZtHMB9c3Z)", server: 5.183.179.148, port: 9057, type: ss, cipher: aes-256-cfb, password: "wjTugX3ZtHMB9c3Z"}
-  - {name: "[🇳🇱]213.183.51.171:9060(ueLXVkvh4hckhErQ)", server: 213.183.51.171, port: 9060, type: ss, cipher: aes-256-cfb, password: "ueLXVkvh4hckhErQ"}
-  - {name: "[🇧🇬]213.183.63.218:9060(ueLXVkvh4hckhErQ)", server: 213.183.63.218, port: 9060, type: ss, cipher: aes-256-cfb, password: "ueLXVkvh4hckhErQ"}
-  - {name: "[🇵🇱]217.30.10.63:9060(ueLXVkvh4hckhErQ)", server: 217.30.10.63, port: 9060, type: ss, cipher: aes-256-cfb, password: "ueLXVkvh4hckhErQ"}
-  - {name: "[🇵🇱]217.30.10.65:9060(ueLXVkvh4hckhErQ)", server: 217.30.10.65, port: 9060, type: ss, cipher: aes-256-cfb, password: "ueLXVkvh4hckhErQ"}
-  - {name: "[🇵🇱]217.30.10.66:9060(ueLXVkvh4hckhErQ)", server: 217.30.10.66, port: 9060, type: ss, cipher: aes-256-cfb, password: "ueLXVkvh4hckhErQ"}
-  - {name: "[🇩🇪]5.183.179.141:9060(ueLXVkvh4hckhErQ)", server: 5.183.179.141, port: 9060, type: ss, cipher: aes-256-cfb, password: "ueLXVkvh4hckhErQ"}
-  - {name: "[🇩🇪]5.183.179.170:9060(ueLXVkvh4hckhErQ)", server: 5.183.179.170, port: 9060, type: ss, cipher: aes-256-cfb, password: "ueLXVkvh4hckhErQ"}
-  - {name: "[🇨🇭]185.126.116.125:9060(ueLXVkvh4hckhErQ)", server: 185.126.116.125, port: 9060, type: ss, cipher: aes-256-cfb, password: "ueLXVkvh4hckhErQ"}
   - {name: "[🇷🇺]185.4.65.6:21247(vDS9G2p)", server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: "vDS9G2p"}
   - {name: "[🇸🇬]103.172.116.8:9008(y9VURyNzJWNRYEGQ)", server: 103.172.116.8, port: 9008, type: ss, cipher: aes-256-cfb, password: "y9VURyNzJWNRYEGQ"}
   - {name: "[🇦🇺]185.167.116.24:9008(y9VURyNzJWNRYEGQ)", server: 185.167.116.24, port: 9008, type: ss, cipher: aes-256-cfb, password: "y9VURyNzJWNRYEGQ"}
