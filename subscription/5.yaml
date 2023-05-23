@@ -1,4 +1,12 @@
 proxies:
+  - {name: "[🇵🇱]217.30.10.65:9008(y9VURyNzJWNRYEGQ)", server: 217.30.10.65, port: 9008, type: ss, cipher: aes-256-cfb, password: "y9VURyNzJWNRYEGQ"}
+  - {name: "[🇵🇱]217.30.10.66:9008(y9VURyNzJWNRYEGQ)", server: 217.30.10.66, port: 9008, type: ss, cipher: aes-256-cfb, password: "y9VURyNzJWNRYEGQ"}
+  - {name: "[🇵🇱]217.30.10.67:9008(y9VURyNzJWNRYEGQ)", server: 217.30.10.67, port: 9008, type: ss, cipher: aes-256-cfb, password: "y9VURyNzJWNRYEGQ"}
+  - {name: "[🇩🇪]5.183.179.167:9008(y9VURyNzJWNRYEGQ)", server: 5.183.179.167, port: 9008, type: ss, cipher: aes-256-cfb, password: "y9VURyNzJWNRYEGQ"}
+  - {name: "[🇨🇳]183.31.9.149:19016(z20010608)", server: 183.31.9.149, port: 19016, type: ss, cipher: aes-256-cfb, password: "z20010608"}
+  - {name: "[🇺🇸]107.173.146.188:50862(zZBMZBE2xh)", server: 107.173.146.188, port: 50862, type: ss, cipher: aes-256-cfb, password: "zZBMZBE2xh"}
+  - {name: "[🇦🇶]softbank.coderfan.net:59212(..aZGHmf8956.F9S..)", server: softbank.coderfan.net, port: 59212, type: ss, cipher: aes-256-gcm, password: "..aZGHmf8956.F9S.."}
+  - {name: "[🇯🇵]54.178.95.72:27103(3e47d37f-5b9c-41df-9ea9-a096e5ca5113)", server: 54.178.95.72, port: 27103, type: ss, cipher: aes-256-gcm, password: "3e47d37f-5b9c-41df-9ea9-a096e5ca5113"}
   - {name: "[🇨🇳]hk2.linghun3.xyz:40001(3e760ffd-df47-4cf2-b753-248262970b8e)", server: hk2.linghun3.xyz, port: 40001, type: ss, cipher: aes-256-gcm, password: "3e760ffd-df47-4cf2-b753-248262970b8e"}
   - {name: "[🇨🇳]iepl.linghun3.xyz:39994(3e760ffd-df47-4cf2-b753-248262970b8e)", server: iepl.linghun3.xyz, port: 39994, type: ss, cipher: aes-256-gcm, password: "3e760ffd-df47-4cf2-b753-248262970b8e"}
   - {name: "[🇨🇳]iepl.linghun3.xyz:39991(3e760ffd-df47-4cf2-b753-248262970b8e)", server: iepl.linghun3.xyz, port: 39991, type: ss, cipher: aes-256-gcm, password: "3e760ffd-df47-4cf2-b753-248262970b8e"}
