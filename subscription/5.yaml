@@ -1,4 +1,103 @@
 proxies:
+  - {name: "[🇬🇧]152.89.210.105:9000(a3GFYt36Sm82Vys9)", server: 152.89.210.105, port: 9000, type: ss, cipher: aes-256-cfb, password: "a3GFYt36Sm82Vys9"}
+  - {name: "[🇳🇱]185.246.155.29:9000(a3GFYt36Sm82Vys9)", server: 185.246.155.29, port: 9000, type: ss, cipher: aes-256-cfb, password: "a3GFYt36Sm82Vys9"}
+  - {name: "[🇳🇱]213.183.51.172:9000(a3GFYt36Sm82Vys9)", server: 213.183.51.172, port: 9000, type: ss, cipher: aes-256-cfb, password: "a3GFYt36Sm82Vys9"}
+  - {name: "[🇷🇺]213.183.53.177:9000(a3GFYt36Sm82Vys9)", server: 213.183.53.177, port: 9000, type: ss, cipher: aes-256-cfb, password: "a3GFYt36Sm82Vys9"}
+  - {name: "[🇵🇱]217.30.10.63:9000(a3GFYt36Sm82Vys9)", server: 217.30.10.63, port: 9000, type: ss, cipher: aes-256-cfb, password: "a3GFYt36Sm82Vys9"}
+  - {name: "[🇵🇱]217.30.10.66:9000(a3GFYt36Sm82Vys9)", server: 217.30.10.66, port: 9000, type: ss, cipher: aes-256-cfb, password: "a3GFYt36Sm82Vys9"}
+  - {name: "[🇵🇱]217.30.10.67:9000(a3GFYt36Sm82Vys9)", server: 217.30.10.67, port: 9000, type: ss, cipher: aes-256-cfb, password: "a3GFYt36Sm82Vys9"}
+  - {name: "[🇩🇪]5.183.179.141:9000(a3GFYt36Sm82Vys9)", server: 5.183.179.141, port: 9000, type: ss, cipher: aes-256-cfb, password: "a3GFYt36Sm82Vys9"}
+  - {name: "[🇺🇸]167.172.135.97:25453(a40ff797db5c4b948cfe5a5234a0e74c)", server: 167.172.135.97, port: 25453, type: ss, cipher: aes-256-cfb, password: "a40ff797db5c4b948cfe5a5234a0e74c"}
+  - {name: "[🇷🇺]213.183.53.200:9098(aLpQtfEZe445QyHk)", server: 213.183.53.200, port: 9098, type: ss, cipher: aes-256-cfb, password: "aLpQtfEZe445QyHk"}
+  - {name: "[🇬🇧]152.89.210.105:9098(aLpQtfEZe445QyHk)", server: 152.89.210.105, port: 9098, type: ss, cipher: aes-256-cfb, password: "aLpQtfEZe445QyHk"}
+  - {name: "[🇧🇬]213.183.63.218:9098(aLpQtfEZe445QyHk)", server: 213.183.63.218, port: 9098, type: ss, cipher: aes-256-cfb, password: "aLpQtfEZe445QyHk"}
+  - {name: "[🇵🇱]217.30.10.66:9098(aLpQtfEZe445QyHk)", server: 217.30.10.66, port: 9098, type: ss, cipher: aes-256-cfb, password: "aLpQtfEZe445QyHk"}
+  - {name: "[🇵🇱]217.30.10.67:9098(aLpQtfEZe445QyHk)", server: 217.30.10.67, port: 9098, type: ss, cipher: aes-256-cfb, password: "aLpQtfEZe445QyHk"}
+  - {name: "[🇩🇪]5.183.179.141:9098(aLpQtfEZe445QyHk)", server: 5.183.179.141, port: 9098, type: ss, cipher: aes-256-cfb, password: "aLpQtfEZe445QyHk"}
+  - {name: "[🇩🇪]5.183.179.148:9098(aLpQtfEZe445QyHk)", server: 5.183.179.148, port: 9098, type: ss, cipher: aes-256-cfb, password: "aLpQtfEZe445QyHk"}
+  - {name: "[🇩🇪]5.183.179.170:9098(aLpQtfEZe445QyHk)", server: 5.183.179.170, port: 9098, type: ss, cipher: aes-256-cfb, password: "aLpQtfEZe445QyHk"}
+  - {name: "[🇵🇱]217.30.10.68:9098(aLpQtfEZe445QyHk)", server: 217.30.10.68, port: 9098, type: ss, cipher: aes-256-cfb, password: "aLpQtfEZe445QyHk"}
+  - {name: "[🇰🇷]13.125.218.170:443(amazonskr05)", server: 13.125.218.170, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇯🇵]13.230.223.109:443(amazonskr05)", server: 13.230.223.109, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]43.200.6.115:443(amazonskr05)", server: 43.200.6.115, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇯🇵]13.115.198.227:443(amazonskr05)", server: 13.115.198.227, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]13.124.29.75:443(amazonskr05)", server: 13.124.29.75, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]13.212.244.29:443(amazonskr05)", server: 13.212.244.29, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]13.212.38.125:443(amazonskr05)", server: 13.212.38.125, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]13.213.34.54:443(amazonskr05)", server: 13.213.34.54, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]13.213.55.42:443(amazonskr05)", server: 13.213.55.42, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]13.215.159.84:443(amazonskr05)", server: 13.215.159.84, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]13.215.173.114:443(amazonskr05)", server: 13.215.173.114, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]13.215.183.14:443(amazonskr05)", server: 13.215.183.14, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]13.215.48.189:443(amazonskr05)", server: 13.215.48.189, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]13.215.51.220:443(amazonskr05)", server: 13.215.51.220, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]13.229.51.197:443(amazonskr05)", server: 13.229.51.197, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]18.142.44.79:443(amazonskr05)", server: 18.142.44.79, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]3.0.99.204:443(amazonskr05)", server: 3.0.99.204, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]3.34.135.12:443(amazonskr05)", server: 3.34.135.12, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]3.36.54.241:443(amazonskr05)", server: 3.36.54.241, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]3.38.100.163:443(amazonskr05)", server: 3.38.100.163, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]3.38.149.198:443(amazonskr05)", server: 3.38.149.198, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇺🇸]34.216.75.173:443(amazonskr05)", server: 34.216.75.173, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]43.200.252.117:443(amazonskr05)", server: 43.200.252.117, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]43.201.103.37:443(amazonskr05)", server: 43.201.103.37, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]43.201.148.126:443(amazonskr05)", server: 43.201.148.126, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]43.201.29.13:443(amazonskr05)", server: 43.201.29.13, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]43.201.57.194:443(amazonskr05)", server: 43.201.57.194, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]43.201.64.3:443(amazonskr05)", server: 43.201.64.3, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇯🇵]43.206.210.193:443(amazonskr05)", server: 43.206.210.193, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇯🇵]43.206.223.61:443(amazonskr05)", server: 43.206.223.61, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇯🇵]43.206.241.153:443(amazonskr05)", server: 43.206.241.153, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇯🇵]43.207.66.60:443(amazonskr05)", server: 43.207.66.60, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇯🇵]43.207.87.2:443(amazonskr05)", server: 43.207.87.2, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]54.151.153.15:443(amazonskr05)", server: 54.151.153.15, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇯🇵]54.168.241.213:443(amazonskr05)", server: 54.168.241.213, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]54.169.6.62:443(amazonskr05)", server: 54.169.6.62, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇯🇵]54.238.226.17:443(amazonskr05)", server: 54.238.226.17, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]54.254.241.111:443(amazonskr05)", server: 54.254.241.111, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]54.254.25.252:443(amazonskr05)", server: 54.254.25.252, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇯🇵]54.64.68.162:443(amazonskr05)", server: 54.64.68.162, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]13.215.154.132:443(amazonskr05)", server: 13.215.154.132, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]13.215.208.131:443(amazonskr05)", server: 13.215.208.131, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]18.142.45.36:443(amazonskr05)", server: 18.142.45.36, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇯🇵]43.207.68.221:443(amazonskr05)", server: 43.207.68.221, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇯🇵]43.207.84.21:443(amazonskr05)", server: 43.207.84.21, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]43.201.57.30:443(amazonskr05)", server: 43.201.57.30, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]43.201.51.15:443(amazonskr05)", server: 43.201.51.15, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇰🇷]43.201.6.53:443(amazonskr05)", server: 43.201.6.53, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]54.169.211.238:443(amazonskr05)", server: 54.169.211.238, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]54.169.62.50:443(amazonskr05)", server: 54.169.62.50, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]54.251.4.111:443(amazonskr05)", server: 54.251.4.111, port: 443, type: ss, cipher: aes-256-cfb, password: "amazonskr05"}
+  - {name: "[🇸🇬]103.172.116.7:9070(bf7v334KKDV3YDhH)", server: 103.172.116.7, port: 9070, type: ss, cipher: aes-256-cfb, password: "bf7v334KKDV3YDhH"}
+  - {name: "[🇳🇱]185.246.155.35:9070(bf7v334KKDV3YDhH)", server: 185.246.155.35, port: 9070, type: ss, cipher: aes-256-cfb, password: "bf7v334KKDV3YDhH"}
+  - {name: "[🇳🇱]213.183.51.171:9070(bf7v334KKDV3YDhH)", server: 213.183.51.171, port: 9070, type: ss, cipher: aes-256-cfb, password: "bf7v334KKDV3YDhH"}
+  - {name: "[🇳🇱]213.183.51.172:9070(bf7v334KKDV3YDhH)", server: 213.183.51.172, port: 9070, type: ss, cipher: aes-256-cfb, password: "bf7v334KKDV3YDhH"}
+  - {name: "[🇳🇱]213.183.59.214:9070(bf7v334KKDV3YDhH)", server: 213.183.59.214, port: 9070, type: ss, cipher: aes-256-cfb, password: "bf7v334KKDV3YDhH"}
+  - {name: "[🇳🇱]213.183.59.218:9070(bf7v334KKDV3YDhH)", server: 213.183.59.218, port: 9070, type: ss, cipher: aes-256-cfb, password: "bf7v334KKDV3YDhH"}
+  - {name: "[🇧🇬]213.183.63.218:9070(bf7v334KKDV3YDhH)", server: 213.183.63.218, port: 9070, type: ss, cipher: aes-256-cfb, password: "bf7v334KKDV3YDhH"}
+  - {name: "[🇵🇱]217.30.10.64:9070(bf7v334KKDV3YDhH)", server: 217.30.10.64, port: 9070, type: ss, cipher: aes-256-cfb, password: "bf7v334KKDV3YDhH"}
+  - {name: "[🇵🇱]217.30.10.65:9070(bf7v334KKDV3YDhH)", server: 217.30.10.65, port: 9070, type: ss, cipher: aes-256-cfb, password: "bf7v334KKDV3YDhH"}
+  - {name: "[🇺🇸]97.64.21.214:253(bwhskrskr03)", server: 97.64.21.214, port: 253, type: ss, cipher: aes-256-cfb, password: "bwhskrskr03"}
+  - {name: "[🇺🇸]104.224.176.9:254(bwhskrskr03)", server: 104.224.176.9, port: 254, type: ss, cipher: aes-256-cfb, password: "bwhskrskr03"}
+  - {name: "[🇺🇸]104.243.18.165:247(bwhskrskr03)", server: 104.243.18.165, port: 247, type: ss, cipher: aes-256-cfb, password: "bwhskrskr03"}
+  - {name: "[🇺🇸]104.243.30.59:247(bwhskrskr05)", server: 104.243.30.59, port: 247, type: ss, cipher: aes-256-cfb, password: "bwhskrskr05"}
+  - {name: "[🇸🇬]103.172.116.8:9084(c3NtHJ5ujV2tGDfj)", server: 103.172.116.8, port: 9084, type: ss, cipher: aes-256-cfb, password: "c3NtHJ5ujV2tGDfj"}
+  - {name: "[🇬🇧]152.89.210.105:9084(c3NtHJ5ujV2tGDfj)", server: 152.89.210.105, port: 9084, type: ss, cipher: aes-256-cfb, password: "c3NtHJ5ujV2tGDfj"}
+  - {name: "[🇦🇺]185.167.116.38:9084(c3NtHJ5ujV2tGDfj)", server: 185.167.116.38, port: 9084, type: ss, cipher: aes-256-cfb, password: "c3NtHJ5ujV2tGDfj"}
+  - {name: "[🇳🇱]213.183.51.171:9084(c3NtHJ5ujV2tGDfj)", server: 213.183.51.171, port: 9084, type: ss, cipher: aes-256-cfb, password: "c3NtHJ5ujV2tGDfj"}
+  - {name: "[🇷🇺]213.183.53.177:9084(c3NtHJ5ujV2tGDfj)", server: 213.183.53.177, port: 9084, type: ss, cipher: aes-256-cfb, password: "c3NtHJ5ujV2tGDfj"}
+  - {name: "[🇳🇱]213.183.59.229:9084(c3NtHJ5ujV2tGDfj)", server: 213.183.59.229, port: 9084, type: ss, cipher: aes-256-cfb, password: "c3NtHJ5ujV2tGDfj"}
+  - {name: "[🇵🇱]217.30.10.63:9084(c3NtHJ5ujV2tGDfj)", server: 217.30.10.63, port: 9084, type: ss, cipher: aes-256-cfb, password: "c3NtHJ5ujV2tGDfj"}
+  - {name: "[🇵🇱]217.30.10.65:9084(c3NtHJ5ujV2tGDfj)", server: 217.30.10.65, port: 9084, type: ss, cipher: aes-256-cfb, password: "c3NtHJ5ujV2tGDfj"}
+  - {name: "[🇩🇪]5.183.179.141:9084(c3NtHJ5ujV2tGDfj)", server: 5.183.179.141, port: 9084, type: ss, cipher: aes-256-cfb, password: "c3NtHJ5ujV2tGDfj"}
+  - {name: "[🇩🇪]5.183.179.148:9084(c3NtHJ5ujV2tGDfj)", server: 5.183.179.148, port: 9084, type: ss, cipher: aes-256-cfb, password: "c3NtHJ5ujV2tGDfj"}
+  - {name: "[🇩🇪]5.183.179.166:9084(c3NtHJ5ujV2tGDfj)", server: 5.183.179.166, port: 9084, type: ss, cipher: aes-256-cfb, password: "c3NtHJ5ujV2tGDfj"}
+  - {name: "[🇬🇧]152.89.210.105:9038(gYCYXfkUQEs2TaJQ)", server: 152.89.210.105, port: 9038, type: ss, cipher: aes-256-cfb, password: "gYCYXfkUQEs2TaJQ"}
+  - {name: "[🇬🇧]152.89.210.84:9038(gYCYXfkUQEs2TaJQ)", server: 152.89.210.84, port: 9038, type: ss, cipher: aes-256-cfb, password: "gYCYXfkUQEs2TaJQ"}
+  - {name: "[🇨🇭]185.126.116.117:9038(gYCYXfkUQEs2TaJQ)", server: 185.126.116.117, port: 9038, type: ss, cipher: aes-256-cfb, password: "gYCYXfkUQEs2TaJQ"}
+  - {name: "[🇦🇺]185.167.116.253:9038(gYCYXfkUQEs2TaJQ)", server: 185.167.116.253, port: 9038, type: ss, cipher: aes-256-cfb, password: "gYCYXfkUQEs2TaJQ"}
+  - {name: "[🇳🇱]213.183.51.172:9038(gYCYXfkUQEs2TaJQ)", server: 213.183.51.172, port: 9038, type: ss, cipher: aes-256-cfb, password: "gYCYXfkUQEs2TaJQ"}
+  - {name: "[🇳🇱]213.183.59.211:9038(gYCYXfkUQEs2TaJQ)", server: 213.183.59.211, port: 9038, type: ss, cipher: aes-256-cfb, password: "gYCYXfkUQEs2TaJQ"}
   - {name: "[🇧🇬]213.183.63.218:9038(gYCYXfkUQEs2TaJQ)", server: 213.183.63.218, port: 9038, type: ss, cipher: aes-256-cfb, password: "gYCYXfkUQEs2TaJQ"}
   - {name: "[🇵🇱]217.30.10.64:9038(gYCYXfkUQEs2TaJQ)", server: 217.30.10.64, port: 9038, type: ss, cipher: aes-256-cfb, password: "gYCYXfkUQEs2TaJQ"}
   - {name: "[🇵🇱]217.30.10.65:9038(gYCYXfkUQEs2TaJQ)", server: 217.30.10.65, port: 9038, type: ss, cipher: aes-256-cfb, password: "gYCYXfkUQEs2TaJQ"}
@@ -2900,73 +2999,3 @@ proxies:
   - {name: "[🇨🇦]134.195.196.231:6379(zDNVedRFPQexG9v)", server: 134.195.196.231, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
   - {name: "[🇨🇦]134.195.196.3:6379(zDNVedRFPQexG9v)", server: 134.195.196.3, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
   - {name: "[🇨🇦]134.195.196.51:6379(zDNVedRFPQexG9v)", server: 134.195.196.51, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇨🇦]134.195.196.52:6379(zDNVedRFPQexG9v)", server: 134.195.196.52, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇨🇦]134.195.196.64:6379(zDNVedRFPQexG9v)", server: 134.195.196.64, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇨🇦]134.195.196.68:6379(zDNVedRFPQexG9v)", server: 134.195.196.68, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇨🇦]134.195.196.81:6379(zDNVedRFPQexG9v)", server: 134.195.196.81, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇨🇦]134.195.198.252:6379(zDNVedRFPQexG9v)", server: 134.195.198.252, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇰🇷]141.164.42.236:6379(zDNVedRFPQexG9v)", server: 141.164.42.236, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇰🇷]141.164.57.134:6379(zDNVedRFPQexG9v)", server: 141.164.57.134, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇰🇷]158.247.221.139:6379(zDNVedRFPQexG9v)", server: 158.247.221.139, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]167.88.61.70:6379(zDNVedRFPQexG9v)", server: 167.88.61.70, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]167.88.62.34:6379(zDNVedRFPQexG9v)", server: 167.88.62.34, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]167.88.63.61:6379(zDNVedRFPQexG9v)", server: 167.88.63.61, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]169.197.141.15:6379(zDNVedRFPQexG9v)", server: 169.197.141.15, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]169.197.141.24:6379(zDNVedRFPQexG9v)", server: 169.197.141.24, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]169.197.141.91:6379(zDNVedRFPQexG9v)", server: 169.197.141.91, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]169.197.142.216:6379(zDNVedRFPQexG9v)", server: 169.197.142.216, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]169.197.142.39:6379(zDNVedRFPQexG9v)", server: 169.197.142.39, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]169.197.142.4:6379(zDNVedRFPQexG9v)", server: 169.197.142.4, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]169.197.142.99:6379(zDNVedRFPQexG9v)", server: 169.197.142.99, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]169.197.143.157:6379(zDNVedRFPQexG9v)", server: 169.197.143.157, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇸🇬]172.104.50.106:6379(zDNVedRFPQexG9v)", server: 172.104.50.106, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇦🇺]172.105.184.113:6379(zDNVedRFPQexG9v)", server: 172.105.184.113, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇦🇺]172.105.191.42:6379(zDNVedRFPQexG9v)", server: 172.105.191.42, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇬🇧]172.99.190.153:6379(zDNVedRFPQexG9v)", server: 172.99.190.153, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇬🇧]172.99.190.205:6379(zDNVedRFPQexG9v)", server: 172.99.190.205, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇬🇧]172.99.190.35:6379(zDNVedRFPQexG9v)", server: 172.99.190.35, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇬🇧]172.99.190.92:6379(zDNVedRFPQexG9v)", server: 172.99.190.92, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇨🇦]198.57.27.172:6379(zDNVedRFPQexG9v)", server: 198.57.27.172, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇨🇦]198.57.27.218:6379(zDNVedRFPQexG9v)", server: 198.57.27.218, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇨🇦]198.57.27.225:6379(zDNVedRFPQexG9v)", server: 198.57.27.225, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]38.121.43.71:6379(zDNVedRFPQexG9v)", server: 38.121.43.71, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]38.143.66.71:6379(zDNVedRFPQexG9v)", server: 38.143.66.71, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]38.68.134.190:6379(zDNVedRFPQexG9v)", server: 38.68.134.190, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]38.68.134.191:6379(zDNVedRFPQexG9v)", server: 38.68.134.191, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]38.68.134.23:6379(zDNVedRFPQexG9v)", server: 38.68.134.23, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]38.68.134.71:6379(zDNVedRFPQexG9v)", server: 38.68.134.71, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]38.68.134.9:6379(zDNVedRFPQexG9v)", server: 38.68.134.9, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]38.75.136.93:6379(zDNVedRFPQexG9v)", server: 38.75.136.93, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]38.75.137.66:6379(zDNVedRFPQexG9v)", server: 38.75.137.66, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]38.75.137.88:6379(zDNVedRFPQexG9v)", server: 38.75.137.88, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]38.91.100.102:6379(zDNVedRFPQexG9v)", server: 38.91.100.102, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]38.91.101.14:6379(zDNVedRFPQexG9v)", server: 38.91.101.14, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇺🇸]38.91.102.86:6379(zDNVedRFPQexG9v)", server: 38.91.102.86, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇯🇵]85.208.108.106:6379(zDNVedRFPQexG9v)", server: 85.208.108.106, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇳🇱]91.232.105.253:6379(zDNVedRFPQexG9v)", server: 91.232.105.253, port: 6379, type: ss, cipher: aes-256-gcm, password: "zDNVedRFPQexG9v"}
-  - {name: "[🇨🇳]183.213.21.67:18584(CvnbM0)", server: 183.213.21.67, port: 18584, type: ss, cipher: rc4-md5, password: "CvnbM0"}
-  - {name: "[🇨🇳]183.232.197.254:18584(CvnbM0)", server: 183.232.197.254, port: 18584, type: ss, cipher: rc4-md5, password: "CvnbM0"}
-  - {name: "[🇨🇳]211.99.100.5:18584(CvnbM0)", server: 211.99.100.5, port: 18584, type: ss, cipher: rc4-md5, password: "CvnbM0"}
-  - {name: "[🇨🇳]42.157.196.250:18584(CvnbM0)", server: 42.157.196.250, port: 18584, type: ss, cipher: rc4-md5, password: "CvnbM0"}
-  - {name: "[🇨🇳]42.157.196.251:18584(CvnbM0)", server: 42.157.196.251, port: 18584, type: ss, cipher: rc4-md5, password: "CvnbM0"}
-  - {name: "[🇨🇳]42.157.196.252:18584(CvnbM0)", server: 42.157.196.252, port: 18584, type: ss, cipher: rc4-md5, password: "CvnbM0"}
-  - {name: "[🇨🇳]42.157.196.253:18584(CvnbM0)", server: 42.157.196.253, port: 18584, type: ss, cipher: rc4-md5, password: "CvnbM0"}
-  - {name: "[🇨🇿]a.secureencryptedvirtualization.com:18584(CvnbM0)", server: a.secureencryptedvirtualization.com, port: 18584, type: ss, cipher: rc4-md5, password: "CvnbM0"}
-  - {name: "[🇺🇸]pvcc01.cathayroute.com:33400(SRCFiB)", server: pvcc01.cathayroute.com, port: 33400, type: ss, cipher: rc4-md5, password: "SRCFiB"}
-  - {name: "[🇰🇷]61.111.128.153:8888(Xiongmao@^ios.ss)", server: 61.111.128.153, port: 8888, type: ss, cipher: rc4-md5, password: "Xiongmao@^ios.ss"}
-  - {name: "[🇨🇳]117.28.243.169:8333(passfw2xs4e!)", server: 117.28.243.169, port: 8333, type: ss, cipher: rc4-md5, password: "passfw2xs4e!"}
-  - {name: "[🇨🇳]117.28.243.154:6145(passinfo123)", server: 117.28.243.154, port: 6145, type: ss, cipher: rc4-md5, password: "passinfo123"}
-  - {name: "[🇨🇳]117.28.243.173:4173(passinfo123)", server: 117.28.243.173, port: 4173, type: ss, cipher: rc4-md5, password: "passinfo123"}
-  - {name: "[🇨🇳]117.28.243.220:8076(passinfo123)", server: 117.28.243.220, port: 8076, type: ss, cipher: rc4-md5, password: "passinfo123"}
-  - {name: "[🇨🇳]117.28.243.220:8221(passinfo123)", server: 117.28.243.220, port: 8221, type: ss, cipher: rc4-md5, password: "passinfo123"}
-  - {name: "[🇩🇪]v1.ssrsub.xyz:8080(t.me/SSRSUB)", server: v1.ssrsub.xyz, port: 8080, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
-  - {name: "[🇩🇪]v10.ssrsub.xyz:8080(t.me/SSRSUB)", server: v10.ssrsub.xyz, port: 8080, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
-  - {name: "[🇩🇪]v11.ssrsub.xyz:8080(t.me/SSRSUB)", server: v11.ssrsub.xyz, port: 8080, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
-  - {name: "[🇩🇪]v2.ssrsub.xyz:8080(t.me/SSRSUB)", server: v2.ssrsub.xyz, port: 8080, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
-  - {name: "[🇩🇪]v3.ssrsub.xyz:8080(t.me/SSRSUB)", server: v3.ssrsub.xyz, port: 8080, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
-  - {name: "[🇩🇪]v4.ssrsub.xyz:8099(t.me/SSRSUB)", server: v4.ssrsub.xyz, port: 8099, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
-  - {name: "[🇩🇪]v5.ssrsub.xyz:8080(t.me/SSRSUB)", server: v5.ssrsub.xyz, port: 8080, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
-  - {name: "[🇩🇪]v6.ssrsub.xyz:8080(t.me/SSRSUB)", server: v6.ssrsub.xyz, port: 8080, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
-  - {name: "[🇩🇪]v7.ssrsub.xyz:8099(t.me/SSRSUB)", server: v7.ssrsub.xyz, port: 8099, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
-  - {name: "[🇩🇪]v8.ssrsub.xyz:8080(t.me/SSRSUB)", server: v8.ssrsub.xyz, port: 8080, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
-  - {name: "[🇩🇪]v9.ssrsub.xyz:8080(t.me/SSRSUB)", server: v9.ssrsub.xyz, port: 8080, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
