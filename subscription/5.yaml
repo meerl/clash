@@ -1,19 +1,4 @@
 proxies:
-  - {name: "[🇨🇳]iepl.linghun3.xyz:39994(3e760ffd-df47-4cf2-b753-248262970b8e)", server: iepl.linghun3.xyz, port: 39994, type: ss, cipher: aes-256-gcm, password: "3e760ffd-df47-4cf2-b753-248262970b8e"}
-  - {name: "[🇨🇳]iepl.linghun3.xyz:39991(3e760ffd-df47-4cf2-b753-248262970b8e)", server: iepl.linghun3.xyz, port: 39991, type: ss, cipher: aes-256-gcm, password: "3e760ffd-df47-4cf2-b753-248262970b8e"}
-  - {name: "[🇨🇳]iepl.linghun3.xyz:39993(3e760ffd-df47-4cf2-b753-248262970b8e)", server: iepl.linghun3.xyz, port: 39993, type: ss, cipher: aes-256-gcm, password: "3e760ffd-df47-4cf2-b753-248262970b8e"}
-  - {name: "[🇺🇸]45.11.3.244:23456(06158686)", server: 45.11.3.244, port: 23456, type: ss, cipher: aes-256-gcm, password: !<str> 06158686}
-  - {name: "[🇯🇵]13.114.235.230:10588(10010)", server: 13.114.235.230, port: 10588, type: ss, cipher: aes-256-gcm, password: !<str> 10010}
-  - {name: "[🇯🇵]13.231.26.197:10588(10010)", server: 13.231.26.197, port: 10588, type: ss, cipher: aes-256-gcm, password: !<str> 10010}
-  - {name: "[🇯🇵]150.230.57.77:48007(123456)", server: 150.230.57.77, port: 48007, type: ss, cipher: aes-256-gcm, password: !<str> 123456}
-  - {name: "[🇺🇸]104.168.117.159:8380(123)", server: 104.168.117.159, port: 8380, type: ss, cipher: aes-256-gcm, password: !<str> 123}
-  - {name: "[🇭🇰]47.240.51.89:27745(159258357)", server: 47.240.51.89, port: 27745, type: ss, cipher: aes-256-gcm, password: !<str> 159258357}
-  - {name: "[🇦🇶]gz-cm.api.1.2022-0605.xyz:28895(1d88a43d-2f4e-4aba-a146-bf2325549314)", server: gz-cm.api.1.2022-0605.xyz, port: 28895, type: ss, cipher: aes-256-gcm, password: "1d88a43d-2f4e-4aba-a146-bf2325549314"}
-  - {name: "[🇦🇶]gz-cm.api.10.2022-0605.xyz:28901(1d88a43d-2f4e-4aba-a146-bf2325549314)", server: gz-cm.api.10.2022-0605.xyz, port: 28901, type: ss, cipher: aes-256-gcm, password: "1d88a43d-2f4e-4aba-a146-bf2325549314"}
-  - {name: "[🇦🇶]gz-cm.api.2.2022-0605.xyz:28894(1d88a43d-2f4e-4aba-a146-bf2325549314)", server: gz-cm.api.2.2022-0605.xyz, port: 28894, type: ss, cipher: aes-256-gcm, password: "1d88a43d-2f4e-4aba-a146-bf2325549314"}
-  - {name: "[🇦🇶]gz-cm.api.5.2022-0605.xyz:28898(1d88a43d-2f4e-4aba-a146-bf2325549314)", server: gz-cm.api.5.2022-0605.xyz, port: 28898, type: ss, cipher: aes-256-gcm, password: "1d88a43d-2f4e-4aba-a146-bf2325549314"}
-  - {name: "[🇦🇶]gz-cm.api.6.2022-0605.xyz:28899(1d88a43d-2f4e-4aba-a146-bf2325549314)", server: gz-cm.api.6.2022-0605.xyz, port: 28899, type: ss, cipher: aes-256-gcm, password: "1d88a43d-2f4e-4aba-a146-bf2325549314"}
-  - {name: "[🇦🇶]gz-cm.api.9.2022-0605.xyz:28913(1d88a43d-2f4e-4aba-a146-bf2325549314)", server: gz-cm.api.9.2022-0605.xyz, port: 28913, type: ss, cipher: aes-256-gcm, password: "1d88a43d-2f4e-4aba-a146-bf2325549314"}
   - {name: "[🇦🇶]7704d818-78e5-471a-a1d6-655c4d79f662.1c5f5adf-a6ce-4066-b318-fa7eb97f68c8.xn--9kq12xdq7a.com:10004(1d0ffc47-9e73-482e-bb98-0b6b637124c1)", server: 7704d818-78e5-471a-a1d6-655c4d79f662.1c5f5adf-a6ce-4066-b318-fa7eb97f68c8.xn--9kq12xdq7a.com, port: 10004, type: ss, cipher: aes-256-gcm, password: "1d0ffc47-9e73-482e-bb98-0b6b637124c1"}
   - {name: "[🇭🇰]23.100.92.190:48054(27SBVUBhOR)", server: 23.100.92.190, port: 48054, type: ss, cipher: aes-256-gcm, password: "27SBVUBhOR"}
   - {name: "[🇦🇶]pindan.tk:443(29dfc074-ff41-4f12-9f51-6c24612dfd64)", server: pindan.tk, port: 443, type: ss, cipher: aes-256-gcm, password: "29dfc074-ff41-4f12-9f51-6c24612dfd64"}
