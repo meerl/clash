@@ -1,10 +1,4 @@
 proxies:
-  - {name: "[🇸🇮]192.71.244.49:989(f8f7aCzcPKbsF8p3)", server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: "f8f7aCzcPKbsF8p3"}
-  - {name: "[🇳🇴]194.68.32.29:989(f8f7aCzcPKbsF8p3)", server: 194.68.32.29, port: 989, type: ss, cipher: aes-256-cfb, password: "f8f7aCzcPKbsF8p3"}
-  - {name: "[🇭🇺]194.71.130.160:989(f8f7aCzcPKbsF8p3)", server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: "f8f7aCzcPKbsF8p3"}
-  - {name: "[🇨🇭]212.237.210.158:989(f8f7aCzcPKbsF8p3)", server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: "f8f7aCzcPKbsF8p3"}
-  - {name: "[🇮🇸]37.235.49.158:989(f8f7aCzcPKbsF8p3)", server: 37.235.49.158, port: 989, type: ss, cipher: aes-256-cfb, password: "f8f7aCzcPKbsF8p3"}
-  - {name: "[🇷🇺]83.217.9.76:989(f8f7aCzcPKbsF8p3)", server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: "f8f7aCzcPKbsF8p3"}
   - {name: "[🇮🇹]95.174.23.218:989(f8f7aCzcPKbsF8p3)", server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: "f8f7aCzcPKbsF8p3"}
   - {name: "[🇸🇬]176.97.65.241:989(f8f7aCzcPKbsF8p3)", server: 176.97.65.241, port: 989, type: ss, cipher: aes-256-cfb, password: "f8f7aCzcPKbsF8p3"}
   - {name: "[🇸🇬]103.172.116.8:9088(f8npKgNzdkss2ytn)", server: 103.172.116.8, port: 9088, type: ss, cipher: aes-256-cfb, password: "f8npKgNzdkss2ytn"}
