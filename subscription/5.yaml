@@ -1,4 +1,12 @@
 proxies:
+  - {name: "[🇦🇺]185.167.116.24:9093(wfLC2y7rzZyCmuyt)", server: 185.167.116.24, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
+  - {name: "[🇷🇺]213.183.53.200:9093(wfLC2y7rzZyCmuyt)", server: 213.183.53.200, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
+  - {name: "[🇵🇱]217.30.10.65:9093(wfLC2y7rzZyCmuyt)", server: 217.30.10.65, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
+  - {name: "[🇵🇱]217.30.10.66:9093(wfLC2y7rzZyCmuyt)", server: 217.30.10.66, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
+  - {name: "[🇵🇱]217.30.10.67:9093(wfLC2y7rzZyCmuyt)", server: 217.30.10.67, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
+  - {name: "[🇸🇬]103.172.116.9:9093(wfLC2y7rzZyCmuyt)", server: 103.172.116.9, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
+  - {name: "[🇸🇬]103.172.116.10:9057(wjTugX3ZtHMB9c3Z)", server: 103.172.116.10, port: 9057, type: ss, cipher: aes-256-cfb, password: "wjTugX3ZtHMB9c3Z"}
+  - {name: "[🇸🇬]103.172.116.8:9057(wjTugX3ZtHMB9c3Z)", server: 103.172.116.8, port: 9057, type: ss, cipher: aes-256-cfb, password: "wjTugX3ZtHMB9c3Z"}
   - {name: "[🇧🇬]213.183.63.218:9057(wjTugX3ZtHMB9c3Z)", server: 213.183.63.218, port: 9057, type: ss, cipher: aes-256-cfb, password: "wjTugX3ZtHMB9c3Z"}
   - {name: "[🇵🇱]217.30.10.63:9057(wjTugX3ZtHMB9c3Z)", server: 217.30.10.63, port: 9057, type: ss, cipher: aes-256-cfb, password: "wjTugX3ZtHMB9c3Z"}
   - {name: "[🇵🇱]217.30.10.64:9057(wjTugX3ZtHMB9c3Z)", server: 217.30.10.64, port: 9057, type: ss, cipher: aes-256-cfb, password: "wjTugX3ZtHMB9c3Z"}

@@ -12,5 +12,5 @@ trojan://39007fdd-ce3d-4d69-9db9-8434ce32d43b@148.59.74.238:443?security=tls&sni
 trojan://7f4e8527-79da-49c3-8ca8-64eef120882f@163.123.192.151:443?security=tls&sni=download.xn--mes358acgm99l.com&type=tcp&headerType=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5D163.123.192.151%3A443%287f4e8527-79da-49c3-8ca8-64eef120882f%29
 trojan://7f4e8527-79da-49c3-8ca8-64eef120882f@163.123.192.150:443?security=tls&sni=download.xn--mes358acgm99l.com&type=tcp&headerType=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5D163.123.192.150%3A443%287f4e8527-79da-49c3-8ca8-64eef120882f%29
 trojan://6191d59d-021c-4af1-8197-85d52c564ac4@usajs.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dusajs.stablize.top%3A443%286191d59d-021c-4af1-8197-85d52c564ac4%29
-trojan://6191d59d-021c-4af1-8197-85d52c564ac4@kr.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dkr.stablize.top%3A443%286191d59d-021c-4af1-8197-85d52c564ac4%29
-trojan://b327d1e6-3abc-4ce5-81f3-620ea3f10647@ap.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dap.stablize.top%3A443%28b327d1e6-3abc-4ce5-81f3-620ea3f10647%29
+trojan://6191d59d-021c-4af1-8197-85d52c564ac4@kr.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dkr.stablize.top%3A443%286191d59d-021c-4af1-8197-85d52c564ac4%29
+trojan://b327d1e6-3abc-4ce5-81f3-620ea3f10647@ap.stablize.top:443?security=tls&type=tcp&headerType=none#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dap.stablize.top%3A443%28b327d1e6-3abc-4ce5-81f3-620ea3f10647%29
