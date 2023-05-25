@@ -1,4 +1,30 @@
 proxies:
+  - {name: "[🇧🇬]213.183.63.218:9040(p9z5BVADH2YFs3MN)", server: 213.183.63.218, port: 9040, type: ss, cipher: aes-256-cfb, password: "p9z5BVADH2YFs3MN"}
+  - {name: "[🇵🇱]217.30.10.64:9040(p9z5BVADH2YFs3MN)", server: 217.30.10.64, port: 9040, type: ss, cipher: aes-256-cfb, password: "p9z5BVADH2YFs3MN"}
+  - {name: "[🇵🇱]217.30.10.65:9040(p9z5BVADH2YFs3MN)", server: 217.30.10.65, port: 9040, type: ss, cipher: aes-256-cfb, password: "p9z5BVADH2YFs3MN"}
+  - {name: "[🇵🇱]217.30.10.66:9040(p9z5BVADH2YFs3MN)", server: 217.30.10.66, port: 9040, type: ss, cipher: aes-256-cfb, password: "p9z5BVADH2YFs3MN"}
+  - {name: "[🇷🇺]45.144.176.135:3000(qazwsxplmjbufeefvgedgrwchgtrchrdgfbrdvgedecmmdfe)", server: 45.144.176.135, port: 3000, type: ss, cipher: aes-256-cfb, password: "qazwsxplmjbufeefvgedgrwchgtrchrdgfbrdvgedecmmdfe"}
+  - {name: "[🇬🇧]152.89.210.105:9056(rNBfNuuANFCAk7KB)", server: 152.89.210.105, port: 9056, type: ss, cipher: aes-256-cfb, password: "rNBfNuuANFCAk7KB"}
+  - {name: "[🇦🇺]185.167.116.253:9056(rNBfNuuANFCAk7KB)", server: 185.167.116.253, port: 9056, type: ss, cipher: aes-256-cfb, password: "rNBfNuuANFCAk7KB"}
+  - {name: "[🇦🇺]185.167.116.38:9056(rNBfNuuANFCAk7KB)", server: 185.167.116.38, port: 9056, type: ss, cipher: aes-256-cfb, password: "rNBfNuuANFCAk7KB"}
+  - {name: "[🇳🇱]213.183.51.171:9056(rNBfNuuANFCAk7KB)", server: 213.183.51.171, port: 9056, type: ss, cipher: aes-256-cfb, password: "rNBfNuuANFCAk7KB"}
+  - {name: "[🇷🇺]213.183.53.208:9056(rNBfNuuANFCAk7KB)", server: 213.183.53.208, port: 9056, type: ss, cipher: aes-256-cfb, password: "rNBfNuuANFCAk7KB"}
+  - {name: "[🇳🇱]213.183.59.229:9056(rNBfNuuANFCAk7KB)", server: 213.183.59.229, port: 9056, type: ss, cipher: aes-256-cfb, password: "rNBfNuuANFCAk7KB"}
+  - {name: "[🇵🇱]217.30.10.65:9056(rNBfNuuANFCAk7KB)", server: 217.30.10.65, port: 9056, type: ss, cipher: aes-256-cfb, password: "rNBfNuuANFCAk7KB"}
+  - {name: "[🇵🇱]217.30.10.67:9056(rNBfNuuANFCAk7KB)", server: 217.30.10.67, port: 9056, type: ss, cipher: aes-256-cfb, password: "rNBfNuuANFCAk7KB"}
+  - {name: "[🇩🇪]5.183.179.148:9056(rNBfNuuANFCAk7KB)", server: 5.183.179.148, port: 9056, type: ss, cipher: aes-256-cfb, password: "rNBfNuuANFCAk7KB"}
+  - {name: "[🇩🇪]5.183.179.170:9056(rNBfNuuANFCAk7KB)", server: 5.183.179.170, port: 9056, type: ss, cipher: aes-256-cfb, password: "rNBfNuuANFCAk7KB"}
+  - {name: "[🇳🇱]213.183.51.171:9094(rpgbNnU9rDDU4aWZ)", server: 213.183.51.171, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
+  - {name: "[🇧🇬]213.183.63.218:9094(rpgbNnU9rDDU4aWZ)", server: 213.183.63.218, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
+  - {name: "[🇧🇬]213.183.63.221:9094(rpgbNnU9rDDU4aWZ)", server: 213.183.63.221, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
+  - {name: "[🇵🇱]217.30.10.63:9094(rpgbNnU9rDDU4aWZ)", server: 217.30.10.63, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
+  - {name: "[🇵🇱]217.30.10.64:9094(rpgbNnU9rDDU4aWZ)", server: 217.30.10.64, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
+  - {name: "[🇵🇱]217.30.10.66:9094(rpgbNnU9rDDU4aWZ)", server: 217.30.10.66, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
+  - {name: "[🇵🇱]217.30.10.67:9094(rpgbNnU9rDDU4aWZ)", server: 217.30.10.67, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
+  - {name: "[🇩🇪]5.183.179.166:9094(rpgbNnU9rDDU4aWZ)", server: 5.183.179.166, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
+  - {name: "[🇷🇺]213.183.53.200:9094(rpgbNnU9rDDU4aWZ)", server: 213.183.53.200, port: 9094, type: ss, cipher: aes-256-cfb, password: "rpgbNnU9rDDU4aWZ"}
+  - {name: "[🇷🇺]45.144.176.135:3003(werty33588761qwfdees)", server: 45.144.176.135, port: 3003, type: ss, cipher: aes-256-cfb, password: "werty33588761qwfdees"}
+  - {name: "[🇸🇬]103.172.116.7:9093(wfLC2y7rzZyCmuyt)", server: 103.172.116.7, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
   - {name: "[🇦🇺]185.167.116.24:9093(wfLC2y7rzZyCmuyt)", server: 185.167.116.24, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
   - {name: "[🇷🇺]213.183.53.200:9093(wfLC2y7rzZyCmuyt)", server: 213.183.53.200, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
   - {name: "[🇵🇱]217.30.10.65:9093(wfLC2y7rzZyCmuyt)", server: 217.30.10.65, port: 9093, type: ss, cipher: aes-256-cfb, password: "wfLC2y7rzZyCmuyt"}
