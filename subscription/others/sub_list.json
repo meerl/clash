@@ -39,7 +39,7 @@
     "remarks": "vpei/Free-Node-Merge",
     "site": "https://github.com/vpei/Free-Node-Merge",
     "url": "https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/o/allnode.txt",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 6,
@@ -277,7 +277,7 @@
     "remarks": "zsokami/sub",
     "site": "https://github.com/zsokami/sub",
     "url": "https://raw.githubusercontent.com/zsokami/sub/main/trials_providers/All.yaml",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 40,
@@ -333,14 +333,14 @@
     "remarks": "blueseago.tk",
     "site": "https://blueseago.tk:8443",
     "url": "https://blueseago.tk:8443/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 48,
     "remarks": "chongdong1230/dxz",
     "site": "https://github.com/chongdong1230/dxz",
     "url": "https://raw.githubusercontent.com/chongdong1230/dxz/main/clash",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 49,
@@ -494,7 +494,7 @@
     "remarks": "152.70.121.247",
     "site": "http://152.70.121.247:8080",
     "url": "http://152.70.121.247:8080/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 71,
@@ -585,7 +585,7 @@
     "remarks": "zsokami/sub",
     "site": "https://github.com/zsokami/sub",
     "url": "https://raw.githubusercontent.com/zsokami/sub/main/trials_providers/All.yaml",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 84,
