@@ -1,41 +1,4 @@
 proxies:
-  - {name: "[🇨🇳]121.14.203.216:11015(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 121.14.203.216, port: 11015, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇨🇳]58.242.130.105:10001(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10001, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇨🇳]58.242.130.105:10002(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10002, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇨🇳]58.242.130.105:10003(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10003, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇨🇳]58.242.130.105:10004(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10004, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇨🇳]58.242.130.105:10005(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10005, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇨🇳]58.242.130.105:10006(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10006, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇨🇳]58.242.130.105:10007(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10007, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇨🇳]58.242.130.105:10008(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10008, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇨🇳]58.242.130.105:10009(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10009, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇨🇳]58.242.130.105:10010(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10010, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇨🇳]58.242.130.105:10012(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10012, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇨🇳]58.242.130.105:10018(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10018, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]ae.xsus.link:11001(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: ae.xsus.link, port: 11001, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]ae.xsus.link:11002(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: ae.xsus.link, port: 11002, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]ae.xsus.link:11003(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: ae.xsus.link, port: 11003, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]au.xsus.link:10019(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: au.xsus.link, port: 10019, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]europe.xsus.link:17001(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: europe.xsus.link, port: 17001, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]europe.xsus.link:17002(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: europe.xsus.link, port: 17002, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]europe.xsus.link:17006(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: europe.xsus.link, port: 17006, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]europe.xsus.link:17007(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: europe.xsus.link, port: 17007, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]europe.xsus.link:17008(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: europe.xsus.link, port: 17008, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]hk.xsus.link:10001(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10001, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]hk.xsus.link:10002(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10002, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]hk.xsus.link:10003(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10003, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]hk.xsus.link:10004(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10004, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]hk.xsus.link:10005(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10005, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]hk.xsus.link:10021(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10021, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]hk.xsus.link:10023(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10023, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]hk.xsus.link:10025(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10025, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]hk.xsus.link:10026(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10026, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]in.xsus.link:10020(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: in.xsus.link, port: 10020, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]in.xsus.link:10022(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: in.xsus.link, port: 10022, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]jp.xsus.link:10001(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: jp.xsus.link, port: 10001, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]jp.xsus.link:10002(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: jp.xsus.link, port: 10002, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]jp.xsus.link:10003(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: jp.xsus.link, port: 10003, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
-  - {name: "[🇦🇶]jp.xsus.link:10004(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: jp.xsus.link, port: 10004, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
   - {name: "[🇦🇶]kh.xsus.link:10017(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: kh.xsus.link, port: 10017, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
   - {name: "[🇦🇶]kr.xsus.link:10015(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: kr.xsus.link, port: 10015, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
   - {name: "[🇦🇶]kr.xsus.link:10016(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: kr.xsus.link, port: 10016, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
@@ -2736,3 +2699,5 @@ proxies:
   - {name: "[🇩🇪]v7.ssrsub.xyz:8099(t.me/SSRSUB)", server: v7.ssrsub.xyz, port: 8099, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
   - {name: "[🇩🇪]v8.ssrsub.xyz:8080(t.me/SSRSUB)", server: v8.ssrsub.xyz, port: 8080, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
   - {name: "[🇩🇪]v9.ssrsub.xyz:8080(t.me/SSRSUB)", server: v9.ssrsub.xyz, port: 8080, type: ss, cipher: xchacha20-ietf-poly1305, password: "t.me/SSRSUB", plugin: obfs, plugin-opts: {host: data.video.qiyi.com, mode: tls}}
+  - {name: "[🇨🇳]3layer03.initcloud.pro:560(mblank1port)", server: 3layer03.initcloud.pro, port: 560, type: ssr, cipher: chacha20-ietf, password: "mblank1port", protocol: auth_aes128_md5, obfs: plain, obfs-param: "23ffd711.microsoft.com", protocol-param: 51733:SVIPTIZ8}
+  - {name: "[🇨🇳]3layer03.initcloud.pro:561(mblank1port)", server: 3layer03.initcloud.pro, port: 561, type: ssr, cipher: chacha20-ietf, password: "mblank1port", protocol: auth_aes128_md5, obfs: plain, obfs-param: "23ffd711.microsoft.com", protocol-param: 51733:SVIPTIZ8}

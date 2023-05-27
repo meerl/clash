@@ -1,40 +1,4 @@
 proxies:
-  - {name: "[🇨🇳]jp-s-route.teacher2060.com:40601(76820787)", server: jp-s-route.teacher2060.com, port: 40601, type: ss, cipher: chacha20-ietf-poly1305, password: !<str> 76820787}
-  - {name: "[🇨🇳]jp-s-route.teacher2060.com:601(76820787)", server: jp-s-route.teacher2060.com, port: 601, type: ss, cipher: chacha20-ietf-poly1305, password: !<str> 76820787}
-  - {name: "[🇦🇶]sg-s-route.teacher2060.com:40602(76820787)", server: sg-s-route.teacher2060.com, port: 40602, type: ss, cipher: chacha20-ietf-poly1305, password: !<str> 76820787}
-  - {name: "[🇦🇶]sg-s-route.teacher2060.com:602(76820787)", server: sg-s-route.teacher2060.com, port: 602, type: ss, cipher: chacha20-ietf-poly1305, password: !<str> 76820787}
-  - {name: "[🇦🇶]vpn-eu-node00a-bb.hi-l.eu:35780(7LaxzNQTLnd3)", server: vpn-eu-node00a-bb.hi-l.eu, port: 35780, type: ss, cipher: chacha20-ietf-poly1305, password: "7LaxzNQTLnd3"}
-  - {name: "[🇨🇳]124.225.24.191:10155(7a8a2158-ed62-4364-8ba9-937f0ab9d6f0)", server: 124.225.24.191, port: 10155, type: ss, cipher: chacha20-ietf-poly1305, password: "7a8a2158-ed62-4364-8ba9-937f0ab9d6f0"}
-  - {name: "[🇨🇳]124.225.24.191:10374(7a8a2158-ed62-4364-8ba9-937f0ab9d6f0)", server: 124.225.24.191, port: 10374, type: ss, cipher: chacha20-ietf-poly1305, password: "7a8a2158-ed62-4364-8ba9-937f0ab9d6f0"}
-  - {name: "[🇦🇶]bj.raytrack.cloud:33434(7a8a2158-ed62-4364-8ba9-937f0ab9d6f0)", server: bj.raytrack.cloud, port: 33434, type: ss, cipher: chacha20-ietf-poly1305, password: "7a8a2158-ed62-4364-8ba9-937f0ab9d6f0"}
-  - {name: "[🇨🇳]cn1.cdn.zeroteam.top:19526(7a8a2158-ed62-4364-8ba9-937f0ab9d6f0)", server: cn1.cdn.zeroteam.top, port: 19526, type: ss, cipher: chacha20-ietf-poly1305, password: "7a8a2158-ed62-4364-8ba9-937f0ab9d6f0"}
-  - {name: "[🇨🇳]cn1.cdn.zeroteam.top:21142(7a8a2158-ed62-4364-8ba9-937f0ab9d6f0)", server: cn1.cdn.zeroteam.top, port: 21142, type: ss, cipher: chacha20-ietf-poly1305, password: "7a8a2158-ed62-4364-8ba9-937f0ab9d6f0"}
-  - {name: "[🇨🇳]cn1.cdn.zeroteam.top:22665(7a8a2158-ed62-4364-8ba9-937f0ab9d6f0)", server: cn1.cdn.zeroteam.top, port: 22665, type: ss, cipher: chacha20-ietf-poly1305, password: "7a8a2158-ed62-4364-8ba9-937f0ab9d6f0"}
-  - {name: "[🇨🇳]cn1.cdn.zeroteam.top:28508(7a8a2158-ed62-4364-8ba9-937f0ab9d6f0)", server: cn1.cdn.zeroteam.top, port: 28508, type: ss, cipher: chacha20-ietf-poly1305, password: "7a8a2158-ed62-4364-8ba9-937f0ab9d6f0"}
-  - {name: "[🇨🇳]cn1.cdn.zeroteam.top:31804(7a8a2158-ed62-4364-8ba9-937f0ab9d6f0)", server: cn1.cdn.zeroteam.top, port: 31804, type: ss, cipher: chacha20-ietf-poly1305, password: "7a8a2158-ed62-4364-8ba9-937f0ab9d6f0"}
-  - {name: "[🇨🇳]cn1.cdn.zeroteam.top:33550(7a8a2158-ed62-4364-8ba9-937f0ab9d6f0)", server: cn1.cdn.zeroteam.top, port: 33550, type: ss, cipher: chacha20-ietf-poly1305, password: "7a8a2158-ed62-4364-8ba9-937f0ab9d6f0"}
-  - {name: "[🇦🇶]7704d818-78e5-471a-a1d6-655c4d79f662.1c5f5adf-a6ce-4066-b318-fa7eb97f68c8.xn--9kq12xdq7a.com:30017(7b5335cf-0cc9-4978-b3c4-4986f5eee53e)", server: 7704d818-78e5-471a-a1d6-655c4d79f662.1c5f5adf-a6ce-4066-b318-fa7eb97f68c8.xn--9kq12xdq7a.com, port: 30017, type: ss, cipher: chacha20-ietf-poly1305, password: "7b5335cf-0cc9-4978-b3c4-4986f5eee53e"}
-  - {name: "[🇨🇳]eu.unlimitedtraffic.top:25908(7d618f98-38d5-404b-ad46-834bb218a071)", server: eu.unlimitedtraffic.top, port: 25908, type: ss, cipher: chacha20-ietf-poly1305, password: "7d618f98-38d5-404b-ad46-834bb218a071"}
-  - {name: "[🇨🇳]183.232.230.214:49871(7f77298a-cc14-45dd-a145-28f522443379)", server: 183.232.230.214, port: 49871, type: ss, cipher: chacha20-ietf-poly1305, password: "7f77298a-cc14-45dd-a145-28f522443379"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16101(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16101, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16102(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16102, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16103(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16103, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16104(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16104, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16105(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16105, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16201(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16201, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16202(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16202, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16203(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16203, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16301(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16301, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16302(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16302, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16401(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16401, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16402(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16402, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16403(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16403, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16501(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16501, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16502(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16502, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]cm-1.ssp-node.com:16503(80e70717-6fd5-4625-825b-824775da691c)", server: cm-1.ssp-node.com, port: 16503, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]ct-1.ssp-node.com:16601(80e70717-6fd5-4625-825b-824775da691c)", server: ct-1.ssp-node.com, port: 16601, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]ct-1.ssp-node.com:16611(80e70717-6fd5-4625-825b-824775da691c)", server: ct-1.ssp-node.com, port: 16611, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
-  - {name: "[🇦🇶]ct-1.ssp-node.com:16621(80e70717-6fd5-4625-825b-824775da691c)", server: ct-1.ssp-node.com, port: 16621, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
   - {name: "[🇦🇶]ct-1.ssp-node.com:16631(80e70717-6fd5-4625-825b-824775da691c)", server: ct-1.ssp-node.com, port: 16631, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
   - {name: "[🇦🇶]cu-1.ssp-node.com:16101(80e70717-6fd5-4625-825b-824775da691c)", server: cu-1.ssp-node.com, port: 16101, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
   - {name: "[🇦🇶]cu-1.ssp-node.com:16102(80e70717-6fd5-4625-825b-824775da691c)", server: cu-1.ssp-node.com, port: 16102, type: ss, cipher: chacha20-ietf-poly1305, password: "80e70717-6fd5-4625-825b-824775da691c"}
@@ -66,7 +30,7 @@ proxies:
   - {name: "[🇨🇳]122.9.54.153:1029(8d0bcb875191315e459288411c18c38963d0627e1990a8fa9cc84dd43e6e8050)", server: 122.9.54.153, port: 1029, type: ss, cipher: chacha20-ietf-poly1305, password: "8d0bcb875191315e459288411c18c38963d0627e1990a8fa9cc84dd43e6e8050"}
   - {name: "[🇨🇳]122.9.62.60:1003(8eff2ae2afb4d6cbc95dd8006cbadb3ed4077dc878b511edce084361d30b263a)", server: 122.9.62.60, port: 1003, type: ss, cipher: chacha20-ietf-poly1305, password: "8eff2ae2afb4d6cbc95dd8006cbadb3ed4077dc878b511edce084361d30b263a"}
   - {name: "[🇨🇳]ahcm.v-too.cloud:46108(93db748f-faba-4b98-a4a7-6568e09f264c)", server: ahcm.v-too.cloud, port: 46108, type: ss, cipher: chacha20-ietf-poly1305, password: "93db748f-faba-4b98-a4a7-6568e09f264c"}
-  - {name: "[🇳🇱]gy-hkhgc.fenglingcloud.com:28001(958e2b96-d28e-46b4-8447-06f72089d11b)", server: gy-hkhgc.fenglingcloud.com, port: 28001, type: ss, cipher: chacha20-ietf-poly1305, password: "958e2b96-d28e-46b4-8447-06f72089d11b"}
+  - {name: "[🇺🇸]gy-hkhgc.fenglingcloud.com:28001(958e2b96-d28e-46b4-8447-06f72089d11b)", server: gy-hkhgc.fenglingcloud.com, port: 28001, type: ss, cipher: chacha20-ietf-poly1305, password: "958e2b96-d28e-46b4-8447-06f72089d11b"}
   - {name: "[🇦🇶]ultimate-stack.atomwan.link:11003(9680e06a-fd10-4381-b796-8f305e09b08f)", server: ultimate-stack.atomwan.link, port: 11003, type: ss, cipher: chacha20-ietf-poly1305, password: "9680e06a-fd10-4381-b796-8f305e09b08f"}
   - {name: "[🇦🇶]ultimate-stack.atomwan.link:11004(9680e06a-fd10-4381-b796-8f305e09b08f)", server: ultimate-stack.atomwan.link, port: 11004, type: ss, cipher: chacha20-ietf-poly1305, password: "9680e06a-fd10-4381-b796-8f305e09b08f"}
   - {name: "[🇦🇶]ultimate-stack.atomwan.link:11020(9680e06a-fd10-4381-b796-8f305e09b08f)", server: ultimate-stack.atomwan.link, port: 11020, type: ss, cipher: chacha20-ietf-poly1305, password: "9680e06a-fd10-4381-b796-8f305e09b08f"}
@@ -715,7 +679,6 @@ proxies:
   - {name: "[🇭🇰]api-a-asia-3.mcqqn.com:61019(dbefcef0-836b-4d58-aa05-146f7e63f06f)", server: api-a-asia-3.mcqqn.com, port: 61019, type: ss, cipher: chacha20-ietf-poly1305, password: "dbefcef0-836b-4d58-aa05-146f7e63f06f"}
   - {name: "[🇭🇰]api-a-asia-4.mcqqn.com:61001(dbefcef0-836b-4d58-aa05-146f7e63f06f)", server: api-a-asia-4.mcqqn.com, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: "dbefcef0-836b-4d58-aa05-146f7e63f06f"}
   - {name: "[🇭🇰]api-a-asia-4.mcqqn.com:61002(dbefcef0-836b-4d58-aa05-146f7e63f06f)", server: api-a-asia-4.mcqqn.com, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: "dbefcef0-836b-4d58-aa05-146f7e63f06f"}
-  - {name: "[🇭🇰]api-a-occident-5.mcqqn.com:60004(dbefcef0-836b-4d58-aa05-146f7e63f06f)", server: api-a-occident-5.mcqqn.com, port: 60004, type: ss, cipher: chacha20-ietf-poly1305, password: "dbefcef0-836b-4d58-aa05-146f7e63f06f"}
   - {name: "[🇨🇳]14.29.214.131:43014(dbfe7117-d5f8-49be-867d-d7b1ec4958c8)", server: 14.29.214.131, port: 43014, type: ss, cipher: chacha20-ietf-poly1305, password: "dbfe7117-d5f8-49be-867d-d7b1ec4958c8"}
   - {name: "[🇨🇳]14.29.214.131:63012(dbfe7117-d5f8-49be-867d-d7b1ec4958c8)", server: 14.29.214.131, port: 63012, type: ss, cipher: chacha20-ietf-poly1305, password: "dbfe7117-d5f8-49be-867d-d7b1ec4958c8"}
   - {name: "[🇨🇳]36.138.6.143:63012(dbfe7117-d5f8-49be-867d-d7b1ec4958c8)", server: 36.138.6.143, port: 63012, type: ss, cipher: chacha20-ietf-poly1305, password: "dbfe7117-d5f8-49be-867d-d7b1ec4958c8"}
@@ -773,7 +736,7 @@ proxies:
   - {name: "[🇺🇸]154.17.2.130:18335(n3aRFACF8u5AaC7R6ey3lyDDacCSOYzYEqgB0xSxeD43IlOpj3X9STp2ZNK8wZ)", server: 154.17.2.130, port: 18335, type: ss, cipher: chacha20-ietf-poly1305, password: "n3aRFACF8u5AaC7R6ey3lyDDacCSOYzYEqgB0xSxeD43IlOpj3X9STp2ZNK8wZ"}
   - {name: "[🇨🇳]hk-s-route.teacher2060.com:603(oq7Hsx00G4)", server: hk-s-route.teacher2060.com, port: 603, type: ss, cipher: chacha20-ietf-poly1305, password: "oq7Hsx00G4"}
   - {name: "[🇦🇶]sg-s-route.teacher2060.com:602(oq7Hsx00G4)", server: sg-s-route.teacher2060.com, port: 602, type: ss, cipher: chacha20-ietf-poly1305, password: "oq7Hsx00G4"}
-  - {name: "[🇳🇱]free-node-6.fnyun.xyz:443(q78QGCQt4a6y)", server: free-node-6.fnyun.xyz, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: "q78QGCQt4a6y"}
+  - {name: "[🇺🇸]free-node-6.fnyun.xyz:443(q78QGCQt4a6y)", server: free-node-6.fnyun.xyz, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: "q78QGCQt4a6y"}
   - {name: "[🇨🇳]cn3.monolink.net:998(qK4WEobTeeBS)", server: cn3.monolink.net, port: 998, type: ss, cipher: chacha20-ietf-poly1305, password: "qK4WEobTeeBS"}
   - {name: "[🇨🇳]cn4.monolink.net:179(qK4WEobTeeBS)", server: cn4.monolink.net, port: 179, type: ss, cipher: chacha20-ietf-poly1305, password: "qK4WEobTeeBS"}
   - {name: "[🇨🇳]liam.monolink.net:995(qK4WEobTeeBS)", server: liam.monolink.net, port: 995, type: ss, cipher: chacha20-ietf-poly1305, password: "qK4WEobTeeBS"}
@@ -2135,8 +2098,8 @@ proxies:
   - {name: "[🇨🇳]36.134.177.223:10050(2daf156a-b9ee-4671-913a-4339ddd39021)", server: 36.134.177.223, port: 10050, type: ss, cipher: aes-128-gcm, password: "2daf156a-b9ee-4671-913a-4339ddd39021"}
   - {name: "[🇨🇳]36.139.226.210:10050(2daf156a-b9ee-4671-913a-4339ddd39021)", server: 36.139.226.210, port: 10050, type: ss, cipher: aes-128-gcm, password: "2daf156a-b9ee-4671-913a-4339ddd39021"}
   - {name: "[🇨🇳]36.139.226.220:10050(2daf156a-b9ee-4671-913a-4339ddd39021)", server: 36.139.226.220, port: 10050, type: ss, cipher: aes-128-gcm, password: "2daf156a-b9ee-4671-913a-4339ddd39021"}
-  - {name: "[🇩🇪]iepl10.dcnode.me:10050(2daf156a-b9ee-4671-913a-4339ddd39021)", server: iepl10.dcnode.me, port: 10050, type: ss, cipher: aes-128-gcm, password: "2daf156a-b9ee-4671-913a-4339ddd39021"}
-  - {name: "[🇩🇪]iepl3.dcnode.me:10043(2daf156a-b9ee-4671-913a-4339ddd39021)", server: iepl3.dcnode.me, port: 10043, type: ss, cipher: aes-128-gcm, password: "2daf156a-b9ee-4671-913a-4339ddd39021"}
+  - {name: "[🇺🇸]iepl10.dcnode.me:10050(2daf156a-b9ee-4671-913a-4339ddd39021)", server: iepl10.dcnode.me, port: 10050, type: ss, cipher: aes-128-gcm, password: "2daf156a-b9ee-4671-913a-4339ddd39021"}
+  - {name: "[🇺🇸]iepl3.dcnode.me:10043(2daf156a-b9ee-4671-913a-4339ddd39021)", server: iepl3.dcnode.me, port: 10043, type: ss, cipher: aes-128-gcm, password: "2daf156a-b9ee-4671-913a-4339ddd39021"}
   - {name: "[🇩🇪]kr02.fktrc.xyz:16789(3363aa99-5af2-45ef-83a4-bd591627ef02)", server: kr02.fktrc.xyz, port: 16789, type: ss, cipher: aes-128-gcm, password: "3363aa99-5af2-45ef-83a4-bd591627ef02"}
   - {name: "[🇩🇪]sg09.fktrc.xyz:19890(3363aa99-5af2-45ef-83a4-bd591627ef02)", server: sg09.fktrc.xyz, port: 19890, type: ss, cipher: aes-128-gcm, password: "3363aa99-5af2-45ef-83a4-bd591627ef02"}
   - {name: "[🇩🇪]sg10.fktrc.xyz:19893(3363aa99-5af2-45ef-83a4-bd591627ef02)", server: sg10.fktrc.xyz, port: 19893, type: ss, cipher: aes-128-gcm, password: "3363aa99-5af2-45ef-83a4-bd591627ef02"}
@@ -2297,7 +2260,7 @@ proxies:
   - {name: "[🇦🇶]cn1.iepl.starlink.st:50500(ced52354-bec2-4209-9121-b57d3dfb59e9)", server: cn1.iepl.starlink.st, port: 50500, type: ss, cipher: aes-128-gcm, password: "ced52354-bec2-4209-9121-b57d3dfb59e9"}
   - {name: "[🇦🇶]cn1.iepl.starlink.st:50600(ced52354-bec2-4209-9121-b57d3dfb59e9)", server: cn1.iepl.starlink.st, port: 50600, type: ss, cipher: aes-128-gcm, password: "ced52354-bec2-4209-9121-b57d3dfb59e9"}
   - {name: "[🇦🇶]cn1.iepl.starlink.st:50700(ced52354-bec2-4209-9121-b57d3dfb59e9)", server: cn1.iepl.starlink.st, port: 50700, type: ss, cipher: aes-128-gcm, password: "ced52354-bec2-4209-9121-b57d3dfb59e9"}
-  - {name: "[🇦🇶]cdn2.myuuusss.com:37006(cf998f5b-85d9-4798-871d-e0e7916fff04)", server: cdn2.myuuusss.com, port: 37006, type: ss, cipher: aes-128-gcm, password: "cf998f5b-85d9-4798-871d-e0e7916fff04"}
+  - {name: "[🇺🇸]cdn2.myuuusss.com:37006(cf998f5b-85d9-4798-871d-e0e7916fff04)", server: cdn2.myuuusss.com, port: 37006, type: ss, cipher: aes-128-gcm, password: "cf998f5b-85d9-4798-871d-e0e7916fff04"}
   - {name: "[🇨🇳]gddxc.fosi.hk:46682(a987dfeb-c22c-4d3f-abf2-5e4bd91d2b0d)", server: gddxc.fosi.hk, port: 46682, type: ss, cipher: aes-128-gcm, password: "a987dfeb-c22c-4d3f-abf2-5e4bd91d2b0d"}
   - {name: "[🇺🇸]cdn2.myuuusss.com:20011(b195963c-2631-442d-ab3a-6e78df25d904)", server: cdn2.myuuusss.com, port: 20011, type: ss, cipher: aes-128-gcm, password: "b195963c-2631-442d-ab3a-6e78df25d904"}
   - {name: "[🇦🇶]cm.xrayport.one:10966(b2e37e3b-d651-46d1-81a8-bb61246de20a)", server: cm.xrayport.one, port: 10966, type: ss, cipher: aes-128-gcm, password: "b2e37e3b-d651-46d1-81a8-bb61246de20a"}
@@ -2317,16 +2280,16 @@ proxies:
   - {name: "[🇺🇸]w2.v2mmy.xyz:44819(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w2.v2mmy.xyz, port: 44819, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
   - {name: "[🇺🇸]w2.v2mmy.xyz:44825(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w2.v2mmy.xyz, port: 44825, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
   - {name: "[🇺🇸]w2.v2mmy.xyz:44826(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w2.v2mmy.xyz, port: 44826, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
-  - {name: "[🇳🇱]w3.v2mmy.xyz:44816(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w3.v2mmy.xyz, port: 44816, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
-  - {name: "[🇳🇱]w3.v2mmy.xyz:44817(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w3.v2mmy.xyz, port: 44817, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
-  - {name: "[🇳🇱]w3.v2mmy.xyz:44818(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w3.v2mmy.xyz, port: 44818, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
-  - {name: "[🇳🇱]w5.v2mmy.xyz:44820(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w5.v2mmy.xyz, port: 44820, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
-  - {name: "[🇳🇱]w5.v2mmy.xyz:44821(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w5.v2mmy.xyz, port: 44821, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
-  - {name: "[🇳🇱]w5.v2mmy.xyz:44822(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w5.v2mmy.xyz, port: 44822, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
-  - {name: "[🇳🇱]w5.v2mmy.xyz:44823(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w5.v2mmy.xyz, port: 44823, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
+  - {name: "[🇺🇸]w3.v2mmy.xyz:44816(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w3.v2mmy.xyz, port: 44816, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
+  - {name: "[🇺🇸]w3.v2mmy.xyz:44817(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w3.v2mmy.xyz, port: 44817, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
+  - {name: "[🇺🇸]w3.v2mmy.xyz:44818(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w3.v2mmy.xyz, port: 44818, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
+  - {name: "[🇺🇸]w5.v2mmy.xyz:44820(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w5.v2mmy.xyz, port: 44820, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
+  - {name: "[🇺🇸]w5.v2mmy.xyz:44821(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w5.v2mmy.xyz, port: 44821, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
+  - {name: "[🇺🇸]w5.v2mmy.xyz:44822(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w5.v2mmy.xyz, port: 44822, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
+  - {name: "[🇺🇸]w5.v2mmy.xyz:44823(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w5.v2mmy.xyz, port: 44823, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
   - {name: "[🇺🇸]w6.v2mmy.xyz:25600(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w6.v2mmy.xyz, port: 25600, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
-  - {name: "[🇳🇱]w7.v2mmy.xyz:44827(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w7.v2mmy.xyz, port: 44827, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
-  - {name: "[🇳🇱]w7.v2mmy.xyz:44828(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w7.v2mmy.xyz, port: 44828, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
+  - {name: "[🇺🇸]w7.v2mmy.xyz:44827(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w7.v2mmy.xyz, port: 44827, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
+  - {name: "[🇺🇸]w7.v2mmy.xyz:44828(ba61540e-33d3-4c7c-a7f2-3c8222ea6726)", server: w7.v2mmy.xyz, port: 44828, type: ss, cipher: aes-128-gcm, password: "ba61540e-33d3-4c7c-a7f2-3c8222ea6726"}
   - {name: "[🇨🇳]163.177.158.215:16000(bzUdYJ4JzjGfIwhG)", server: 163.177.158.215, port: 16000, type: ss, cipher: aes-128-gcm, password: "bzUdYJ4JzjGfIwhG"}
   - {name: "[🇨🇳]163.177.158.215:16010(bzUdYJ4JzjGfIwhG)", server: 163.177.158.215, port: 16010, type: ss, cipher: aes-128-gcm, password: "bzUdYJ4JzjGfIwhG"}
   - {name: "[🇨🇳]163.177.158.215:16020(bzUdYJ4JzjGfIwhG)", server: 163.177.158.215, port: 16020, type: ss, cipher: aes-128-gcm, password: "bzUdYJ4JzjGfIwhG"}
@@ -2997,3 +2960,40 @@ proxies:
   - {name: "[🇨🇳]121.14.203.216:11004(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 121.14.203.216, port: 11004, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
   - {name: "[🇨🇳]121.14.203.216:11008(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 121.14.203.216, port: 11008, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
   - {name: "[🇨🇳]121.14.203.216:11013(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 121.14.203.216, port: 11013, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇨🇳]121.14.203.216:11015(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 121.14.203.216, port: 11015, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇨🇳]58.242.130.105:10001(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10001, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇨🇳]58.242.130.105:10002(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10002, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇨🇳]58.242.130.105:10003(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10003, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇨🇳]58.242.130.105:10004(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10004, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇨🇳]58.242.130.105:10005(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10005, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇨🇳]58.242.130.105:10006(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10006, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇨🇳]58.242.130.105:10007(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10007, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇨🇳]58.242.130.105:10008(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10008, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇨🇳]58.242.130.105:10009(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10009, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇨🇳]58.242.130.105:10010(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10010, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇨🇳]58.242.130.105:10012(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10012, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇨🇳]58.242.130.105:10018(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: 58.242.130.105, port: 10018, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]ae.xsus.link:11001(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: ae.xsus.link, port: 11001, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]ae.xsus.link:11002(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: ae.xsus.link, port: 11002, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]ae.xsus.link:11003(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: ae.xsus.link, port: 11003, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]au.xsus.link:10019(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: au.xsus.link, port: 10019, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]europe.xsus.link:17001(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: europe.xsus.link, port: 17001, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]europe.xsus.link:17002(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: europe.xsus.link, port: 17002, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]europe.xsus.link:17006(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: europe.xsus.link, port: 17006, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]europe.xsus.link:17007(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: europe.xsus.link, port: 17007, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]europe.xsus.link:17008(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: europe.xsus.link, port: 17008, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]hk.xsus.link:10001(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10001, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]hk.xsus.link:10002(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10002, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]hk.xsus.link:10003(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10003, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]hk.xsus.link:10004(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10004, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]hk.xsus.link:10005(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10005, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]hk.xsus.link:10021(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10021, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]hk.xsus.link:10023(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10023, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]hk.xsus.link:10025(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10025, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]hk.xsus.link:10026(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: hk.xsus.link, port: 10026, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]in.xsus.link:10020(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: in.xsus.link, port: 10020, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]in.xsus.link:10022(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: in.xsus.link, port: 10022, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]jp.xsus.link:10001(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: jp.xsus.link, port: 10001, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]jp.xsus.link:10002(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: jp.xsus.link, port: 10002, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]jp.xsus.link:10003(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: jp.xsus.link, port: 10003, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
+  - {name: "[🇦🇶]jp.xsus.link:10004(66cda2d4-ad1b-4988-b219-66ba58dcfcb3)", server: jp.xsus.link, port: 10004, type: ss, cipher: aes-256-gcm, password: "66cda2d4-ad1b-4988-b219-66ba58dcfcb3"}
