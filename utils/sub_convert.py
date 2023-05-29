@@ -411,6 +411,7 @@ class sub_convert():
                             vmess_config['path'] = re.sub(' |\[|\]|{|}|\?|@|"','',urllib.parse.unquote(vmess_config['path'])).split(':')[-1]
                         if vmess_config['host'] is not None:
                             vmess_config['host'] = re.sub(' |\[|\]|{|}|\?|@|"','',urllib.parse.unquote(vmess_config['host'])).split(':')[-1]
+                            vmess_config['host'] = re.sub(' |\[|\]|{|}|\?|@|"','',urllib.parse.unquote(vmess_config['host'])).split(':')[-1]
                         if vmess_config['net'] == 'ws':
                             if vmess_config['tls'] == 'tls':
                                 yaml_url.setdefault('tls', 'true')
@@ -692,4 +693,4 @@ class sub_convert():
 if __name__ == '__main__':
     # sub_convert.get_node_from_sub("https://raw.githubusercontent.com/mheidari98/.proxy/main/all")
     # sub_convert.format("ss://YWVzLTEyOC1nY206M2U3NjBmZmQtZGY0Ny00Y2YyLWI3NTMtMjQ4MjYyOTcwYjhlQHVzMi5saW5naHVuMy54eXo6NDAwMDc=?country=8J-HuvCfh7ggVVM=#%5B%E4%B8%AD%E5%9B%BDSS%5DUS2.LINGHUN3.XYZ%3A40007")
-    sub_convert.yaml_encode(["trojan://224f902c-f7f2-4819-be03-c420ae2b7edf@149.56.141.11:443?allowInsecure=1&sni=@224f902c-f7f2-4819-be03-c420ae2b7edf@149.56.141.11:443#%5B%F0%9F%87%A8%F0%9F%87%A6%5D149.56.141.11%3A443%28224f902c-f7f2-4819-be03-c420ae2b7edf%29"])
+    sub_convert.yaml_encode(["vmess://eyJ2IjogIjIiLCAicHMiOiAiW1x1ZDgzY1x1ZGRmYlx1ZDgzY1x1ZGRmM10xMDMuODIuMjcuMTYzOjgwKDhhZmJkNjBmLWFhNTItNDllNi04ZjM3LTlhY2EwYjkwZjJjOCkiLCAiYWRkIjogIjEwMy44Mi4yNy4xNjMiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOGFmYmQ2MGYtYWE1Mi00OWU2LThmMzctOWFjYTBiOTBmMmM4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi96aW5nZmFzdC52biIsICJob3N0IjogIiU3QiUyMkhvc3QlMjI6JTIyJTI1N0IlMjUyMmhvc3QlMjUyMjolMjUyMmlib2xlcm8udm4lMjUyMiUyNTdEJTIyJTdEIiwgInRscyI6ICIifQ=="])
