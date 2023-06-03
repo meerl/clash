@@ -78,4 +78,4 @@ if __name__ == '__main__':
     sub_list = sub_merge.read_list(sub_list_json)
     contents = ThreadPoolExecutor(max_workers=10000).map(sub_merge.get_sub_content, sub_list)
     content_list = list(filter(None, list(contents)))
-    sub_merge(content_list)
+    sub_merge.sub_merge(content_list)
