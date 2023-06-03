@@ -1,3 +1,3 @@
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1x1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM11jaHJvbWUuanNoa2NrLmNuOjQ0Myg4ZTZkNjdmNi1iYzQ2LTQwODctOTk3YS1jMjNmZTQ2OTljNDQpIiwgImFkZCI6ICJjaHJvbWUuanNoa2NrLmNuIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjhlNmQ2N2Y2LWJjNDYtNDA4Ny05OTdhLWMyM2ZlNDY5OWM0NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImhpLmZ1Y2t5b3UuY29tIiwgInBhdGgiOiAiL1BpYW5aaS9OaU1hU2lMZSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJoaS5mdWNreW91LmNvbSIsICJhbHBuIjogImh0dHAvMS4xIiwgImZwIjogImNocm9tZSJ9
-ss://YWVzLTEyOC1nY206ZnVja3lvdTQ0NDQ0NA==@bb.yiliwl.top:80#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dbb.yiliwl.top%3A80%28fuckyou444444%29
+ss://YWVzLTEyOC1nY206ZnVja3lvdTQ0NDQ0NA==@bb.yiliwl.top:80#%5B%F0%9F%87%A6%F0%9F%87%B6%5Dbb.yiliwl.top%3A80%28fuckyou444444%29
 trojan://fuckyou444444@jisu.chews.cn:443?security=tls&sni=hi.fuckyou.com&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none&host=hi.fuckyou.com#%5B%F0%9F%87%AD%F0%9F%87%B0%5Djisu.chews.cn%3A443%28fuckyou444444%29
