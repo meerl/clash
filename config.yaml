@@ -195,7 +195,7 @@ proxy-providers:
 rules:
   - GEOIP,LAN,DIRECT
 
-  - DOMAIN-SUFFIX,bing.com,PROXY
+  - DOMAIN-SUFFIX,bing.com,GLOBAL
 
   - GEOIP,CN,DIRECT
-  - MATCH,PROXY
+  - MATCH,GLOBAL
