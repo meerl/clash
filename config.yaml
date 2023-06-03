@@ -54,7 +54,7 @@ external-ui: /usr/share/yacd/
 # ALWAYS set a secret if RESTful API is listening on 0.0.0.0
 # secret:
 proxy-groups:
-  - name: GLOBAL
+  - name: PROXY
     type: select
     use:
       - GROUP_0
@@ -195,7 +195,7 @@ proxy-providers:
 rules:
   - GEOIP,LAN,DIRECT
 
-  - DOMAIN-SUFFIX,bing.com,GLOBAL
+  - DOMAIN-SUFFIX,bing.com,PROXY
 
   - GEOIP,CN,DIRECT
-  - MATCH,GLOBAL
+  - MATCH,PROXY
