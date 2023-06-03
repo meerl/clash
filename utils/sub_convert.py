@@ -708,9 +708,9 @@ class sub_convert():
     
 if __name__ == '__main__':
     # file = open("./subscription/others/node.txt", 'r', encoding='utf-8')
-    # nodes = file.read().split('\n')     
+    # nodes = file.read().split('\n')
     # file.close()
     # sub_convert.write_to_clash(nodes,'./')
     # sub_convert.get_node_from_sub("https://raw.githubusercontent.com/mheidari98/.proxy/main/all")
     # sub_convert.format("ss://YWVzLTEyOC1nY206M2U3NjBmZmQtZGY0Ny00Y2YyLWI3NTMtMjQ4MjYyOTcwYjhlQHVzMi5saW5naHVuMy54eXo6NDAwMDc=?country=8J-HuvCfh7ggVVM=#%5B%E4%B8%AD%E5%9B%BDSS%5DUS2.LINGHUN3.XYZ%3A40007")
-    # sub_convert.yaml_encode(["vmess://eyJ2IjogIjIiLCAicHMiOiAiW1x1ZDgzY1x1ZGRmYlx1ZDgzY1x1ZGRmM10xMDMuODIuMjcuMTYzOjgwKDhhZmJkNjBmLWFhNTItNDllNi04ZjM3LTlhY2EwYjkwZjJjOCkiLCAiYWRkIjogIjEwMy44Mi4yNy4xNjMiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOGFmYmQ2MGYtYWE1Mi00OWU2LThmMzctOWFjYTBiOTBmMmM4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi96aW5nZmFzdC52biIsICJob3N0IjogIiU3QiUyMkhvc3QlMjI6JTIyJTI1N0IlMjUyMmhvc3QlMjUyMjolMjUyMmlib2xlcm8udm4lMjUyMiUyNTdEJTIyJTdEIiwgInRscyI6ICIifQ=="])
+    sub_convert.yaml_encode(["vmess://eyJ2IjogIjIiLCAicHMiOiAiW1x1ZDgzY1x1ZGRmYlx1ZDgzY1x1ZGRmM10xMDMuODIuMjcuMTYzOjgwKDhhZmJkNjBmLWFhNTItNDllNi04ZjM3LTlhY2EwYjkwZjJjOCkiLCAiYWRkIjogIjEwMy44Mi4yNy4xNjMiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOGFmYmQ2MGYtYWE1Mi00OWU2LThmMzctOWFjYTBiOTBmMmM4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi96aW5nZmFzdC52biIsICJob3N0IjogIiU3QiUyMkhvc3QlMjI6JTIyJTI1N0IlMjUyMmhvc3QlMjUyMjolMjUyMmlib2xlcm8udm4lMjUyMiUyNTdEJTIyJTdEIiwgInRscyI6ICIifQ=="])
