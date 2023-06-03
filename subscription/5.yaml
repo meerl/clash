@@ -1,4 +1,5 @@
 proxies:
+  - {name: "[🇸🇬]172.104.50.106:8009(XKFKl2rULjIp74)", server: 172.104.50.106, port: 8009, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp74"}
   - {name: "[🇦🇺]172.105.171.80:8009(XKFKl2rULjIp74)", server: 172.105.171.80, port: 8009, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp74"}
   - {name: "[🇦🇺]172.105.180.227:8008(XKFKl2rULjIp74)", server: 172.105.180.227, port: 8008, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp74"}
   - {name: "[🇦🇺]172.105.180.227:8009(XKFKl2rULjIp74)", server: 172.105.180.227, port: 8009, type: ss, cipher: aes-256-gcm, password: "XKFKl2rULjIp74"}
@@ -2417,4 +2418,3 @@ proxies:
   - {name: "[🇨🇳]2d1t5w02.mcfront.xyz:31306(181367b4-8254-4723-b665-92f317910536)", server: 2d1t5w02.mcfront.xyz, port: 31306, type: trojan, password: "181367b4-8254-4723-b665-92f317910536", network: tcp, udp: true}
   - {name: "[🇨🇳]2d1t5w06.mcfront.xyz:31311(181367b4-8254-4723-b665-92f317910536)", server: 2d1t5w06.mcfront.xyz, port: 31311, type: trojan, password: "181367b4-8254-4723-b665-92f317910536", network: tcp, udp: true}
   - {name: "[🇨🇳]3a4u0k01.mcfront.xyz:31811(181367b4-8254-4723-b665-92f317910536)", server: 3a4u0k01.mcfront.xyz, port: 31811, type: trojan, password: "181367b4-8254-4723-b665-92f317910536", network: tcp, udp: true}
-  - {name: "[🇨🇳]3d1c4a01.mcfront.xyz:31701(181367b4-8254-4723-b665-92f317910536)", server: 3d1c4a01.mcfront.xyz, port: 31701, type: trojan, password: "181367b4-8254-4723-b665-92f317910536", network: tcp, udp: true}
