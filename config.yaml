@@ -63,11 +63,11 @@ proxy-groups:
       - GROUP_3
       - GROUP_4
       - GROUP_5
-      - GROUP_6
-      - GROUP_7
-      - GROUP_8
-      - GROUP_9
-      - GROUP_10
+      # - GROUP_6
+      # - GROUP_7
+      # - GROUP_8
+      # - GROUP_9
+      # - GROUP_10
       # - GROUP_11
 
 ####################################################################################################
@@ -132,55 +132,55 @@ proxy-providers:
       interval: 2000
       url: "http://www.gstatic.com/generate_204"
 
-  GROUP_6:
-    type: file
-    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/6.yaml"
-    interval: 2000
-    path: subscription/6.yaml
-    health-check:
-      enable: true
-      interval: 2000
-      url: "http://www.gstatic.com/generate_204"
+  # GROUP_6:
+  #   type: file
+  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/6.yaml"
+  #   interval: 2000
+  #   path: subscription/6.yaml
+  #   health-check:
+  #     enable: true
+  #     interval: 2000
+  #     url: "http://www.gstatic.com/generate_204"
 
-  GROUP_7:
-    type: file
-    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/7.yaml"
-    interval: 2000
-    path: subscription/7.yaml
-    health-check:
-      enable: true
-      interval: 2000
-      url: "http://www.gstatic.com/generate_204"
+  # GROUP_7:
+  #   type: file
+  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/7.yaml"
+  #   interval: 2000
+  #   path: subscription/7.yaml
+  #   health-check:
+  #     enable: true
+  #     interval: 2000
+  #     url: "http://www.gstatic.com/generate_204"
 
-  GROUP_8:
-    type: file
-    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/8.yaml"
-    interval: 2000
-    path: subscription/8.yaml
-    health-check:
-      enable: true
-      interval: 2000
-      url: "http://www.gstatic.com/generate_204"
+  # GROUP_8:
+  #   type: file
+  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/8.yaml"
+  #   interval: 2000
+  #   path: subscription/8.yaml
+  #   health-check:
+  #     enable: true
+  #     interval: 2000
+  #     url: "http://www.gstatic.com/generate_204"
 
-  GROUP_9:
-    type: file
-    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/9.yaml"
-    interval: 2000
-    path: subscription/9.yaml
-    health-check:
-      enable: true
-      interval: 2000
-      url: "http://www.gstatic.com/generate_204"
+  # GROUP_9:
+  #   type: file
+  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/9.yaml"
+  #   interval: 2000
+  #   path: subscription/9.yaml
+  #   health-check:
+  #     enable: true
+  #     interval: 2000
+  #     url: "http://www.gstatic.com/generate_204"
 
-  GROUP_10:
-    type: file
-    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/10.yaml"
-    interval: 2000
-    path: subscription/10.yaml
-    health-check:
-      enable: true
-      interval: 2000
-      url: "http://www.gstatic.com/generate_204"
+  # GROUP_10:
+  #   type: file
+  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/10.yaml"
+  #   interval: 2000
+  #   path: subscription/10.yaml
+  #   health-check:
+  #     enable: true
+  #     interval: 2000
+  #     url: "http://www.gstatic.com/generate_204"
   
   # GROUP_11:
   #   type: file
