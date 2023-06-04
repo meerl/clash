@@ -341,7 +341,7 @@ class sub_convert():
         sub_head = 'proxies:\n'
         for i in range(0, len(nodes), 2000):
             sub_content = sub_head + '\n'.join(nodes[i:i + 2000])
-            node_list_file = open(f'{path}{(i+1)//3000}.yaml', 'w', encoding='utf-8')
+            node_list_file = open(f'{path}{(i+1)//2000}.yaml', 'w', encoding='utf-8')
             node_list_file.write(sub_content)
             node_list_file.close()
 
