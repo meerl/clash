@@ -44,7 +44,7 @@ class sub_convert():
                     break
                 except Exception:
                     # 链接有问题，直接返回原始错误
-                    print(f'网络错误，检查订阅转换服务器是否失效: {url}\n')
+                    print(f'{url}\n网络错误，检查订阅转换服务器是否失效: {converted_url}\n')
                     continue
         sub_content_all = ''.join(sub_content)
         return sub_content_all
