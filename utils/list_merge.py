@@ -76,6 +76,6 @@ if __name__ == '__main__':
     update_url.update_main()
     sub_merge.geoip_update('https://github.com/Dreamacro/maxmind-geoip/releases/latest/download/Country.mmdb')
     sub_list = sub_merge.read_list(sub_list_json)
-    contents = ThreadPoolExecutor(max_workers=10000).map(sub_merge.get_sub_content, sub_list)
+    contents = ThreadPoolExecutor(max_workers=1000).map(sub_merge.get_sub_content, sub_list)
     content_list = list(filter(None, list(contents)))
     sub_merge.sub_merge(content_list)

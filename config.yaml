@@ -62,7 +62,7 @@ proxy-groups:
       - GROUP_2
       - GROUP_3
       - GROUP_4
-      - GROUP_5
+      # - GROUP_5
       # - GROUP_6
       # - GROUP_7
       # - GROUP_8
@@ -122,15 +122,15 @@ proxy-providers:
       interval: 2000
       url: "http://www.gstatic.com/generate_204"
   
-  GROUP_5:
-    type: file
-    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/5.yaml"
-    interval: 2000
-    path: subscription/5.yaml
-    health-check:
-      enable: true
-      interval: 2000
-      url: "http://www.gstatic.com/generate_204"
+  # GROUP_5:
+  #   type: file
+  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/5.yaml"
+  #   interval: 2000
+  #   path: subscription/5.yaml
+  #   health-check:
+  #     enable: true
+  #     interval: 2000
+  #     url: "http://www.gstatic.com/generate_204"
 
   # GROUP_6:
   #   type: file
