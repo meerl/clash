@@ -378,7 +378,6 @@ class sub_convert():
             return False
     def yaml_encode(line):  # 将 URL 内容转换为 YAML (输出默认 YAML 格式)
         ss_cipher = ["aes-128-gcm", "aes-192-gcm", "aes-256-gcm", "aes-128-cfb", "aes-192-cfb", "aes-256-cfb", "aes-128-ctr", "aes-192-ctr", "aes-256-ctr", "rc4-md5", "chacha20-ietf", "xchacha20", "chacha20-ietf-poly1305", "xchacha20-ietf-poly1305"]
-        # ssr supported ciphers (encryption methods): all stream ciphers in ss --> rc4-md5, salsa20,chacha20,chacha-ietf, aes-ctr, bf-cfb, camellia-cfb, aes-cfb
         ssr_cipher = ["aes-128-cfb", "aes-192-cfb", "aes-256-cfb", "aes-128-ctr", "aes-192-ctr", "aes-256-ctr", "rc4-md5", "chacha20-ietf", "xchacha20"]
         ssr_protocol = ["origin", "auth_sha1_v4", "auth_aes128_md5", "auth_aes128_sha1", "auth_chain_a", "auth_chain_b"]
         ssr_obfs = ["plain", "http_simple", "http_post", "random_head", "tls1.2_ticket_auth", "tls1.2_ticket_fastauth"]
@@ -616,21 +615,22 @@ class sub_convert():
                     yaml_url.setdefault('obfs', server_part_list[4])
                 else:
                     return ''
-                for item in ssr_part:
-                    if 'obfsparam=' in item:
-                        obfs_param = sub_convert.base64_decode(urllib.parse.unquote(item.replace('obfsparam=', '')))
-                        obfs_param = re.sub('\[|\]|{|}', '', obfs_param)
-                        if obfs_param != '':
-                            yaml_url.setdefault('obfs-param', '"' + obfs_param + '"')
-                        else:
-                            yaml_url.setdefault('obfs-param', '""')
-                    elif 'protoparam=' in item:
-                        protocol_param = sub_convert.base64_decode(urllib.parse.unquote(item.replace('protoparam=', '')))
-                        protocol_param = re.sub('\[|\]|{|}', '', protocol_param)
-                        if protocol_param != '':
-                            yaml_url.setdefault('protocol-param', protocol_param)
-                        else:
-                            yaml_url.setdefault('protocol-param', '""')
+                if 'ssr_part' in vars():
+                    for item in ssr_part:
+                        if 'obfsparam=' in item:
+                            obfs_param = sub_convert.base64_decode(urllib.parse.unquote(item.replace('obfsparam=', '')))
+                            obfs_param = re.sub('\[|\]|{|}', '', obfs_param)
+                            if obfs_param != '':
+                                yaml_url.setdefault('obfs-param', '"' + obfs_param + '"')
+                            else:
+                                yaml_url.setdefault('obfs-param', '""')
+                        elif 'protoparam=' in item:
+                            protocol_param = sub_convert.base64_decode(urllib.parse.unquote(item.replace('protoparam=', '')))
+                            protocol_param = re.sub('\[|\]|{|}', '', protocol_param)
+                            if protocol_param != '':
+                                yaml_url.setdefault('protocol-param', protocol_param)
+                            else:
+                                yaml_url.setdefault('protocol-param', '""')
                 if 'obfs-param' not in yaml_url.keys():
                     yaml_url.setdefault('obfs-param', '""')
                 if 'protocol-param' not in yaml_url.keys():
@@ -704,11 +704,11 @@ class sub_convert():
         return yaml_node
     
 if __name__ == '__main__':
-    # print(sub_convert.check_node_validity('45.85.119.128','8443'))
+    # print(sub_convert.check_node_validity('121.40.115.140','41890'))
     # file = open("./subscription/others/node.txt", 'r', encoding='utf-8')
     # nodes = file.read().split('\n')
     # file.close()
     # sub_convert.write_to_clash(nodes,'./subscription/')
     # sub_convert.get_node_from_sub("https://raw.githubusercontent.com/mheidari98/.proxy/main/all")
     # sub_convert.format("ss://YWVzLTEyOC1nY206M2U3NjBmZmQtZGY0Ny00Y2YyLWI3NTMtMjQ4MjYyOTcwYjhlQHVzMi5saW5naHVuMy54eXo6NDAwMDc=?country=8J-HuvCfh7ggVVM=#%5B%E4%B8%AD%E5%9B%BDSS%5DUS2.LINGHUN3.XYZ%3A40007")
-    sub_convert.yaml_encode("ssr://anAyLnZmdW4uaWN1OjQ0MzphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOnBsYWluOmRubDFibTFsLz9vYmZzcGFyYW09WVdJNU16RXhOelF5TWk1cVpDNW9KU1h2djcwbDc3JTJCOSZyZW1hcmtzPVcvQ2ZoNi93bjRlMVhXcHdNaTUyWm5WdUxtbGpkVG8wTkRNb2RubDFibTFsS1E9PSZwcm90b3BhcmFtPU1UYzBNakk2VkZSd01GTlk=")
+    sub_convert.yaml_encode("ssr://MTUuMTg4LjE3Ny4wOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP3JlbWFya3M9Vy9DZmg2dnduNGUzWFRFMUxqRTRPQzR4TnpjdU1EbzBNamd6TXloWmNGZ3liM0JDWW5KbWNVcDZlazF6S1E9PQ==")
