@@ -48,7 +48,7 @@ class update_url():
             file.write(updated_list)
             file.close()
         else:
-            print('Don\'t need to be updated.')
+            print('\nDon\'t need to be updated.\n')
 
     def update_write(id, updated_url):
         if updated_url == 404:
@@ -56,9 +56,9 @@ class update_url():
         else:
             if updated_url != raw_list[id]['url']:
                 raw_list[id]['url'] = updated_url
-                print(f'Id {id} URL 更新至 : {updated_url}\n')
+                print(f'\nId {id} URL 更新至 : {updated_url}\n')
             else:
-                print(f'Id {id} URL 无可用更新\n')
+                print(f'\nId {id} URL 无可用更新\n')
 
     def update(id):
         # if id == 0:
@@ -115,7 +115,7 @@ class update_url():
                 url_update = '|'.join(url_update_array)
                 return [id, url_update]
             except Exception as err:
-                print(err)
+                print(f'\nSubscription: {id}, Occurred error: {err}\n')
                 return [id, 404]
 
         # elif id == 35:
@@ -134,7 +134,7 @@ class update_url():
         #         url_update = '|'.join(url_update_array)
         #         return [id, url_update]
         #     except Exception as err:
-        #         print(err)
+        #         print(f'\nSubscription: {id}, Occurred error: {err}\n')
         #         return [id, 404]
             
         elif id == 43:
@@ -170,7 +170,7 @@ class update_url():
                 url_update = '|'.join(url_update_array)
                 return [id, url_update]
             except Exception as err:
-                print(err)
+                print(f'\nSubscription: {id}, Occurred error: {err}\n')
                 return [id, 404]
 
         elif id == 57:
@@ -237,7 +237,7 @@ class update_url():
                 url_update = '|'.join(url_update_array)
                 return [id, url_update]
             except Exception as err:
-                print(err)
+                print(f'\nSubscription: {id}, Occurred error: {err}\n')
                 return [id, 404]
 
 

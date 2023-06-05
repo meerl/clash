@@ -33,9 +33,9 @@ class sub_convert():
                     resp = s.get(converted_url, timeout=10)
                     # 如果解析出错，将原始链接内容拷贝下来
                     if 'No nodes were found!' in resp.text or url in resp.text:
-                        print(f"Transform Server: {server_host}, responsed message: {resp.text}")
+                        print(f"\nTransform Server: {server_host}\n, link:{converted_url}, responsed message: {resp.text}\n")
                         if server_host is server_host_list[-1]:
-                            print(f"Can not transform: {url}, downloading...\n")
+                            print(f"\nCan not transform: {url}, downloading...\n")
                             resp = s.get(url, verify=None, timeout=10)
                         else:
                             continue
@@ -44,7 +44,7 @@ class sub_convert():
                     break
                 except Exception:
                     # 链接有问题，直接返回原始错误
-                    print(f'{url}\n网络错误，检查订阅转换服务器是否失效: {converted_url}\n')
+                    print(f'\n{url}\n网络错误，检查订阅转换服务器是否失效: {converted_url}\n')
                     continue
         sub_content_all = ''.join(sub_content)
         return sub_content_all
@@ -57,7 +57,7 @@ class sub_convert():
             try:
                 node_list = sub_convert.base64_decode(node_list)
             except Exception:
-                print(f'无法格式化：{node_list}')
+                print(f'\n无法格式化：{node_list}\n')
         node_list = node_list.replace('://://', '://')
         node_list_array = node_list.split('\n')
         for node in node_list_array:
@@ -77,7 +77,7 @@ class sub_convert():
                         node_raw = node_part[0] + '@' + node_part[1] + '#' + node_name
                         node = 'ss://' + node_raw
                     else:
-                        # print("特殊ss节点：" + node + "\n")
+                        # print("\n特殊ss节点：" + node + "\n")
                         node_part = re.split('\?|#', node_del_head)
                         node_part_head_decoded = sub_convert.base64_decode(
                             node_part[0])
@@ -94,7 +94,7 @@ class sub_convert():
                         node = 'ss://' + node_raw
                     node_list_formated_array.append(node)
                 except Exception as err:
-                    print(f'改名 ss 节点: {node}\n发生错误: {err}')
+                    print(f'\n改名 ss 节点: {node}\n发生错误: {err}\n')
                     continue
             elif 'ssr://' in node:
                 try:
@@ -117,7 +117,7 @@ class sub_convert():
                     node = 'ssr://' + node_raw
                     node_list_formated_array.append(node)
                 except Exception as err:
-                    print(f'改名 ssr 节点: {node}\n发生错误: {err}')
+                    print(f'\n改名 ssr 节点: {node}\n发生错误: {err}\n')
                     continue
             elif 'vmess://' in node:
                 try:
@@ -138,7 +138,7 @@ class sub_convert():
                     node = 'vmess://' + node_raw
                     node_list_formated_array.append(node)
                 except Exception as err:
-                    print(f'改名 vmess 节点: {node}\n发生错误: {err}')
+                    print(f'\n改名 vmess 节点: {node}\n发生错误: {err}\n')
                     continue
             elif 'trojan://' in node:
                 try:
@@ -160,7 +160,7 @@ class sub_convert():
                     else:
                         continue
                 except Exception as err:
-                    print(f'改名 trojan 节点: {node}\n发生错误: {err}')
+                    print(f'\n改名 trojan 节点: {node}\n发生错误: {err}\n')
                     continue
         node_list_formated = '\n'.join(node_list_formated_array)
         if node_list_formated == '':
@@ -190,7 +190,7 @@ class sub_convert():
                 node_part = node_del_head.split('#')
                 name = urllib.parse.unquote(node_part[1])
             except Exception as err:
-                print(f'获取节点名错误: {err}')
+                print(f'\n获取节点名错误: {err}\n')
         elif 'ssr://' in node:
             try:
                 node_del_head = node.replace('ssr://', '')
@@ -203,7 +203,7 @@ class sub_convert():
                             node_part_foot[i].replace('remarks=', ''))
                         break
             except Exception as err:
-                print(f'获取节点名错误: {err}')
+                print(f'\n获取节点名错误: {err}\n')
         elif 'vmess://' in node:
             try:
                 node_del_head = node.replace('vmess://', '')
@@ -211,14 +211,14 @@ class sub_convert():
                     sub_convert.base64_decode(node_del_head))
                 name = node_json['ps']
             except Exception as err:
-                print(f'获取节点名错误: {err}')
+                print(f'\n获取节点名错误: {err}\n')
         elif 'trojan://' in node:
             try:
                 node_del_head = node.replace('trojan://', '')
                 node_part = node_del_head.split('#')
                 name = urllib.parse.unquote(node_part[-1])
             except Exception as err:
-                print(f'获取节点名错误: {err}')
+                print(f'\n获取节点名错误: {err}\n')
         return name
 
     def find_country(server):
@@ -336,7 +336,6 @@ class sub_convert():
         #     node_list_part_file.write(node_list_part)
         #     node_list_part_file.close()
         node_converted_list = ThreadPoolExecutor(max_workers=100000).map(sub_convert.yaml_encode, node_list_array)
-        # print(list(node_converted_list), len(list(node_converted_list)))
         nodes =list(filter(None, list(node_converted_list))) 
         sub_head = 'proxies:\n'
         for i in range(0, len(nodes), 2000):
@@ -352,7 +351,6 @@ class sub_convert():
 
     def base64_decode(url_content):  # Base64 转换为 URL 链接内容
         url_content = url_content.replace('-', '+').replace('_', '/')
-        # print(len(url_content))
         missing_padding = len(url_content) % 4
         if missing_padding != 0:
             # 不是4的倍数后加= https://www.cnblogs.com/wswang/p/7717997.html
@@ -398,7 +396,7 @@ class sub_convert():
                 #vmess_config_str = ['ps', 'add', 'port', 'id', 'aid', 'scy', 'tls', 'net', 'host', 'path']
                 # 生成 yaml 节点字典
                 if vmess_config['id'] == '':
-                    print('节点格式错误')
+                    print(f'\n节点格式错误: {line}\n')
                     return ''
                 else:
                     yaml_url.setdefault('name', '"' + urllib.parse.unquote(vmess_config['ps']) + '"')
@@ -462,7 +460,7 @@ class sub_convert():
                         else:
                             yaml_url.setdefault('http-opts', {}).setdefault('path', '[' + vmess_config['path'] + ']')
             except Exception as err:
-                print(f'yaml_encode 解析 vmess 节点: {line}\n发生错误: {err}')
+                print(f'\nyaml_encode 解析 vmess 节点: {line}\n发生错误: {err}\n')
                 return ''
 
         elif 'ss://' in line and 'vless://' not in line and 'vmess://' not in line:
@@ -565,7 +563,7 @@ class sub_convert():
                     else:
                         yaml_url.setdefault('password', '"' + server_password + '"')
             except Exception as err:
-                print(f'yaml_encode 解析 ss: {line}\n节点发生错误: {err}')
+                print(f'\nyaml_encode 解析 ss: {line}\n节点发生错误: {err}\n')
                 return ''
 
         elif 'ssr://' in line:
@@ -588,7 +586,7 @@ class sub_convert():
                         remarks = sub_convert.base64_decode(remarks_part)
                     except Exception:
                         remarks = 'ssr'
-                        print(f'SSR format error, content:{remarks_part}')
+                        print(f'\nSSR format error, content:{remarks_part}\n')
                 yaml_url.setdefault('name', '"' + urllib.parse.unquote(remarks) + '"')
                 server_part_list = re.split(':|\?|&', part_list[0])
                 if "NULL" in server_part_list[0]:
@@ -636,7 +634,7 @@ class sub_convert():
                 if 'protocol-param' not in yaml_url.keys():
                     yaml_url.setdefault('protocol-param', '""')
             except Exception as err:
-                print(f'yaml_encode 解析 ssr 节点: {line}\n发生错误: {err}')
+                print(f'\nyaml_encode 解析 ssr 节点: {line}\n发生错误: {err}\n')
                 return ''
 
         elif 'trojan://' in line:
@@ -691,7 +689,7 @@ class sub_convert():
                             if 'grpc-service-name' not in yaml_url['grpc-opts'].keys():
                                 yaml_url.setdefault('grpc-opts', {}).setdefault('grpc-service-name', '""')
             except Exception as err:
-                print(f'yaml_encode 解析 trojan 节点: {line}\n发生错误: {err}')
+                print(f'\nyaml_encode 解析 trojan 节点: {line}\n发生错误: {err}\n')
                 return ''
         if yaml_url['server'] == '' or yaml_url['port'] == 0:
             return ''

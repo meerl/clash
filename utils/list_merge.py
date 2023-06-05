@@ -27,7 +27,7 @@ class sub_merge():
             return ''
         content = sub_convert.get_node_from_sub(url)
         if content == '':
-            print(f'Writing error of {remarks} to {ids:0>2d}.txt\n')
+            print(f'\nWriting error of {remarks} to {ids:0>2d}.txt\n')
             file = open(f'{sub_list_path}{ids:0>2d}.txt',
                         'w', encoding='utf-8')
             file.write(f'节点解析出错，请检查订阅链接：{ids} 是否正确')
@@ -42,7 +42,7 @@ class sub_merge():
             return content
 
     def sub_merge(content_list_array):
-        print('Merging nodes...\n')
+        print('\nMerging nodes...\n')
         # https://python3-cookbook.readthedocs.io/zh_CN/latest/c02/p14_combine_and_concatenate_strings.html
         content_list = ''.join(content_list_array)
         # 去重
@@ -55,7 +55,7 @@ class sub_merge():
         sub_convert.write_to_base64(
             content_array_deduplication, './subscription/others/base64')
         sub_convert.write_to_clash(content_array_deduplication, './subscription/')
-        print('Done!\n')
+        print('\nDone!\n')
 
     def read_list(json_file):  # 将 sub_list.json Url 内容读取为列表
         with open(json_file, 'r', encoding='utf-8') as f:
@@ -63,12 +63,12 @@ class sub_merge():
         return raw_list
 
     def geoip_update(url):
-        print('Downloading Country.mmdb...')
+        print('\nDownloading Country.mmdb...\n')
         try:
             request.urlretrieve(url, './Country.mmdb')
-            print('Success!\n')
+            print('\nSuccess!\n')
         except Exception:
-            print('Failed!\n')
+            print('\nFailed!\n')
             pass
 
 
