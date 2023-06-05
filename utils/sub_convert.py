@@ -705,10 +705,10 @@ class sub_convert():
     
 if __name__ == '__main__':
     # print(sub_convert.check_node_validity('121.40.115.140','25535'))
-    file = open("./subscription/others/node.txt", 'r', encoding='utf-8')
-    nodes = file.read().split('\n')
-    file.close()
-    sub_convert.write_to_clash(nodes,'./test/')
+    # file = open("./subscription/others/node.txt", 'r', encoding='utf-8')
+    # nodes = file.read().split('\n')
+    # file.close()
+    # sub_convert.write_to_clash(nodes,'./test/')
     # sub_convert.get_node_from_sub("https://raw.githubusercontent.com/mheidari98/.proxy/main/all")
     # sub_convert.format("ss://YWVzLTEyOC1nY206M2U3NjBmZmQtZGY0Ny00Y2YyLWI3NTMtMjQ4MjYyOTcwYjhlQHVzMi5saW5naHVuMy54eXo6NDAwMDc=?country=8J-HuvCfh7ggVVM=#%5B%E4%B8%AD%E5%9B%BDSS%5DUS2.LINGHUN3.XYZ%3A40007")
     sub_convert.yaml_encode("ssr://MTUuMTg4LjE3Ny4wOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP3JlbWFya3M9Vy9DZmg2dnduNGUzWFRFMUxqRTRPQzR4TnpjdU1EbzBNamd6TXloWmNGZ3liM0JDWW5KbWNVcDZlazF6S1E9PQ==")
