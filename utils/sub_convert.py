@@ -30,7 +30,7 @@ class sub_convert():
                     s = requests.Session()
                     s.mount('http://', HTTPAdapter())
                     s.mount('https://', HTTPAdapter())
-                    resp = s.get(converted_url, timeout=10)
+                    resp = s.get(converted_url, timeout=5)
                     # 如果解析出错，将原始链接内容拷贝下来
                     if 'No nodes were found!' in resp.text or url in resp.text:
                         print(f"\n未发现有效配置, 转换服务器: {server_host} 链接:{converted_url} 回复消息: {resp.text}\n")
@@ -371,7 +371,7 @@ class sub_convert():
             return base64_content
 
     def check_node_validity(host, port):
-        socket.setdefaulttimeout(10)
+        socket.setdefaulttimeout(5)
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         try:
             if sock.connect_ex((host,int(port))):

@@ -77,7 +77,7 @@ if __name__ == '__main__':
     sub_merge.geoip_update('https://github.com/Dreamacro/maxmind-geoip/releases/latest/download/Country.mmdb')
     sub_list = sub_merge.read_list(sub_list_json)
     print("\n#################### Getting server list start ###############################\n")
-    contents = ThreadPoolExecutor(max_workers=1000).map(sub_merge.get_sub_content, sub_list)
+    contents = ThreadPoolExecutor(max_workers=500).map(sub_merge.get_sub_content, sub_list)
     content_list = list(filter(None, list(contents)))
     print("\n#################### Getting server list stop  ###############################\n")
     print("\n#################### Formating server list start  ###############################\n")
