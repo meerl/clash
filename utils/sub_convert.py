@@ -33,9 +33,9 @@ class sub_convert():
                     resp = s.get(converted_url, timeout=10)
                     # 如果解析出错，将原始链接内容拷贝下来
                     if 'No nodes were found!' in resp.text or url in resp.text:
-                        print(f"\nTransform Server: {server_host}\n, link:{converted_url}, responsed message: {resp.text}\n")
+                        print(f"\n转换服务器: {server_host}, 链接:{converted_url}, 回复消息: {resp.text}\n")
                         if server_host is server_host_list[-1]:
-                            print(f"\nCan not transform: {url}, downloading...\n")
+                            print(f"\n无法转换: {url}, 下载...\n")
                             resp = s.get(url, verify=None, timeout=10)
                         else:
                             continue
@@ -44,7 +44,7 @@ class sub_convert():
                     break
                 except Exception:
                     # 链接有问题，直接返回原始错误
-                    print(f'\n{url}\n网络错误，检查订阅转换服务器是否失效: {converted_url}\n')
+                    print(f'\n{url}\n网络错误, 检查订阅转换服务器是否失效: {converted_url}\n')
                     continue
         sub_content_all = ''.join(sub_content)
         return sub_content_all
@@ -57,7 +57,7 @@ class sub_convert():
             try:
                 node_list = sub_convert.base64_decode(node_list)
             except Exception:
-                print(f'\n无法格式化：{node_list}\n')
+                print(f'\n无法格式化: {node_list}\n')
         node_list = node_list.replace('://://', '://')
         node_list_array = node_list.split('\n')
         for node in node_list_array:
@@ -586,7 +586,7 @@ class sub_convert():
                         remarks = sub_convert.base64_decode(remarks_part)
                     except Exception:
                         remarks = 'ssr'
-                        print(f'\nSSR format error, content:{remarks_part}\n')
+                        print(f'\nSSR 格式化错误, 内容:{remarks_part}\n')
                 yaml_url.setdefault('name', '"' + urllib.parse.unquote(remarks) + '"')
                 server_part_list = re.split(':|\?|&', part_list[0])
                 if "NULL" in server_part_list[0]:
