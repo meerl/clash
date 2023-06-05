@@ -28,8 +28,8 @@ class sub_convert():
                 try:
                     converted_url = server_host+'/sub?target=mixed&url='+url_quote+'&list=true'
                     s = requests.Session()
-                    s.mount('http://', HTTPAdapter(max_retries=1))
-                    s.mount('https://', HTTPAdapter(max_retries=1))
+                    s.mount('http://', HTTPAdapter(max_retries=None))
+                    s.mount('https://', HTTPAdapter(max_retries=None))
                     resp = s.get(converted_url, timeout=5)
                     # 如果解析出错，将原始链接内容拷贝下来
                     if 'No nodes were found!' in resp.text or url in resp.text:
