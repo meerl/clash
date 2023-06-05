@@ -367,7 +367,7 @@ class sub_convert():
             return base64_content
 
     def check_node_validity(host, port):
-        socket.setdefaulttimeout(10)
+        socket.setdefaulttimeout(6)
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         try:
             if sock.connect_ex((host,int(port))):
