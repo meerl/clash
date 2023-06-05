@@ -16,7 +16,7 @@ from requests.adapters import HTTPAdapter
 class sub_convert():
     def get_node_from_sub(url_raw):
         # 使用远程订阅转换服务
-        server_host_list = ['http://127.0.0.1:25500','https://sub.xeton.dev']
+        server_host_list = ['https://sub.id9.cc', 'https://sub.xeton.dev', 'https://api.dler.io', 'https://sub.maoxiongnet.com']
         # 分割订阅链接
         urls = url_raw.split('|')
         sub_content = []
