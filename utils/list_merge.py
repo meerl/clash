@@ -27,7 +27,7 @@ class sub_merge():
             return ''
         content = sub_convert.get_node_from_sub(url)
         if content == '':
-            print(f'\nWriting error of {remarks} to {ids:0>2d}.txt\n')
+            print(f'\n写入 {remarks} 的错误信息到 {ids:0>2d}.txt 完成. \n')
             file = open(f'{sub_list_path}{ids:0>2d}.txt',
                         'w', encoding='utf-8')
             file.write(f'节点解析出错，请检查订阅链接：{ids} 是否正确')
@@ -38,11 +38,11 @@ class sub_merge():
                         'w', encoding='utf-8')
             file.write(content)
             file.close()
-            print(f'Writing content of {remarks} to {ids:0>2d}.txt\n')
+            print(f'写入内容: {remarks} 到文件: {ids:0>2d}.txt 完成. \n')
             return content
 
     def sub_merge(content_list_array):
-        print('\nMerging nodes...\n')
+        print('\n合并数据...\n')
         # https://python3-cookbook.readthedocs.io/zh_CN/latest/c02/p14_combine_and_concatenate_strings.html
         content_list = ''.join(content_list_array)
         # 去重
@@ -55,7 +55,7 @@ class sub_merge():
         sub_convert.write_to_base64(
             content_array_deduplication, './subscription/others/base64')
         sub_convert.write_to_clash(content_array_deduplication, './subscription/')
-        print('\nDone!\n')
+        print('\n合并数据完成.\n')
 
     def read_list(json_file):  # 将 sub_list.json Url 内容读取为列表
         with open(json_file, 'r', encoding='utf-8') as f:
@@ -63,12 +63,12 @@ class sub_merge():
         return raw_list
 
     def geoip_update(url):
-        print('\nDownloading Country.mmdb...\n')
+        print('\n下载geoip2.database 中的 Country.mmdb...\n')
         try:
             request.urlretrieve(url, './Country.mmdb')
-            print('\nSuccess!\n')
+            print('\n下载完成. \n')
         except Exception:
-            print('\nFailed!\n')
+            print('\n下载失败. \n')
             pass
 
 
