@@ -39,9 +39,9 @@ class sub_convert():
                             resp = s.get(url, verify=None, timeout=10)
                         else:
                             continue
-                    print(f'\n格式化{server_host}返回数据开始...')
+                    print(f'\n格式化{url}返回数据开始...')
                     node_list_formated = sub_convert.format(resp.text)
-                    print(f'\n格式化{server_host}返回数据结束...')
+                    print(f'\n格式化{url}返回数据结束...')
                     sub_content.append(node_list_formated)
                     break
                 except Exception:
