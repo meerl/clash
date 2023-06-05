@@ -107,7 +107,10 @@ class sub_convert():
                     # example : 194.50.171.214:9566:origin:rc4:plain:bG5jbi5vcmcgOGw/?obfsparam=&remarks=5L-E572X5pavTQ&group=TG5jbi5vcmc
                     node_part_head = re.split(':|\?',node_part[0])
                     server_head = sub_convert.find_country(node_part_head[0])
-                    password = sub_convert.base64_decode(node_part_head[5])
+                    try:
+                        password = sub_convert.base64_decode(node_part_head[5])
+                    except Exception:
+                        password = node_part_head[5]
                     name_renamed = server_head + node_part_head[0] + ':' + node_part_head[1] + '(' + password + ')'
                     node_part_foot = node_part[-1].split('&')
                     for i in range(len(node_part_foot)):
@@ -602,7 +605,10 @@ class sub_convert():
                     yaml_url.setdefault('cipher', server_part_list[3])
                 else:
                     return ''
-                server_password = sub_convert.base64_decode(server_part_list[5])
+                try:
+                    server_password = sub_convert.base64_decode(server_part_list[5])
+                except Exception:
+                    server_password = server_part_list[5]
                 server_password = re.sub('!str|!<str>|!<str| |\[|\]|{|}','', server_password)
                 if re.compile(r'^[-+]?[-0-9]\d*\.\d*|[-+]?\.?[0-9]\d*$').match(server_password):
                     yaml_url.setdefault('password', '!<str> ' + server_password)
@@ -711,5 +717,5 @@ if __name__ == '__main__':
     # file.close()
     # sub_convert.write_to_clash(nodes,'./test/')
     # sub_convert.get_node_from_sub("https://raw.githubusercontent.com/mheidari98/.proxy/main/all")
-    # sub_convert.format("ss://YWVzLTEyOC1nY206M2U3NjBmZmQtZGY0Ny00Y2YyLWI3NTMtMjQ4MjYyOTcwYjhlQHVzMi5saW5naHVuMy54eXo6NDAwMDc=?country=8J-HuvCfh7ggVVM=#%5B%E4%B8%AD%E5%9B%BDSS%5DUS2.LINGHUN3.XYZ%3A40007")
-    sub_convert.yaml_encode("ssr://MTUuMTg4LjE3Ny4wOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP3JlbWFya3M9Vy9DZmg2dnduNGUzWFRFMUxqRTRPQzR4TnpjdU1EbzBNamd6TXloWmNGZ3liM0JDWW5KbWNVcDZlazF6S1E9PQ==")
+    sub_convert.format("ssr://MTYyLjU1LjIzMS43ODo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY3RyOjpzRXNjUEJpQUQ5SyQmQDc5P2NvdW50cnk9OEotSHFmQ2ZoNm9yWkdVPSZvYmZzPWRHeHpNUzR5WDNScFkydGxkRjloZFhSbyZyZW1hcmtzPVctVy10LVdidlZOVFVsMHhOakl1TlRVdU1qTXhMamM0T2pRME13PT0=")
+    # sub_convert.yaml_encode("ssr://MTUuMTg4LjE3Ny4wOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP3JlbWFya3M9Vy9DZmg2dnduNGUzWFRFMUxqRTRPQzR4TnpjdU1EbzBNamd6TXloWmNGZ3liM0JDWW5KbWNVcDZlazF6S1E9PQ==")
