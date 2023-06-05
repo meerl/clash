@@ -34,11 +34,12 @@ class sub_convert():
                     # 如果解析出错，将原始链接内容拷贝下来
                     if 'No nodes were found!' in resp.text or url in resp.text:
                         print(f"\n未发现有效配置, 转换服务器: {server_host} 链接:{converted_url} 回复消息: {resp.text}\n")
-                        if server_host is server_host_list[-1]:
-                            print(f"\n无法转换: {url} 下载...\n")
-                            resp = s.get(url, verify=None, timeout=10)
-                        else:
-                            continue
+                        # if server_host is server_host_list[-1]:
+                        #     print(f"\n无法转换: {url} 下载...\n")
+                        #     resp = s.get(url, verify=None, timeout=10)
+                        # else:
+                        #     continue
+                        resp = s.get(url, verify=None, timeout=10)
                     print(f'\n格式化{url} 返回数据开始...')
                     node_list_formated = sub_convert.format(resp.text)
                     print(f'\n格式化{url} 返回数据结束...')
