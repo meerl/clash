@@ -33,20 +33,20 @@ class sub_convert():
                     resp = s.get(converted_url, timeout=10)
                     # 如果解析出错，将原始链接内容拷贝下来
                     if 'No nodes were found!' in resp.text or url in resp.text:
-                        print(f"\n未发现有效配置, 转换服务器: {server_host}, 链接:{converted_url}, 回复消息: {resp.text}\n")
+                        print(f"\n未发现有效配置, 转换服务器: {server_host} 链接:{converted_url} 回复消息: {resp.text}\n")
                         if server_host is server_host_list[-1]:
-                            print(f"\n无法转换: {url}, 下载...\n")
+                            print(f"\n无法转换: {url} 下载...\n")
                             resp = s.get(url, verify=None, timeout=10)
                         else:
                             continue
-                    print(f'\n格式化{url}返回数据开始...')
+                    print(f'\n格式化{url} 返回数据开始...')
                     node_list_formated = sub_convert.format(resp.text)
-                    print(f'\n格式化{url}返回数据结束...')
+                    print(f'\n格式化{url} 返回数据结束...')
                     sub_content.append(node_list_formated)
                     break
                 except Exception:
                     # 链接有问题，直接返回原始错误
-                    print(f'\n{url}\n网络错误, 检查订阅转换服务器是否失效: {converted_url}\n')
+                    print(f'\n{url} 网络错误 检查订阅转换服务器是否失效: {converted_url}\n')
                     continue
         sub_content_all = ''.join(sub_content)
         return sub_content_all
@@ -96,7 +96,7 @@ class sub_convert():
                         node = 'ss://' + node_raw
                     node_list_formated_array.append(node)
                 except Exception as err:
-                    print(f'\n改名 ss 节点: {node}\n发生错误: {err}\n')
+                    print(f'\n改名 ss 节点: {node} 发生错误: {err}\n')
                     continue
             elif 'ssr://' in node:
                 try:
@@ -119,7 +119,7 @@ class sub_convert():
                     node = 'ssr://' + node_raw
                     node_list_formated_array.append(node)
                 except Exception as err:
-                    print(f'\n改名 ssr 节点: {node}\n发生错误: {err}\n')
+                    print(f'\n改名 ssr 节点: {node} 发生错误: {err}\n')
                     continue
             elif 'vmess://' in node:
                 try:
@@ -140,7 +140,7 @@ class sub_convert():
                     node = 'vmess://' + node_raw
                     node_list_formated_array.append(node)
                 except Exception as err:
-                    print(f'\n改名 vmess 节点: {node}\n发生错误: {err}\n')
+                    print(f'\n改名 vmess 节点: {node} 发生错误: {err}\n')
                     continue
             elif 'trojan://' in node:
                 try:
@@ -162,7 +162,7 @@ class sub_convert():
                     else:
                         continue
                 except Exception as err:
-                    print(f'\n改名 trojan 节点: {node}\n发生错误: {err}\n')
+                    print(f'\n改名 trojan 节点: {node} 发生错误: {err}\n')
                     continue
         node_list_formated = '\n'.join(node_list_formated_array)
         if node_list_formated == '':
@@ -565,7 +565,7 @@ class sub_convert():
                     else:
                         yaml_url.setdefault('password', '"' + server_password + '"')
             except Exception as err:
-                print(f'\nyaml_encode 解析 ss: {line}\n节点发生错误: {err}\n')
+                print(f'\nyaml_encode 解析 ss: {line} 节点发生错误: {err}\n')
                 return ''
 
         elif 'ssr://' in line:
@@ -636,7 +636,7 @@ class sub_convert():
                 if 'protocol-param' not in yaml_url.keys():
                     yaml_url.setdefault('protocol-param', '""')
             except Exception as err:
-                print(f'\nyaml_encode 解析 ssr 节点: {line}\n发生错误: {err}\n')
+                print(f'\nyaml_encode 解析 ssr 节点: {line} 发生错误: {err}\n')
                 return ''
 
         elif 'trojan://' in line:
@@ -691,7 +691,7 @@ class sub_convert():
                             if 'grpc-service-name' not in yaml_url['grpc-opts'].keys():
                                 yaml_url.setdefault('grpc-opts', {}).setdefault('grpc-service-name', '""')
             except Exception as err:
-                print(f'\nyaml_encode 解析 trojan 节点: {line}\n发生错误: {err}\n')
+                print(f'\nyaml_encode 解析 trojan 节点: {line} 发生错误: {err}\n')
                 return ''
         if yaml_url['server'] == '' or yaml_url['port'] == 0:
             return ''
