@@ -51,9 +51,9 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW1x1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmNl0xOTguNDEuMjE2
 ssr://ZW4udmZ1bi5pY3U6NDQzOmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6cGxhaW46ZG5sMWJtMWwvP2dyb3VwPVUxTlNVSEp2ZG1sa1pYSSZyZW1hcmtzPVcvQ2ZoN2Z3bjRlNlhXVnVMblptZFc0dWFXTjFPalEwTXloMmVYVnViV1VwJm9iZnNwYXJhbT1ZV0k1TXpFeE56UXlNaTVxWkM1b2F3JnByb3RvcGFyYW09TVRjME1qSTZWRlJ3TUZOWQ==
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@46.17.43.192:12345#%5B%F0%9F%87%B7%F0%9F%87%BA%5D46.17.43.192%3A12345%28dongtaiwang.com%29
 trojan://0d4926a0-9881-3609-b6ee-4716da84e59emielink@kaizen-ru-1.mielink-dns2.com:443?allowInsecure=1&sni=paydiu.com#%5B%F0%9F%87%B7%F0%9F%87%BA%5Dkaizen-ru-1.mielink-dns2.com%3A443%280d4926a0-9881-3609-b6ee-4716da84e59emielink%29
-trojan://32fa85ce-0d4b-48c6-b6b5-238aa7e62046@jp.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Djp.stablize.top%3A443%2832fa85ce-0d4b-48c6-b6b5-238aa7e62046%29
-trojan://2dddb8e6-927a-4294-97ea-10a016e24aba@jp.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Djp.stablize.top%3A443%282dddb8e6-927a-4294-97ea-10a016e24aba%29
-trojan://b8c227b5-d026-4379-828e-0e230d53a7a1@jp.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Djp.stablize.top%3A443%28b8c227b5-d026-4379-828e-0e230d53a7a1%29
+trojan://32fa85ce-0d4b-48c6-b6b5-238aa7e62046@jp.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Djp.stablize.top%3A443%2832fa85ce-0d4b-48c6-b6b5-238aa7e62046%29
+trojan://2dddb8e6-927a-4294-97ea-10a016e24aba@jp.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Djp.stablize.top%3A443%282dddb8e6-927a-4294-97ea-10a016e24aba%29
+trojan://b8c227b5-d026-4379-828e-0e230d53a7a1@jp.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%B8%F0%9F%87%AC%5Djp.stablize.top%3A443%28b8c227b5-d026-4379-828e-0e230d53a7a1%29
 ssr://c2ctYW0zLmVxc3Vuc2hpbmUuY29tOjMyMDAxOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6TTJjd1pFaHNTMDFGLz9ncm91cD1VMU5TVUhKdmRtbGtaWEkmcmVtYXJrcz1XL0NmaDdqd240ZXNYWE5uTFdGdE15NWxjWE4xYm5Ob2FXNWxMbU52YlRvek1qQXdNU2d6WnpCa1NHeExUVVVwJm9iZnNwYXJhbT0mcHJvdG9wYXJhbT1UbTl1WlE=
 ssr://c2ctYW0zLmVxc3Vuc2hpbmUuY29tOjMyMDAxOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6TTJjd1pFaHNTMDFGLz9ncm91cD1VMU5TVUhKdmRtbGtaWEkmcmVtYXJrcz1XL0NmaDdqd240ZXNYWE5uTFdGdE15NWxjWE4xYm5Ob2FXNWxMbU52YlRvek1qQXdNU2d6WnpCa1NHeExUVVVwJm9iZnNwYXJhbT0mcHJvdG9wYXJhbT0=
 trojan://0dd0ae16-4081-4530-a925-c3c34ca07d57@sg2.downloadvip.cfd:443?allowInsecure=1&sni=download.xn--mes358a9urctx.com#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg2.downloadvip.cfd%3A443%280dd0ae16-4081-4530-a925-c3c34ca07d57%29
