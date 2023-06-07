@@ -341,7 +341,7 @@ class sub_convert():
         #     node_list_part_file = open(f'{path}{(i+1)//3000}.yaml', 'w', encoding='utf-8')
         #     node_list_part_file.write(node_list_part)
         #     node_list_part_file.close()
-        node_converted_list = ThreadPoolExecutor(max_workers=10000).map(sub_convert.yaml_encode, node_list_array)
+        node_converted_list = ThreadPoolExecutor(max_workers=3000).map(sub_convert.yaml_encode, node_list_array)
         nodes =list(filter(None, list(node_converted_list))) 
         sub_head = 'proxies:\n'
         for i in range(0, len(nodes), 2000):
