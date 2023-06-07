@@ -161,9 +161,9 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW1x1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY11kby1hbWQuZHVu
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1x1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY10xNDMuMTk4Ljk0LjI0Mzo4MCg4OWJhNzc2OC1hODNhLTRjMDEtODAxMi04ZmRmMDg0N2QyYWUpIiwgImFkZCI6ICIxNDMuMTk4Ljk0LjI0MyIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI4OWJhNzc2OC1hODNhLTRjMDEtODAxMi04ZmRmMDg0N2QyYWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3YycmF5IiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
 trojan://e01d0803-5ee1-48c4-a962-2308daf9ad79@sg2.gsjc.cfd:443?allowInsecure=1&sni=20-212-60-88.nhost.00cdn.com#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg2.gsjc.cfd%3A443%28e01d0803-5ee1-48c4-a962-2308daf9ad79%29
 trojan://e01d0803-5ee1-48c4-a962-2308daf9ad79@sg1.gsjc.cfd:443?allowInsecure=1&sni=20-212-60-88.nhost.00cdn.com#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg1.gsjc.cfd%3A443%28e01d0803-5ee1-48c4-a962-2308daf9ad79%29
-trojan://ee8f2339-6935-4719-97b8-7f8fa521418d@sg.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.stablize.top%3A443%28ee8f2339-6935-4719-97b8-7f8fa521418d%29
+trojan://ee8f2339-6935-4719-97b8-7f8fa521418d@sg.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dsg.stablize.top%3A443%28ee8f2339-6935-4719-97b8-7f8fa521418d%29
 trojan://67ca2f44-3948-414f-8e70-049c55cc0d6f@de.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dde.stablize.top%3A443%2867ca2f44-3948-414f-8e70-049c55cc0d6f%29
-trojan://27509bd6-5096-4790-9eba-2c793cca7a8d@ca.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dca.stablize.top%3A443%2827509bd6-5096-4790-9eba-2c793cca7a8d%29
+trojan://27509bd6-5096-4790-9eba-2c793cca7a8d@ca.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dca.stablize.top%3A443%2827509bd6-5096-4790-9eba-2c793cca7a8d%29
 ss://YWVzLTI1Ni1jZmI6Yzk3ZmNlMDQ4@140.238.52.171:18888#%5B%F0%9F%87%AF%F0%9F%87%B5%5D140.238.52.171%3A18888%28c97fce048%29
 trojan://bc2a1eb1-a706-4ee5-95a6-732a6c324142@jp2.cnamazon.sbs:443?allowInsecure=0&sni=tlsdata.cnamazon.sbs#%5B%F0%9F%87%AF%F0%9F%87%B5%5Djp2.cnamazon.sbs%3A443%28bc2a1eb1-a706-4ee5-95a6-732a6c324142%29
 trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@43.207.197.172:443?allowInsecure=0&sni=data.amazon-azure.com#%5B%F0%9F%87%AF%F0%9F%87%B5%5D43.207.197.172%3A443%28ca7febc2-bb45-4e6d-810e-ab0af6009c4e%29
@@ -196,7 +196,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW1x1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNV04LjIwOS4yNDEu
 ssr://aGs1LnZmdW4uaWN1OjQ0MzphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOnBsYWluOmRubDFibTFsLz9ncm91cD1VMU5TVUhKdmRtbGtaWEkmcmVtYXJrcz1XL0NmaDYvd240ZTFYV2hyTlM1MlpuVnVMbWxqZFRvME5ETW9kbmwxYm0xbEtRPT0mb2Jmc3BhcmFtPVl6TXdOakV4TmprMU1pNXFaQzVvSmUtX3ZRJnByb3RvcGFyYW09TVRZNU5USTZPV0pwYXpoSg==
 ssr://aGs1LnZmdW4uaWN1OjQ0MzphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOnBsYWluOmRubDFibTFsLz9ncm91cD1VMU5TVUhKdmRtbGtaWEkmcmVtYXJrcz1XL0NmaDYvd240ZTFYV2hyTlM1MlpuVnVMbWxqZFRvME5ETW9kbmwxYm0xbEtRPT0mb2Jmc3BhcmFtPVl6TXdOakV4TmprMU1pNXFaQzVvSlNVJnByb3RvcGFyYW09TVRZNU5USTZPV0pwYXpoSg==
 trojan://3e7ad819-03dd-46e1-8292-116fd2cea1c2@jp2.cnamazon.sbs:443?allowInsecure=1&sni=tlsdata.cnamazon.sbs#%5B%F0%9F%87%AF%F0%9F%87%B5%5Djp2.cnamazon.sbs%3A443%283e7ad819-03dd-46e1-8292-116fd2cea1c2%29
-trojan://a2dc16a1-b60e-4e40-860e-4f8a560795ca@sg.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dsg.stablize.top%3A443%28a2dc16a1-b60e-4e40-860e-4f8a560795ca%29
+trojan://a2dc16a1-b60e-4e40-860e-4f8a560795ca@sg.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dsg.stablize.top%3A443%28a2dc16a1-b60e-4e40-860e-4f8a560795ca%29
 trojan://033392cd-2d42-4e00-98b1-25776e5bc226@fscjp.fscloud123456789.com:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dfscjp.fscloud123456789.com%3A443%28033392cd-2d42-4e00-98b1-25776e5bc226%29
 trojan://0fe63fa8-b4db-44f8-adfd-9ab6d272329e@fscjp.fscloud123456789.com:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dfscjp.fscloud123456789.com%3A443%280fe63fa8-b4db-44f8-adfd-9ab6d272329e%29
 trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@fscus.fscloud123456789.com:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dfscus.fscloud123456789.com%3A443%289995cc0e-2e9d-4c80-8c81-4fdbb6322a3a%29
