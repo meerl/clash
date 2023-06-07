@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 
 import requests
 from requests.adapters import HTTPAdapter
