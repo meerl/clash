@@ -20,7 +20,7 @@ trojan://TJCfE7Mx2YcA8kX8zg@jp2.chuqiangtou.net:4003?allowInsecure=1#%5B%F0%9F%8
 trojan://TJCfE7Mx2YcA8kX8zg@nl1.chuqiangtou.net:4003?allowInsecure=1#%5B%F0%9F%87%B3%F0%9F%87%B1%5Dnl1.chuqiangtou.net%3A4003%28TJCfE7Mx2YcA8kX8zg%29
 trojan://7d1183a4-560a-494f-b15f-8152018b27fd@fschk.fscloud123456789.com:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dfschk.fscloud123456789.com%3A443%287d1183a4-560a-494f-b15f-8152018b27fd%29
 trojan://32fa85ce-0d4b-48c6-b6b5-238aa7e62046@ap.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Dap.stablize.top%3A443%2832fa85ce-0d4b-48c6-b6b5-238aa7e62046%29
-trojan://32fa85ce-0d4b-48c6-b6b5-238aa7e62046@jp.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%B8%F0%9F%87%AC%5Djp.stablize.top%3A443%2832fa85ce-0d4b-48c6-b6b5-238aa7e62046%29
+trojan://32fa85ce-0d4b-48c6-b6b5-238aa7e62046@jp.stablize.top:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Djp.stablize.top%3A443%2832fa85ce-0d4b-48c6-b6b5-238aa7e62046%29
 trojan://1099d8f0-7f44-40e2-ab94-98cbc31f6149@fscsg.fscloud123456789.com:443?allowInsecure=1#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dfscsg.fscloud123456789.com%3A443%281099d8f0-7f44-40e2-ab94-98cbc31f6149%29
 trojan://b779f467-a1be-49e6-85a8-02b617351788@kr3.microsoft-orgwly.vip:443?allowInsecure=1&sni=tls.microsoft-orgwly.vip#%5B%F0%9F%87%B0%F0%9F%87%B7%5Dkr3.microsoft-orgwly.vip%3A443%28b779f467-a1be-49e6-85a8-02b617351788%29
 trojan://8ffc69d4-bd99-4ef6-a960-a881c427db3d@kr5.microsoft-orgwly.vip:443?allowInsecure=1&sni=tls.microsoft-orgwly.vip#%5B%F0%9F%87%B0%F0%9F%87%B7%5Dkr5.microsoft-orgwly.vip%3A443%288ffc69d4-bd99-4ef6-a960-a881c427db3d%29
