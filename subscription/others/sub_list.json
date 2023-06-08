@@ -164,7 +164,7 @@
     "id": 23,
     "remarks": "tbbatbb/Proxy",
     "site": "https://github.com/tbbatbb/Proxy",
-    "url": "https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml",
+    "url": "https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.config.txt",
     "enabled": true
   },
   {
@@ -228,7 +228,7 @@
     "remarks": "aiboboxx/v2rayfree",
     "site": "https://github.com/aiboboxx/v2rayfree",
     "url": "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 33,
@@ -571,7 +571,7 @@
     "remarks": "freemby.tk",
     "site": "https://freemby.tk",
     "url": "https://freemby.tk/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 82,
@@ -732,7 +732,7 @@
     "remarks": "101.64.235.156",
     "site": "https://101.64.235.156:8443",
     "url": "https://101.64.235.156:8443/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 105,
