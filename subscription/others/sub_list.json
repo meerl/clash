@@ -46,7 +46,7 @@
     "remarks": "123.lcq25938.top",
     "site": "http://123.lcq25938.top:9080",
     "url": "http://123.lcq25938.top:9080/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 7,
@@ -473,7 +473,7 @@
     "remarks": "ccavq/Jiedian",
     "site": "https://github.com/ccavq/Jiedian",
     "url": "https://raw.githubusercontent.com/ccavq/Jiedian/main/20210131",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 68,
