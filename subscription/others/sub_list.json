@@ -8,10 +8,10 @@
   },
   {
     "id": 1,
-    "remarks": "VpnNetwork01/vpn-net",
-    "site": "https://github.com/VpnNetwork01/vpn-net",
-    "url": "https://raw.githubusercontent.com/VpnNetwork01/vpn-net/main/README.md",
-    "enabled": false
+    "remarks": "clash.myvm.cc",
+    "site": "hhttps://clash.myvm.cc",
+    "url": "https://clash.myvm.cc/clash/proxies",
+    "enabled": true
   },
   {
     "id": 2,
@@ -36,17 +36,17 @@
   },
   {
     "id": 5,
-    "remarks": "vpei/Free-Node-Merge",
-    "site": "https://github.com/vpei/Free-Node-Merge",
-    "url": "https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/o/allnode.txt",
-    "enabled": false
+    "remarks": "ss.dosec.cn",
+    "site": "https://ss.dosec.cn",
+    "url": "https://ss.dosec.cn/clash/proxies",
+    "enabled": true
   },
   {
     "id": 6,
-    "remarks": "123.lcq25938.top",
-    "site": "http://123.lcq25938.top:9080",
-    "url": "http://123.lcq25938.top:9080/clash/proxies",
-    "enabled": false
+    "remarks": "proxypool.link",
+    "site": "https://proxypool.link",
+    "url": "https://proxypool.link/clash/proxies",
+    "enabled": true
   },
   {
     "id": 7,
@@ -148,9 +148,9 @@
   },
   {
     "id": 21,
-    "remarks": "JasonZhao2k08/ssr",
-    "site": "https://github.com/JasonZhao2k08/ssr",
-    "url": "https://raw.githubusercontent.com/JasonZhao2k08/fly/main/index.html",
+    "remarks": "www.ssrfree.top",
+    "site": "https://www.ssrfree.top",
+    "url": "https://www.ssrfree.top/clash/proxies",
     "enabled": false
   },
   {
