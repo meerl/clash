@@ -123,7 +123,7 @@
     "remarks": "pi.scntvb.ml",
     "site": "http://pi.scntvb.ml:8080",
     "url": "http://pi.scntvb.ml:8080/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 18,
@@ -354,7 +354,7 @@
     "remarks": "samjoeyang/subscribe",
     "site": "https://github.com/samjoeyang/subscribe",
     "url": "https://raw.githubusercontent.com/samjoeyang/subscribe/main/assets/fly.txt",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 51,
