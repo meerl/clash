@@ -2,7 +2,7 @@ ssr://c2ctYW0zLmVxc3Vuc2hpbmUuY29tOjMyMDAxOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdG
 trojan://PlF471nxneY0YevI@de3.nigirocloud.com:4003?allowInsecure=0#%5B%F0%9F%87%A9%F0%9F%87%AA%5Dde3.nigirocloud.com%3A4003%28PlF471nxneY0YevI%29
 trojan://7a73f1dc97a70905870c0c0484b12145@trs22.bolab.net:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dtrs22.bolab.net%3A443%287a73f1dc97a70905870c0c0484b12145%29
 trojan://1937d8c5-77f3-4eec-b1f7-914806a3bfb8@sg.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dsg.stablize.top%3A443%281937d8c5-77f3-4eec-b1f7-914806a3bfb8%29
-trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%AD%F0%9F%87%B0%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
+trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
 trojan://6aWFNbrFDs@need.uno:443?allowInsecure=0#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dneed.uno%3A443%286aWFNbrFDs%29
 trojan://0e40fe8c-23d2-4dee-a9a4-25006da2d0bf@ovotw.ovogreat.com:443?allowInsecure=0#%5B%F0%9F%87%AF%F0%9F%87%B5%5Dovotw.ovogreat.com%3A443%280e40fe8c-23d2-4dee-a9a4-25006da2d0bf%29
 trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?allowInsecure=0#%5B%F0%9F%87%AE%F0%9F%87%B3%5D152.70.74.66%3A443%28d906afe5-7c3c-4ddc-aaa4-61c154a82e5e%29
