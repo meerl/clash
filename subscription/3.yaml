@@ -1,0 +1,6 @@
+proxies:
+  - {name: "[🇭🇰]vpnhat.stablize.top:443(a4f3be31-57e6-4cde-bf98-a962a0cdbe04)", server: vpnhat.stablize.top, port: 443, type: trojan, password: "a4f3be31-57e6-4cde-bf98-a962a0cdbe04"}
+  - {name: "[🇸🇬]vpnhat.stablize.top:443(f8c19a7c-45d1-4adc-a11c-43df7abf6e50)", server: vpnhat.stablize.top, port: 443, type: trojan, password: "f8c19a7c-45d1-4adc-a11c-43df7abf6e50"}
+  - {name: "[🇯🇵]uk.stablize.top:443(9014ea56-3fec-43d8-bed6-af7bcb5e2cb3)", server: uk.stablize.top, port: 443, type: trojan, password: "9014ea56-3fec-43d8-bed6-af7bcb5e2cb3"}
+  - {name: "[🇯🇵]ca.stablize.top:443(10f94506-9bf9-4dbb-9542-3ff13893b190)", server: ca.stablize.top, port: 443, type: trojan, password: "10f94506-9bf9-4dbb-9542-3ff13893b190"}
+  - {name: "[🇯🇵]jp.stablize.top:443(10f94506-9bf9-4dbb-9542-3ff13893b190)", server: jp.stablize.top, port: 443, type: trojan, password: "10f94506-9bf9-4dbb-9542-3ff13893b190"}
