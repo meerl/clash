@@ -1,21 +1,14 @@
 proxies:
-  - {name: "[🇩🇪]95.179.254.20:80(06f0a703-a02e-4ddc-b2fe-15bf8fdc3279)", server: 95.179.254.20, port: 80, type: vmess, uuid: 06f0a703-a02e-4ddc-b2fe-15bf8fdc3279, alterId: 0, cipher: auto, network: ws, tls: false, ws-opts: {path: /r1120758203, headers: {host: m202.baluchestan.buzz}}}
-  - {name: "[🇩🇪]108.61.210.248:80(06f0a703-a02e-4ddc-b2fe-15bf8fdc3279)", server: 108.61.210.248, port: 80, type: vmess, uuid: 06f0a703-a02e-4ddc-b2fe-15bf8fdc3279, alterId: 0, cipher: auto, network: ws, tls: false, ws-opts: {path: /r1120758203, headers: {host: m202.baluchestan.buzz}}}
-  - {name: "[🇯🇵]ovohk.ovogreat.com:443(289b41b2-01b2-477a-a0b0-640afd67c692)", server: ovohk.ovogreat.com, port: 443, type: trojan, password: "289b41b2-01b2-477a-a0b0-640afd67c692", sni: ovohk.ovogreat.com, network: tcp, udp: true}
-  - {name: "[🇹🇼]hinet1.downloadvip.cfd:443(1ac83a68-186b-483e-b380-faf775e4f76b)", server: hinet1.downloadvip.cfd, port: 443, type: trojan, password: "1ac83a68-186b-483e-b380-faf775e4f76b", sni: download.xn--mes358acgm99l.com, network: tcp, udp: true}
-  - {name: "[🇭🇰]ap.stablize.top:443(e8538ba4-aefa-4845-b51f-b50335432419)", server: ap.stablize.top, port: 443, type: trojan, password: "e8538ba4-aefa-4845-b51f-b50335432419", network: tcp, udp: true}
-  - {name: "[🇯🇵]ap.stablize.top:443(e8538ba4-aefa-4845-b51f-b50335432419)", server: ap.stablize.top, port: 443, type: trojan, password: "e8538ba4-aefa-4845-b51f-b50335432419", network: tcp, udp: true}
-  - {name: "[🇭🇰]jp.stablize.top:443(7d0f1f83-0f2f-4b90-930e-de44ac233fef)", server: jp.stablize.top, port: 443, type: trojan, password: "7d0f1f83-0f2f-4b90-930e-de44ac233fef"}
-  - {name: "[🇭🇰]ca.stablize.top:443(1bf16b43-0ad5-4512-a0e8-34bb8966278e)", server: ca.stablize.top, port: 443, type: trojan, password: "1bf16b43-0ad5-4512-a0e8-34bb8966278e"}
-  - {name: "[🇭🇰]usa.stablize.top:443(8d3fbaf4-029c-4d38-add0-e7f5d613ac5e)", server: usa.stablize.top, port: 443, type: trojan, password: "8d3fbaf4-029c-4d38-add0-e7f5d613ac5e"}
-  - {name: "[🇦🇶]cdn.noice.id:443(ghggygh)", server: cdn.noice.id, port: 443, type: trojan, password: "ghggygh", sni: idc1.hijinetwork.cloud}
   - {name: "[🇯🇵]fscsg.fscloud123456789.com:443(298a5185-2019-46a6-bc2a-42fe3ddbe876)", server: fscsg.fscloud123456789.com, port: 443, type: trojan, password: "298a5185-2019-46a6-bc2a-42fe3ddbe876"}
   - {name: "[🇯🇵]hk02.trojanyyds.xyz:443(331365d8-3ce5-484d-a226-33312bcc3217)", server: hk02.trojanyyds.xyz, port: 443, type: trojan, password: "331365d8-3ce5-484d-a226-33312bcc3217"}
   - {name: "[🇯🇵]fschk.fscloud123456789.com:443(85374b3c-467d-410e-9be6-feb1d8fe35bf)", server: fschk.fscloud123456789.com, port: 443, type: trojan, password: "85374b3c-467d-410e-9be6-feb1d8fe35bf"}
-  - {name: "[🇸🇬]ca.stablize.top:443(0ead3c54-5749-4685-a027-aea9972c389b)", server: ca.stablize.top, port: 443, type: trojan, password: "0ead3c54-5749-4685-a027-aea9972c389b"}
+  - {name: "[🇯🇵]usa.stablize.top:443(6a880277-e7f7-43d9-95e6-a1aab79c81a1)", server: usa.stablize.top, port: 443, type: trojan, password: "6a880277-e7f7-43d9-95e6-a1aab79c81a1"}
+  - {name: "[🇯🇵]ca.stablize.top:443(0ead3c54-5749-4685-a027-aea9972c389b)", server: ca.stablize.top, port: 443, type: trojan, password: "0ead3c54-5749-4685-a027-aea9972c389b"}
+  - {name: "[🇭🇰]usajs.stablize.top:443(29aa9820-78aa-43de-a477-587747ce21a3)", server: usajs.stablize.top, port: 443, type: trojan, password: "29aa9820-78aa-43de-a477-587747ce21a3"}
   - {name: "[🇯🇵]hk03.trojanyyds.xyz:443(331365d8-3ce5-484d-a226-33312bcc3217)", server: hk03.trojanyyds.xyz, port: 443, type: trojan, password: "331365d8-3ce5-484d-a226-33312bcc3217"}
   - {name: "[🇯🇵]fschk.fscloud123456789.com:443(e6a3b957-32a2-42f7-a06f-7e12ca529ab2)", server: fschk.fscloud123456789.com, port: 443, type: trojan, password: "e6a3b957-32a2-42f7-a06f-7e12ca529ab2"}
   - {name: "[🇯🇵]vpnhat.stablize.top:443(a4f3be31-57e6-4cde-bf98-a962a0cdbe04)", server: vpnhat.stablize.top, port: 443, type: trojan, password: "a4f3be31-57e6-4cde-bf98-a962a0cdbe04"}
-  - {name: "[🇯🇵]jp.stablize.top:443(10f94506-9bf9-4dbb-9542-3ff13893b190)", server: jp.stablize.top, port: 443, type: trojan, password: "10f94506-9bf9-4dbb-9542-3ff13893b190"}
-  - {name: "[🇯🇵]ca.stablize.top:443(10f94506-9bf9-4dbb-9542-3ff13893b190)", server: ca.stablize.top, port: 443, type: trojan, password: "10f94506-9bf9-4dbb-9542-3ff13893b190"}
+  - {name: "[🇭🇰]jp.stablize.top:443(10f94506-9bf9-4dbb-9542-3ff13893b190)", server: jp.stablize.top, port: 443, type: trojan, password: "10f94506-9bf9-4dbb-9542-3ff13893b190"}
+  - {name: "[🇸🇬]ca.stablize.top:443(10f94506-9bf9-4dbb-9542-3ff13893b190)", server: ca.stablize.top, port: 443, type: trojan, password: "10f94506-9bf9-4dbb-9542-3ff13893b190"}
   - {name: "[🇯🇵]uk.stablize.top:443(9014ea56-3fec-43d8-bed6-af7bcb5e2cb3)", server: uk.stablize.top, port: 443, type: trojan, password: "9014ea56-3fec-43d8-bed6-af7bcb5e2cb3"}
+  - {name: "[🇭🇰]vpnhat.stablize.top:443(f8c19a7c-45d1-4adc-a11c-43df7abf6e50)", server: vpnhat.stablize.top, port: 443, type: trojan, password: "f8c19a7c-45d1-4adc-a11c-43df7abf6e50"}
