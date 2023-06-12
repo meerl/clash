@@ -120,10 +120,10 @@
   },
   {
     "id": 17,
-    "remarks": "pi.scntvb.ml",
-    "site": "http://pi.scntvb.ml:8080",
-    "url": "http://pi.scntvb.ml:8080/clash/proxies",
-    "enabled": false
+    "remarks": "clashe.eu.org",
+    "site": "https://clashe.eu.org",
+    "url": "https://clashe.eu.org/clash/proxies",
+    "enabled": true
   },
   {
     "id": 18,
@@ -344,17 +344,17 @@
   },
   {
     "id": 49,
-    "remarks": "lcx12901/v2ray-",
-    "site": "https://github.com/lcx12901/v2ray-",
-    "url": "https://raw.githubusercontent.com/lcx12901/v2ray-/master/v2ray.txt",
-    "enabled": false
+    "remarks": "138.2.120.174:12580",
+    "site": "http://138.2.120.174:12580",
+    "url": "http://138.2.120.174:12580/clash/proxies",
+    "enabled": true
   },
   {
     "id": 50,
-    "remarks": "samjoeyang/subscribe",
-    "site": "https://github.com/samjoeyang/subscribe",
-    "url": "https://raw.githubusercontent.com/samjoeyang/subscribe/main/assets/fly.txt",
-    "enabled": false
+    "remarks": "ssr.svipcun.com",
+    "site": "https://ssr.svipcun.com",
+    "url": "https://ssr.svipcun.com/clash/proxies",
+    "enabled": true
   },
   {
     "id": 51,
