@@ -673,10 +673,10 @@
   },
   {
     "id": 96,
-    "remarks": "CrazyFireFighter/Crazy_V2RayN",
-    "site": "https://github.com/CrazyFireFighter/Crazy_V2RayN",
-    "url": "https://raw.githubusercontent.com/CrazyFireFighter/Crazy_V2RayN/main/For_my_family_%26_friends",
-    "enabled": false
+    "remarks": "ZywChannel/free",
+    "site": "https://github.com/ZywChannel/free",
+    "url": "https://raw.githubusercontent.com/ZywChannel/free/main/sub",
+    "enabled": true
   },
   {
     "id": 97,
@@ -729,24 +729,24 @@
   },
   {
     "id": 104,
-    "remarks": "101.64.235.156",
-    "site": "https://101.64.235.156:8443",
-    "url": "https://101.64.235.156:8443/clash/proxies",
-    "enabled": false
+    "remarks": "dalazhi/v2ray",
+    "site": "https://github.com/dalazhi/v2ray",
+    "url": "https://raw.githubusercontent.com/dalazhi/v2ray/main/v2ray%E8%AE%A2%E9%98%85",
+    "enabled": true
   },
   {
     "id": 105,
-    "remarks": "168.138.45.251",
-    "site": "http://168.138.45.251",
-    "url": "http://168.138.45.251/clash/proxies",
-    "enabled": false
+    "remarks": "free18/v2ray",
+    "site": "https://github.com/free18/v2ray",
+    "url": "https://raw.githubusercontent.com/free18/v2ray/main/v2ray.txt",
+    "enabled": true
   },
   {
     "id": 106,
-    "remarks": "81.70.255.175",
-    "site": "http://81.70.255.175:8080",
-    "url": "http://81.70.255.175:8080/clash/proxies",
-    "enabled": false
+    "remarks": "a2470982985/getNode",
+    "site": "http://github.com/a2470982985/getNode",
+    "url": "https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt",
+    "enabled": true
   },
   {
     "id": 107,
@@ -757,17 +757,17 @@
   },
   {
     "id": 108,
-    "remarks": "proxypool.6993300.com",
-    "site": "https://proxypool.6993300.com",
-    "url": "https://proxypool.6993300.com/clash/proxies",
-    "enabled": false
+    "remarks": "igeekshare/GeekshareFreeNode",
+    "site": "https://github.com/igeekshare/GeekshareFreeNode",
+    "url": "https://raw.githubusercontent.com/igeekshare/GeekshareFreeNode/main/v2ray/Geekshare.txt",
+    "enabled": true
   },
   {
     "id": 109,
-    "remarks": "123.60.147.120",
-    "site": "https://123.60.147.120",
-    "url": "https://123.60.147.120/clash/proxies",
-    "enabled": false
+    "remarks": "ts-sf/fly",
+    "site": "https://github.com/ts-sf/fly",
+    "url": "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
+    "enabled": true
   },
   {
     "id": 110,
@@ -792,9 +792,16 @@
   },
   {
     "id": 113,
-    "remarks": "klausvpn.posyao.com",
-    "site": "http://klausvpn.posyao.com",
-    "url": "http://klausvpn.posyao.com/clash/proxies",
-    "enabled": false
+    "remarks": "bingoYB/node_processing",
+    "site": "https://github.com/bingoYB/node_processing",
+    "url": "https://raw.githubusercontent.com/bingoYB/node_processing/main/dist/all.yaml",
+    "enabled": true
+  },
+  {
+    "id": 114,
+    "remarks": "pctit/v2",
+    "site": "https://github.com/pctit/v2",
+    "url": "https://raw.githubusercontent.com/pctit/v2/main/v2.txt",
+    "enabled": true
   }
 ]
