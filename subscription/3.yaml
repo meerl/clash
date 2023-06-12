@@ -1,5 +1,4 @@
 proxies:
-  - {name: "[🇺🇸]192.74.229.198:51592(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 192.74.229.198, port: 51592, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, network: tcp}
   - {name: "[🇮🇳]vm.in.goserver.pw:80(97f88925-deea-4074-a442-40f44e3c8389)", server: vm.in.goserver.pw, port: 80, type: vmess, uuid: 97f88925-deea-4074-a442-40f44e3c8389, alterId: 0, cipher: auto, network: ws, tls: false, ws-opts: {path: /v2ray-vmess/ntls, headers: {host: vm.in.goserver.pw}}}
   - {name: "[🇯🇵]ovous.ovogreat.com:443(58a00452-a4f6-406b-b3bf-5a8e94ef6dfb)", server: ovous.ovogreat.com, port: 443, type: trojan, password: "58a00452-a4f6-406b-b3bf-5a8e94ef6dfb"}
   - {name: "[🇺🇸]192.74.228.187:42857(051b844f-efe3-4847-92aa-66b5de0b6d4e)", server: 192.74.228.187, port: 42857, type: vmess, uuid: 051b844f-efe3-4847-92aa-66b5de0b6d4e, alterId: 64, cipher: auto, network: tcp}
@@ -14,23 +13,19 @@ proxies:
   - {name: "[🇺🇸]107.167.16.34:45592(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 107.167.16.34, port: 45592, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, network: tcp}
   - {name: "[🇺🇸]140.99.66.78:58455(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 140.99.66.78, port: 58455, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, network: tcp}
   - {name: "[🇨🇳]cctv.iepl01.yuntiair365.top:53003(6c210104-de21-321c-a4b7-418af3844a6c)", server: cctv.iepl01.yuntiair365.top, port: 53003, type: vmess, uuid: 6c210104-de21-321c-a4b7-418af3844a6c, alterId: 0, cipher: auto, network: tcp}
-  - {name: "[🇭🇰]hk02.trojanyyds.xyz:443(331365d8-3ce5-484d-a226-33312bcc3217)", server: hk02.trojanyyds.xyz, port: 443, type: trojan, password: "331365d8-3ce5-484d-a226-33312bcc3217"}
+  - {name: "[🇯🇵]hk02.trojanyyds.xyz:443(331365d8-3ce5-484d-a226-33312bcc3217)", server: hk02.trojanyyds.xyz, port: 443, type: trojan, password: "331365d8-3ce5-484d-a226-33312bcc3217"}
   - {name: "[🇯🇵]fschk.fscloud123456789.com:443(85374b3c-467d-410e-9be6-feb1d8fe35bf)", server: fschk.fscloud123456789.com, port: 443, type: trojan, password: "85374b3c-467d-410e-9be6-feb1d8fe35bf"}
   - {name: "[🇸🇬]ca.stablize.top:443(0ead3c54-5749-4685-a027-aea9972c389b)", server: ca.stablize.top, port: 443, type: trojan, password: "0ead3c54-5749-4685-a027-aea9972c389b"}
-  - {name: "[🇯🇵]usa.stablize.top:443(6a880277-e7f7-43d9-95e6-a1aab79c81a1)", server: usa.stablize.top, port: 443, type: trojan, password: "6a880277-e7f7-43d9-95e6-a1aab79c81a1"}
+  - {name: "[🇸🇬]usa.stablize.top:443(6a880277-e7f7-43d9-95e6-a1aab79c81a1)", server: usa.stablize.top, port: 443, type: trojan, password: "6a880277-e7f7-43d9-95e6-a1aab79c81a1"}
   - {name: "[🇯🇵]ovotw.ovogreat.com:443(fd7c4797-17ae-4195-b2bb-5612b083e180)", server: ovotw.ovogreat.com, port: 443, type: trojan, password: "fd7c4797-17ae-4195-b2bb-5612b083e180"}
-  - {name: "[🇸🇬]ap.stablize.top:443(b327d1e6-3abc-4ce5-81f3-620ea3f10647)", server: ap.stablize.top, port: 443, type: trojan, password: "b327d1e6-3abc-4ce5-81f3-620ea3f10647"}
-  - {name: "[🇯🇵]usajs.stablize.top:443(29aa9820-78aa-43de-a477-587747ce21a3)", server: usajs.stablize.top, port: 443, type: trojan, password: "29aa9820-78aa-43de-a477-587747ce21a3"}
   - {name: "[🇸🇬]pt.mjt001.com:443(9d3b1e0e-252a-4c67-9628-8b62e77197e7)", server: pt.mjt001.com, port: 443, type: trojan, password: "9d3b1e0e-252a-4c67-9628-8b62e77197e7"}
   - {name: "[🇸🇬]il.mjt001.com:443(9d3b1e0e-252a-4c67-9628-8b62e77197e7)", server: il.mjt001.com, port: 443, type: trojan, password: "9d3b1e0e-252a-4c67-9628-8b62e77197e7"}
   - {name: "[🇯🇵]fschk.fscloud123456789.com:443(e6a3b957-32a2-42f7-a06f-7e12ca529ab2)", server: fschk.fscloud123456789.com, port: 443, type: trojan, password: "e6a3b957-32a2-42f7-a06f-7e12ca529ab2"}
-  - {name: "[🇭🇰]dejs.stablize.top:443(80151fd0-950a-4dda-a98a-6d24c6936dbc)", server: dejs.stablize.top, port: 443, type: trojan, password: "80151fd0-950a-4dda-a98a-6d24c6936dbc"}
-  - {name: "[🇭🇰]sg.stablize.top:443(7864a4da-bfaf-4eea-bc1d-b7c829483df1)", server: sg.stablize.top, port: 443, type: trojan, password: "7864a4da-bfaf-4eea-bc1d-b7c829483df1"}
-  - {name: "[🇭🇰]vpnhat.stablize.top:443(a4f3be31-57e6-4cde-bf98-a962a0cdbe04)", server: vpnhat.stablize.top, port: 443, type: trojan, password: "a4f3be31-57e6-4cde-bf98-a962a0cdbe04"}
-  - {name: "[🇯🇵]vpnhat.stablize.top:443(f8c19a7c-45d1-4adc-a11c-43df7abf6e50)", server: vpnhat.stablize.top, port: 443, type: trojan, password: "f8c19a7c-45d1-4adc-a11c-43df7abf6e50"}
-  - {name: "[🇭🇰]uk.stablize.top:443(9014ea56-3fec-43d8-bed6-af7bcb5e2cb3)", server: uk.stablize.top, port: 443, type: trojan, password: "9014ea56-3fec-43d8-bed6-af7bcb5e2cb3"}
+  - {name: "[🇸🇬]vpnhat.stablize.top:443(a4f3be31-57e6-4cde-bf98-a962a0cdbe04)", server: vpnhat.stablize.top, port: 443, type: trojan, password: "a4f3be31-57e6-4cde-bf98-a962a0cdbe04"}
+  - {name: "[🇭🇰]vpnhat.stablize.top:443(f8c19a7c-45d1-4adc-a11c-43df7abf6e50)", server: vpnhat.stablize.top, port: 443, type: trojan, password: "f8c19a7c-45d1-4adc-a11c-43df7abf6e50"}
+  - {name: "[🇯🇵]uk.stablize.top:443(9014ea56-3fec-43d8-bed6-af7bcb5e2cb3)", server: uk.stablize.top, port: 443, type: trojan, password: "9014ea56-3fec-43d8-bed6-af7bcb5e2cb3"}
   - {name: "[🇯🇵]ca.stablize.top:443(10f94506-9bf9-4dbb-9542-3ff13893b190)", server: ca.stablize.top, port: 443, type: trojan, password: "10f94506-9bf9-4dbb-9542-3ff13893b190"}
-  - {name: "[🇸🇬]jp.stablize.top:443(10f94506-9bf9-4dbb-9542-3ff13893b190)", server: jp.stablize.top, port: 443, type: trojan, password: "10f94506-9bf9-4dbb-9542-3ff13893b190"}
+  - {name: "[🇯🇵]jp.stablize.top:443(10f94506-9bf9-4dbb-9542-3ff13893b190)", server: jp.stablize.top, port: 443, type: trojan, password: "10f94506-9bf9-4dbb-9542-3ff13893b190"}
   - {name: "[🇦🇶]104.21.47.94:80(9f0925ee-2d16-4153-a77e-f6c1c596fd6d)", server: 104.21.47.94, port: 80, type: vmess, uuid: 9f0925ee-2d16-4153-a77e-f6c1c596fd6d, alterId: 0, cipher: auto, network: ws, tls: false, ws-opts: {path: /}}
   - {name: "[🇦🇶]Get.TECH:2086(f9ac8978-be94-40a7-eabd-b07d77037429)", server: Get.TECH, port: 2086, type: vmess, uuid: f9ac8978-be94-40a7-eabd-b07d77037429, alterId: 0, cipher: auto, network: ws, tls: false, ws-opts: {path: /aries, headers: {host: Get.TECH}}}
   - {name: "[🇺🇸]172.64.163.172:8880(a5c804aa-8a4d-4fd2-97a1-4f0cc1384953)", server: 172.64.163.172, port: 8880, type: vmess, uuid: a5c804aa-8a4d-4fd2-97a1-4f0cc1384953, alterId: 0, cipher: auto, network: ws, tls: false, ws-opts: {path: /hkaa0}}
