@@ -44,7 +44,6 @@ trojan://44fcd037-a17f-403d-aa2f-e86e3c093268@gzyd.jcnode.top:49003?allowInsecur
 trojan://44fcd037-a17f-403d-aa2f-e86e3c093268@gzdx.jcnode.top:40004?allowInsecure=1&sni=hk05.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzdx.jcnode.top%3A40004%2844fcd037-a17f-403d-aa2f-e86e3c093268%29
 trojan://44fcd037-a17f-403d-aa2f-e86e3c093268@gzyd.jcnode.top:40004?allowInsecure=1&sni=hk05.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzyd.jcnode.top%3A40004%2844fcd037-a17f-403d-aa2f-e86e3c093268%29
 trojan://44fcd037-a17f-403d-aa2f-e86e3c093268@gzyd02.jcnode.top:40004?allowInsecure=1&sni=hk05.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzyd02.jcnode.top%3A40004%2844fcd037-a17f-403d-aa2f-e86e3c093268%29
-trojan://44fcd037-a17f-403d-aa2f-e86e3c093268@hndx.jcnode.top:40004?allowInsecure=1&sni=hk05.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dhndx.jcnode.top%3A40004%2844fcd037-a17f-403d-aa2f-e86e3c093268%29
 trojan://44fcd037-a17f-403d-aa2f-e86e3c093268@gzdx.jcnode.top:40000?allowInsecure=1&sni=hk05.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzdx.jcnode.top%3A40000%2844fcd037-a17f-403d-aa2f-e86e3c093268%29
 trojan://44fcd037-a17f-403d-aa2f-e86e3c093268@gzyd.jcnode.top:40000?allowInsecure=1&sni=hk05.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzyd.jcnode.top%3A40000%2844fcd037-a17f-403d-aa2f-e86e3c093268%29
 trojan://44fcd037-a17f-403d-aa2f-e86e3c093268@gzdx.jcnode.top:40003?allowInsecure=1&sni=hk04.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzdx.jcnode.top%3A40003%2844fcd037-a17f-403d-aa2f-e86e3c093268%29
@@ -165,7 +164,6 @@ trojan://f28394fe-3235-4dc2-ba6c-72e011407da1@gzyd.jcnode.top:49003?allowInsecur
 trojan://f28394fe-3235-4dc2-ba6c-72e011407da1@gzdx.jcnode.top:40004?allowInsecure=1&sni=hk05.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzdx.jcnode.top%3A40004%28f28394fe-3235-4dc2-ba6c-72e011407da1%29
 trojan://f28394fe-3235-4dc2-ba6c-72e011407da1@gzyd.jcnode.top:40004?allowInsecure=1&sni=hk05.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzyd.jcnode.top%3A40004%28f28394fe-3235-4dc2-ba6c-72e011407da1%29
 trojan://f28394fe-3235-4dc2-ba6c-72e011407da1@gzyd02.jcnode.top:40004?allowInsecure=1&sni=hk05.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzyd02.jcnode.top%3A40004%28f28394fe-3235-4dc2-ba6c-72e011407da1%29
-trojan://f28394fe-3235-4dc2-ba6c-72e011407da1@hndx.jcnode.top:40004?allowInsecure=1&sni=hk05.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dhndx.jcnode.top%3A40004%28f28394fe-3235-4dc2-ba6c-72e011407da1%29
 trojan://f28394fe-3235-4dc2-ba6c-72e011407da1@gzdx.jcnode.top:40000?allowInsecure=1&sni=hk05.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzdx.jcnode.top%3A40000%28f28394fe-3235-4dc2-ba6c-72e011407da1%29
 trojan://f28394fe-3235-4dc2-ba6c-72e011407da1@gzyd.jcnode.top:40000?allowInsecure=1&sni=hk05.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzyd.jcnode.top%3A40000%28f28394fe-3235-4dc2-ba6c-72e011407da1%29
 trojan://f28394fe-3235-4dc2-ba6c-72e011407da1@gzdx.jcnode.top:40003?allowInsecure=1&sni=hk04.ckcloud.info#%5B%F0%9F%87%A8%F0%9F%87%B3%5Dgzdx.jcnode.top%3A40003%28f28394fe-3235-4dc2-ba6c-72e011407da1%29
