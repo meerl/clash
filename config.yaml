@@ -26,7 +26,7 @@ allow-lan: true
 # '*': bind all IP addresses
 # 192.168.122.11: bind a single IPv4 address
 # "[aaaa::a8aa:ff:fe09:57d8]": bind a single IPv6 address
-#bind-address: '*'
+bind-address: '*'
 
 # Clash router working mode
 # rule: rule-based packet routing
@@ -36,7 +36,7 @@ mode: rule
 
 # Clash by default prints logs to STDOUT
 # info / warning / error / debug / silent
-log-level: info
+log-level: silent
 
 # When set to false, resolver won't translate hostnames to IPv6 addresses
 ipv6: true
@@ -74,123 +74,123 @@ proxy-groups:
 proxy-providers:
   GROUP_0:
     type: file
-    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/0.yaml"
+    url: 'https://raw.githubusercontent.com/tony-sung/clash/main/subscription/0.yaml'
     interval: 2000
     path: subscription/0.yaml
     health-check:
       enable: true
       interval: 2000
-      url: "http://www.gstatic.com/generate_204"
+      url: 'http://www.gstatic.com/generate_204'
 
   GROUP_1:
     type: file
-    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/1.yaml"
+    url: 'https://raw.githubusercontent.com/tony-sung/clash/main/subscription/1.yaml'
     interval: 2000
     path: subscription/1.yaml
     health-check:
       enable: true
       interval: 2000
-      url: "http://www.gstatic.com/generate_204"
+      url: 'http://www.gstatic.com/generate_204'
 
   GROUP_2:
     type: file
-    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/2.yaml"
+    url: 'https://raw.githubusercontent.com/tony-sung/clash/main/subscription/2.yaml'
     interval: 2000
     path: subscription/2.yaml
     health-check:
       enable: true
       interval: 2000
-      url: "http://www.gstatic.com/generate_204"
+      url: 'http://www.gstatic.com/generate_204'
 
   GROUP_3:
     type: file
-    url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/3.yaml"
+    url: 'https://raw.githubusercontent.com/tony-sung/clash/main/subscription/3.yaml'
     interval: 2000
     path: subscription/3.yaml
     health-check:
       enable: true
       interval: 2000
-      url: "http://www.gstatic.com/generate_204"
+      url: 'http://www.gstatic.com/generate_204'
 
   # GROUP_4:
   #   type: file
-  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/4.yaml"
+  #   url: 'https://raw.githubusercontent.com/tony-sung/clash/main/subscription/4.yaml'
   #   interval: 2000
   #   path: subscription/4.yaml
   #   health-check:
   #     enable: true
   #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
+  #     url: 'http://www.gstatic.com/generate_204'
   
   # GROUP_5:
   #   type: file
-  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/5.yaml"
+  #   url: 'https://raw.githubusercontent.com/tony-sung/clash/main/subscription/5.yaml'
   #   interval: 2000
   #   path: subscription/5.yaml
   #   health-check:
   #     enable: true
   #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
+  #     url: 'http://www.gstatic.com/generate_204'
 
   # GROUP_6:
   #   type: file
-  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/6.yaml"
+  #   url: 'https://raw.githubusercontent.com/tony-sung/clash/main/subscription/6.yaml'
   #   interval: 2000
   #   path: subscription/6.yaml
   #   health-check:
   #     enable: true
   #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
+  #     url: 'http://www.gstatic.com/generate_204'
 
   # GROUP_7:
   #   type: file
-  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/7.yaml"
+  #   url: 'https://raw.githubusercontent.com/tony-sung/clash/main/subscription/7.yaml'
   #   interval: 2000
   #   path: subscription/7.yaml
   #   health-check:
   #     enable: true
   #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
+  #     url: 'http://www.gstatic.com/generate_204'
 
   # GROUP_8:
   #   type: file
-  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/8.yaml"
+  #   url: 'https://raw.githubusercontent.com/tony-sung/clash/main/subscription/8.yaml'
   #   interval: 2000
   #   path: subscription/8.yaml
   #   health-check:
   #     enable: true
   #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
+  #     url: 'http://www.gstatic.com/generate_204'
 
   # GROUP_9:
   #   type: file
-  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/9.yaml"
+  #   url: 'https://raw.githubusercontent.com/tony-sung/clash/main/subscription/9.yaml'
   #   interval: 2000
   #   path: subscription/9.yaml
   #   health-check:
   #     enable: true
   #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
+  #     url: 'http://www.gstatic.com/generate_204'
 
   # GROUP_10:
   #   type: file
-  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/10.yaml"
+  #   url: 'https://raw.githubusercontent.com/tony-sung/clash/main/subscription/10.yaml'
   #   interval: 2000
   #   path: subscription/10.yaml
   #   health-check:
   #     enable: true
   #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
+  #     url: 'http://www.gstatic.com/generate_204'
   
   # GROUP_11:
   #   type: file
-  #   url: "https://raw.githubusercontent.com/tony-sung/clash/main/subscription/11.yaml"
+  #   url: 'https://raw.githubusercontent.com/tony-sung/clash/main/subscription/11.yaml'
   #   interval: 2000
   #   path: subscription/11.yaml
   #   health-check:
   #     enable: true
   #     interval: 2000
-  #     url: "http://www.gstatic.com/generate_204"
+  #     url: 'http://www.gstatic.com/generate_204'
 ####################################################################################################
 rules:
   - GEOIP,LAN,DIRECT
