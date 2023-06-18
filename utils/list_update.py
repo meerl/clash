@@ -4,7 +4,6 @@ import json
 from datetime import datetime
 
 import requests
-from requests.adapters import HTTPAdapter
 
 # 文件路径定义
 sub_list_json = './subscription/others/sub_list.json'
@@ -16,11 +15,8 @@ with open(sub_list_json, 'r', encoding='utf-8') as f:  # 载入订阅链接
 
 
 def check_url(url):  # 判断远程远程链接是否已经更新
-    s = requests.Session()
-    s.mount('http://', HTTPAdapter(max_retries=2))
-    s.mount('https://', HTTPAdapter(max_retries=2))
     try:
-        resp = s.get(url, timeout=2)
+        resp = requests.get(url, timeout=2)
         status = resp.status_code
     except Exception:
         status = 404

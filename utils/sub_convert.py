@@ -9,8 +9,6 @@ from concurrent.futures import ThreadPoolExecutor
 
 import geoip2.database
 import requests
-# from ping3 import ping
-from requests.adapters import HTTPAdapter
 
 
 class sub_convert():
@@ -21,35 +19,34 @@ class sub_convert():
         sub_content = []
         for url in urls:
             node_list = sub_convert.get_sub_content_from_webtrans(url)
-            print(f'\n格式化{url} 返回数据开始...')
+            # print(f'\n格式化{url} 返回数据开始...')
             node_list_formated = sub_convert.format(node_list)
-            print(f'\n格式化{url} 返回数据结束...')
+            # print(f'\n格式化{url} 返回数据结束...')
             sub_content.append(node_list_formated)
         sub_content_all = ''.join(sub_content)
         return sub_content_all
 
     def get_sub_content_from_webtrans(url):
-        s = requests.Session()
-        s.mount('http://', HTTPAdapter(max_retries=None))
-        s.mount('https://', HTTPAdapter(max_retries=None))
         # 使用远程订阅转换服务
-        server_host_list = ['https://sub.xeton.dev', 'https://api.dler.io', 'https://sub.maoxiongnet.com', 'https://sub.nerocats.cn', 'https://sub-beta.now.sh', 'https://subcon.dlj.tf', 'https://api.wcc.best', 'https://api.sublink.dev', 'https://api.tsutsu.one', 'https://api.nexconvert.com', 'https://www.nameless13.com', 'https://subscribe.cctv.rip', 'https://suc.ssltd.xyz', 'https://api.subcsub.com']
+        server_host_list = ['https://sub.xeton.dev', 'https://api.dler.io', 'https://sub.nerocats.cn', 'https://api.wcc.best', 'https://api.sublink.dev', 'https://api.tsutsu.one', 'https://api.nexconvert.com', 'https://api.subcsub.com']
         url_quote = urllib.parse.quote(url, safe='')
-        
         for server_host in server_host_list:
             converted_url = server_host+'/sub?target=mixed&url='+url_quote+'&list=true'
             try:
-                resp = s.get(converted_url)
+                # print(f"\n获取转换链接:{converted_url} 开始\n")
+                resp = requests.get(converted_url)
+                # print(f"\n获取转换链接:{converted_url} 结束\n")
                 if 'No nodes were found!' in resp.text or url in resp.text or 'Error code' in resp.text or 'An error' in resp.text:
-                    print(f"\n未发现有效配置, 订阅链接: {url} 转换链接:{converted_url}\n")
+                    print(f"\n警告!!! 未发现有效配置, 订阅链接: {url} 转换链接:{converted_url}\n")
                 else:
                     return resp.text
             except Exception:
-                print(f"\n订阅链接转换失败, 订阅链接: {url} 转换链接:{converted_url}\n")
+                print(f"\n错误!!! 订阅链接转换失败, 订阅链接: {url} 转换链接:{converted_url}\n")
             if server_host is server_host_list[-1]:
-                print(f'\n无法转换订阅链接: {url}, 将获取url内容\n')
+                print(f'\n无法转换订阅链接: {url}, 获取url内容开始\n')
                 try:
-                    resp = s.get(url)
+                    resp = requests.get(url)
+                    print(f'\n无法转换订阅链接: {url}, 获取url结束\n')
                     return resp.text
                 except Exception:
                     print(f'\n无法获取: {url}\n')
@@ -344,7 +341,7 @@ class sub_convert():
         #     node_list_part_file = open(f'{path}{(i+1)//3000}.yaml', 'w', encoding='utf-8')
         #     node_list_part_file.write(node_list_part)
         #     node_list_part_file.close()
-        node_converted_list = ThreadPoolExecutor(max_workers=10000).map(sub_convert.yaml_encode, node_list_array)
+        node_converted_list = ThreadPoolExecutor(max_workers=5000).map(sub_convert.yaml_encode, node_list_array)
         nodes =list(filter(None, list(node_converted_list))) 
         sub_head = 'proxies:\n'
         for i in range(0, len(nodes), 2000):
