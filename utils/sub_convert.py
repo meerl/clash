@@ -45,7 +45,7 @@ class sub_convert():
                         try:
                             resp = s.get(url, verify=None, timeout=10)
                         except Exception:
-                            print(f'\n{url} 网络错误 检查订阅转换服务器是否失效: {converted_url}\n')
+                            print(f'\n无法获取网页内容: {url}\n')
                     else:
                         print(f'\n{url} 网络错误 检查订阅转换服务器是否失效: {converted_url}\n')
                         continue
