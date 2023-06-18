@@ -32,16 +32,13 @@ class sub_convert():
                     s.mount('https://', HTTPAdapter(max_retries=None))
                     resp = s.get(converted_url)
                     # 如果解析出错，将原始链接内容拷贝下来
-                    if 'No nodes were found!' in resp.text or url in resp.text:
+                    if 'No nodes were found!' in resp.text or url in resp.text or 'Error code' in resp.text or 'An error' in resp.text:
                         print(f"\n未发现有效配置, 订阅链接: {url} 转换链接:{converted_url} 回复消息: {resp.text}\n")
-                        # if server_host is server_host_list[-1]:
-                        #     print(f"\n无法转换: {url} 下载...\n")
-                        #     resp = s.get(url, verify=None, timeout=10)
-                        # else:
-                        #     continue
-                        resp = s.get(url, verify=None, timeout=10)
-                    elif 'Error code' in resp.text or 'An error' in resp.text:
-                        continue
+                        if server_host is server_host_list[-1]:
+                            print(f"\n无法转换订阅链接: {url}, 使用内置方法转换\n")
+                            resp = s.get(url, verify=None, timeout=10)
+                        else:
+                            continue
                     print(f'\n格式化{url} 返回数据开始...')
                     node_list_formated = sub_convert.format(resp.text)
                     print(f'\n格式化{url} 返回数据结束...')
