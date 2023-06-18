@@ -16,7 +16,7 @@ from requests.adapters import HTTPAdapter
 class sub_convert():
     def get_node_from_sub(url_raw):
         # 使用远程订阅转换服务
-        server_host_list = ['https://sub.xeton.dev', 'https://api.dler.io', 'https://sub.maoxiongnet.com']
+        server_host_list = ['https://sub.xeton.dev', 'https://api.dler.io', 'https://sub.maoxiongnet.com', '']
         # 分割订阅链接
         urls = url_raw.split('|')
         sub_content = []
@@ -28,8 +28,8 @@ class sub_convert():
                 try:
                     converted_url = server_host+'/sub?target=mixed&url='+url_quote+'&list=true'
                     s = requests.Session()
-                    s.mount('http://', HTTPAdapter(max_retries=None))
-                    s.mount('https://', HTTPAdapter(max_retries=None))
+                    s.mount('http://', HTTPAdapter())
+                    s.mount('https://', HTTPAdapter())
                     resp = s.get(converted_url)
                     # 如果解析出错，将原始链接内容拷贝下来
                     if 'No nodes were found!' in resp.text or url in resp.text:
