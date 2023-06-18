@@ -28,7 +28,7 @@ class sub_convert():
 
     def get_sub_content_from_webtrans(url):
         # 使用远程订阅转换服务
-        server_host_list = ['http://127.0.0.1:25500', 'https://sub.xeton.dev', 'https://api.dler.io', 'https://sub.nerocats.cn', 'https://api.wcc.best', 'https://api.sublink.dev', 'https://api.tsutsu.one', 'https://api.nexconvert.com', 'https://api.subcsub.com']
+        server_host_list = ['https://sub.xeton.dev', 'https://api.dler.io', 'https://sub.nerocats.cn', 'https://api.wcc.best', 'https://api.sublink.dev', 'https://api.tsutsu.one', 'https://api.nexconvert.com', 'https://api.subcsub.com']
         url_quote = urllib.parse.quote(url, safe='')
         for server_host in server_host_list:
             converted_url = server_host+'/sub?target=mixed&url='+url_quote+'&list=true'

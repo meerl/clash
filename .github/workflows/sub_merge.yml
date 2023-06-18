@@ -32,10 +32,10 @@ jobs:
       - name: starting run
         run: |
           rm -rf ./subscription/others/list/* && rm -rf ./subscription/*.yaml
-          wget -O subconverter.tar.gz https://github.com/tindy2013/subconverter/releases/latest/download/subconverter_linux64.tar.gz
-          tar -zxvf subconverter.tar.gz -C ./
-          chmod +x ./subconverter/subconverter
-          ./subconverter/subconverter &
+          # wget -O subconverter.tar.gz https://github.com/tindy2013/subconverter/releases/latest/download/subconverter_linux64.tar.gz
+          # tar -zxvf subconverter.tar.gz -C ./
+          # chmod +x ./subconverter/subconverter
+          # ./subconverter/subconverter &
           python ./utils/list_merge.py
       - name: commit
         run: |
