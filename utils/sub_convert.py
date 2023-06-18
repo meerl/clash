@@ -22,7 +22,7 @@ class sub_convert():
         sub_content = []
         for url in urls:
             # 对url编码
-            url_quote = urllib.parse.quote(url)
+            url_quote = urllib.parse.quote(url, safe='')
             # 转换并获取订阅链接数据
             for server_host in server_host_list:
                 try:
@@ -40,6 +40,8 @@ class sub_convert():
                         # else:
                         #     continue
                         resp = s.get(url, verify=None, timeout=10)
+                    elif 'Bad gateway' in resp.text:
+                        continue
                     print(f'\n格式化{url} 返回数据开始...')
                     node_list_formated = sub_convert.format(resp.text)
                     print(f'\n格式化{url} 返回数据结束...')
@@ -76,7 +78,7 @@ class sub_convert():
                         password = sub_convert.base64_decode(
                             node_part[0]).split(':')[-1]
                         name_renamed = server_head + server_body + '(' + password + ')'
-                        node_name = urllib.parse.quote(name_renamed)
+                        node_name = urllib.parse.quote(name_renamed, safe='')
                         node_raw = node_part[0] + '@' + node_part[1] + '#' + node_name
                         node = 'ss://' + node_raw
                     else:
@@ -91,7 +93,8 @@ class sub_convert():
                             server)
                         password = node_part_head[-3]
                         name_renamed = server_head + server +  ':' + server_port + '(' + password + ')'
-                        node_name = urllib.parse.quote(name_renamed)
+                        node_name = urllib.parse.quote(
+                            name_renamed, safe='')
                         node_raw = node_part[0] + '#' + node_name
                         node = 'ss://' + node_raw
                     node_list_formated_array.append(node)
@@ -159,7 +162,7 @@ class sub_convert():
                         server_head = sub_convert.find_country(node_server_and_port_part[0])
                         password = re.sub('trojan://|!str|!<str>| |\[|\]|{|}','',urllib.parse.unquote(node_password))
                         name_renamed = server_head + node_server_and_port + '(' + password + ')'
-                        node_raw = node_del_head.split('#')[0] + '#' + urllib.parse.quote(name_renamed)
+                        node_raw = node_del_head.split('#')[0] + '#' + urllib.parse.quote(name_renamed, safe='')
                         node = 'trojan://' + node_raw
                         node_list_formated_array.append(node)
                     else:
