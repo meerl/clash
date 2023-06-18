@@ -35,8 +35,7 @@ class sub_convert():
                     if 'No nodes were found!' in resp.text or url in resp.text or 'Error code' in resp.text or 'An error' in resp.text:
                         print(f"\n未发现有效配置, 订阅链接: {url} 转换链接:{converted_url}\n")
                 except Exception:
-                    if server_host is server_host_list[-1]:
-                        print(f"\n无法转换订阅链接: {url}, 使用内置方法转换\n")
+                    print(f"\n订阅链接转换失败, 订阅链接: {url} 转换链接:{converted_url}\n")
                 if server_host is server_host_list[-1]:
                     print(f"\n无法转换订阅链接: {url}, 将使用内置方法转换\n")
                     try:
