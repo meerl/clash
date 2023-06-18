@@ -15,42 +15,45 @@ from requests.adapters import HTTPAdapter
 
 class sub_convert():
     def get_node_from_sub(url_raw):
-        # 使用远程订阅转换服务
-        server_host_list = ['https://sub.xeton.dev', 'https://api.dler.io', 'https://sub.maoxiongnet.com', 'https://sub.nerocats.cn', 'https://sub-beta.now.sh', 'https://subcon.dlj.tf', 'https://api.wcc.best', 'https://api.sublink.dev', 'https://api.tsutsu.one', 'https://api.nexconvert.com', 'https://www.nameless13.com', 'https://subscribe.cctv.rip', 'https://suc.ssltd.xyz', 'https://api.subcsub.com']
+        
         # 分割订阅链接
         urls = url_raw.split('|')
         sub_content = []
         for url in urls:
-            # 对url编码
-            url_quote = urllib.parse.quote(url, safe='')
-            # 转换并获取订阅链接数据
-            for server_host in server_host_list:
-                try:
-                    converted_url = server_host+'/sub?target=mixed&url='+url_quote+'&list=true'
-                    s = requests.Session()
-                    s.mount('http://', HTTPAdapter(max_retries=None))
-                    s.mount('https://', HTTPAdapter(max_retries=None))
-                    resp = s.get(converted_url)
-                    # 如果解析出错，将原始链接内容拷贝下来
-                    if 'No nodes were found!' in resp.text or url in resp.text or 'Error code' in resp.text or 'An error' in resp.text:
-                        print(f"\n未发现有效配置, 订阅链接: {url} 转换链接:{converted_url}\n")
-                except Exception:
-                    print(f"\n订阅链接转换失败, 订阅链接: {url} 转换链接:{converted_url}\n")
-                if server_host is server_host_list[-1]:
-                    print(f"\n无法转换订阅链接: {url}, 将使用内置方法转换\n")
-                    try:
-                        resp = s.get(url)
-                    except Exception:
-                        print(f"\n订阅链接获取内容失败: {url}\n")
-                else:
-                    continue
-                print(f'\n格式化{url} 返回数据开始...')
-                node_list_formated = sub_convert.format(resp.text)
-                print(f'\n格式化{url} 返回数据结束...')
-                sub_content.append(node_list_formated)
-                break
+            node_list = sub_convert.get_sub_content_from_webtrans(url)
+            print(f'\n格式化{url} 返回数据开始...')
+            node_list_formated = sub_convert.format(node_list)
+            print(f'\n格式化{url} 返回数据结束...')
+            sub_content.append(node_list_formated)
         sub_content_all = ''.join(sub_content)
         return sub_content_all
+
+    def get_sub_content_from_webtrans(url):
+        s = requests.Session()
+        s.mount('http://', HTTPAdapter(max_retries=None))
+        s.mount('https://', HTTPAdapter(max_retries=None))
+        # 使用远程订阅转换服务
+        server_host_list = ['https://sub.xeton.dev', 'https://api.dler.io', 'https://sub.maoxiongnet.com', 'https://sub.nerocats.cn', 'https://sub-beta.now.sh', 'https://subcon.dlj.tf', 'https://api.wcc.best', 'https://api.sublink.dev', 'https://api.tsutsu.one', 'https://api.nexconvert.com', 'https://www.nameless13.com', 'https://subscribe.cctv.rip', 'https://suc.ssltd.xyz', 'https://api.subcsub.com']
+        url_quote = urllib.parse.quote(url, safe='')
+        
+        for server_host in server_host_list:
+            converted_url = server_host+'/sub?target=mixed&url='+url_quote+'&list=true'
+            try:
+                resp = s.get(converted_url)
+                if 'No nodes were found!' in resp.text or url in resp.text or 'Error code' in resp.text or 'An error' in resp.text:
+                    print(f"\n未发现有效配置, 订阅链接: {url} 转换链接:{converted_url}\n")
+                else:
+                    return resp.text
+            except Exception:
+                print(f"\n订阅链接转换失败, 订阅链接: {url} 转换链接:{converted_url}\n")
+            if server_host is server_host_list[-1]:
+                print(f'\n无法转换订阅链接: {url}, 将获取url内容\n')
+                try:
+                    resp = s.get(url)
+                    return resp.text
+                except Exception:
+                    print(f'\n无法获取: {url}\n')
+                    return ''
 
     def format(node_list):
         # 重命名
