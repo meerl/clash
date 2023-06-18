@@ -40,7 +40,7 @@ class sub_convert():
                         # else:
                         #     continue
                         resp = s.get(url, verify=None, timeout=10)
-                    elif 'Bad gateway' in resp.text:
+                    elif 'Error code' in resp.text:
                         continue
                     print(f'\n格式化{url} 返回数据开始...')
                     node_list_formated = sub_convert.format(resp.text)
