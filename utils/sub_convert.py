@@ -43,7 +43,7 @@ class sub_convert():
                     if server_host is server_host_list[-1]:
                         print(f"\n无法转换订阅链接: {url}, 使用内置方法转换\n")
                         try:
-                            resp = s.get(url, verify=None, timeout=10)
+                            resp = s.get(url)
                         except Exception:
                             print(f'\n无法获取网页内容: {url}\n')
                     else:
