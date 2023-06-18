@@ -22,7 +22,7 @@ class sub_convert():
         sub_content = []
         for url in urls:
             # 对url编码
-            url_quote = urllib.parse.quote(url, safe='')
+            url_quote = urllib.parse.quote(url)
             # 转换并获取订阅链接数据
             for server_host in server_host_list:
                 try:
@@ -76,7 +76,7 @@ class sub_convert():
                         password = sub_convert.base64_decode(
                             node_part[0]).split(':')[-1]
                         name_renamed = server_head + server_body + '(' + password + ')'
-                        node_name = urllib.parse.quote(name_renamed, safe='')
+                        node_name = urllib.parse.quote(name_renamed)
                         node_raw = node_part[0] + '@' + node_part[1] + '#' + node_name
                         node = 'ss://' + node_raw
                     else:
@@ -91,8 +91,7 @@ class sub_convert():
                             server)
                         password = node_part_head[-3]
                         name_renamed = server_head + server +  ':' + server_port + '(' + password + ')'
-                        node_name = urllib.parse.quote(
-                            name_renamed, safe='')
+                        node_name = urllib.parse.quote(name_renamed)
                         node_raw = node_part[0] + '#' + node_name
                         node = 'ss://' + node_raw
                     node_list_formated_array.append(node)
