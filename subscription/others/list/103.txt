@@ -1,3 +1,1 @@
-trojan://chvhg@cdn.noice.id:443?allowInsecure=1&sni=idaws1.hijinetwork.cloud&ws=1&wspath=%2Ftunneltrojan#%5B%F0%9F%87%A6%F0%9F%87%B6%5Dcdn.noice.id%3A443%28chvhg%29
-vmess://eyJ2IjogIjIiLCAicHMiOiAiW1x1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmNl1jZG4ubm9pY2UuaWQ6ODAoNjQxYTFhMjQtN2Q0Yy00NDdkLTkwMDUtY2M0M2JmYzRkYThkKSIsICJhZGQiOiAiY2RuLm5vaWNlLmlkIiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjY0MWExYTI0LTdkNGMtNDQ3ZC05MDA1LWNjNDNiZmM0ZGE4ZCIsICJhaWQiOiAiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi90dW5uZWx2bWVzcyIsICJob3N0IjogInNnZjEuaGlqaW5ldHdvcmsuY2xvdWQiLCAidGxzIjogIiJ9
-trojan://ghggygh@cdn.noice.id:443?allowInsecure=1&sni=idc1.hijinetwork.cloud&ws=1&wspath=%2Ftunneltrojan#%5B%F0%9F%87%A6%F0%9F%87%B6%5Dcdn.noice.id%3A443%28ghggygh%29
+节点解析出错，请检查订阅链接：103 是否正确
