@@ -8,10 +8,10 @@
   },
   {
     "id": 1,
-    "remarks": "clash.myvm.cc",
-    "site": "https://clash.myvm.cc",
-    "url": "https://clash.myvm.cc/clash/proxies",
-    "enabled": false
+    "remarks": "aiboboxx/clashfree",
+    "site": "https://github.com/aiboboxx/clashfree",
+    "url": "https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml|https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
+    "enabled": true
   },
   {
     "id": 2,
@@ -151,7 +151,7 @@
     "remarks": "www.ssrfree.top",
     "site": "https://www.ssrfree.top",
     "url": "https://www.ssrfree.top/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 22,
@@ -340,7 +340,7 @@
     "remarks": "proxy.crazygeeky.com",
     "site": "https://proxy.crazygeeky.com",
     "url": "https://proxy.crazygeeky.com/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 49,
@@ -568,9 +568,9 @@
   },
   {
     "id": 81,
-    "remarks": "86.97.199.11:7777",
-    "site": "http://86.97.199.11:7777",
-    "url": "http://86.97.199.11:7777/clash/proxies",
+    "remarks": "sun9426/sun9426.github.io",
+    "site": "https://github.com/sun9426/sun9426.github.io",
+    "url": "https://raw.githubusercontent.com/sun9426/sun9426.github.io/main/v2ray.txt",
     "enabled": true
   },
   {
