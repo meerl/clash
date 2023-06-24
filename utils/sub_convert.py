@@ -180,12 +180,10 @@ class sub_convert():
         for node in node_list:
             if ("ss://" in node or "ssr://" in node or "trojan://" in node and "vless://" not in node):
                 node_name = sub_convert.get_node_name(node)
-                if '127.' not in node_name or 'localhost' in node_name:
-                    if node_name not in node_name_dr_array:
-                        node_name_dr_array.append(node_name)
-                        node_list_dr_array.append(node)
-                else:
-                    continue
+                if node_name not in node_name_dr_array:
+                    node_name_dr_array.append(node_name)
+                    node_list_dr_array.append(node)
+
         return node_list_dr_array
 
     def get_node_name(node):
