@@ -494,7 +494,7 @@
     "remarks": "193.123.84.62",
     "site": "https://193.123.84.62",
     "url": "https://193.123.84.62/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 71,
@@ -641,7 +641,7 @@
     "remarks": "193.123.84.62",
     "site": "https://193.123.84.62",
     "url": "https://193.123.84.62/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 92,
