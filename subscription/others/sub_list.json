@@ -803,5 +803,12 @@
     "site": "https://github.com/pctit/v2",
     "url": "https://raw.githubusercontent.com/pctit/v2/main/v2.txt",
     "enabled": true
+  },
+  {
+    "id": 115,
+    "remarks": "tony0392/clash",
+    "site": "https://github.com/tony0392/clash",
+    "url": "https://raw.githubusercontent.com/tony0392/clash/main/clash.yaml",
+    "enabled": true
   }
 ]
