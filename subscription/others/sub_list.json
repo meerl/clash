@@ -148,9 +148,9 @@
   },
   {
     "id": 21,
-    "remarks": "colatiger/v2ray-nodes",
-    "site": "https://github.com/colatiger/v2ray-nodes",
-    "url": "https://proxy.huwo.top/dy/6v.txt",
+    "remarks": "wanshanziwo.eu.org",
+    "site": "https://wanshanziwo.eu.org",
+    "url": "https://wanshanziwo.eu.org/clash/proxies",
     "enabled": true
   },
   {
@@ -228,7 +228,7 @@
     "remarks": "101.64.235.243:8443",
     "site": "https://101.64.235.243:8443",
     "url": "https://101.64.235.243:8443/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 33,
@@ -711,7 +711,7 @@
     "remarks": "101.64.235.243",
     "site": "https://101.64.235.243:8443",
     "url": "https://101.64.235.243:8443/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 102,
