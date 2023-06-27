@@ -1,0 +1,2 @@
+proxies:
+  - {name: "[🇯🇵]jp2.downloadvip.cfd:443(a48ef049-f572-4345-b75a-7b85ff83296c)", server: jp2.downloadvip.cfd, port: 443, type: trojan, password: "a48ef049-f572-4345-b75a-7b85ff83296c", sni: download.xn--mes358a9urctx.com}
