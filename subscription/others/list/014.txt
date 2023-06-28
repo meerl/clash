@@ -5,8 +5,8 @@ trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@kr2.twincloud.xyz:443?allowInsecur
 trojan://xxoo@us.blazeppn.info:443?allowInsecure=0#%5BUS%5Dus.blazeppn.info%3A443%28xxoo%29
 trojan://254a29d6-51ff-4c89-8bef-03ca2de19abe@sg.stablize.top:443?allowInsecure=0#%5BHK%5Dsg.stablize.top%3A443%28254a29d6-51ff-4c89-8bef-03ca2de19abe%29
 trojan://968a2708-6277-4554-8cc4-2f08edd2d65f@ovohk.ovogreat.com:443?allowInsecure=0#%5BJP%5Dovohk.ovogreat.com%3A443%28968a2708-6277-4554-8cc4-2f08edd2d65f%29
-trojan://1937d8c5-77f3-4eec-b1f7-914806a3bfb8@sg.stablize.top:443?allowInsecure=0#%5BSG%5Dsg.stablize.top%3A443%281937d8c5-77f3-4eec-b1f7-914806a3bfb8%29
-trojan://e81c0cf0-d4f4-402e-81ee-4eb19a832ffa@usa.stablize.top:443?allowInsecure=0#%5BHK%5Dusa.stablize.top%3A443%28e81c0cf0-d4f4-402e-81ee-4eb19a832ffa%29
+trojan://1937d8c5-77f3-4eec-b1f7-914806a3bfb8@sg.stablize.top:443?allowInsecure=0#%5BJP%5Dsg.stablize.top%3A443%281937d8c5-77f3-4eec-b1f7-914806a3bfb8%29
+trojan://e81c0cf0-d4f4-402e-81ee-4eb19a832ffa@usa.stablize.top:443?allowInsecure=0#%5BJP%5Dusa.stablize.top%3A443%28e81c0cf0-d4f4-402e-81ee-4eb19a832ffa%29
 trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@fscus.fscloud123456789.com:443?allowInsecure=0#%5BJP%5Dfscus.fscloud123456789.com%3A443%289995cc0e-2e9d-4c80-8c81-4fdbb6322a3a%29
 trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?allowInsecure=0#%5BIN%5D152.70.74.66%3A443%28d906afe5-7c3c-4ddc-aaa4-61c154a82e5e%29
 trojan://887c0298-2bab-4d4c-8cb0-b85b3ba9c4bb@hk1997.pro:4000?allowInsecure=0#%5BUS%5Dhk1997.pro%3A4000%28887c0298-2bab-4d4c-8cb0-b85b3ba9c4bb%29
