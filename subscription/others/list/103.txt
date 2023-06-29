@@ -1,3 +1,1 @@
 trojan://chvhg@cdn.noice.id:443?allowInsecure=1&sni=idaws1.hijinetwork.cloud&ws=1&wspath=%2Ftunneltrojan#%5BCLOUDFLARE%5Dcdn.noice.id%3A443%28chvhg%29
-vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NMT1VERkxBUkVdY2RuLm5vaWNlLmlkOjgwKDY0MWExYTI0LTdkNGMtNDQ3ZC05MDA1LWNjNDNiZmM0ZGE4ZCkiLCAiYWRkIjogImNkbi5ub2ljZS5pZCIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI2NDFhMWEyNC03ZDRjLTQ0N2QtOTAwNS1jYzQzYmZjNGRhOGQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3R1bm5lbHZtZXNzIiwgImhvc3QiOiAic2dmMS5oaWppbmV0d29yay5jbG91ZCIsICJ0bHMiOiAiIn0=
-trojan://ghggygh@cdn.noice.id:443?allowInsecure=1&sni=idc1.hijinetwork.cloud&ws=1&wspath=%2Ftunneltrojan#%5BCLOUDFLARE%5Dcdn.noice.id%3A443%28ghggygh%29
