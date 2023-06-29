@@ -40,6 +40,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NOXWd6ZHguamNub2RlLnRvcDoyODAwMShmNjFjZmM0MS05
 trojan://f61cfc41-9ef0-463f-856b-bafb9f8db058@gzyd.jcnode.top:28003?allowInsecure=1&sni=us04.ckcloud.info#%5BCN%5Dgzyd.jcnode.top%3A28003%28f61cfc41-9ef0-463f-856b-bafb9f8db058%29
 trojan://f61cfc41-9ef0-463f-856b-bafb9f8db058@gzdx.jcnode.top:28003?allowInsecure=1&sni=us04.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A28003%28f61cfc41-9ef0-463f-856b-bafb9f8db058%29
 trojan://f46063b7-0fe2-4e3f-b143-46e57dd08ac7@gzdx.jcnode.top:43000?allowInsecure=1&sni=sg03.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A43000%28f46063b7-0fe2-4e3f-b143-46e57dd08ac7%29
+trojan://f46063b7-0fe2-4e3f-b143-46e57dd08ac7@gzdx.jcnode.top:43000?allowInsecure=1&sni=sg03.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A43000%28f46063b7-0fe2-4e3f-b143-46e57dd08ac7%29
 trojan://f46063b7-0fe2-4e3f-b143-46e57dd08ac7@gzdx.jcnode.top:48834?allowInsecure=1&sni=sk01.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A48834%28f46063b7-0fe2-4e3f-b143-46e57dd08ac7%29
 trojan://f46063b7-0fe2-4e3f-b143-46e57dd08ac7@gzdx.jcnode.top:49003?allowInsecure=1&sni=vn01.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A49003%28f46063b7-0fe2-4e3f-b143-46e57dd08ac7%29
 trojan://f46063b7-0fe2-4e3f-b143-46e57dd08ac7@gzyd01.jcnode.top:49003?allowInsecure=1&sni=vn01.ckcloud.info#%5BCN%5Dgzyd01.jcnode.top%3A49003%28f46063b7-0fe2-4e3f-b143-46e57dd08ac7%29
@@ -119,6 +120,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NOXWd6eWQuamNub2RlLnRvcDoyODAwMSgyMzUyZTQ2ZS04
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NOXWd6ZHguamNub2RlLnRvcDoyODAwMSgyMzUyZTQ2ZS04ZDAxLTRlNjItOTc5Yi1jZjcyODA2MjQ1MzcpIiwgImFkZCI6ICJnemR4Lmpjbm9kZS50b3AiLCAicG9ydCI6ICIyODAwMSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMjM1MmU0NmUtOGQwMS00ZTYyLTk3OWItY2Y3MjgwNjI0NTM3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJnemR4Lmpjbm9kZS50b3AiLCAidGxzIjogIiJ9
 trojan://2352e46e-8d01-4e62-979b-cf7280624537@gzyd.jcnode.top:28003?allowInsecure=1&sni=us04.ckcloud.info#%5BCN%5Dgzyd.jcnode.top%3A28003%282352e46e-8d01-4e62-979b-cf7280624537%29
 trojan://2352e46e-8d01-4e62-979b-cf7280624537@gzdx.jcnode.top:28003?allowInsecure=1&sni=us04.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A28003%282352e46e-8d01-4e62-979b-cf7280624537%29
+trojan://52aa0562-3d91-45b9-a964-979210b1c42b@gzdx.jcnode.top:43000?allowInsecure=1&sni=sg03.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A43000%2852aa0562-3d91-45b9-a964-979210b1c42b%29
 trojan://52aa0562-3d91-45b9-a964-979210b1c42b@gzdx.jcnode.top:43000?allowInsecure=1&sni=sg03.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A43000%2852aa0562-3d91-45b9-a964-979210b1c42b%29
 trojan://52aa0562-3d91-45b9-a964-979210b1c42b@gzdx.jcnode.top:48834?allowInsecure=1&sni=sk01.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A48834%2852aa0562-3d91-45b9-a964-979210b1c42b%29
 trojan://52aa0562-3d91-45b9-a964-979210b1c42b@gzdx.jcnode.top:49003?allowInsecure=1&sni=vn01.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A49003%2852aa0562-3d91-45b9-a964-979210b1c42b%29
@@ -200,6 +202,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NOXWd6ZHguamNub2RlLnRvcDoyODAwMSg5ZjU2ZTRkNi0y
 trojan://9f56e4d6-2b28-440e-b007-7f259bd7f6eb@gzyd.jcnode.top:28003?allowInsecure=1&sni=us04.ckcloud.info#%5BCN%5Dgzyd.jcnode.top%3A28003%289f56e4d6-2b28-440e-b007-7f259bd7f6eb%29
 trojan://9f56e4d6-2b28-440e-b007-7f259bd7f6eb@gzdx.jcnode.top:28003?allowInsecure=1&sni=us04.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A28003%289f56e4d6-2b28-440e-b007-7f259bd7f6eb%29
 trojan://0526a88f-0c67-47b7-bf73-eaf0fedc5898@gzdx.jcnode.top:43000?allowInsecure=1&sni=sg03.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A43000%280526a88f-0c67-47b7-bf73-eaf0fedc5898%29
+trojan://0526a88f-0c67-47b7-bf73-eaf0fedc5898@gzdx.jcnode.top:43000?allowInsecure=1&sni=sg03.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A43000%280526a88f-0c67-47b7-bf73-eaf0fedc5898%29
 trojan://0526a88f-0c67-47b7-bf73-eaf0fedc5898@gzdx.jcnode.top:48834?allowInsecure=1&sni=sk01.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A48834%280526a88f-0c67-47b7-bf73-eaf0fedc5898%29
 trojan://0526a88f-0c67-47b7-bf73-eaf0fedc5898@gzdx.jcnode.top:49003?allowInsecure=1&sni=vn01.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A49003%280526a88f-0c67-47b7-bf73-eaf0fedc5898%29
 trojan://0526a88f-0c67-47b7-bf73-eaf0fedc5898@gzyd01.jcnode.top:49003?allowInsecure=1&sni=vn01.ckcloud.info#%5BCN%5Dgzyd01.jcnode.top%3A49003%280526a88f-0c67-47b7-bf73-eaf0fedc5898%29
@@ -279,6 +282,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NOXWd6eWQuamNub2RlLnRvcDoyODAwMShiZWFjMzFkZi1m
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NOXWd6ZHguamNub2RlLnRvcDoyODAwMShiZWFjMzFkZi1mNGNhLTRmOTEtYjM0Ny0zZDhkYjlhYzg4NDgpIiwgImFkZCI6ICJnemR4Lmpjbm9kZS50b3AiLCAicG9ydCI6ICIyODAwMSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYmVhYzMxZGYtZjRjYS00ZjkxLWIzNDctM2Q4ZGI5YWM4ODQ4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJnemR4Lmpjbm9kZS50b3AiLCAidGxzIjogIiJ9
 trojan://beac31df-f4ca-4f91-b347-3d8db9ac8848@gzyd.jcnode.top:28003?allowInsecure=1&sni=us04.ckcloud.info#%5BCN%5Dgzyd.jcnode.top%3A28003%28beac31df-f4ca-4f91-b347-3d8db9ac8848%29
 trojan://beac31df-f4ca-4f91-b347-3d8db9ac8848@gzdx.jcnode.top:28003?allowInsecure=1&sni=us04.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A28003%28beac31df-f4ca-4f91-b347-3d8db9ac8848%29
+trojan://e8a84912-2fc7-4352-af53-d49a198ba899@gzdx.jcnode.top:43000?allowInsecure=1&sni=sg03.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A43000%28e8a84912-2fc7-4352-af53-d49a198ba899%29
 trojan://e8a84912-2fc7-4352-af53-d49a198ba899@gzdx.jcnode.top:43000?allowInsecure=1&sni=sg03.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A43000%28e8a84912-2fc7-4352-af53-d49a198ba899%29
 trojan://e8a84912-2fc7-4352-af53-d49a198ba899@gzdx.jcnode.top:48834?allowInsecure=1&sni=sk01.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A48834%28e8a84912-2fc7-4352-af53-d49a198ba899%29
 trojan://e8a84912-2fc7-4352-af53-d49a198ba899@gzdx.jcnode.top:49003?allowInsecure=1&sni=vn01.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A49003%28e8a84912-2fc7-4352-af53-d49a198ba899%29
