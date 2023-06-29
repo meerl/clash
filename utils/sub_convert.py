@@ -241,6 +241,8 @@ class sub_convert():
                 country_code = response.country.iso_code
             except Exception:
                 country_code = 'NOWHERE'
+        if country_code is None:
+            country_code = 'NOWHERE'
         return '[' + country_code + ']'
 
     def write_to_node(node_list_array, path):
@@ -639,5 +641,5 @@ if __name__ == '__main__':
     # file.close()
     # sub_convert.write_to_clash(nodes,'./test/')
     # sub_convert.get_node_from_sub("https://raw.githubusercontent.com/mheidari98/.proxy/main/all")
-    sub_convert.format("vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7Ig576O5Zu944CQ5LuY6LS55o6o6I2Q77yaaHR0cHM6Ly90dC52Zy92aXDjgJEyMjMiLCJhZGQiOiJjZi1sdC5zaGFyZWNlbnRyZS5vbmxpbmUiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMmQ1ZDhiOWMtOGVjNC00YTM3LWI2MTAtNzhlNzFlMTNlYWVmIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zaGlya2VyIiwiaG9zdCI6Imx2My5zaGFyZWNlbnRyZXByby5vcmciLCJ0bHMiOiIifQ==")
+    sub_convert.format("vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgX1VTX+e+juWbvS0+8J+HrPCfh6dfR0Jf6Iux5Zu9IiwiYWRkIjoiMTA0LjE2LjE4My4xMDEiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjNkZTRlYzI3LTc0YjQtNDNlMy1iZjIzLTE4ZTcyNmFjODBiYyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvUDZrcG41VUtHNDBNTkxLMiIsImhvc3QiOiJwV2dobGptbmtucS5qYW5iYXJvb24uY29tIiwidGxzIjoidGxzIn0=")
     # sub_convert.yaml_encode("ssr://MTUuMTg4LjE3Ny4wOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP3JlbWFya3M9Vy9DZmg2dnduNGUzWFRFMUxqRTRPQzR4TnpjdU1EbzBNamd6TXloWmNGZ3liM0JDWW5KbWNVcDZlazF6S1E9PQ==")
