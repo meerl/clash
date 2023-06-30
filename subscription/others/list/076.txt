@@ -1,4 +1,5 @@
 trojan://533d4546-12f0-4ec1-a9fa-39b67d9c0a0a@gzdx.jcnode.top:43000?allowInsecure=1&sni=sg03.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A43000%28533d4546-12f0-4ec1-a9fa-39b67d9c0a0a%29
+trojan://533d4546-12f0-4ec1-a9fa-39b67d9c0a0a@gzdx.jcnode.top:43000?allowInsecure=1&sni=sg03.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A43000%28533d4546-12f0-4ec1-a9fa-39b67d9c0a0a%29
 trojan://533d4546-12f0-4ec1-a9fa-39b67d9c0a0a@gzdx.jcnode.top:48834?allowInsecure=1&sni=sk01.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A48834%28533d4546-12f0-4ec1-a9fa-39b67d9c0a0a%29
 trojan://533d4546-12f0-4ec1-a9fa-39b67d9c0a0a@gzdx.jcnode.top:49003?allowInsecure=1&sni=vn01.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A49003%28533d4546-12f0-4ec1-a9fa-39b67d9c0a0a%29
 trojan://533d4546-12f0-4ec1-a9fa-39b67d9c0a0a@gzyd01.jcnode.top:49003?allowInsecure=1&sni=vn01.ckcloud.info#%5BCN%5Dgzyd01.jcnode.top%3A49003%28533d4546-12f0-4ec1-a9fa-39b67d9c0a0a%29
@@ -37,6 +38,7 @@ trojan://533d4546-12f0-4ec1-a9fa-39b67d9c0a0a@gzdx.jcnode.top:49004?allowInsecur
 trojan://533d4546-12f0-4ec1-a9fa-39b67d9c0a0a@gzyd01.jcnode.top:49004?allowInsecure=1&sni=de01.ckcloud.info#%5BCN%5Dgzyd01.jcnode.top%3A49004%28533d4546-12f0-4ec1-a9fa-39b67d9c0a0a%29
 trojan://533d4546-12f0-4ec1-a9fa-39b67d9c0a0a@gzdx.jcnode.top:47000?allowInsecure=1&sni=uk01.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A47000%28533d4546-12f0-4ec1-a9fa-39b67d9c0a0a%29
 trojan://533d4546-12f0-4ec1-a9fa-39b67d9c0a0a@gzyd01.jcnode.top:47000?allowInsecure=1&sni=uk01.ckcloud.info#%5BCN%5Dgzyd01.jcnode.top%3A47000%28533d4546-12f0-4ec1-a9fa-39b67d9c0a0a%29
+trojan://338383e6-8851-4b8c-9ee9-6ad016bced4f@gzyd.jcnode.top:29200?allowInsecure=1&sni=vn01.ckcloud.info#%5BCN%5Dgzyd.jcnode.top%3A29200%28338383e6-8851-4b8c-9ee9-6ad016bced4f%29
 trojan://338383e6-8851-4b8c-9ee9-6ad016bced4f@gzyd.jcnode.top:29200?allowInsecure=1&sni=vn01.ckcloud.info#%5BCN%5Dgzyd.jcnode.top%3A29200%28338383e6-8851-4b8c-9ee9-6ad016bced4f%29
 trojan://338383e6-8851-4b8c-9ee9-6ad016bced4f@gzyd.jcnode.top:22000?allowInsecure=1&sni=sk01.ckcloud.info#%5BCN%5Dgzyd.jcnode.top%3A22000%28338383e6-8851-4b8c-9ee9-6ad016bced4f%29
 trojan://338383e6-8851-4b8c-9ee9-6ad016bced4f@gzdx.jcnode.top:22000?allowInsecure=1&sni=sk01.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A22000%28338383e6-8851-4b8c-9ee9-6ad016bced4f%29
