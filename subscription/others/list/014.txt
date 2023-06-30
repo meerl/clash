@@ -2,12 +2,12 @@ ssr://c2ctYW0zLmVxc3Vuc2hpbmUuY29tOjMyMDAxOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdG
 trojan://3228a77c-c1c3-451f-9112-e6e766684558@fschk.fscloud123456789.com:443?allowInsecure=0#%5BJP%5Dfschk.fscloud123456789.com%3A443%283228a77c-c1c3-451f-9112-e6e766684558%29
 trojan://opentunnel.net-newdday@cat-1.opensvr.net:443?allowInsecure=0#%5BCA%5Dcat-1.opensvr.net%3A443%28opentunnel.net-newdday%29
 trojan://7a73f1dc97a70905870c0c0484b12145@trs22.bolab.net:443?allowInsecure=0#%5BJP%5Dtrs22.bolab.net%3A443%287a73f1dc97a70905870c0c0484b12145%29
-trojan://254a29d6-51ff-4c89-8bef-03ca2de19abe@sg.stablize.top:443?allowInsecure=0#%5BHK%5Dsg.stablize.top%3A443%28254a29d6-51ff-4c89-8bef-03ca2de19abe%29
+trojan://254a29d6-51ff-4c89-8bef-03ca2de19abe@sg.stablize.top:443?allowInsecure=0#%5BSG%5Dsg.stablize.top%3A443%28254a29d6-51ff-4c89-8bef-03ca2de19abe%29
 trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?allowInsecure=0#%5BIN%5D152.70.74.66%3A443%28d906afe5-7c3c-4ddc-aaa4-61c154a82e5e%29
 trojan://36d48ba9-7445-4b41-b210-58f4e07a627a@in01.trojanyyds.xyz:443?allowInsecure=0#%5BJP%5Din01.trojanyyds.xyz%3A443%2836d48ba9-7445-4b41-b210-58f4e07a627a%29
-trojan://e81c0cf0-d4f4-402e-81ee-4eb19a832ffa@usa.stablize.top:443?allowInsecure=0#%5BSG%5Dusa.stablize.top%3A443%28e81c0cf0-d4f4-402e-81ee-4eb19a832ffa%29
+trojan://e81c0cf0-d4f4-402e-81ee-4eb19a832ffa@usa.stablize.top:443?allowInsecure=0#%5BJP%5Dusa.stablize.top%3A443%28e81c0cf0-d4f4-402e-81ee-4eb19a832ffa%29
 trojan://0e40fe8c-23d2-4dee-a9a4-25006da2d0bf@ovotw.ovogreat.com:443?allowInsecure=0#%5BJP%5Dovotw.ovogreat.com%3A443%280e40fe8c-23d2-4dee-a9a4-25006da2d0bf%29
-trojan://1937d8c5-77f3-4eec-b1f7-914806a3bfb8@sg.stablize.top:443?allowInsecure=0#%5BSG%5Dsg.stablize.top%3A443%281937d8c5-77f3-4eec-b1f7-914806a3bfb8%29
+trojan://1937d8c5-77f3-4eec-b1f7-914806a3bfb8@sg.stablize.top:443?allowInsecure=0#%5BJP%5Dsg.stablize.top%3A443%281937d8c5-77f3-4eec-b1f7-914806a3bfb8%29
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@jp2.twincloud.xyz:443?allowInsecure=0#%5BJP%5Djp2.twincloud.xyz%3A443%286455f944-7c07-4ab0-b88f-440e581f41d9%29
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0FVXTEzOS45OS4xODAuMTE1OjQ5OTIxKDZjMDRhMjczLTczMDItNGUwOS05Y2VkLWFlZGFhYTc0NjFhZikiLCAiYWRkIjogIjEzOS45OS4xODAuMTE1IiwgInBvcnQiOiAiNDk5MjEiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjZjMDRhMjczLTczMDItNGUwOS05Y2VkLWFlZGFhYTc0NjFhZiIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1RIXTQ1LjEzNi4yMzkuMzI6NTEzODIoOWE3ODBmMmMtOTY0My00OWMwLTkwYTYtN2E3NGE1NjZlYjdmKSIsICJhZGQiOiAiNDUuMTM2LjIzOS4zMiIsICJwb3J0IjogIjUxMzgyIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI5YTc4MGYyYy05NjQzLTQ5YzAtOTBhNi03YTc0YTU2NmViN2YiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
