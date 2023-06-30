@@ -146,7 +146,7 @@ trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@163.123.192.57:443?allowInsecure=1
 trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@163.123.192.60:443?allowInsecure=1&sni=18-140-66-207.nhost.00cdn.com#%5BUS%5D163.123.192.60%3A443%2841bec492-cd79-4b57-9a15-7d2bb00fcfca%29
 trojan://m8krTirthj@216.52.59.50:20458?allowInsecure=1#%5BUS%5D216.52.59.50%3A20458%28m8krTirthj%29
 trojan://887c0298-2bab-4d4c-8cb0-b85b3ba9c4bb@hk1997.pro:4000?allowInsecure=1#%5BUS%5Dhk1997.pro%3A4000%28887c0298-2bab-4d4c-8cb0-b85b3ba9c4bb%29
-trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%5BJP%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
+trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%5BHK%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
 trojan://7a73f1dc97a70905870c0c0484b12145@trs19.bolab.net:443?allowInsecure=1&sni=trs19.bolab.net#%5BJP%5Dtrs19.bolab.net%3A443%287a73f1dc97a70905870c0c0484b12145%29
 trojan://7a73f1dc97a70905870c0c0484b12145@trs19.bolab.net:443?allowInsecure=1#%5BJP%5Dtrs19.bolab.net%3A443%287a73f1dc97a70905870c0c0484b12145%29
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NMT1VERkxBUkVdMTA0LjE3LjMuODE6ODAoNDNiNzQ3ZTAtMDJiYi0xMWVlLTliMWQtMTU3N2MxNjUxNjc5KSIsICJhZGQiOiAiMTA0LjE3LjMuODEiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDNiNzQ3ZTAtMDJiYi0xMWVlLTliMWQtMTU3N2MxNjUxNjc5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9maWxlcyIsICJob3N0IjogInNnLnhtYmIubmV0IiwgInRscyI6ICIifQ==
