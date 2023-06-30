@@ -148,7 +148,7 @@ trojan://m8krTirthj@216.52.59.50:20458?allowInsecure=1#%5BUS%5D216.52.59.50%3A20
 trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?allowInsecure=1#%5BIN%5D152.70.74.66%3A443%28d906afe5-7c3c-4ddc-aaa4-61c154a82e5e%29
 trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?allowInsecure=1&sni=152.70.74.66#%5BIN%5D152.70.74.66%3A443%28d906afe5-7c3c-4ddc-aaa4-61c154a82e5e%29
 trojan://fc9f825b-96d2-4f9b-b003-ae8c65fc5c8d@kr5.microsoft-orgwly.vip:10023?allowInsecure=1&sni=tls.microsoft-orgwly.vip#%5BKR%5Dkr5.microsoft-orgwly.vip%3A10023%28fc9f825b-96d2-4f9b-b003-ae8c65fc5c8d%29
-trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%5BJP%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
+trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%5BSG%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
 trojan://7a73f1dc97a70905870c0c0484b12145@trs19.bolab.net:443?allowInsecure=1&sni=trs19.bolab.net#%5BJP%5Dtrs19.bolab.net%3A443%287a73f1dc97a70905870c0c0484b12145%29
 trojan://7a73f1dc97a70905870c0c0484b12145@trs19.bolab.net:443?allowInsecure=1#%5BJP%5Dtrs19.bolab.net%3A443%287a73f1dc97a70905870c0c0484b12145%29
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW05MXTQ1LjE1My4yMDMuODU6NDE2MzIoNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0KSIsICJhZGQiOiAiNDUuMTUzLjIwMy44NSIsICJwb3J0IjogIjQxNjMyIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
