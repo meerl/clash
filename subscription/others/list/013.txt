@@ -385,7 +385,7 @@ trojan://e958b47d-3510-445a-99cb-dc98d227e29e@zf.heigouyunzf.xyz:38803?allowInse
 trojan://e958b47d-3510-445a-99cb-dc98d227e29e@183.240.221.73:38803?allowInsecure=1#%5BCN%5D183.240.221.73%3A38803%28e958b47d-3510-445a-99cb-dc98d227e29e%29
 trojan://dTjHHw2kDE@23.94.122.66:38505?allowInsecure=1#%5BUS%5D23.94.122.66%3A38505%28dTjHHw2kDE%29
 trojan://YWePoB69GG@38.54.126.42:443?allowInsecure=1#%5BGB%5D38.54.126.42%3A443%28YWePoB69GG%29
-trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BJP%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
+trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BHK%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
 trojan://5f9a5d8c-a57b-4da6-baff-490fe4cf8d60@sg5.cnamazon.sbs:443?allowInsecure=1&sni=adtube.ir#%5BSG%5Dsg5.cnamazon.sbs%3A443%285f9a5d8c-a57b-4da6-baff-490fe4cf8d60%29
 trojan://Hu4CFM0wJ3@38.150.13.140:57063?allowInsecure=1#%5BHK%5D38.150.13.140%3A57063%28Hu4CFM0wJ3%29
 trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@13.215.194.103:443?allowInsecure=1&sni=media.yektanet.com#%5BSG%5D13.215.194.103%3A443%284aeda200-44c9-4168-8f2a-a00a72176d35%29
@@ -863,7 +863,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE0Mi40LjExMC4xMDI6NTQwMDIoNDE4MDQ4YWYtYTI5
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NMT1VERkxBUkVdZGF0YWNlbnRlci5jbS4wMS5iaXFpYmFvLnNpdGU6MjA1MihkYmIyYjljOC05Y2Y3LTQ3OTEtOWNiYy1kYjQ4MGM3ZTJkYmQpIiwgImFkZCI6ICJkYXRhY2VudGVyLmNtLjAxLmJpcWliYW8uc2l0ZSIsICJwb3J0IjogIjIwNTIiLCAidHlwZSI6ICJub25lIiwgImlkIjogImRiYjJiOWM4LTljZjctNDc5MS05Y2JjLWRiNDgwYzdlMmRiZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcHVibGljIiwgImhvc3QiOiAiZGF0YWNlbnRlci5jbS4wMS5iaXFpYmFvLnNpdGUiLCAidGxzIjogIiJ9
 trojan://7ac21151-dff9-4846-9e20-959a31090bc7@141.193.68.81:443?allowInsecure=1&sni=daxun.windowsupdatea.com#%5BUS%5D141.193.68.81%3A443%287ac21151-dff9-4846-9e20-959a31090bc7%29
 trojan://7ac21151-dff9-4846-9e20-959a31090bc7@104.149.153.125:443?allowInsecure=1&sni=daxun.windowsupdatea.com#%5BUS%5D104.149.153.125%3A443%287ac21151-dff9-4846-9e20-959a31090bc7%29
-trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@vpnhat.stablize.top:443?allowInsecure=1#%5BJP%5Dvpnhat.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
+trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@vpnhat.stablize.top:443?allowInsecure=1#%5BHK%5Dvpnhat.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
 trojan://telegram-id-privatevpns@13.36.175.154:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%5BFR%5D13.36.175.154%3A22222%28telegram-id-privatevpns%29
 trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ap.stablize.top:443?allowInsecure=1#%5BJP%5Dap.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
 trojan://7ac21151-dff9-4846-9e20-959a31090bc7@74.217.179.22:443?allowInsecure=1&sni=daxun.windowsupdatea.com#%5BUS%5D74.217.179.22%3A443%287ac21151-dff9-4846-9e20-959a31090bc7%29
