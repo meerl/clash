@@ -3,7 +3,7 @@ trojan://be4e0948-17e7-4414-9bfd-d67f2b0523c6@sg10.microsoft-orgwly.vip:443?allo
 trojan://be4e0948-17e7-4414-9bfd-d67f2b0523c6@sg1.microsoft-orgwly.vip:443?allowInsecure=1&sni=sg1.microsoft-orgwly.vip#%5BSG%5Dsg1.microsoft-orgwly.vip%3A443%28be4e0948-17e7-4414-9bfd-d67f2b0523c6%29
 trojan://be4e0948-17e7-4414-9bfd-d67f2b0523c6@sg5.microsoft-orgwly.vip:11033?allowInsecure=1&sni=sg5.microsoft-orgwly.vip#%5BSG%5Dsg5.microsoft-orgwly.vip%3A11033%28be4e0948-17e7-4414-9bfd-d67f2b0523c6%29
 trojan://be4e0948-17e7-4414-9bfd-d67f2b0523c6@sg6.microsoft-orgwly.vip:10046?allowInsecure=1&sni=sg6.microsoft-orgwly.vip#%5BSG%5Dsg6.microsoft-orgwly.vip%3A10046%28be4e0948-17e7-4414-9bfd-d67f2b0523c6%29
-trojan://be4e0948-17e7-4414-9bfd-d67f2b0523c6@sg13.microsoft-orgwly.vip:10046?allowInsecure=1&sni=sg13.microsoft-orgwly.vip#%5BHK%5Dsg13.microsoft-orgwly.vip%3A10046%28be4e0948-17e7-4414-9bfd-d67f2b0523c6%29
+trojan://be4e0948-17e7-4414-9bfd-d67f2b0523c6@sg13.microsoft-orgwly.vip:10046?allowInsecure=1&sni=sg13.microsoft-orgwly.vip#%5BSG%5Dsg13.microsoft-orgwly.vip%3A10046%28be4e0948-17e7-4414-9bfd-d67f2b0523c6%29
 trojan://be4e0948-17e7-4414-9bfd-d67f2b0523c6@jp3.microsoft-orgwly.vip:34212?allowInsecure=1&sni=jp3.microsoft-orgwly.vip#%5BJP%5Djp3.microsoft-orgwly.vip%3A34212%28be4e0948-17e7-4414-9bfd-d67f2b0523c6%29
 trojan://be4e0948-17e7-4414-9bfd-d67f2b0523c6@sg8.microsoft-orgwly.vip:11035?allowInsecure=1&sni=sg8.microsoft-orgwly.vip#%5BSG%5Dsg8.microsoft-orgwly.vip%3A11035%28be4e0948-17e7-4414-9bfd-d67f2b0523c6%29
 trojan://be4e0948-17e7-4414-9bfd-d67f2b0523c6@jp7.microsoft-orgwly.vip:34214?allowInsecure=1&sni=jp7.microsoft-orgwly.vip#%5BJP%5Djp7.microsoft-orgwly.vip%3A34214%28be4e0948-17e7-4414-9bfd-d67f2b0523c6%29
