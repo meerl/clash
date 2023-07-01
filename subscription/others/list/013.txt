@@ -404,7 +404,7 @@ trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp14-data.amazon-azure.com:443?
 trojan://xxoo@us.blazeppn.info:443?allowInsecure=0#%5BUS%5Dus.blazeppn.info%3A443%28xxoo%29
 trojan://xxoo@194.156.99.39:443?allowInsecure=1#%5BHK%5D194.156.99.39%3A443%28xxoo%29
 trojan://6274ef15-8769-46f3-ba96-b21874fcbfc1@fscus.fscloud123456789.com:443?allowInsecure=1#%5BJP%5Dfscus.fscloud123456789.com%3A443%286274ef15-8769-46f3-ba96-b21874fcbfc1%29
-trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BHK%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
+trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BSG%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
 trojan://51eebef7-beaa-417b-9584-2794d10377c9@microsoft-hk03.syjd.xyz:443?allowInsecure=1#%5BHK%5Dmicrosoft-hk03.syjd.xyz%3A443%2851eebef7-beaa-417b-9584-2794d10377c9%29
 trojan://e958b47d-3510-445a-99cb-dc98d227e29e@183.240.221.73:38803?allowInsecure=1#%5BCN%5D183.240.221.73%3A38803%28e958b47d-3510-445a-99cb-dc98d227e29e%29
 trojan://m8krTirthj@216.52.59.50:20458?allowInsecure=1#%5BUS%5D216.52.59.50%3A20458%28m8krTirthj%29
@@ -892,7 +892,7 @@ trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@pqawssg02.gsjc.cfd:443?allowInsecu
 trojan://ad547213-8e05-46b1-aff5-0f7a9814a4aa@awshk1.gsjc.cfd:443?allowInsecure=1&sni=4-193-105-141.nhost.00cdn.com#%5BSG%5Dawshk1.gsjc.cfd%3A443%28ad547213-8e05-46b1-aff5-0f7a9814a4aa%29
 trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%5BJP%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
 trojan://0bed137e-acd8-493d-9c0c-433cc7cb6113@pqawsjp02.gsjc.cfd:443?allowInsecure=1&sni=18-140-66-207.nhost.00cdn.com#%5BSG%5Dpqawsjp02.gsjc.cfd%3A443%280bed137e-acd8-493d-9c0c-433cc7cb6113%29
-trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ap.stablize.top:443?allowInsecure=1#%5BSG%5Dap.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
+trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ap.stablize.top:443?allowInsecure=1#%5BJP%5Dap.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE1Ni4yMjUuNjcuMTExOjQzMTI2KGI4ZGYzZWYxLTg4N2YtNGVlNC04NTVmLTRmODA0MTZjMjQ2NCkiLCAiYWRkIjogIjE1Ni4yMjUuNjcuMTExIiwgInBvcnQiOiAiNDMxMjYiLCAidHlwZSI6ICJub25lIiwgImlkIjogImI4ZGYzZWYxLTg4N2YtNGVlNC04NTVmLTRmODA0MTZjMjQ2NCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE1Ni4yMjUuNjcuMjA3OjQwOTM5KGQ3NzM1MDU4LTFkYWMtNDYxOC05OWZmLTBhYTA0NDFlYzJkNykiLCAiYWRkIjogIjE1Ni4yMjUuNjcuMjA3IiwgInBvcnQiOiAiNDA5MzkiLCAidHlwZSI6ICJub25lIiwgImlkIjogImQ3NzM1MDU4LTFkYWMtNDYxOC05OWZmLTBhYTA0NDFlYzJkNyIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE1Ni4yMjUuNjcuMjM0OjQ4MTIzKDkzNTAzZGQ1LTI0NWEtNGViMS1hZTJhLTU3YWI5ZjJiM2MyOSkiLCAiYWRkIjogIjE1Ni4yMjUuNjcuMjM0IiwgInBvcnQiOiAiNDgxMjMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjkzNTAzZGQ1LTI0NWEtNGViMS1hZTJhLTU3YWI5ZjJiM2MyOSIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
