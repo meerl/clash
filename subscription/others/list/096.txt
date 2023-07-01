@@ -148,7 +148,7 @@ trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@163.123.192.60:443?allowInsecure=1
 trojan://e958b47d-3510-445a-99cb-dc98d227e29e@183.240.221.73:38801?allowInsecure=1#%5BCN%5D183.240.221.73%3A38801%28e958b47d-3510-445a-99cb-dc98d227e29e%29
 trojan://m8krTirthj@216.52.59.50:20458?allowInsecure=1#%5BUS%5D216.52.59.50%3A20458%28m8krTirthj%29
 trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@217.79.184.76:443?allowInsecure=1&sni=downloadde.xn--mes358aby2apfg.com#%5BDE%5D217.79.184.76%3A443%2832068eda-adad-431a-bfd4-2f7d4c73507c%29
-trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%5BSG%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
+trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%5BHK%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
 trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@jp.stablize.top:443?allowInsecure=1#%5BSG%5Djp.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
 trojan://f89d1762-7627-4676-b4cf-e4de76ee3636@jp2.downloadvip.cfd:443?allowInsecure=1&sni=download.xn--mes358a9urctx.com#%5BJP%5Djp2.downloadvip.cfd%3A443%28f89d1762-7627-4676-b4cf-e4de76ee3636%29
 trojan://5e6f6f98-59b9-4a70-a3f3-ea4a2bd41ea7@jp7.jb7ueoq73.xyz:10068?allowInsecure=1&sni=tls.jisuyun.co#%5BJP%5Djp7.jb7ueoq73.xyz%3A10068%285e6f6f98-59b9-4a70-a3f3-ea4a2bd41ea7%29
