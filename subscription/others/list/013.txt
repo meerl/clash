@@ -396,7 +396,7 @@ trojan://xxoo@146.19.230.241:443?allowInsecure=1&sni=match-cdn.varzesh3.com#%5BG
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170-187-134-190.ipv4.rush.ml:8443?allowInsecure=1#%5BUS%5D170-187-134-190.ipv4.rush.ml%3A8443%28cf4295378e209e70d12c5bdd017144dfd1c772d3%29
 trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@13.215.194.103:443?allowInsecure=1#%5BSG%5D13.215.194.103%3A443%28ca7febc2-bb45-4e6d-810e-ab0af6009c4e%29
 trojan://xxoo@138.124.183.226:443?allowInsecure=1#%5BUS%5D138.124.183.226%3A443%28xxoo%29
-trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BHK%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
+trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BJP%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
 trojan://e958b47d-3510-445a-99cb-dc98d227e29e@183.240.221.73:38803?allowInsecure=1#%5BCN%5D183.240.221.73%3A38803%28e958b47d-3510-445a-99cb-dc98d227e29e%29
 trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?allowInsecure=1#%5BIN%5D152.70.74.66%3A443%28d906afe5-7c3c-4ddc-aaa4-61c154a82e5e%29
 trojan://e958b47d-3510-445a-99cb-dc98d227e29e@zf.heigouyunzf.xyz:38801?allowInsecure=1&sni=ads.rade.ir#%5BCN%5Dzf.heigouyunzf.xyz%3A38801%28e958b47d-3510-445a-99cb-dc98d227e29e%29
