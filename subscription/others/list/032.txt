@@ -17,7 +17,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW0hLXTE1Ni4yNDUuOC4xNDI6NDkxMTAoNjE5MzExNmQtOTZm
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0lOXXZpbjEuMGJhZC5jb206NDQzKDkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NykiLCAiYWRkIjogInZpbjEuMGJhZC5jb20iLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2hhdCIsICJob3N0IjogInZpbjEuMGJhZC5jb20iLCAidGxzIjogInRscyJ9
 trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fschk.fscloud123456789.com:443?allowInsecure=1#%5BJP%5Dfschk.fscloud123456789.com%3A443%282e31a75e-ce52-4d2c-95e1-41c8acdbc80c%29
 trojan://3228a77c-c1c3-451f-9112-e6e766684558@fsctw.fscloud123456789.com:443?allowInsecure=1#%5BJP%5Dfsctw.fscloud123456789.com%3A443%283228a77c-c1c3-451f-9112-e6e766684558%29
-trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@vpnhat.stablize.top:443?allowInsecure=1#%5BSG%5Dvpnhat.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
+trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@vpnhat.stablize.top:443?allowInsecure=1#%5BHK%5Dvpnhat.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
 trojan://3228a77c-c1c3-451f-9112-e6e766684558@fschk.fscloud123456789.com:443?allowInsecure=1#%5BJP%5Dfschk.fscloud123456789.com%3A443%283228a77c-c1c3-451f-9112-e6e766684558%29
 trojan://7dc3a0b7-0930-42da-a6be-2a8623cdcfb4@fscjp.fscloud123456789.com:443?allowInsecure=1#%5BJP%5Dfscjp.fscloud123456789.com%3A443%287dc3a0b7-0930-42da-a6be-2a8623cdcfb4%29
 trojan://7a73f1dc97a70905870c0c0484b12145@trs19.bolab.net:443?allowInsecure=1#%5BJP%5Dtrs19.bolab.net%3A443%287a73f1dc97a70905870c0c0484b12145%29

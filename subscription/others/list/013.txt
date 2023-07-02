@@ -384,7 +384,7 @@ trojan://a22d2ebe-51a8-47ab-82fa-17dcfcd2f26b@jp1.downloadvip.cfd:443?allowInsec
 trojan://xxoo@138.197.5.103:443?allowInsecure=1&sni=dserver.adad.ir#%5BUS%5D138.197.5.103%3A443%28xxoo%29
 trojan://xxoo@138.124.183.216:443?allowInsecure=1#%5BUS%5D138.124.183.216%3A443%28xxoo%29
 trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@116.192.171.97:8443?allowInsecure=1#%5BCN%5D116.192.171.97%3A8443%285505f6ba-cd37-30ce-8f92-be4120c83d7f%29
-trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BSG%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
+trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BJP%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
 trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@official.taipeicitygovernment.kiev.ua:8443?allowInsecure=1&sni=up.video-learn.net#%5BCN%5Dofficial.taipeicitygovernment.kiev.ua%3A8443%285505f6ba-cd37-30ce-8f92-be4120c83d7f%29
 trojan://7a73f1dc97a70905870c0c0484b12145@trs19.bolab.net:443?allowInsecure=1&sni=trs19.bolab.net#%5BJP%5Dtrs19.bolab.net%3A443%287a73f1dc97a70905870c0c0484b12145%29
 trojan://20abfcfc-c717-4ac5-8642-a0979f595474@jp2.downloadvip.cfd:443?allowInsecure=1&sni=download.xn--mes358a9urctx.com#%5BJP%5Djp2.downloadvip.cfd%3A443%2820abfcfc-c717-4ac5-8642-a0979f595474%29
@@ -920,9 +920,9 @@ trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@pqawsjp01.gsjc.cfd:443?allowInsecu
 trojan://3daac969-5f2d-4ca4-b55f-1f109f443ae1@link5.kuaidog004.top:53422?allowInsecure=1&sni=link5.kuaidog004.top#%5BUS%5Dlink5.kuaidog004.top%3A53422%283daac969-5f2d-4ca4-b55f-1f109f443ae1%29
 trojan://3daac969-5f2d-4ca4-b55f-1f109f443ae1@link7.kuaidog004.top:53422?allowInsecure=1&sni=link7.kuaidog004.top#%5BCA%5Dlink7.kuaidog004.top%3A53422%283daac969-5f2d-4ca4-b55f-1f109f443ae1%29
 trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@pqawssg02.gsjc.cfd:443?allowInsecure=1#%5BSG%5Dpqawssg02.gsjc.cfd%3A443%2832068eda-adad-431a-bfd4-2f7d4c73507c%29
-trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%5BSG%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
+trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%5BJP%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
 trojan://567fc98e-f73c-3f00-b011-8e9cf6b873e8@tk-006.xiaoxiaobujidao.xyz:20001?allowInsecure=1&sni=tk-006.xiaoxiaobujidao.xyz#%5BJP%5Dtk-006.xiaoxiaobujidao.xyz%3A20001%28567fc98e-f73c-3f00-b011-8e9cf6b873e8%29
-trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ap.stablize.top:443?allowInsecure=1#%5BSG%5Dap.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
+trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ap.stablize.top:443?allowInsecure=1#%5BJP%5Dap.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
 trojan://11e247e5-136d-45f1-844a-a7f054d36bab@tempest-us.aikun.online:443?allowInsecure=1#%5BUS%5Dtempest-us.aikun.online%3A443%2811e247e5-136d-45f1-844a-a7f054d36bab%29
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE1Ni4yMjUuNjcuMTExOjQzMTI2KGI4ZGYzZWYxLTg4N2YtNGVlNC04NTVmLTRmODA0MTZjMjQ2NCkiLCAiYWRkIjogIjE1Ni4yMjUuNjcuMTExIiwgInBvcnQiOiAiNDMxMjYiLCAidHlwZSI6ICJub25lIiwgImlkIjogImI4ZGYzZWYxLTg4N2YtNGVlNC04NTVmLTRmODA0MTZjMjQ2NCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE1Ni4yMjUuNjcuMjIzOjQ4MDIxKGViZWMyYWRmLWU5NDAtNDQ2Zi1iZWQ0LWQ4YzkxMTQzYjU0YSkiLCAiYWRkIjogIjE1Ni4yMjUuNjcuMjIzIiwgInBvcnQiOiAiNDgwMjEiLCAidHlwZSI6ICJub25lIiwgImlkIjogImViZWMyYWRmLWU5NDAtNDQ2Zi1iZWQ0LWQ4YzkxMTQzYjU0YSIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
