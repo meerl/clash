@@ -204,7 +204,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NMT1VERkxBUkVdemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NMT1VERkxBUkVdemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0NDMoMzIwNjhlZGEtYWRhZC00MzFhLWJmZDQtMmY3ZDRjNzM1MDdjKSIsICJhZGQiOiAiemZjLndpbmRvd3N1cGRhdGUxLmNvbSIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMzIwNjhlZGEtYWRhZC00MzFhLWJmZDQtMmY3ZDRjNzM1MDdjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wcS9qcDM/ZWQ9MjA0OCIsICJob3N0IjogImpwMy5wcWpjLmJ1enoiLCAidGxzIjogInRscyJ9
 trojan://f89d1762-7627-4676-b4cf-e4de76ee3636@jp2.downloadvip.cfd:443?allowInsecure=1&sni=download.xn--mes358a9urctx.com#%5BJP%5Djp2.downloadvip.cfd%3A443%28f89d1762-7627-4676-b4cf-e4de76ee3636%29
 trojan://e958b47d-3510-445a-99cb-dc98d227e29e@183.240.221.73:38801?allowInsecure=1#%5BCN%5D183.240.221.73%3A38801%28e958b47d-3510-445a-99cb-dc98d227e29e%29
-trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@jp.stablize.top:443?allowInsecure=1#%5BHK%5Djp.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
+trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@jp.stablize.top:443?allowInsecure=1#%5BJP%5Djp.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
 trojan://telegram-id-privatevpns@35.180.203.72:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%5BFR%5D35.180.203.72%3A22222%28telegram-id-privatevpns%29
 trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@pq-hinet.gsjc.cfd:443?allowInsecure=1&sni=18-140-66-207.nhost.00cdn.com#%5BTW%5Dpq-hinet.gsjc.cfd%3A443%2832068eda-adad-431a-bfd4-2f7d4c73507c%29
 trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@pqawssg2.gsjc.cfd:443?allowInsecure=1&sni=18-140-66-207.nhost.00cdn.com#%5BSG%5Dpqawssg2.gsjc.cfd%3A443%2832068eda-adad-431a-bfd4-2f7d4c73507c%29
