@@ -837,7 +837,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NMT1VERkxBUkVdMTA0LjIwLjE2NC4zODo0NDMoMDJERDY3
 trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@pqawssg02.gsjc.cfd:443?allowInsecure=1#%5BSG%5Dpqawssg02.gsjc.cfd%3A443%2832068eda-adad-431a-bfd4-2f7d4c73507c%29
 trojan://567fc98e-f73c-3f00-b011-8e9cf6b873e8@tk-006.xiaoxiaobujidao.xyz:20001?allowInsecure=1&sni=tk-006.xiaoxiaobujidao.xyz#%5BJP%5Dtk-006.xiaoxiaobujidao.xyz%3A20001%28567fc98e-f73c-3f00-b011-8e9cf6b873e8%29
 trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ap.stablize.top:443?allowInsecure=1#%5BJP%5Dap.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
-trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%5BSG%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
+trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%5BJP%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
 trojan://07578f26-1009-4c31-8c4d-fc46f1eef55f@sgmax05.170203.xyz:443?allowInsecure=1#%5BSG%5Dsgmax05.170203.xyz%3A443%2807578f26-1009-4c31-8c4d-fc46f1eef55f%29
 trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@pqawsjp01.gsjc.cfd:443?allowInsecure=1#%5BSG%5Dpqawsjp01.gsjc.cfd%3A443%2832068eda-adad-431a-bfd4-2f7d4c73507c%29
 trojan://2a9abeb7-6f97-4d33-9069-f6e009d88455@13.212.30.63:443?allowInsecure=1&sni=18-140-66-207.nhost.00cdn.com#%5BSG%5D13.212.30.63%3A443%282a9abeb7-6f97-4d33-9069-f6e009d88455%29
