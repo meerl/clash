@@ -47,11 +47,11 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE3MS4yMi4xMzQuMjg6NTM0MzMoNDE4MDQ4YWYtYTI5
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTEzNy4xNzUuMTguODc6NDIwMDIoNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0KSIsICJhZGQiOiAiMTM3LjE3NS4xOC44NyIsICJwb3J0IjogIjQyMDAyIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvcm9vdC8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE5Mi43NC4yMjguMTcxOjQyODU3KDA1MWI4NDRmLWVmZTMtNDg0Ny05MmFhLTY2YjVkZTBiNmQ0ZSkiLCAiYWRkIjogIjE5Mi43NC4yMjguMTcxIiwgInBvcnQiOiAiNDI4NTciLCAidHlwZSI6ICJub25lIiwgImlkIjogIjA1MWI4NDRmLWVmZTMtNDg0Ny05MmFhLTY2YjVkZTBiNmQ0ZSIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi9yb290LyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTEwOC4xODYuMTE2LjE3Mjo1NTAwNSg0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQpIiwgImFkZCI6ICIxMDguMTg2LjExNi4xNzIiLCAicG9ydCI6ICI1NTAwNSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL3Jvb3QvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
-trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@tw02.trojanyyds.xyz:443?allowInsecure=1#%5BHK%5Dtw02.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
-trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@tw01.trojanyyds.xyz:443?allowInsecure=1#%5BHK%5Dtw01.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@tw02.trojanyyds.xyz:443?allowInsecure=1#%5BJP%5Dtw02.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@tw01.trojanyyds.xyz:443?allowInsecure=1#%5BJP%5Dtw01.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@hk03.trojanyyds.xyz:443?allowInsecure=1#%5BHK%5Dhk03.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
-trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@my01.trojanyyds.xyz:443?allowInsecure=1#%5BHK%5Dmy01.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
-trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@sk01.trojanyyds.xyz:443?allowInsecure=1#%5BHK%5Dsk01.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@my01.trojanyyds.xyz:443?allowInsecure=1#%5BJP%5Dmy01.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@sk01.trojanyyds.xyz:443?allowInsecure=1#%5BJP%5Dsk01.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
 trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?allowInsecure=1#%5BIN%5D152.70.74.66%3A443%28d906afe5-7c3c-4ddc-aaa4-61c154a82e5e%29
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@hk02.trojanyyds.xyz:443?allowInsecure=1#%5BHK%5Dhk02.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@134.195.196.149:7307#%5BCA%5D134.195.196.149%3A7307%28FoOiGlkAA9yPEGP%29
