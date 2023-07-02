@@ -368,7 +368,7 @@ trojan://794d739c-89a0-444c-b2e7-acce12af3042@43.206.152.124:443?allowInsecure=1
 trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@us.disnet.gq:443?allowInsecure=1#%5BUS%5Dus.disnet.gq%3A443%287c7e0edb-c45a-4c07-b66a-69b191179349%29
 trojan://e4726fb3-b5da-4959-97aa-4dc9efbd2be8@hk2.yihaobao.xyz:10022?allowInsecure=1#%5BHK%5Dhk2.yihaobao.xyz%3A10022%28e4726fb3-b5da-4959-97aa-4dc9efbd2be8%29
 trojan://7cca3a08-e664-4fb8-bf5c-b2da2774665a@163.123.192.60:443?allowInsecure=0&sni=download.xn--mes358aby2apfg.com#%5BUS%5D163.123.192.60%3A443%287cca3a08-e664-4fb8-bf5c-b2da2774665a%29
-trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BHK%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
+trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BJP%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
 trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@43.206.152.124:443?allowInsecure=1&sni=iran-tejarat.com#%5BJP%5D43.206.152.124%3A443%284aeda200-44c9-4168-8f2a-a00a72176d35%29
 trojan://xxoo@194.156.99.39:443?allowInsecure=1#%5BHK%5D194.156.99.39%3A443%28xxoo%29
 trojan://c32c56fb-64d9-33c4-b42a-af81b7a33fe7@hnm.xiaohouzi.club:23330?allowInsecure=1&sni=defapress.ir#%5BTW%5Dhnm.xiaohouzi.club%3A23330%28c32c56fb-64d9-33c4-b42a-af81b7a33fe7%29
@@ -889,13 +889,13 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW1NHXTEyOS4xNTAuNDQuMjUwOjgwKDkxMjMyMTY2LTk2OTUt
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTEwNy4xNjcuMjkuMjI4OjQ2MzIxKDQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCkiLCAiYWRkIjogIjEwNy4xNjcuMjkuMjI4IiwgInBvcnQiOiAiNDYzMjEiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi92MnJheSIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0lOXTE0MS4xNDguMTk5LjIwOjgwKDkxMjMyMTY2LTk2OTUtMzk0NS05Zjk1LTBhOWIwMjY5YjNiMSkiLCAiYWRkIjogIjE0MS4xNDguMTk5LjIwIiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjkxMjMyMTY2LTk2OTUtMzk0NS05Zjk1LTBhOWIwMjY5YjNiMSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdjJyYXkiLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 trojan://3daac969-5f2d-4ca4-b55f-1f109f443ae1@link5.kuaidog004.top:53422?allowInsecure=1&sni=link5.kuaidog004.top#%5BUS%5Dlink5.kuaidog004.top%3A53422%283daac969-5f2d-4ca4-b55f-1f109f443ae1%29
-trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ap.stablize.top:443?allowInsecure=1#%5BSG%5Dap.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
+trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ap.stablize.top:443?allowInsecure=1#%5BJP%5Dap.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
 trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@pqawsjp01.gsjc.cfd:443?allowInsecure=1#%5BSG%5Dpqawsjp01.gsjc.cfd%3A443%2832068eda-adad-431a-bfd4-2f7d4c73507c%29
 trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@pqawssg02.gsjc.cfd:443?allowInsecure=1#%5BSG%5Dpqawssg02.gsjc.cfd%3A443%2832068eda-adad-431a-bfd4-2f7d4c73507c%29
 trojan://3daac969-5f2d-4ca4-b55f-1f109f443ae1@link7.kuaidog004.top:53422?allowInsecure=1&sni=link7.kuaidog004.top#%5BCA%5Dlink7.kuaidog004.top%3A53422%283daac969-5f2d-4ca4-b55f-1f109f443ae1%29
 trojan://07578f26-1009-4c31-8c4d-fc46f1eef55f@sgmax05.170203.xyz:443?allowInsecure=1#%5BSG%5Dsgmax05.170203.xyz%3A443%2807578f26-1009-4c31-8c4d-fc46f1eef55f%29
 trojan://567fc98e-f73c-3f00-b011-8e9cf6b873e8@tk-006.xiaoxiaobujidao.xyz:20001?allowInsecure=1&sni=tk-006.xiaoxiaobujidao.xyz#%5BJP%5Dtk-006.xiaoxiaobujidao.xyz%3A20001%28567fc98e-f73c-3f00-b011-8e9cf6b873e8%29
-trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@jp.stablize.top:443?allowInsecure=1#%5BSG%5Djp.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
+trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@jp.stablize.top:443?allowInsecure=1#%5BJP%5Djp.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
 trojan://3daac969-5f2d-4ca4-b55f-1f109f443ae1@link6.kuaidog004.top:53422?allowInsecure=1&sni=link6.kuaidog004.top#%5BUS%5Dlink6.kuaidog004.top%3A53422%283daac969-5f2d-4ca4-b55f-1f109f443ae1%29
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE1Ni4yMjUuNjcuMTUxOjQ1MzE0KGE3ZmE4ZjE0LTRmYjYtNDI4MC05MDA1LWQ2YmJlOTljNWRhOSkiLCAiYWRkIjogIjE1Ni4yMjUuNjcuMTUxIiwgInBvcnQiOiAiNDUzMTQiLCAidHlwZSI6ICJub25lIiwgImlkIjogImE3ZmE4ZjE0LTRmYjYtNDI4MC05MDA1LWQ2YmJlOTljNWRhOSIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJsaW5rNi5rdWFpZG9nMDA0LnRvcCIsICJ0bHMiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE1Ni4yMjUuNjcuMTExOjQzMTI2KGI4ZGYzZWYxLTg4N2YtNGVlNC04NTVmLTRmODA0MTZjMjQ2NCkiLCAiYWRkIjogIjE1Ni4yMjUuNjcuMTExIiwgInBvcnQiOiAiNDMxMjYiLCAidHlwZSI6ICJub25lIiwgImlkIjogImI4ZGYzZWYxLTg4N2YtNGVlNC04NTVmLTRmODA0MTZjMjQ2NCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJsaW5rNi5rdWFpZG9nMDA0LnRvcCIsICJ0bHMiOiAiIn0=
