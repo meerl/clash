@@ -798,7 +798,7 @@ trojan://telegram-id-directvpn@3.88.109.2:22222?allowInsecure=1&sni=trj.rollingn
 trojan://d652b536-1787-46b8-b7aa-d44cd79524f8@link5.kuaidog004.top:53422?allowInsecure=1&sni=link5.kuaidog004.top#%5BUS%5Dlink5.kuaidog004.top%3A53422%28d652b536-1787-46b8-b7aa-d44cd79524f8%29
 trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?allowInsecure=1&sni=us3.trojanvh.xyz#%5BUS%5D135.148.148.4%3A80%28ee2bccd3-0f30-42d4-86d6-3d393ad230bd%29
 trojan://07578f26-1009-4c31-8c4d-fc46f1eef55f@sgmax05.170203.xyz:443?allowInsecure=1#%5BSG%5Dsgmax05.170203.xyz%3A443%2807578f26-1009-4c31-8c4d-fc46f1eef55f%29
-trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%5BHK%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
+trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%5BJP%5Djp.stablize.top%3A443%2840297165-0545-4f8f-abc4-3ee25e6cfb87%29
 trojan://11e247e5-136d-45f1-844a-a7f054d36bab@tempest-us.aikun.online:443?allowInsecure=1#%5BUS%5Dtempest-us.aikun.online%3A443%2811e247e5-136d-45f1-844a-a7f054d36bab%29
 trojan://567fc98e-f73c-3f00-b011-8e9cf6b873e8@tk-006.xiaoxiaobujidao.xyz:20001?allowInsecure=1&sni=tk-006.xiaoxiaobujidao.xyz#%5BJP%5Dtk-006.xiaoxiaobujidao.xyz%3A20001%28567fc98e-f73c-3f00-b011-8e9cf6b873e8%29
 trojan://d652b536-1787-46b8-b7aa-d44cd79524f8@link3.kuaidog004.top:53422?allowInsecure=1&sni=link3.kuaidog004.top#%5BSG%5Dlink3.kuaidog004.top%3A53422%28d652b536-1787-46b8-b7aa-d44cd79524f8%29
