@@ -127,9 +127,9 @@ trojan://46e2a138-3243-3699-ace6-67bda5233ad4@hz-cm.32jr.com:10298?allowInsecure
 trojan://363f868f-0374-46ab-a58e-ea108d06abe3@163.123.192.155:443?allowInsecure=1#%5BUS%5D163.123.192.155%3A443%28363f868f-0374-46ab-a58e-ea108d06abe3%29
 trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@pqawsjp1.gsjc.cfd:443?allowInsecure=1&sni=18-140-66-207.nhost.00cdn.com#%5BJP%5Dpqawsjp1.gsjc.cfd%3A443%2832068eda-adad-431a-bfd4-2f7d4c73507c%29
 trojan://7bc26a40-41a8-41e0-aded-c48f1429c929@103.173.255.234:443?allowInsecure=1#%5BVN%5D103.173.255.234%3A443%287bc26a40-41a8-41e0-aded-c48f1429c929%29
-trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@jp.stablize.top:443?allowInsecure=1#%5BJP%5Djp.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
+trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@jp.stablize.top:443?allowInsecure=1#%5BHK%5Djp.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
 trojan://7a73f1dc97a70905870c0c0484b12145@trs19.bolab.net:443?allowInsecure=1&sni=trs19.bolab.net#%5BJP%5Dtrs19.bolab.net%3A443%287a73f1dc97a70905870c0c0484b12145%29
-trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@vpnhat.stablize.top:443?allowInsecure=1#%5BJP%5Dvpnhat.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
+trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@vpnhat.stablize.top:443?allowInsecure=1#%5BHK%5Dvpnhat.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZjBHYWc1YlBTcERZd0xNYWhBZ3A4@138.124.183.93:27542#%5BUS%5D138.124.183.93%3A27542%283f0Gag5bPSpDYwLMahAgp8%29
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NOXTExMi4xMzIuMjE1LjE4OTo1MDAwMig0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQpIiwgImFkZCI6ICIxMTIuMTMyLjIxNS4xODkiLCAicG9ydCI6ICI1MDAwMiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NMT1VERkxBUkVdc2d0aXBwb3MuNzY4OTgxMDIueHl6OjIwNTIoMGU4ZjA4NjctODVhMC0zOWFmLWE1ZWItMzY4NWQyNmY4NDEzKSIsICJhZGQiOiAic2d0aXBwb3MuNzY4OTgxMDIueHl6IiwgInBvcnQiOiAiMjA1MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMGU4ZjA4NjctODVhMC0zOWFmLWE1ZWItMzY4NWQyNmY4NDEzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9taWFvIiwgImhvc3QiOiAic2d0aXBwb3MuNzY4OTgxMDIueHl6IiwgInRscyI6ICIifQ==
