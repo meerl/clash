@@ -17,7 +17,7 @@ trojan://ba356325-02ec-492b-b2d4-a1b8231cdcf2@gzyd02.jcnode.top:40001?allowInsec
 trojan://ba356325-02ec-492b-b2d4-a1b8231cdcf2@gzdx.jcnode.top:41002?allowInsecure=1&sni=jp001.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A41002%28ba356325-02ec-492b-b2d4-a1b8231cdcf2%29
 trojan://ba356325-02ec-492b-b2d4-a1b8231cdcf2@gzyd.jcnode.top:41002?allowInsecure=1&sni=jp001.ckcloud.info#%5BCN%5Dgzyd.jcnode.top%3A41002%28ba356325-02ec-492b-b2d4-a1b8231cdcf2%29
 trojan://ba356325-02ec-492b-b2d4-a1b8231cdcf2@gzyd02.jcnode.top:41002?allowInsecure=1&sni=jp001.ckcloud.info#%5BCN%5Dgzyd02.jcnode.top%3A41002%28ba356325-02ec-492b-b2d4-a1b8231cdcf2%29
-trojan://ba356325-02ec-492b-b2d4-a1b8231cdcf2@gzdx.jcnode.top:53201?allowInsecure=1&sni=jp02.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A53201%28ba356325-02ec-492b-b2d4-a1b8231cdcf2%29
+trojan://ba356325-02ec-492b-b2d4-a1b8231cdcf2@gzdx.jcnode.top:41003?allowInsecure=1&sni=jp02.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A41003%28ba356325-02ec-492b-b2d4-a1b8231cdcf2%29
 trojan://ba356325-02ec-492b-b2d4-a1b8231cdcf2@gzyd.jcnode.top:41003?allowInsecure=1&sni=jp02.ckcloud.info#%5BCN%5Dgzyd.jcnode.top%3A41003%28ba356325-02ec-492b-b2d4-a1b8231cdcf2%29
 trojan://ba356325-02ec-492b-b2d4-a1b8231cdcf2@gzdx.jcnode.top:42001?allowInsecure=1&sni=rctw01.ckcloud.info#%5BCN%5Dgzdx.jcnode.top%3A42001%28ba356325-02ec-492b-b2d4-a1b8231cdcf2%29
 trojan://ba356325-02ec-492b-b2d4-a1b8231cdcf2@gzyd.jcnode.top:42001?allowInsecure=1&sni=rctw01.ckcloud.info#%5BCN%5Dgzyd.jcnode.top%3A42001%28ba356325-02ec-492b-b2d4-a1b8231cdcf2%29
