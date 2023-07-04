@@ -307,7 +307,7 @@ trojan://xxoo@138.197.5.103:443?allowInsecure=1&sni=dserver.adad.ir#%5BUS%5D138.
 trojan://c32c56fb-64d9-33c4-b42a-af81b7a33fe7@36.228.224.160:23330?allowInsecure=1#%5BTW%5D36.228.224.160%3A23330%28c32c56fb-64d9-33c4-b42a-af81b7a33fe7%29
 trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@us.disnet.gq:443?allowInsecure=1#%5BUS%5Dus.disnet.gq%3A443%287c7e0edb-c45a-4c07-b66a-69b191179349%29
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170.187.134.190:8443?allowInsecure=1#%5BUS%5D170.187.134.190%3A8443%28cf4295378e209e70d12c5bdd017144dfd1c772d3%29
-trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BHK%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
+trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BSG%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
 trojan://5f9a5d8c-a57b-4da6-baff-490fe4cf8d60@sg5.cnamazon.sbs:443?allowInsecure=1&sni=adtube.ir#%5BSG%5Dsg5.cnamazon.sbs%3A443%285f9a5d8c-a57b-4da6-baff-490fe4cf8d60%29
 trojan://Hu4CFM0wJ3@38.150.13.140:57063?allowInsecure=1#%5BHK%5D38.150.13.140%3A57063%28Hu4CFM0wJ3%29
 trojan://c32c56fb-64d9-33c4-b42a-af81b7a33fe7@hnm.xiaohouzi.club:23330?allowInsecure=1&sni=defapress.ir#%5BTW%5Dhnm.xiaohouzi.club%3A23330%28c32c56fb-64d9-33c4-b42a-af81b7a33fe7%29
