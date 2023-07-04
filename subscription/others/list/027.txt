@@ -14,7 +14,7 @@ trojan://f5075d6e-c65b-4133-b4fa-301ce5ba1fa9@hk2.gsjc.cfd:443?allowInsecure=1#%
 trojan://92d1ed85-97f8-4821-887b-0d1b8b367cf8@pqawsjp01.gsjc.cfd:443?allowInsecure=1&sni=18-140-66-207.nhost.00cdn.com#%5BSG%5Dpqawsjp01.gsjc.cfd%3A443%2892d1ed85-97f8-4821-887b-0d1b8b367cf8%29
 trojan://uXmbGOZzk2@38.54.82.12:433?allowInsecure=1#%5BTH%5D38.54.82.12%3A433%28uXmbGOZzk2%29
 trojan://m8krTirthj@216.52.59.50:20458?allowInsecure=1#%5BUS%5D216.52.59.50%3A20458%28m8krTirthj%29
-trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@jp.stablize.top:443?allowInsecure=1#%5BSG%5Djp.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
+trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@jp.stablize.top:443?allowInsecure=1#%5BJP%5Djp.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
 trojan://718c4ef4-9f65-496c-9547-f27e4226c4f5@hk1.downloadvip.cfd:443?allowInsecure=1&sni=diudyasj0hdiu8wh6wddhdiu8wh6wdd7b5sjiuads8oi6diudyasj0hdiu8wh6wdd7b5sjiuads8oi6diudyasj0hdiu8wh6wdd7b5sjiuads8oi6diudyasj0hdiu8wh6wdd7b5sj.xn--mes358acgm99l.com#%5BJP%5Dhk1.downloadvip.cfd%3A443%28718c4ef4-9f65-496c-9547-f27e4226c4f5%29
 trojan://718c4ef4-9f65-496c-9547-f27e4226c4f5@azjp1.downloadvip.cfd:443?allowInsecure=1&sni=us1.xn--mes358acgm99l.com#%5BJP%5Dazjp1.downloadvip.cfd%3A443%28718c4ef4-9f65-496c-9547-f27e4226c4f5%29
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE0Mi4wLjEzMi45Mjo1NTUwMig0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQpIiwgImFkZCI6ICIxNDIuMC4xMzIuOTIiLCAicG9ydCI6ICI1NTUwMiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInVzMS54bi0tbWVzMzU4YWNnbTk5bC5jb20iLCAidGxzIjogIiJ9
