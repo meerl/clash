@@ -327,7 +327,7 @@ trojan://718c4ef4-9f65-496c-9547-f27e4226c4f5@hk1.downloadvip.cfd:443?allowInsec
 trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@us.disnet.gq:443?allowInsecure=1#%5BUS%5Dus.disnet.gq%3A443%287c7e0edb-c45a-4c07-b66a-69b191179349%29
 trojan://uXmbGOZzk2@38.54.82.12:433?allowInsecure=1#%5BTH%5D38.54.82.12%3A433%28uXmbGOZzk2%29
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170.187.134.190:8443?allowInsecure=1#%5BUS%5D170.187.134.190%3A8443%28cf4295378e209e70d12c5bdd017144dfd1c772d3%29
-trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BJP%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
+trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BHK%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
 trojan://5f9a5d8c-a57b-4da6-baff-490fe4cf8d60@sg5.cnamazon.sbs:443?allowInsecure=1&sni=adtube.ir#%5BSG%5Dsg5.cnamazon.sbs%3A443%285f9a5d8c-a57b-4da6-baff-490fe4cf8d60%29
 trojan://c32c56fb-64d9-33c4-b42a-af81b7a33fe7@hnm.xiaohouzi.club:23330?allowInsecure=1&sni=defapress.ir#%5BTW%5Dhnm.xiaohouzi.club%3A23330%28c32c56fb-64d9-33c4-b42a-af81b7a33fe7%29
 trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@192.9.130.66:443?allowInsecure=1&sni=androidads.ir#%5BUS%5D192.9.130.66%3A443%287c7e0edb-c45a-4c07-b66a-69b191179349%29
