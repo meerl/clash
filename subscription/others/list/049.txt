@@ -67,12 +67,12 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE3Mi4yNDcuNjcuNDU6NTAwMzUoMjI3OGVmZTQtYWQw
 trojan://7864a4da-bfaf-4eea-bc1d-b7c829483df1@sg.stablize.top:443?allowInsecure=1#%5BJP%5Dsg.stablize.top%3A443%287864a4da-bfaf-4eea-bc1d-b7c829483df1%29
 trojan://44c4652b-f56a-45a8-b43b-d9eb83d826bf@fscjp.fscloud123456789.com:443?allowInsecure=1#%5BJP%5Dfscjp.fscloud123456789.com%3A443%2844c4652b-f56a-45a8-b43b-d9eb83d826bf%29
 trojan://a1956156-b1d6-468e-b22f-59765172b07d@hinet.mjt001.com:443?allowInsecure=1#%5BSG%5Dhinet.mjt001.com%3A443%28a1956156-b1d6-468e-b22f-59765172b07d%29
-trojan://a2dc16a1-b60e-4e40-860e-4f8a560795ca@sg.stablize.top:443?allowInsecure=1#%5BJP%5Dsg.stablize.top%3A443%28a2dc16a1-b60e-4e40-860e-4f8a560795ca%29
-trojan://90a0fed1-c27c-4eab-95d6-12f038ced5ab@jp.stablize.top:443?allowInsecure=1#%5BSG%5Djp.stablize.top%3A443%2890a0fed1-c27c-4eab-95d6-12f038ced5ab%29
+trojan://a2dc16a1-b60e-4e40-860e-4f8a560795ca@sg.stablize.top:443?allowInsecure=1#%5BHK%5Dsg.stablize.top%3A443%28a2dc16a1-b60e-4e40-860e-4f8a560795ca%29
+trojan://90a0fed1-c27c-4eab-95d6-12f038ced5ab@jp.stablize.top:443?allowInsecure=1#%5BHK%5Djp.stablize.top%3A443%2890a0fed1-c27c-4eab-95d6-12f038ced5ab%29
 trojan://28565434-2bd0-4418-a8b6-de1c7e4fbdee@ap.stablize.top:443?allowInsecure=1#%5BJP%5Dap.stablize.top%3A443%2828565434-2bd0-4418-a8b6-de1c7e4fbdee%29
-trojan://e81c0cf0-d4f4-402e-81ee-4eb19a832ffa@usa.stablize.top:443?allowInsecure=1#%5BJP%5Dusa.stablize.top%3A443%28e81c0cf0-d4f4-402e-81ee-4eb19a832ffa%29
+trojan://e81c0cf0-d4f4-402e-81ee-4eb19a832ffa@usa.stablize.top:443?allowInsecure=1#%5BHK%5Dusa.stablize.top%3A443%28e81c0cf0-d4f4-402e-81ee-4eb19a832ffa%29
 trojan://a95c1047-189c-4b26-8a54-8580f455827c@usa.stablize.top:443?allowInsecure=1#%5BHK%5Dusa.stablize.top%3A443%28a95c1047-189c-4b26-8a54-8580f455827c%29
-trojan://27509bd6-5096-4790-9eba-2c793cca7a8d@ap.stablize.top:443?allowInsecure=1#%5BJP%5Dap.stablize.top%3A443%2827509bd6-5096-4790-9eba-2c793cca7a8d%29
+trojan://27509bd6-5096-4790-9eba-2c793cca7a8d@ap.stablize.top:443?allowInsecure=1#%5BHK%5Dap.stablize.top%3A443%2827509bd6-5096-4790-9eba-2c793cca7a8d%29
 trojan://1113a9fa-c6ee-4929-ae93-d29d024b1728@163.123.192.153:443?allowInsecure=1#%5BUS%5D163.123.192.153%3A443%281113a9fa-c6ee-4929-ae93-d29d024b1728%29
 trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@163.123.192.59:443?allowInsecure=1#%5BUS%5D163.123.192.59%3A443%2841bec492-cd79-4b57-9a15-7d2bb00fcfca%29
 trojan://1113a9fa-c6ee-4929-ae93-d29d024b1728@163.123.192.155:443?allowInsecure=1#%5BUS%5D163.123.192.155%3A443%281113a9fa-c6ee-4929-ae93-d29d024b1728%29
