@@ -7,7 +7,7 @@ ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.5:443#%5BPRIVATE%5D127.0.0.5%3A443
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.6:443#%5BPRIVATE%5D127.0.0.6%3A443%286601fb90e9b3%29
 trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@pqawszf.aiopen.cfd:443?allowInsecure=0&sni=us1.pqjc.site#%5BSG%5Dpqawszf.aiopen.cfd%3A443%287ad2a5e0-906b-4b3e-97bb-b5f3992cb19d%29
 trojan://c32c56fb-64d9-33c4-b42a-af81b7a33fe7@hnm.xiaohouzi.club:23330?allowInsecure=0#%5BTW%5Dhnm.xiaohouzi.club%3A23330%28c32c56fb-64d9-33c4-b42a-af81b7a33fe7%29
-trojan://4565bf4a-951a-4981-9b60-4b1a496c9cbc@aujs.stablize.top:443?allowInsecure=0#%5BJP%5Daujs.stablize.top%3A443%284565bf4a-951a-4981-9b60-4b1a496c9cbc%29
+trojan://4565bf4a-951a-4981-9b60-4b1a496c9cbc@aujs.stablize.top:443?allowInsecure=0#%5BSG%5Daujs.stablize.top%3A443%284565bf4a-951a-4981-9b60-4b1a496c9cbc%29
 trojan://c32c56fb-64d9-33c4-b42a-af81b7a33fe7@hnm.xiaohouzi.club:23330?allowInsecure=0&sni=hnm.xiaohouzi.club#%5BTW%5Dhnm.xiaohouzi.club%3A23330%28c32c56fb-64d9-33c4-b42a-af81b7a33fe7%29
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@167.160.90.253:25511#%5BUS%5D167.160.90.253%3A25511%28dongtaiwang.com%29
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NMT1VERkxBUkVdY2ZjZG4uc2FuZmVuY2RuLm5ldDo0NDMoZjExNGU2ZDktMGNkYS00ZmU4LWI3NjktM2JjZWIzYmNhNDUzKSIsICJhZGQiOiAiY2ZjZG4uc2FuZmVuY2RuLm5ldCIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZjExNGU2ZDktMGNkYS00ZmU4LWI3NjktM2JjZWIzYmNhNDUzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi96aC1jbiIsICJob3N0IjogInVzNC5zYW5mZW5jZG4xLmNvbSIsICJ0bHMiOiAidGxzIn0=
