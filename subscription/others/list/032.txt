@@ -20,7 +20,7 @@ trojan://3228a77c-c1c3-451f-9112-e6e766684558@fschk.fscloud123456789.com:443?all
 trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fschk.fscloud123456789.com:443?allowInsecure=1#%5BJP%5Dfschk.fscloud123456789.com%3A443%282e31a75e-ce52-4d2c-95e1-41c8acdbc80c%29
 trojan://3228a77c-c1c3-451f-9112-e6e766684558@fsctw.fscloud123456789.com:443?allowInsecure=1#%5BJP%5Dfsctw.fscloud123456789.com%3A443%283228a77c-c1c3-451f-9112-e6e766684558%29
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@jp2.twincloud.xyz:443?allowInsecure=1#%5BJP%5Djp2.twincloud.xyz%3A443%286455f944-7c07-4ab0-b88f-440e581f41d9%29
-trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@vpnhat.stablize.top:443?allowInsecure=1#%5BJP%5Dvpnhat.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
+trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@vpnhat.stablize.top:443?allowInsecure=1#%5BHK%5Dvpnhat.stablize.top%3A443%284d23cf0e-5ceb-43e7-90d3-63982bfa6940%29
 trojan://7dc3a0b7-0930-42da-a6be-2a8623cdcfb4@fscjp.fscloud123456789.com:443?allowInsecure=1#%5BJP%5Dfscjp.fscloud123456789.com%3A443%287dc3a0b7-0930-42da-a6be-2a8623cdcfb4%29
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.200.255.57:443#%5BKR%5D43.200.255.57%3A443%28amazonskr05%29
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@kr2.twincloud.xyz:443?allowInsecure=1#%5BKR%5Dkr2.twincloud.xyz%3A443%286455f944-7c07-4ab0-b88f-440e581f41d9%29
