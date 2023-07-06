@@ -66,7 +66,7 @@
     "id": 9,
     "remarks": "Leon406/SubCrawler",
     "site": "https://github.com/Leon406/SubCrawler",
-    "url": "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all2",
+    "url": "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all2|https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/vless",
     "enabled": true
   },
   {
@@ -232,9 +232,9 @@
   },
   {
     "id": 33,
-    "remarks": "LalatinaHub/Mineral",
-    "site": "https://github.com/LalatinaHub/Mineral",
-    "url": "https://raw.githubusercontent.com/LalatinaHub/Mineral/master/result/nodes",
+    "remarks": "sub.sharecentre.online",
+    "site": "https://sub.sharecentre.online",
+    "url": "https://sub.sharecentre.online/sub&flag=clash",
     "enabled": true
   },
   {
@@ -277,7 +277,7 @@
     "remarks": "101.64.235.179:8443",
     "site": "https://101.64.235.179:8443",
     "url": "https://101.64.235.179:8443/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 40,
@@ -304,7 +304,7 @@
     "id": 43,
     "remarks": "Fukki-Z/nodefree",
     "site": "https://github.com/Fukki-Z/nodefree",
-    "url": "https://nodefree.org/dy/2023/07/20230706.txt",
+    "url": "https://nodefree.org/dy/2023/07/20230706.yaml",
     "enabled": true
   },
   {
@@ -347,7 +347,7 @@
     "remarks": "138.2.120.174:12580",
     "site": "http://138.2.120.174:12580",
     "url": "http://138.2.120.174:12580/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 50,
@@ -381,7 +381,7 @@
     "id": 54,
     "remarks": "RenaLio/Mux2sub",
     "site": "https://github.com/RenaLio/Mux2sub",
-    "url": "https://getafreenode.com/subscribe/?uuid=2F094845-E2BD-EBF7-DEB7-995992436FAF|https://www.ckcloud.xyz/api/v1/client/subscribe?token=7fb4f130118fd7650bf3c2ebde7dacd7|https://fastestcloud.xyz/api/v1/client/subscribe?token=176131b26cdce31985b036b6d70988ce|https://feiniaoyun.xyz/api/v1/client/subscribe?token=878ec4df96905913628b74dea00ea0f2|https://www.ckcloud.xyz/api/v1/client/subscribe?token=f60f8c99ce504495cb065060c3b136d3|https://feiniaoyun.xyz/api/v1/client/subscribe?token=5206f9eaaebc067d983edc4ed9cc70fc|https://www.ckcloud.xyz/api/v1/client/subscribe?token=2e84cdd164f809b3c0c14bd49296f90b|https://fastestcloud.xyz/api/v1/client/subscribe?token=b77850314beea7359c1a1e658ca66dc4|https://feiniaoyun.xyz/api/v1/client/subscribe?token=b61a4284d277d572dfe4516790eb30a3|https://feiniaoyun.xyz/api/v1/client/subscribe?token=85a2ae730a6da83b67b5de4ea7df13bb|https://www.jafiyun2023.shop/link/BIQhtsqAjwdwzvxI?clash=1|https://lting.cyou/link/iY1gx0HC75tUEwqm?clash=1|https://service-o5lxqvaa-1300544878.gz.apigw.tencentcs.com/link/Ila1wnAlc2sTYc1G?sub=3|https://cdn-01.example.help.cn.faster.aliyuncdn.life/link/phGKxNB4mj8X8RnP?clash=1|https://cdn-01.example.help.cn.faster.aliyuncdn.life/link/AsJT9Qq7ki6VHrUT?clash=1|https://dy.xiaozhupeiqix.com/link/HBdK4tdu7fbMJdN6?clash=1|http://subs.202218.xyz/link/Aqxq90kRXap1AsuR?clash=1|https://www.jafiyun2023.shop/link/M16qUMGvi1ik4Qig?clash=1|https://lting.cyou/link/rBm3yCYBea9LkBNy?clash=1|https://service-o5lxqvaa-1300544878.gz.apigw.tencentcs.com/link/8mxuoV1U3WtD0SJG?sub=3|https://cdn-01.example.help.cn.faster.aliyuncdn.life/link/y3zzPwQt0cs2YGWr?clash=1|https://cdn-01.example.help.cn.faster.aliyuncdn.life/link/oXsn7ORtjBrY164x?clash=1|https://dy.xiaozhupeiqix.com/link/yxuGgwB8vKELw97n?clash=1|http://subs.202218.xyz/link/1SESQAkY6ufl75XL?clash=1",
+    "url": "https://getafreenode.com/subscribe/?uuid=2F094845-E2BD-EBF7-DEB7-995992436FAF|https://www.ckcloud.xyz/api/v1/client/subscribe?token=b267e52c54f0c9e585ff7adf90a2c1f9|https://fastestcloud.xyz/api/v1/client/subscribe?token=1e1cb2278f8b3fbbdd11e179f0e62993|https://feiniaoyun.xyz/api/v1/client/subscribe?token=eef5f7368ccc8d8066b4a956ebb7f021|https://www.ckcloud.xyz/api/v1/client/subscribe?token=602d5e8ad270477bdcf11763140e34a7|https://feiniaoyun.xyz/api/v1/client/subscribe?token=469b48626b36522918612c246a1eb835|https://www.ckcloud.xyz/api/v1/client/subscribe?token=e92eac80985f17a1c9b3d226c3df92eb|https://feiniaoyun.xyz/api/v1/client/subscribe?token=a1a94cc317ee50d6faf7c7bce2f59fe1|https://www.ckcloud.xyz/api/v1/client/subscribe?token=c20278881e2de74acf695a27ff3e8fb6|https://fastestcloud.xyz/api/v1/client/subscribe?token=aec90ea155868ecb94b76221603d4ce1|https://feiniaoyun.xyz/api/v1/client/subscribe?token=113afc3623d1694e82a3373588fb268f|https://www.jafiyun2023.shop/link/e5lScHkN09nOBuCE?clash=1|https://lting.cyou/link/llsi1CgZYO4X6Ba6?clash=1|https://service-o5lxqvaa-1300544878.gz.apigw.tencentcs.com/link/GAPVzpuI6levqWI4?sub=3|https://cdn-01.example.help.cn.faster.aliyuncdn.life/link/BCBsxuJlRQoCm7e3?clash=1|https://cdn-01.example.help.cn.faster.aliyuncdn.life/link/NQlnCQakMkLa4S9i?clash=1|http://subs.202218.xyz/link/M1UqfHFJAoCaI5YB?clash=1|https://www.jafiyun2023.shop/link/ZZFaWz8Zo3rpp3gQ?clash=1|https://lting.cyou/link/KyTurJBw6VHnBIxv?clash=1|https://service-o5lxqvaa-1300544878.gz.apigw.tencentcs.com/link/cSWBuq7VA0ao5wqI?sub=3|https://cdn-01.example.help.cn.faster.aliyuncdn.life/link/T9W1IwATlV63MaZF?clash=1|https://cdn-01.example.help.cn.faster.aliyuncdn.life/link/6qZZrivysJ8ho57R?clash=1|http://subs.202218.xyz/link/Wrid3xcxjwSglq1u?clash=1",
     "enabled": true
   },
   {
@@ -465,21 +465,21 @@
     "id": 66,
     "remarks": "oneclash.cc",
     "site": "https://oneclash.cc",
-    "url": "https://oneclash.cc/wp-content/uploads/2023/07/20230706.txt",
+    "url": "https://oneclash.cc/wp-content/uploads/2023/07/20230706.yaml",
     "enabled": true
   },
   {
     "id": 67,
-    "remarks": "47.87.191.86:8082",
-    "site": "http://47.87.191.86:8082",
-    "url": "http://47.87.191.86:8082/clash/proxies",
+    "remarks": "Kenny-Bob/DIANDIAN",
+    "site": "https://github.com/Kenny-Bob/DIANDIAN",
+    "url": "https://raw.githubusercontent.com/Kenny-Bob/DIANDIAN/main/point",
     "enabled": true
   },
   {
     "id": 68,
     "remarks": "wefound.cc",
     "site": "https://wefound.cc",
-    "url": "https://wefound.cc/freenode/2023/07/20230706.txt",
+    "url": "https://wefound.cc/freenode/2023/07/20230706.yaml",
     "enabled": true
   },
   {
@@ -550,7 +550,7 @@
     "remarks": "47.87.191.86",
     "site": "http://47.87.191.86:8082",
     "url": "http://47.87.191.86:8082/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 79,
@@ -655,7 +655,7 @@
     "remarks": "mlabalabala/v2ray-node",
     "site": "https://github.com/mlabalabala/v2ray-node",
     "url": "https://raw.githubusercontent.com/mlabalabala/v2ray-node/main/nodefree4clash.txt",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 94,
@@ -690,7 +690,7 @@
     "remarks": "101.64.235.179",
     "site": "https://101.64.235.179:8443",
     "url": "https://101.64.235.179:8443/clash/proxies",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 99,
@@ -743,9 +743,9 @@
   },
   {
     "id": 106,
-    "remarks": "a2470982985/getNode",
-    "site": "http://github.com/a2470982985/getNode",
-    "url": "https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt",
+    "remarks": "Flik6/getNode",
+    "site": "http://github.com/Flik6/getNode",
+    "url": "https://raw.githubusercontent.com/Flik6/getNode/main/v2ray.txt",
     "enabled": true
   },
   {
@@ -809,6 +809,13 @@
     "remarks": "tony0392/clash",
     "site": "https://github.com/tony0392/clash",
     "url": "https://raw.githubusercontent.com/tony0392/clash/main/clash.yaml",
+    "enabled": true
+  },
+  {
+    "id": 116,
+    "remarks": "123.lcq25938.top:9080",
+    "site": "http://123.lcq25938.top:9080",
+    "url": "http://123.lcq25938.top:9080/clash/proxies",
     "enabled": true
   }
 ]
