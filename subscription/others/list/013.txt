@@ -252,7 +252,7 @@ trojan://7fb75604-9656-4c30-8662-6533c580e794@fscsg.fscloud123456789.com:443?all
 trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@official.taipeicitygovernment.kiev.ua:8443?allowInsecure=1&sni=up.video-learn.net#%5BCN%5Dofficial.taipeicitygovernment.kiev.ua%3A8443%285505f6ba-cd37-30ce-8f92-be4120c83d7f%29
 trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@us.disnet.gq:443?allowInsecure=1#%5BUS%5Dus.disnet.gq%3A443%287c7e0edb-c45a-4c07-b66a-69b191179349%29
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170.187.134.190:8443?allowInsecure=1#%5BUS%5D170.187.134.190%3A8443%28cf4295378e209e70d12c5bdd017144dfd1c772d3%29
-trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BSG%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
+trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@ap.stablize.top:443?allowInsecure=1#%5BJP%5Dap.stablize.top%3A443%281e8db890-68da-4dff-8a16-ded8fabcb3c3%29
 trojan://5f9a5d8c-a57b-4da6-baff-490fe4cf8d60@sg5.cnamazon.sbs:443?allowInsecure=1&sni=adtube.ir#%5BSG%5Dsg5.cnamazon.sbs%3A443%285f9a5d8c-a57b-4da6-baff-490fe4cf8d60%29
 trojan://Hu4CFM0wJ3@38.150.13.140:57063?allowInsecure=1#%5BHK%5D38.150.13.140%3A57063%28Hu4CFM0wJ3%29
 trojan://718c4ef4-9f65-496c-9547-f27e4226c4f5@azjp1.downloadvip.cfd:443?allowInsecure=1&sni=us1.xn--mes358acgm99l.com#%5BJP%5Dazjp1.downloadvip.cfd%3A443%28718c4ef4-9f65-496c-9547-f27e4226c4f5%29
@@ -598,7 +598,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE0MC45OS43Ny4yNzo1MDMzMig0MTgwNDhhZi1hMjkz
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE0MC45OS41OS4yMjc6NTU1MTIoNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0KSIsICJhZGQiOiAiMTQwLjk5LjU5LjIyNyIsICJwb3J0IjogIjU1NTEyIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvMjA4NjEiLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW1VTXTE0MC45OS43Ny4xMjo1NDc3NCg0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQpIiwgImFkZCI6ICIxNDAuOTkuNzcuMTIiLCAicG9ydCI6ICI1NDc3NCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLzIwODYxIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
 trojan://5f9a5d8c-a57b-4da6-baff-490fe4cf8d60@13.215.203.101:443?allowInsecure=1&sni=telewebion.com#%5BSG%5D13.215.203.101%3A443%285f9a5d8c-a57b-4da6-baff-490fe4cf8d60%29
-trojan://4565bf4a-951a-4981-9b60-4b1a496c9cbc@aujs.stablize.top:443?allowInsecure=1#%5BHK%5Daujs.stablize.top%3A443%284565bf4a-951a-4981-9b60-4b1a496c9cbc%29
+trojan://4565bf4a-951a-4981-9b60-4b1a496c9cbc@aujs.stablize.top:443?allowInsecure=1#%5BSG%5Daujs.stablize.top%3A443%284565bf4a-951a-4981-9b60-4b1a496c9cbc%29
 trojan://AJCBkjTy9v@65.108.27.218:32950?allowInsecure=1#%5BFI%5D65.108.27.218%3A32950%28AJCBkjTy9v%29
 trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?allowInsecure=1&sni=us3.trojanvh.xyz#%5BUS%5D135.148.148.4%3A80%28ee2bccd3-0f30-42d4-86d6-3d393ad230bd%29
 trojan://AJCBkjTy9v@tr.mellivmess.com:32950?allowInsecure=1#%5BDE%5Dtr.mellivmess.com%3A32950%28AJCBkjTy9v%29
