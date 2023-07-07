@@ -1,7 +1,7 @@
 trojan://7a73f1dc97a70905870c0c0484b12145@trs22.bolab.net:443?allowInsecure=0#%5BJP%5Dtrs22.bolab.net%3A443%287a73f1dc97a70905870c0c0484b12145%29
 trojan://z3NtLA8ocb@ccarm.wasanbi.tk:58678?allowInsecure=0#%5BKR%5Dccarm.wasanbi.tk%3A58678%28z3NtLA8ocb%29
 trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp14-data.amazon-azure.com:443?allowInsecure=0&sni=data.amazon-azure.com#%5BJP%5Dawsjp14-data.amazon-azure.com%3A443%28794d739c-89a0-444c-b2e7-acce12af3042%29
-trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@pqawszf.aiopen.cfd:443?allowInsecure=0&sni=us2.pqjc.site#%5BSG%5Dpqawszf.aiopen.cfd%3A443%287ad2a5e0-906b-4b3e-97bb-b5f3992cb19d%29
+trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@pqawszf.aiopen.cfd:443?allowInsecure=0&sni=us2.pqjc.site#%5BJP%5Dpqawszf.aiopen.cfd%3A443%287ad2a5e0-906b-4b3e-97bb-b5f3992cb19d%29
 trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@192.9.130.66:443?allowInsecure=0&sni=us.disnet.gq#%5BUS%5D192.9.130.66%3A443%287c7e0edb-c45a-4c07-b66a-69b191179349%29
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@158.51.121.154:2376#%5BCA%5D158.51.121.154%3A2376%28faBAoD54k87UJG7%29
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@145.239.1.100:5003#%5BDE%5D145.239.1.100%3A5003%28g5MeD6Ft3CWlJId%29
