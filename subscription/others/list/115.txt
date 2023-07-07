@@ -1,4 +1,4 @@
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@167.160.90.253:25511#%5BUS%5D167.160.90.253%3A25511%28dongtaiwang.com%29
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@104.166.124.184:11111#%5BUS%5D104.166.124.184%3A11111%28dongtaiwang.com%29
 ssr://dDMuZnJlZWdyYWRlbHkueHl6OjExMTIyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9ncm91cD1VMU5TVUhKdmRtbGtaWEkmcmVtYXJrcz1XMVZUWFhRekxtWnlaV1ZuY21Ga1pXeDVMbmg1ZWpveE1URXlNaWhrYjI1bmRHRnBkMkZ1Wnk1amIyMHAmb2Jmc3BhcmFtPSZwcm90b3BhcmFtPQ==
 trojan://a48ef049-f572-4345-b75a-7b85ff83296c@hk2.downloadvip.cfd:443?allowInsecure=1&sni=download.xn--mes358a9urctx.com#%5BJP%5Dhk2.downloadvip.cfd%3A443%28a48ef049-f572-4345-b75a-7b85ff83296c%29
 trojan://f89d1762-7627-4676-b4cf-e4de76ee3636@jp2.downloadvip.cfd:443?allowInsecure=1&sni=download.xn--mes358a9urctx.com#%5BJP%5Djp2.downloadvip.cfd%3A443%28f89d1762-7627-4676-b4cf-e4de76ee3636%29
@@ -16,6 +16,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW0tSXTBreGVkbTF4OHE4bGtzbWowNS54aW5nYmF5dW4uYnV6
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.35.230.64:443#%5BKR%5D3.35.230.64%3A443%28amazonskr05%29
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.200.1.53:443#%5BKR%5D43.200.1.53%3A443%28amazonskr05%29
 trojan://49570603-a6a7-4e16-bcb7-7d534b4fbee7@kr2.jb7ueoq73.xyz:10021?allowInsecure=1&sni=kr2.jb7ueoq73.xyz#%5BKR%5Dkr2.jb7ueoq73.xyz%3A10021%2849570603-a6a7-4e16-bcb7-7d534b4fbee7%29
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.63.143:443#%5BKR%5D43.202.63.143%3A443%28amazonskr05%29
 ssr://c2ctYW0zLmVxc3Vuc2hpbmUuY29tOjMyMDAxOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6TTJjd1pFaHNTMDFGLz9ncm91cD1VMU5TVUhKdmRtbGtaWEkmcmVtYXJrcz1XMU5IWFhObkxXRnRNeTVsY1hOMWJuTm9hVzVsTG1OdmJUb3pNakF3TVNnelp6QmtTR3hMVFVVcCZvYmZzcGFyYW09JnByb3RvcGFyYW09
 trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@pqawssg01.gsjc.cfd:443?allowInsecure=1&sni=18-140-66-207.nhost.00cdn.com#%5BSG%5Dpqawssg01.gsjc.cfd%3A443%2832068eda-adad-431a-bfd4-2f7d4c73507c%29
 trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@pqawssg2.gsjc.cfd:443?allowInsecure=1&sni=18-140-66-207.nhost.00cdn.com#%5BSG%5Dpqawssg2.gsjc.cfd%3A443%2832068eda-adad-431a-bfd4-2f7d4c73507c%29
@@ -25,13 +26,15 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.221.196.233:443#%5BSG%5D52.221.196.233%3
 trojan://bce72830-6561-4af6-a2c4-052fccb94595@hk1.gsjc.cfd:443?allowInsecure=1#%5BSG%5Dhk1.gsjc.cfd%3A443%28bce72830-6561-4af6-a2c4-052fccb94595%29
 trojan://718c4ef4-9f65-496c-9547-f27e4226c4f5@sg1.downloadvip.cfd:443?allowInsecure=1&sni=jssg1.xn--mes358acgm99l.com#%5BSG%5Dsg1.downloadvip.cfd%3A443%28718c4ef4-9f65-496c-9547-f27e4226c4f5%29
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.229.98.23:443#%5BSG%5D13.229.98.23%3A443%28amazonskr05%29
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.151.140.88:443#%5BSG%5D54.151.140.88%3A443%28amazonskr05%29
 trojan://f89d1762-7627-4676-b4cf-e4de76ee3636@hinet2.downloadvip.cfd:443?allowInsecure=1&sni=download.xn--mes358a9urctx.com#%5BTW%5Dhinet2.downloadvip.cfd%3A443%28f89d1762-7627-4676-b4cf-e4de76ee3636%29
 trojan://bce72830-6561-4af6-a2c4-052fccb94595@gs-hinet.gsjc.cfd:443?allowInsecure=1&sni=20-212-60-88.nhost.00cdn.com#%5BTW%5Dgs-hinet.gsjc.cfd%3A443%28bce72830-6561-4af6-a2c4-052fccb94595%29
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0dPT0dMRV10dy51bnRpbG11LmNvbToyOTk5Nig0OTMyNmI0ZS1jOWUwLTQ3YzgtOTY3Zi0yMDI1ZmU1NjM4ZTcpIiwgImFkZCI6ICJ0dy51bnRpbG11LmNvbSIsICJwb3J0IjogIjI5OTk2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0OTMyNmI0ZS1jOWUwLTQ3YzgtOTY3Zi0yMDI1ZmU1NjM4ZTciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogInR3LnVudGlsbXUuY29tIiwgInRscyI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NMT1VERkxBUkVdMTkwLjkzLjI0Ni4zNzo4MCg5NTcyZDY5MS1lMjdhLTRmNTQtZWY0ZC01NzYwMGE3ODViNTUpIiwgImFkZCI6ICIxOTAuOTMuMjQ2LjM3IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjk1NzJkNjkxLWUyN2EtNGY1NC1lZjRkLTU3NjAwYTc4NWI1NSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcXdlcjAwIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NMT1VERkxBUkVdMTkwLjkzLjI0Ni4xMzA6ODAoOTU3MmQ2OTEtZTI3YS00ZjU0LWVmNGQtNTc2MDBhNzg1YjU1KSIsICJhZGQiOiAiMTkwLjkzLjI0Ni4xMzAiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOTU3MmQ2OTEtZTI3YS00ZjU0LWVmNGQtNTc2MDBhNzg1YjU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9xd2VyMDAiLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 ssr://OTQuMjMuMTE2LjE5MDo0NDM6b3JpZ2luOmFlcy0yNTYtY3RyOnRsczEuMl90aWNrZXRfYXV0aDpTRzkzWkhsQ2VYQmhjM05sY2pJd01qSS8/Z3JvdXA9VTFOU1VISnZkbWxrWlhJJnJlbWFya3M9VzBaU1hUazBMakl6TGpFeE5pNHhPVEE2TkRRektFaHZkMlI1UW5sd1lYTnpaWEl5TURJeUtRPT0mb2Jmc3BhcmFtPSZwcm90b3BhcmFtPQ==
-ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIw@video.tiktokuu.xyz:752#%5BCN%5Dvideo.tiktokuu.xyz%3A752%28BoomCloud2020%29
-vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NOXTIzLjI2LjIzOS4xNjM6MTg0MjAoNjU1NzhjMDktZjIzZS00OWNjLWFiZWUtNGFkMmExODUwZjlhKSIsICJhZGQiOiAiMjMuMjYuMjM5LjE2MyIsICJwb3J0IjogIjE4NDIwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI2NTU3OGMwOS1mMjNlLTQ5Y2MtYWJlZS00YWQyYTE4NTBmOWEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
-ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIw@video.tiktokuu.xyz:731#%5BCN%5Dvideo.tiktokuu.xyz%3A731%28BoomCloud2020%29
-trojan://848fe55b-0846-3b96-8a15-8daa8791dfe5@gd-cm.32jr.com:61774?allowInsecure=1&sni=xianggang1.veepien.me#%5BCN%5Dgd-cm.32jr.com%3A61774%28848fe55b-0846-3b96-8a15-8daa8791dfe5%29
+ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIw@video.tiktokuu.xyz:736#%5BCN%5Dvideo.tiktokuu.xyz%3A736%28BoomCloud2020%29
+ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIw@video.tiktokuu.xyz:735#%5BCN%5Dvideo.tiktokuu.xyz%3A735%28BoomCloud2020%29
+ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIw@video.tiktokuu.xyz:733#%5BCN%5Dvideo.tiktokuu.xyz%3A733%28BoomCloud2020%29
+vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NOXXNoY2s4YnEub2xiOHFzZy50b3A6NDcxMDQoMzYzODk5MDktNzU3MS00Zjk2LWIzYzUtOTQ1YTI4MTNkZjgwKSIsICJhZGQiOiAic2hjazhicS5vbGI4cXNnLnRvcCIsICJwb3J0IjogIjQ3MTA0IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIzNjM4OTkwOS03NTcxLTRmOTYtYjNjNS05NDVhMjgxM2RmODAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogInNoY2s4YnEub2xiOHFzZy50b3AiLCAidGxzIjogIiJ9
+ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIw@video.tiktokuu.xyz:679#%5BCN%5Dvideo.tiktokuu.xyz%3A679%28BoomCloud2020%29
+ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIw@video.tiktokuu.xyz:722#%5BCN%5Dvideo.tiktokuu.xyz%3A722%28BoomCloud2020%29
