@@ -276,7 +276,7 @@ trojan://bc879024-4a54-4cda-874a-3a39f6bc634d@zf.heigouyunzf.xyz:38801?allowInse
 trojan://telegram-id-privatevpns@35.180.187.167:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%5BFR%5D35.180.187.167%3A22222%28telegram-id-privatevpns%29
 trojan://telegram-id-privatevpns@35.180.44.148:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%5BFR%5D35.180.44.148%3A22222%28telegram-id-privatevpns%29
 trojan://telegram-id-privatevpns@13.40.149.95:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%5BGB%5D13.40.149.95%3A22222%28telegram-id-privatevpns%29
-trojan://4565bf4a-951a-4981-9b60-4b1a496c9cbc@ukjs.stablize.top:443?allowInsecure=1#%5BHK%5Dukjs.stablize.top%3A443%284565bf4a-951a-4981-9b60-4b1a496c9cbc%29
+trojan://4565bf4a-951a-4981-9b60-4b1a496c9cbc@ukjs.stablize.top:443?allowInsecure=1#%5BSG%5Dukjs.stablize.top%3A443%284565bf4a-951a-4981-9b60-4b1a496c9cbc%29
 ss://YWVzLTI1Ni1nY206MTIzNDU2@1.1.1.1:446#%5BCLOUDFLARE%5D1.1.1.1%3A446%28123456%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYzI5NGFhMC1jNzU1LTQwMTItOWVhOS02ZjAyMDg0NDU2NGY@1-hk-3.123445566.xyz:15223#%5BCN%5D1-hk-3.123445566.xyz%3A15223%28ec294aa0-c755-4012-9ea9-6f020844564f%29
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.154.97:443#%5BKR%5D54.180.154.97%3A443%28amazonskr05%29
