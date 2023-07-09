@@ -793,7 +793,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiW0NMT1VERkxBUkVdMTA0LjE5LjIzLjk2OjIwNTIoM2NkNGY4
 trojan://telegram-id-directvpn@35.163.76.118:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%5BUS%5D35.163.76.118%3A22222%28telegram-id-directvpn%29
 trojan://4b526505-3de3-4cb4-8f99-70b65adea09f@w1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen:443?allowInsecure=1&sni=13-231-155-134.NHOST.00CDN.COM#%5BJP%5Dw1.fp3kemyh-cm4s-2hak-2gb9-w3534umy2sq5.9d8f269f96b25232-759cbb36d6548597.kaufen%3A443%284b526505-3de3-4cb4-8f99-70b65adea09f%29
 trojan://567fc98e-f73c-3f00-b011-8e9cf6b873e8@tk-006.xiaoxiaobujidao.xyz:20001?allowInsecure=1&sni=tk-006.xiaoxiaobujidao.xyz#%5BJP%5Dtk-006.xiaoxiaobujidao.xyz%3A20001%28567fc98e-f73c-3f00-b011-8e9cf6b873e8%29
-trojan://4565bf4a-951a-4981-9b60-4b1a496c9cbc@aujs.stablize.top:443?allowInsecure=1#%5BHK%5Daujs.stablize.top%3A443%284565bf4a-951a-4981-9b60-4b1a496c9cbc%29
+trojan://4565bf4a-951a-4981-9b60-4b1a496c9cbc@aujs.stablize.top:443?allowInsecure=1#%5BJP%5Daujs.stablize.top%3A443%284565bf4a-951a-4981-9b60-4b1a496c9cbc%29
 trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@141.193.68.19:443?allowInsecure=1#%5BUS%5D141.193.68.19%3A443%2841bec492-cd79-4b57-9a15-7d2bb00fcfca%29
 trojan://AJCBkjTy9v@65.108.27.218:32950?allowInsecure=1#%5BFI%5D65.108.27.218%3A32950%28AJCBkjTy9v%29
 trojan://telegram-id-directvpn@18.118.0.59:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%5BUS%5D18.118.0.59%3A22222%28telegram-id-directvpn%29
