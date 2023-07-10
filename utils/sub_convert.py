@@ -30,6 +30,7 @@ class sub_convert():
         # 使用远程订阅转换服务
         server_host_list = ['https://sub.xeton.dev', 'https://api.dler.io', 'https://sub.nerocats.cn', 'https://api.wcc.best', 'https://api.sublink.dev', 'https://api.tsutsu.one', 'https://api.nexconvert.com', 'https://api.subcsub.com']
         # server_host_list = ['https://subconverter-479081675.b4a.run']
+
         url_quote = urllib.parse.quote(url, safe='')
         for server_host in server_host_list:
             converted_url = server_host+'/sub?target=mixed&url='+url_quote+'&list=true'
@@ -38,19 +39,19 @@ class sub_convert():
                 resp = requests.get(converted_url)
                 # print(f"\n获取转换链接:{converted_url} 结束\n")
                 if 'No nodes were found!' in resp.text or url in resp.text or 'Error code' in resp.text or 'An error' in resp.text:
-                    print(f"\n警告!!! 未发现有效配置, 订阅链接: {url} 转换链接:{converted_url}\n")
+                    print(f"\n未发现有效配置, 订阅链接: {url} 转换链接:{converted_url}\n")
                 else:
                     return resp.text
             except Exception:
                 print(f"\n错误!!! 订阅链接转换失败, 订阅链接: {url} 转换链接:{converted_url}\n")
             if server_host is server_host_list[-1]:
-                print(f'\n无法转换订阅链接: {url}, 获取url内容开始\n')
+                print(f'\n无法转换订阅链接: {url}, 获取url内容\n')
                 try:
                     resp = requests.get(url)
-                    print(f'\n无法转换订阅链接: {url}, 获取url结束\n')
+                    # print(f'\n无法转换订阅链接: {url}, 获取url结束\n')
                     return resp.text
                 except Exception:
-                    print(f'\n无法获取: {url}\n')
+                    print(f'\n无法下载内容: {url}\n')
                     return ''
 
     def format(node_list):
@@ -147,6 +148,28 @@ class sub_convert():
                 except Exception as err:
                     print(f'\n改名 vmess 节点: {node} 发生错误: {err}\n')
                     continue
+            elif 'vless://' in node:
+                continue
+                try:
+                    node_del_head = node.replace('vless://', '')
+                    node_del_head = node_del_head.replace('/?','?')
+                    node_part_list = re.split('\?|#', node_del_head)
+                    node_server_config_part = node_part_list[0]
+                    # node_config_part = node_part_list[1]
+                    # node_name_part = node_part_list[2]
+                    node_server_config_part_list = node_server_config_part.split('@')
+                    node_server_passwd = node_server_config_part_list[0]
+                    node_server_part = node_server_config_part_list[1]
+                    node_server_part_list = node_server_part.split(':')
+                    node_server = node_server_part_list[0]
+                    # node_port = node_server_part_list[1]
+                    server_head = sub_convert.find_country(node_server)
+                    name_renamed = f'{server_head}{node_server_part}({node_server_passwd})'
+                    node = 'vless://' + node_del_head.split('#')[0] + '#' + urllib.parse.quote(name_renamed, safe='')
+                    node_list_formated_array.append(node)
+                except Exception as err:
+                    print(f'\n改名 vless 节点: {node} 发生错误: {err}\n')
+                    continue
             elif 'trojan://' in node:
                 try:
                     node_del_head = node.replace('trojan://', '')
@@ -179,16 +202,14 @@ class sub_convert():
         node_list_dr_array = []
         node_name_dr_array = []
         for node in node_list:
-            if ("ss://" in node or "ssr://" in node or "trojan://" in node and "vless://" not in node):
+            if ("ss://" in node or "ssr://" in node or "trojan://" in node):
                 node_name = sub_convert.get_node_name(node)
                 if node_name not in node_name_dr_array:
                     node_name_dr_array.append(node_name)
                     node_list_dr_array.append(node)
-
         return node_list_dr_array
 
     def get_node_name(node):
-        name = ""
         if 'ss://' in node and 'vless://' not in node and 'vmess://' not in node:
             try:
                 node_del_head = node.replace('ss://', '')
@@ -215,6 +236,13 @@ class sub_convert():
                 node_json = json.loads(
                     sub_convert.base64_decode(node_del_head))
                 name = node_json['ps']
+            except Exception as err:
+                print(f'\n获取节点名错误: {err}\n')
+        elif 'vless://' in node:
+            try:
+                node_del_head = node.replace('vless://', '')
+                node_part = node_del_head.split('#')
+                name = urllib.parse.unquote(node_part[-1])
             except Exception as err:
                 print(f'\n获取节点名错误: {err}\n')
         elif 'trojan://' in node:
@@ -273,6 +301,10 @@ class sub_convert():
             node_list_file = open(f'{path}{(i+1)//2000}.yaml', 'w', encoding='utf-8')
             node_list_file.write(sub_content)
             node_list_file.close()
+        # sub_content = sub_head + '\n'.join(nodes)
+        # node_list_file = open(f'{path}0.yaml', 'w', encoding='utf-8')
+        # node_list_file.write(sub_content)
+        # node_list_file.close()
 
     def base64_encode(url_content):  # 将 URL 内容转换为 Base64
         base64_content = base64.b64encode(
@@ -305,12 +337,12 @@ class sub_convert():
         except Exception:
             return False
     def yaml_encode(line):  # 将 URL 内容转换为 YAML (输出默认 YAML 格式)
-        ss_cipher = ["aes-128-gcm", "aes-192-gcm", "aes-256-gcm", "aes-128-cfb", "aes-192-cfb", "aes-256-cfb", "aes-128-ctr", "aes-192-ctr", "aes-256-ctr", "rc4-md5", "chacha20-ietf", "xchacha20", "chacha20-ietf-poly1305", "xchacha20-ietf-poly1305"]
-        ssr_cipher = ["aes-128-cfb", "aes-192-cfb", "aes-256-cfb", "aes-128-ctr", "aes-192-ctr", "aes-256-ctr", "rc4-md5", "chacha20-ietf", "xchacha20"]
+        ss_cipher = ["aes-128-gcm","aes-192-gcm","aes-256-gcm","aes-128-cfb","aes-192-cfb","aes-256-cfb","aes-128-ctr","aes-192-ctr","aes-256-ctr","rc4-md5","chacha20-ietf","xchacha20","chacha20-ietf-poly1305","xchacha20-ietf-poly1305","2022-blake3-aes-128-gcm","2022-blake3-aes-256-gcm","2022-blake3-chacha20-poly1305"]
+        ssr_cipher = ss_cipher
         ssr_protocol = ["origin", "auth_sha1_v4", "auth_aes128_md5", "auth_aes128_sha1", "auth_chain_a", "auth_chain_b"]
         ssr_obfs = ["plain", "http_simple", "http_post", "random_head", "tls1.2_ticket_auth", "tls1.2_ticket_fastauth"]
         vmess_cipher = ["auto", "aes-128-gcm", "chacha20-poly1305", "none"]
-
+        vless_node_type = ["tcp", "grpc", "ws"]
         yaml_url = {}
         if 'vmess://' in line:
             try:
@@ -329,7 +361,7 @@ class sub_convert():
                     print(f'\n节点格式错误: {line}\n')
                     return ''
                 else:
-                    yaml_url.setdefault('name', '"' + urllib.parse.unquote(vmess_config['ps']) + '"')
+                    yaml_url.setdefault('name', urllib.parse.unquote(vmess_config['ps']))
                     vmess_config['add'] = re.sub('\[|\]|{|}', '', vmess_config['add'])
                     if re.match('^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$|^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-]*[a-zA-Z0-9])\.)+([A-Za-z]|[A-Za-z][A-Za-z0-9\-]*[A-Za-z0-9])$', vmess_config['add']):
                         yaml_url.setdefault('server', vmess_config['add'])
@@ -355,9 +387,9 @@ class sub_convert():
                         vmess_config['host'] = re.sub(' |\[|\]|{|}|\?|@|"','',urllib.parse.unquote(vmess_config['host'])).split(':')[-1]
                     if vmess_config['net'] == 'ws':
                         if vmess_config['tls'] == 'tls':
-                            yaml_url.setdefault('tls', 'true')
+                            yaml_url.setdefault('tls', True)
                         else:
-                            yaml_url.setdefault('tls', 'false')
+                            yaml_url.setdefault('tls', False)
                         # yaml_url.setdefault('skip-cert-verify', 'true')
                         if vmess_config['path'] == '' or vmess_config['path'] is None:
                             yaml_url.setdefault('ws-opts', {'path': '/'})
@@ -366,17 +398,17 @@ class sub_convert():
                         if vmess_config['host'] != '':
                             yaml_url.setdefault('ws-opts', {}).setdefault('headers', {'host': vmess_config['host']})
                     elif vmess_config['net'] == 'h2':
-                        yaml_url.setdefault('tls', 'true')
+                        yaml_url.setdefault('tls', True)
                         yaml_url.setdefault('h2-opts', {}).setdefault('host', '[' + vmess_config['host'] + ']')
                         if vmess_config['path'] == '' or vmess_config['path'] is None:
                             yaml_url.setdefault('h2-opts', {}).setdefault('path', '/')
                         else:
                             yaml_url.setdefault('h2-opts', {}).setdefault('path', vmess_config['path'])
                     elif vmess_config['net'] == 'grpc':
-                        yaml_url.setdefault('tls', 'true')
+                        yaml_url.setdefault('tls', True)
                         # yaml_url.setdefault('skip-cert-verify', 'true')
                         if vmess_config['host'] == '':
-                            yaml_url.setdefault('servername', '""')
+                            yaml_url.setdefault('servername', '')
                         else:
                             yaml_url.setdefault('servername', vmess_config['host'])
                         if vmess_config['path'] == '' or vmess_config['path'] is None:
@@ -386,9 +418,9 @@ class sub_convert():
                     elif vmess_config['net'] == 'http':
                         yaml_url.setdefault('http-opts', {}).setdefault('method', "GET")
                         if vmess_config['path'] == '' or vmess_config['path'] is None:
-                            yaml_url.setdefault('http-opts', {}).setdefault('path', '[/]')
+                            yaml_url.setdefault('http-opts', {}).setdefault('path', ['/'])
                         else:
-                            yaml_url.setdefault('http-opts', {}).setdefault('path', '[' + vmess_config['path'] + ']')
+                            yaml_url.setdefault('http-opts', {}).setdefault('path', [vmess_config['path']])
             except Exception as err:
                 print(f'\nyaml_encode 解析 vmess 节点: {line}\n发生错误: {err}\n')
                 return ''
@@ -398,7 +430,7 @@ class sub_convert():
                 ss_content = re.sub('ss://|\/', '', line)
                 if '@' in ss_content:
                     ss_content_array = re.split('@|\?|#', ss_content)
-                    yaml_url.setdefault('name', '"' + urllib.parse.unquote(ss_content_array[-1]) + '"')
+                    yaml_url.setdefault('name', urllib.parse.unquote(ss_content_array[-1]))
                     # include cipher password
                     config_first_decode_list = sub_convert.base64_decode(ss_content_array[0]).split(':')
                     # include server port
@@ -423,7 +455,7 @@ class sub_convert():
                     elif re.compile(r'^[-+]?[-0-9]\d*\.\d*|[-+]?\.?[0-9]\d*$').match(server_password):
                         yaml_url.setdefault('password', '!<str> ' + server_password)
                     else:
-                        yaml_url.setdefault('password', '"' + server_password + '"')
+                        yaml_url.setdefault('password', server_password)
                     if len(ss_content_array) >= 4:
                         # include more server config
                         parameters_raw = urllib.parse.unquote(ss_content_array[2])
@@ -449,9 +481,9 @@ class sub_convert():
                                         # if parameter in v2ray_plugin_mode_list:
                                         yaml_url.setdefault('plugin-opts', {}).setdefault('mode', 'websocket')
                                     elif 'tls' in parameter:
-                                        yaml_url.setdefault('plugin-opts', {}).setdefault('tls', 'true')
+                                        yaml_url.setdefault('plugin-opts', {}).setdefault('tls', True)
                                     elif 'mux' in parameter:
-                                        yaml_url.setdefault('plugin-opts', {}).setdefault('mux', 'true')
+                                        yaml_url.setdefault('plugin-opts', {}).setdefault('mux', True)
                                     elif 'host=' in parameter:
                                         yaml_url.setdefault('plugin-opts', {}).setdefault('host', parameter.split('=')[-1])
                                     elif 'path=' in parameter:
@@ -472,7 +504,7 @@ class sub_convert():
                     ss_content_array = ss_content.split("#")
                     ss_content_head = sub_convert.base64_decode(ss_content_array[0])
                     ss_content_head_array = re.split(':|@',ss_content_head)
-                    yaml_url.setdefault('name', '"' + urllib.parse.unquote(ss_content_array[-1]) + '"')
+                    yaml_url.setdefault('name', urllib.parse.unquote(ss_content_array[-1]))
                     server_address = re.sub('\[|\]','',ss_content_head_array[-2])
                     if "::" in server_address:
                         return ''
@@ -491,7 +523,7 @@ class sub_convert():
                     elif re.compile(r'^[-+]?[-0-9]\d*\.\d*|[-+]?\.?[0-9]\d*$').match(server_password):
                         yaml_url.setdefault('password', '!<str> ' + server_password)
                     else:
-                        yaml_url.setdefault('password', '"' + server_password + '"')
+                        yaml_url.setdefault('password', server_password)
             except Exception as err:
                 print(f'\nyaml_encode 解析 ss: {line} 节点发生错误: {err}\n')
                 return ''
@@ -517,7 +549,7 @@ class sub_convert():
                     except Exception:
                         remarks = 'ssr'
                         print(f'\nSSR 格式化错误, 内容:{remarks_part}\n')
-                yaml_url.setdefault('name', '"' + urllib.parse.unquote(remarks) + '"')
+                yaml_url.setdefault('name', urllib.parse.unquote(remarks))
                 server_part_list = re.split(':|\?|&', part_list[0])
                 if "NULL" in server_part_list[0]:
                     return ''
@@ -537,7 +569,7 @@ class sub_convert():
                 if re.compile(r'^[-+]?[-0-9]\d*\.\d*|[-+]?\.?[0-9]\d*$').match(server_password):
                     yaml_url.setdefault('password', '!<str> ' + server_password)
                 else:
-                    yaml_url.setdefault('password', '"' + server_password + '"')
+                    yaml_url.setdefault('password', server_password)
                 if server_part_list[2] in ssr_protocol:
                     yaml_url.setdefault('protocol', server_part_list[2])
                 else:
@@ -552,24 +584,106 @@ class sub_convert():
                             obfs_param = sub_convert.base64_decode(urllib.parse.unquote(item.replace('obfsparam=', '')))
                             obfs_param = re.sub('\[|\]|{|}', '', obfs_param)
                             if obfs_param != '':
-                                yaml_url.setdefault('obfs-param', '"' + obfs_param + '"')
+                                yaml_url.setdefault('obfs-param', obfs_param)
                             else:
-                                yaml_url.setdefault('obfs-param', '""')
+                                yaml_url.setdefault('obfs-param', '')
                         elif 'protoparam=' in item:
                             protocol_param = sub_convert.base64_decode(urllib.parse.unquote(item.replace('protoparam=', '')))
                             protocol_param = re.sub('\[|\]|{|}', '', protocol_param)
                             if protocol_param != '':
                                 yaml_url.setdefault('protocol-param', protocol_param)
                             else:
-                                yaml_url.setdefault('protocol-param', '""')
+                                yaml_url.setdefault('protocol-param', '')
                 if 'obfs-param' not in yaml_url.keys():
-                    yaml_url.setdefault('obfs-param', '""')
+                    yaml_url.setdefault('obfs-param', '')
                 if 'protocol-param' not in yaml_url.keys():
-                    yaml_url.setdefault('protocol-param', '""')
+                    yaml_url.setdefault('protocol-param', '')
             except Exception as err:
                 print(f'\nyaml_encode 解析 ssr 节点: {line} 发生错误: {err}\n')
                 return ''
 
+        elif 'vless://' in line:
+            return ''
+            try:
+                node_del_head = line.replace('vless://', '')
+                node_del_head = node_del_head.replace('/?','?')
+                node_part_list = re.split('\?|#', node_del_head)
+                yaml_url.setdefault('name', f'"{urllib.parse.unquote(node_part_list[-1])}"')
+                node_server_config_part = node_part_list[0]
+                node_config_part = node_part_list[1]
+                node_server_config_part_list = node_server_config_part.split('@')
+                node_server_passwd = node_server_config_part_list[0]
+                node_server_part = node_server_config_part_list[1]
+                node_server_part_list = node_server_part.split(':')
+                node_server = node_server_part_list[0]
+                node_port = node_server_part_list[1]
+                yaml_url.setdefault('server', node_server)
+                yaml_url.setdefault('port', node_port)
+                yaml_url.setdefault('type', 'vless')
+                if node_server_passwd == '0' or re.findall("[g-z]", node_server_passwd) or len(node_server_passwd) != 36:
+                    return ''
+                else:
+                    yaml_url.setdefault('uuid', node_server_passwd)
+                node_config_part_list = node_config_part.split('&')
+                # node_type = (type for type in node_config_part_list if 'type=' in type)
+                node_type = list(filter(lambda item:'type=' in item, node_config_part_list))[0].replace('type=','')
+                if node_type in vless_node_type:
+                    yaml_url.setdefault('network', node_type)
+                else:
+                    return ''
+                for config in node_config_part_list:
+                    # host is servername
+                    if 'security=' in config:
+                        config = config.replace('security=', '')
+                        if config != 'none':
+                            yaml_url.setdefault('tls', True)
+                            yaml_url.setdefault('udp', True)
+                    elif 'flow=' in config:
+                        config = config.replace('flow=', '')
+                        yaml_url.setdefault('flow', config)
+                    elif 'fp=' in config:
+                        config = config.replace('fp=', '')
+                        yaml_url.setdefault('client-fingerprint', config)
+                    elif 'sni=' in config:
+                        config = config.replace('sni=', '')
+                        if node_type == 'ws':
+                            yaml_url.setdefault('servername', f'"{config}"')
+                        else:
+                            if 'servername' in yaml_url.keys():
+                                if yaml_url['servername'] == '':
+                                    yaml_url['servername'] = f'"{config}"'
+                            else:
+                                yaml_url.setdefault('servername', f'"{config}"')
+                    elif 'host=' in config:
+                        config = config.replace('host=', '')
+                        if node_type == 'ws':
+                            yaml_url.setdefault('ws-opts', {}).setdefault('headers', {}).setdefault('host', f'"{config}"')
+                        else:
+                            if 'servername' in yaml_url.keys():
+                                if yaml_url['servername'] == '':
+                                    yaml_url['servername'] = f'"{config}"'
+                            else:
+                                yaml_url.setdefault('servername', f'"{config}"')
+                    elif 'path=' in config:
+                        config = config.replace('path=', '')
+                        config = urllib.parse.unquote(config)
+                        if node_type == 'ws':
+                            yaml_url.setdefault('ws-opts', {}).setdefault('path', f'"{config}"')
+                    elif 'serviceName=' in config:
+                        config = config.replace('serviceName=','')
+                        config = urllib.parse.unquote(config)
+                        config = re.sub(' |\[|\]|{|}|\?|"','',config)
+                        yaml_url.setdefault('grpc-opts', {}).setdefault('grpc-service-name', f'"{config}"')
+                    elif 'pbk=' in config:
+                        config = config.replace('pbk=', '')
+                        yaml_url.setdefault('reality-opts', {}).setdefault('public-key', config)
+                    elif 'sid=' in config:
+                        config = config.replace('sid=', '')
+                        yaml_url.setdefault('reality-opts', {}).setdefault('short-id', config)
+                
+            except Exception as err:
+                print(f'\nyaml_encode 解析 vless 节点: {line} 发生错误: {err}\n')
+                return ''
         elif 'trojan://' in line:
             try:
                 url_content = line.replace('trojan://', '')
@@ -577,7 +691,7 @@ class sub_convert():
                 node_password = url_part_list[0].rsplit('@',1)[0]
                 node_server_and_port = url_part_list[0].rsplit('@',1)[1]
                 part_list = [node_password] + [node_server_and_port] + url_part_list[1:]
-                yaml_url.setdefault('name', '"' + urllib.parse.unquote(part_list[-1]) + '"')
+                yaml_url.setdefault('name', urllib.parse.unquote(part_list[-1]))
                 yaml_url.setdefault('server', re.sub(' |\[|\]|{|}|\?','',urllib.parse.unquote(part_list[1]).split(':')[0]))
                 yaml_url.setdefault('port', urllib.parse.unquote(part_list[1]).split(':')[1])
                 yaml_url.setdefault('type', 'trojan')
@@ -587,18 +701,18 @@ class sub_convert():
                 elif re.compile(r'^[-+]?[-0-9]\d*\.\d*|[-+]?\.?[0-9]\d*$').match(server_password):
                     yaml_url.setdefault('password', '!<str> ' + server_password)
                 else:
-                    yaml_url.setdefault('password', '"' + server_password + '"')
+                    yaml_url.setdefault('password', server_password)
                 if len(part_list) == 4:
                     for config in part_list[2].split('&'):
                         if 'sni=' in config:
                             config = config[4:]
                             if '@' in config:
-                                yaml_url.setdefault('sni', '"' + urllib.parse.unquote(config) + '"')
+                                yaml_url.setdefault('sni', urllib.parse.unquote(config))
                             else:    
                                 yaml_url.setdefault('sni', urllib.parse.unquote(config))
                         elif 'type=' in config:
                             yaml_url.setdefault('network', config[5:])
-                            yaml_url.setdefault('udp', 'true')
+                            yaml_url.setdefault('udp', True)
                         if 'type=ws' in part_list[2]:
                             if 'path=' in config:
                                 yaml_url.setdefault('ws-opts', {}).setdefault('path', re.sub(' |\[|\]|{|}|\?|@|"','',urllib.parse.unquote(config[5:])))
@@ -609,7 +723,7 @@ class sub_convert():
                                 yaml_url.setdefault('grpc-opts', {}).setdefault('grpc-service-name', config[12:])
                         else:
                             if 'alpn=' in config:
-                                yaml_url.setdefault('alpn','[' + '"' + re.sub("\[|\]|'",'',urllib.parse.unquote(config[5:])) + '"' + ']')
+                                yaml_url.setdefault('alpn','[' + re.sub("\[|\]|'",'',urllib.parse.unquote(config[5:])) + ']')
                     if 'network' in yaml_url.keys():
                         if yaml_url['network'] == 'ws':
                             if 'ws_opts' not in yaml_url.keys():
@@ -620,7 +734,7 @@ class sub_convert():
                             if 'grpc-opts' not in yaml_url.keys():
                                 yaml_url.setdefault('grpc-opts', {})
                             if 'grpc-service-name' not in yaml_url['grpc-opts'].keys():
-                                yaml_url.setdefault('grpc-opts', {}).setdefault('grpc-service-name', '""')
+                                yaml_url.setdefault('grpc-opts', {}).setdefault('grpc-service-name', '')
             except Exception as err:
                 print(f'\nyaml_encode 解析 trojan 节点: {line} 发生错误: {err}\n')
                 return ''
@@ -628,8 +742,8 @@ class sub_convert():
             return ''
         if not sub_convert.check_node_validity(yaml_url['server'], yaml_url['port']):
             return ''
-        yaml_node_raw = str(yaml_url)
-        yaml_node_body = yaml_node_raw.replace('\'', '')
+        yaml_node_raw = json.dumps(yaml_url)
+        yaml_node_body = yaml_node_raw
         yaml_node_head = '  - '
         yaml_node = yaml_node_head + yaml_node_body
         return yaml_node
@@ -641,5 +755,5 @@ if __name__ == '__main__':
     # file.close()
     # sub_convert.write_to_clash(nodes,'./test/')
     # sub_convert.get_node_from_sub("https://raw.githubusercontent.com/mheidari98/.proxy/main/all")
-    sub_convert.format("vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgX1VTX+e+juWbvS0+8J+HrPCfh6dfR0Jf6Iux5Zu9IiwiYWRkIjoiMTA0LjE2LjE4My4xMDEiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjNkZTRlYzI3LTc0YjQtNDNlMy1iZjIzLTE4ZTcyNmFjODBiYyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvUDZrcG41VUtHNDBNTkxLMiIsImhvc3QiOiJwV2dobGptbmtucS5qYW5iYXJvb24uY29tIiwidGxzIjoidGxzIn0=")
-    # sub_convert.yaml_encode("ssr://MTUuMTg4LjE3Ny4wOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP3JlbWFya3M9Vy9DZmg2dnduNGUzWFRFMUxqRTRPQzR4TnpjdU1EbzBNamd6TXloWmNGZ3liM0JDWW5KbWNVcDZlazF6S1E9PQ==")
+    # sub_convert.format("vmess://eyJ2IjoiMiIsInBzIjoiUkVMQVktMTA0LjE2LjgwLjI1MC0zMTkwIiwiYWRkIjoiY2Yubm9hcmllcy5kZSIsInBvcnQiOiIyMDUyIiwidHlwZSI6ImF1dG8iLCJpZCI6IjY3YzVjZTQ1LTdiNDgtNDczZS1iZjI1LWU0YzgzMGIwZWQyNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImF6c3R1LWl0LmlpaW8ud2lraSIsInRscyI6IiJ9")
+    print(sub_convert.yaml_encode("ss://YWVzLTI1Ni1nY206Tm9kZUJ5VEdAV2Vvd29ya3MvSXQnc0V4cGVuc2l2ZSEhIQ@weo-sg-1.laowufly.cf:2333#%5BSG%5Dweo-sg-1.laowufly.cf%3A2333%28NodeByTG%40Weoworks%2FIt%27sExpensive%21%21%21%29"))
