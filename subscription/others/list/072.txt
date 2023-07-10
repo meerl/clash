@@ -42,7 +42,7 @@ trojan://telegram-id-privatevpns@54.246.241.225:22222?allowInsecure=0&sni=trj.ro
 trojan://telegram-id-directvpn@13.49.21.2:22222?allowInsecure=0&sni=trj.rollingnext.co.uk#%5BSE%5D13.49.21.2%3A22222%28telegram-id-directvpn%29
 trojan://telegram-id-directvpn@3.75.83.239:22222?allowInsecure=0&sni=trj.rollingnext.co.uk#%5BDE%5D3.75.83.239%3A22222%28telegram-id-directvpn%29
 trojan://a55f52b9-bd3d-466a-ba72-a085d79921e2@golibangoli.ddns.net:443?allowInsecure=0&sni=uosobshokabbskja.chikaveloiee.gq#%5BCLOUDFLARE%5Dgolibangoli.ddns.net%3A443%28a55f52b9-bd3d-466a-ba72-a085d79921e2%29
-trojan://qe2N3UutxI@oos.karkas1.ir:443?allowInsecure=0&sni=www.telewebion.com#%5BFR%5Doos.karkas1.ir%3A443%28qe2N3UutxI%29
+trojan://qe2N3UutxI@oos.karkas1.ir:443?allowInsecure=0&sni=www.telewebion.com#%5BNOWHERE%5Doos.karkas1.ir%3A443%28qe2N3UutxI%29
 trojan://TJCfE7Mx2YcA8kX8zg@149.50.75.110:4003?allowInsecure=0&sni=nl1.chuqiangtou.net#%5BNL%5D149.50.75.110%3A4003%28TJCfE7Mx2YcA8kX8zg%29
 trojan://2c7e32e0-e2af-4cb9-a130-65a13cd8e3d4@us2.yihaobao.xyz:10026?allowInsecure=0&sni=tls.yihaobao.xyz#%5BUS%5Dus2.yihaobao.xyz%3A10026%282c7e32e0-e2af-4cb9-a130-65a13cd8e3d4%29
 trojan://a78119c0-1672-11ee-8716-1239d0255272@51.81.82.15:443?allowInsecure=0&sni=www.speedtest.net#%5BUS%5D51.81.82.15%3A443%28a78119c0-1672-11ee-8716-1239d0255272%29
@@ -303,7 +303,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4a3VkNWhu@158.69.122.231:80#%5BCA%5D158.69.1
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW0pQXTE1MC4yMzAuMjE4LjE2OjgwODAoODhjNmQxMmItNjE0Zi00ODVmLTgzZmMtZmIwY2M1N2M0ODAxKSIsICJhZGQiOiAiMTUwLjIzMC4yMTguMTYiLCAicG9ydCI6ICI4MDgwIiwgInR5cGUiOiAiYXV0byIsICJpZCI6ICI4OGM2ZDEyYi02MTRmLTQ4NWYtODNmYy1mYjBjYzU3YzQ4MDEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjE1MC4yMzAuMjE4LjE2IiwgInRscyI6ICIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@51.178.87.37:804#%5BCH%5D51.178.87.37%3A804%28G%21yBwPWH3Vao%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@51.178.87.37:810#%5BCH%5D51.178.87.37%3A810%28G%21yBwPWH3Vao%29
-vmess://eyJ2IjogIjIiLCAicHMiOiAiW0dCXXNwZWVkaXAuZXUub3JnOjIwNTIoZjhjNjBhNWItZWM2Ny00Y2NjLWJjOTEtZDI5N2ZlNzliOTc3KSIsICJhZGQiOiAic3BlZWRpcC5ldS5vcmciLCAicG9ydCI6ICIyMDUyIiwgInR5cGUiOiAiYXV0byIsICJpZCI6ICJmOGM2MGE1Yi1lYzY3LTRjY2MtYmM5MS1kMjk3ZmU3OWI5NzciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dhdWdmdWlndmh3b2EiLCAiaG9zdCI6ICJubF9uYXQudjUwLm9uZSIsICJ0bHMiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiW0RFXXNwZWVkaXAuZXUub3JnOjIwNTIoZjhjNjBhNWItZWM2Ny00Y2NjLWJjOTEtZDI5N2ZlNzliOTc3KSIsICJhZGQiOiAic3BlZWRpcC5ldS5vcmciLCAicG9ydCI6ICIyMDUyIiwgInR5cGUiOiAiYXV0byIsICJpZCI6ICJmOGM2MGE1Yi1lYzY3LTRjY2MtYmM5MS1kMjk3ZmU3OWI5NzciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dhdWdmdWlndmh3b2EiLCAiaG9zdCI6ICJubF9uYXQudjUwLm9uZSIsICJ0bHMiOiAiIn0=
 trojan://98418cc3-2a5c-4e9a-b43c-d395e4561cd7@appu928304887687.api.steamgamepowered.net:18180?allowInsecure=0&sni=appU928304887687.api.steamgamepowered.net#%5BHK%5Dappu928304887687.api.steamgamepowered.net%3A18180%2898418cc3-2a5c-4e9a-b43c-d395e4561cd7%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:811#%5BCA%5D134.195.196.178%3A811%28G%21yBwPWH3Vao%29
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.187:7001#%5BUS%5D169.197.142.187%3A7001%28RexnBgU7EV5ADxG%29
