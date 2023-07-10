@@ -22,12 +22,12 @@ class sub_merge():
     def get_sub_content(url_list):
         url = url_list['url']
         ids = url_list['id']
-        remarks = url_list['remarks']
+        site = url_list['site']
         if not url_list['enabled']:
             return ''
         content = sub_convert.get_node_from_sub(url)
         if content == '':
-            print(f'\n写入 {remarks} 的错误信息到 {ids:0>3d}.txt 完成. \n')
+            print(f'\n写入 {site} 的错误信息到 {ids:0>3d}.txt 完成. \n')
             file = open(f'{sub_list_path}{ids:0>3d}.txt',
                         'w', encoding='utf-8')
             file.write(f'节点解析出错，请检查订阅链接：{ids} 是否正确')
@@ -38,7 +38,7 @@ class sub_merge():
                         'w', encoding='utf-8')
             file.write(content)
             file.close()
-            print(f'写入内容: {remarks} 到文件: {ids:0>3d}.txt 完成. \n')
+            print(f'写入内容: {site} 到文件: {ids:0>3d}.txt 完成. \n')
             return content
 
     def sub_merge(content_list_array):
