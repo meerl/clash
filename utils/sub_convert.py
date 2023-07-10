@@ -608,7 +608,7 @@ class sub_convert():
                 node_del_head = line.replace('vless://', '')
                 node_del_head = node_del_head.replace('/?','?')
                 node_part_list = re.split('\?|#', node_del_head)
-                yaml_url.setdefault('name', f'"{urllib.parse.unquote(node_part_list[-1])}"')
+                yaml_url.setdefault('name', urllib.parse.unquote(node_part_list[-1]))
                 node_server_config_part = node_part_list[0]
                 node_config_part = node_part_list[1]
                 node_server_config_part_list = node_server_config_part.split('@')
@@ -647,40 +647,39 @@ class sub_convert():
                     elif 'sni=' in config:
                         config = config.replace('sni=', '')
                         if node_type == 'ws':
-                            yaml_url.setdefault('servername', f'"{config}"')
+                            yaml_url.setdefault('servername', config)
                         else:
                             if 'servername' in yaml_url.keys():
                                 if yaml_url['servername'] == '':
-                                    yaml_url['servername'] = f'"{config}"'
+                                    yaml_url['servername'] = config
                             else:
-                                yaml_url.setdefault('servername', f'"{config}"')
+                                yaml_url.setdefault('servername', config)
                     elif 'host=' in config:
                         config = config.replace('host=', '')
                         if node_type == 'ws':
-                            yaml_url.setdefault('ws-opts', {}).setdefault('headers', {}).setdefault('host', f'"{config}"')
+                            yaml_url.setdefault('ws-opts', {}).setdefault('headers', {}).setdefault('host', config)
                         else:
                             if 'servername' in yaml_url.keys():
                                 if yaml_url['servername'] == '':
-                                    yaml_url['servername'] = f'"{config}"'
+                                    yaml_url['servername'] = config
                             else:
-                                yaml_url.setdefault('servername', f'"{config}"')
+                                yaml_url.setdefault('servername', config)
                     elif 'path=' in config:
                         config = config.replace('path=', '')
                         config = urllib.parse.unquote(config)
                         if node_type == 'ws':
-                            yaml_url.setdefault('ws-opts', {}).setdefault('path', f'"{config}"')
+                            yaml_url.setdefault('ws-opts', {}).setdefault('path', config)
                     elif 'serviceName=' in config:
                         config = config.replace('serviceName=','')
                         config = urllib.parse.unquote(config)
                         config = re.sub(' |\[|\]|{|}|\?|"','',config)
-                        yaml_url.setdefault('grpc-opts', {}).setdefault('grpc-service-name', f'"{config}"')
+                        yaml_url.setdefault('grpc-opts', {}).setdefault('grpc-service-name', config)
                     elif 'pbk=' in config:
                         config = config.replace('pbk=', '')
                         yaml_url.setdefault('reality-opts', {}).setdefault('public-key', config)
                     elif 'sid=' in config:
                         config = config.replace('sid=', '')
                         yaml_url.setdefault('reality-opts', {}).setdefault('short-id', config)
-                
             except Exception as err:
                 print(f'\nyaml_encode 解析 vless 节点: {line} 发生错误: {err}\n')
                 return ''
