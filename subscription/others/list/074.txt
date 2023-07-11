@@ -1,8 +1,8 @@
 trojan://telegram-id-directvpn@3.76.106.174:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%5BDE%5D3.76.106.174%3A22222%28telegram-id-directvpn%29
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.116:989#%5BDK%5D192.36.27.116%3A989%28f8f7aCzcPKbsF8p3%29
 trojan://telegram-id-privatevpns@35.180.6.208:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%5BFR%5D35.180.6.208%3A22222%28telegram-id-privatevpns%29
-trojan://AJCBkjTy9v@tr.mellivmess.com:32950?allowInsecure=1#%5BFR%5Dtr.mellivmess.com%3A32950%28AJCBkjTy9v%29
-trojan://AJCBkjTy9v@tr.mellivmess.com:32950?allowInsecure=1&sni=tr.mellivmess.com#%5BFR%5Dtr.mellivmess.com%3A32950%28AJCBkjTy9v%29
+trojan://AJCBkjTy9v@tr.mellivmess.com:32950?allowInsecure=1#%5BNOWHERE%5Dtr.mellivmess.com%3A32950%28AJCBkjTy9v%29
+trojan://AJCBkjTy9v@tr.mellivmess.com:32950?allowInsecure=1&sni=tr.mellivmess.com#%5BNOWHERE%5Dtr.mellivmess.com%3A32950%28AJCBkjTy9v%29
 trojan://AJCBkjTy9v@147.135.199.177:32950?allowInsecure=1&sni=getandroid.com#%5BFR%5D147.135.199.177%3A32950%28AJCBkjTy9v%29
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.27.48:989#%5BFR%5D51.15.27.48%3A989%28f8f7aCzcPKbsF8p3%29
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@54.36.115.241:989#%5BFR%5D54.36.115.241%3A989%28f8f7aCzcPKbsF8p3%29
