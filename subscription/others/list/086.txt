@@ -30,6 +30,6 @@ trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@tw02.trojanyyds.xyz:443?allowInsec
 trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?allowInsecure=1#%5BIN%5D152.70.74.66%3A443%28d906afe5-7c3c-4ddc-aaa4-61c154a82e5e%29
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@sk01.trojanyyds.xyz:443?allowInsecure=1#%5BHK%5Dsk01.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@hk02.trojanyyds.xyz:443?allowInsecure=1#%5BHK%5Dhk02.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
-trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@tw01.trojanyyds.xyz:443?allowInsecure=1#%5BHK%5Dtw01.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@tw01.trojanyyds.xyz:443?allowInsecure=1#%5BJP%5Dtw01.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@hk03.trojanyyds.xyz:443?allowInsecure=1#%5BHK%5Dhk03.trojanyyds.xyz%3A443%288d1e94cd-23cf-4267-b630-c6894e6e1b4d%29
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@169.197.142.48:8882#%5BUS%5D169.197.142.48%3A8882%28kDWvXYZoTBcGkC4%29
