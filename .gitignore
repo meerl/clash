@@ -1,3 +1,7 @@
 cache.db
 test*
 *pycache*
+Geo*
+Country*
+yacd
+config.yaml
