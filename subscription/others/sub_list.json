@@ -26,7 +26,7 @@
   {
     "id": 4,
     "site": "https://github.com/learnhard-cn/free_proxy_ss",
-    "url": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free",
+    "url": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml",
     "enabled": true
   },
   {
@@ -45,7 +45,7 @@
     "id": 7,
     "site": "https://github.com/oslook/clash-freenode",
     "url": "https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 8,
@@ -99,7 +99,7 @@
     "id": 16,
     "site": "https://github.com/NicProxy/V2ray",
     "url": "https://raw.githubusercontent.com/NicProxy/V2ray/main/configs",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 17,
@@ -260,14 +260,14 @@
   {
     "id": 43,
     "site": "https://github.com/Fukki-Z/nodefree",
-    "url": "https://nodefree.org/dy/2023/07/20230712.txt",
+    "url": "https://nodefree.org/dy/2023/07/20230712.yaml",
     "enabled": true
   },
   {
     "id": 44,
     "site": "https://github.com/sami-soft/v2rayN_proxy",
     "url": "https://raw.githubusercontent.com/sami-soft/v2rayN_proxy/main/new1.txt",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 45,
@@ -315,7 +315,7 @@
     "id": 52,
     "site": "https://github.com/misersun/config003",
     "url": "https://raw.githubusercontent.com/misersun/config003/main/config_all.yaml|https://raw.githubusercontent.com/misersun/config003/main/config_all_game.yaml|https://raw.githubusercontent.com/misersun/config003/main/config_all_quest.yaml",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 53,
@@ -369,7 +369,7 @@
     "id": 61,
     "site": "https://github.com/cxr9912/cxr2022",
     "url": "https://raw.githubusercontent.com/cxr9912/cxr2022/main/free.yaml|https://raw.githubusercontent.com/cxr9912/cxr2022/main/ss.yaml|https://raw.githubusercontent.com/cxr9912/cxr2022/main/vmess.yaml|https://raw.githubusercontent.com/cxr9912/cxr2022/main/ssr.yaml",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 62,
@@ -398,7 +398,7 @@
   {
     "id": 66,
     "site": "https://oneclash.cc",
-    "url": "https://oneclash.cc/wp-content/uploads/2023/07/20230712.txt",
+    "url": "https://oneclash.cc/wp-content/uploads/2023/07/20230712.yaml",
     "enabled": true
   },
   {
@@ -410,7 +410,7 @@
   {
     "id": 68,
     "site": "https://wefound.cc",
-    "url": "https://wefound.cc/freenode/2023/07/20230712.txt",
+    "url": "https://wefound.cc/freenode/2023/07/20230712.yaml",
     "enabled": true
   },
   {
