@@ -62,14 +62,6 @@ proxy-groups:
       - GROUP_1
       - GROUP_2
       # - GROUP_3
-      # - GROUP_4
-      # - GROUP_5
-      # - GROUP_6
-      # - GROUP_7
-      # - GROUP_8
-      # - GROUP_9
-      # - GROUP_10
-      # - GROUP_11
 
 ####################################################################################################
 proxy-providers:
@@ -213,7 +205,7 @@ rules:
   - RULE-SET,reject,REJECT
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
-  - RULE-SET,google,DIRECT
+  - RULE-SET,google,GLOBAL
   - RULE-SET,proxy,GLOBAL
   - RULE-SET,direct,DIRECT
   - RULE-SET,lancidr,DIRECT
