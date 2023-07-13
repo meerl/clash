@@ -1,0 +1,224 @@
+# Port of HTTP(S) proxy server on the local end
+port: 7890
+
+# Port of SOCKS5 proxy server on the local end
+socks-port: 7891
+
+# Transparent proxy server port for Linux and macOS (Redirect TCP and TProxy UDP)
+# redir-port: 7892
+
+# Transparent proxy server port for Linux (TProxy TCP and TProxy UDP)
+# tproxy-port: 7893
+
+# HTTP(S) and SOCKS4(A)/SOCKS5 server on the same port
+# mixed-port: 7890
+
+# authentication of local SOCKS5/HTTP(S) server
+# authentication:
+#  - "user1:pass1"
+#  - "user2:pass2"
+
+# Set to true to allow connections to the local-end server from
+# other LAN IP addresses
+allow-lan: true
+
+# This is only applicable when `allow-lan` is `true`
+# '*': bind all IP addresses
+# 192.168.122.11: bind a single IPv4 address
+# "[aaaa::a8aa:ff:fe09:57d8]": bind a single IPv6 address
+# bind-address: '*'
+
+# Clash router working mode
+# rule: rule-based packet routing
+# global: all packets will be forwarded to a single endpoint
+# direct: directly forward the packets to the Internet
+mode: rule
+
+# Clash by default prints logs to STDOUT
+# info / warning / error / debug / silent
+# log-level: info
+
+# When set to false, resolver won't translate hostnames to IPv6 addresses
+ipv6: true
+
+# RESTful web API listening address
+external-controller: 0.0.0.0:9090
+
+# A relative path to the configuration directory or an absolute path to a
+# directory in which you put some static web resource. Clash core will then
+# serve it at `http://{{external-controller}}/ui`.
+external-ui: /usr/share/yacd/
+
+# Secret for the RESTful API (optional)
+# Authenticate by spedifying HTTP header `Authorization: Bearer ${secret}`
+# ALWAYS set a secret if RESTful API is listening on 0.0.0.0
+# secret: ""
+
+proxy-groups:
+  - name: PROXY
+    type: select
+    use:
+      - GROUP_0
+      - GROUP_1
+      - GROUP_2
+      # - GROUP_3
+      # - GROUP_4
+      # - GROUP_5
+      # - GROUP_6
+      # - GROUP_7
+      # - GROUP_8
+      # - GROUP_9
+      # - GROUP_10
+      # - GROUP_11
+
+####################################################################################################
+proxy-providers:
+  GROUP_0:
+    type: file
+    url: 'https://raw.githubusercontent.com/tony-sung/clash-configurations/main/subscription/0.yaml'
+    interval: 2000
+    path: subscription/0.yaml
+    health-check:
+      enable: true
+      interval: 2000
+      url: 'http://www.gstatic.com/generate_204'
+
+  GROUP_1:
+    type: file
+    url: 'https://raw.githubusercontent.com/tony-sung/clash-configurations/main/subscription/1.yaml'
+    interval: 2000
+    path: subscription/1.yaml
+    health-check:
+      enable: true
+      interval: 2000
+      url: 'http://www.gstatic.com/generate_204'
+
+  GROUP_2:
+    type: file
+    url: 'https://raw.githubusercontent.com/tony-sung/clash-configurations/main/subscription/2.yaml'
+    interval: 2000
+    path: subscription/2.yaml
+    health-check:
+      enable: true
+      interval: 2000
+      url: 'http://www.gstatic.com/generate_204'
+
+  # GROUP_3:
+  #   type: file
+  #   url: 'https://raw.githubusercontent.com/tony-sung/clash-configurations/main/subscription/3.yaml'
+  #   interval: 2000
+  #   path: subscription/3.yaml
+  #   health-check:
+  #     enable: true
+  #     interval: 2000
+  #     url: 'http://www.gstatic.com/generate_204'
+
+
+####################################################################################################
+rule-providers:
+  reject:
+    type: http
+    behavior: domain
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt'
+    path: ruleset/reject.yaml
+    interval: 86400
+
+  icloud:
+    type: http
+    behavior: domain
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/icloud.txt'
+    path: ruleset/icloud.yaml
+    interval: 86400
+
+  apple:
+    type: http
+    behavior: domain
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/apple.txt'
+    path: ruleset/apple.yaml
+    interval: 86400
+
+  google:
+    type: http
+    behavior: domain
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/google.txt'
+    path: ruleset/google.yaml
+    interval: 86400
+
+  proxy:
+    type: http
+    behavior: domain
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt'
+    path: ruleset/proxy.yaml
+    interval: 86400
+
+  direct:
+    type: http
+    behavior: domain
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt'
+    path: ruleset/direct.yaml
+    interval: 86400
+
+  private:
+    type: http
+    behavior: domain
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/private.txt'
+    path: ruleset/private.yaml
+    interval: 86400
+
+  gfw:
+    type: http
+    behavior: domain
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt'
+    path: ruleset/gfw.yaml
+    interval: 86400
+
+  tld-not-cn:
+    type: http
+    behavior: domain
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/tld-not-cn.txt'
+    path: ruleset/tld-not-cn.yaml
+    interval: 86400
+
+  telegramcidr:
+    type: http
+    behavior: ipcidr
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt'
+    path: ruleset/telegramcidr.yaml
+    interval: 86400
+
+  cncidr:
+    type: http
+    behavior: ipcidr
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt'
+    path: ruleset/cncidr.yaml
+    interval: 86400
+
+  lancidr:
+    type: http
+    behavior: ipcidr
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/lancidr.txt'
+    path: ruleset/lancidr.yaml
+    interval: 86400
+
+  applications:
+    type: http
+    behavior: classical
+    url: 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/applications.txt'
+    path: ruleset/applications.yaml
+    interval: 86400
+
+rules:
+  - RULE-SET,applications,DIRECT
+  - RULE-SET,private,DIRECT
+  - RULE-SET,reject,REJECT
+  - RULE-SET,icloud,DIRECT
+  - RULE-SET,apple,DIRECT
+  - RULE-SET,google,DIRECT
+  - RULE-SET,proxy,GLOBAL
+  - RULE-SET,direct,DIRECT
+  - RULE-SET,lancidr,DIRECT
+  - RULE-SET,cncidr,DIRECT
+  - RULE-SET,telegramcidr,GLOBAL
+  - GEOIP,LAN,DIRECT,no-resolve
+  - GEOIP,CN,DIRECT,no-resolve
+  - MATCH,GLOBAL
