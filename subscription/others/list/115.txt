@@ -1,5 +1,5 @@
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@185.22.153.106:11111#%5BRU%5D185.22.153.106%3A11111%28dongtaiwang.com%29
-ssr://dDMuZnJlZWdyYWRlbHkueHl6OjIyMjIyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9ncm91cD1VMU5TVUhKdmRtbGtaWEkmcmVtYXJrcz1XMVZUWFhRekxtWnlaV1ZuY21Ga1pXeDVMbmg1ZWpveU1qSXlNaWhrYjI1bmRHRnBkMkZ1Wnk1amIyMHAmb2Jmc3BhcmFtPSZwcm90b3BhcmFtPQ==
+ssr://dDMuZnJlZWdyYWRlbHkueHl6OjIyMjIyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9ncm91cD1VMU5TVUhKdmRtbGtaWEkmcmVtYXJrcz1XMUpWWFhRekxtWnlaV1ZuY21Ga1pXeDVMbmg1ZWpveU1qSXlNaWhrYjI1bmRHRnBkMkZ1Wnk1amIyMHAmb2Jmc3BhcmFtPSZwcm90b3BhcmFtPQ==
 trojan://a48ef049-f572-4345-b75a-7b85ff83296c@hk2.downloadvip.cfd:443?allowInsecure=1&sni=download.xn--mes358a9urctx.com#%5BJP%5Dhk2.downloadvip.cfd%3A443%28a48ef049-f572-4345-b75a-7b85ff83296c%29
 trojan://f89d1762-7627-4676-b4cf-e4de76ee3636@jp2.downloadvip.cfd:443?allowInsecure=1&sni=download.xn--mes358a9urctx.com#%5BJP%5Djp2.downloadvip.cfd%3A443%28f89d1762-7627-4676-b4cf-e4de76ee3636%29
 trojan://38541d74-6ffd-4352-988d-715ee989947c@fschk.fscloud123456789.com:443?allowInsecure=1#%5BJP%5Dfschk.fscloud123456789.com%3A443%2838541d74-6ffd-4352-988d-715ee989947c%29
