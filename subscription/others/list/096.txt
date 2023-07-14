@@ -58,7 +58,7 @@ trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@163.123.192.60:443?allowInsecure=1
 trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@163.123.192.60:443?allowInsecure=1#%5BUS%5D163.123.192.60%3A443%287ad2a5e0-906b-4b3e-97bb-b5f3992cb19d%29
 trojan://a0d33df2-c404-4622-a0a0-4c37e6e20a88@e.steamdownload.top:36631?allowInsecure=1&sni=e.steamdownload.top#%5BCN%5De.steamdownload.top%3A36631%28a0d33df2-c404-4622-a0a0-4c37e6e20a88%29
 trojan://2f85aafb-bda6-4632-b564-6b17f8795ef3@sphk.1234567890spcloud.com:443?allowInsecure=1#%5BJP%5Dsphk.1234567890spcloud.com%3A443%282f85aafb-bda6-4632-b564-6b17f8795ef3%29
-trojan://2f8b959c-6b33-48ad-9ca6-0622c2de705b@vpnhat.stablize.top:443?allowInsecure=1&sni=ap.stablize.top#%5BSG%5Dvpnhat.stablize.top%3A443%282f8b959c-6b33-48ad-9ca6-0622c2de705b%29
+trojan://2f8b959c-6b33-48ad-9ca6-0622c2de705b@vpnhat.stablize.top:443?allowInsecure=1&sni=ap.stablize.top#%5BJP%5Dvpnhat.stablize.top%3A443%282f8b959c-6b33-48ad-9ca6-0622c2de705b%29
 trojan://2f8b959c-6b33-48ad-9ca6-0622c2de705b@vpnpool.stablize.top:443?allowInsecure=1&sni=ap.stablize.top#%5BJP%5Dvpnpool.stablize.top%3A443%282f8b959c-6b33-48ad-9ca6-0622c2de705b%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMGIyOGY3MC1mYmJmLTRhNjctYmU3ZC00OTljZTdjYjQ4OTI@223.113.136.103:2001#%5BCN%5D223.113.136.103%3A2001%2800b28f70-fbbf-4a67-be7d-499ce7cb4892%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMGQ4ZGI4Yi01NzcwLTRlZGItOTQ3YS1jMDQ4ZjY5OTVlOTY@cm1-nc.go001.buzz:19531#%5BCN%5Dcm1-nc.go001.buzz%3A19531%28a0d8db8b-5770-4edb-947a-c048f6995e96%29
